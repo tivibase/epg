@@ -1,172 +1,3078 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="La 1">
-    <display-name lang="es">La 1</display-name>
-    <url>http://www.formulatv.com</url>
+  <channel id="LA 1">
+    <display-name lang="es">LA 1</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/externo/TVE" />
+    <url>http://www.comunicacion.movistarplus.es</url>
   </channel>
-  <channel id="La 2">
-    <display-name lang="es">La 2</display-name>
-    <icon src="http://www.elmundo.es//elmundo/iconos/v2.1/television/logos/grandes/tve2.jpg" />
-    <url>http://www.elmundo.es</url>
+  <channel id="LA 2">
+    <display-name lang="es">LA 2</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/externo/LA2" />
+    <url>http://www.comunicacion.movistarplus.es</url>
   </channel>
   <channel id="Cazavisión">
     <display-name lang="es">Cazavisión</display-name>
-    <icon src="http://www.elmundo.es//elmundo/iconos/v2.1/television/logos/grandes/cazavision.jpg" />
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/10/10000656.png" />
     <url>http://www.elmundo.es</url>
   </channel>
-  <programme start="20210219060000 +0100" stop="20210219063000 +0100" channel="La 1">
-    <title lang="es">Noticias 24h</title>
+  <programme start="20210219060000 +0100" stop="20210219063000 +0100" channel="LA 1">
+    <title lang="es">Noticias 24H</title>
   </programme>
-  <programme start="20210219063000 +0100" stop="20210219080000 +0100" channel="La 1">
-    <title lang="es">Telediario matinal</title>
+  <programme start="20210219063000 +0100" stop="20210219080000 +0100" channel="LA 1">
+    <title lang="es">Telediario Matinal</title>
   </programme>
-  <programme start="20210219080000 +0100" stop="20210219100000 +0100" channel="La 1">
+  <programme start="20210219080000 +0100" stop="20210219100000 +0100" channel="LA 1">
     <title lang="es">La hora de La 1</title>
-    <sub-title lang="es">La hora política</sub-title>
   </programme>
-  <programme start="20210219100000 +0100" stop="20210219123000 +0100" channel="La 1">
+  <programme start="20210219100000 +0100" stop="20210219123000 +0100" channel="LA 1">
     <title lang="es">La hora de La 1</title>
-    <sub-title lang="es">La hora de la actualidad</sub-title>
   </programme>
-  <programme start="20210219123000 +0100" stop="20210219140000 +0100" channel="La 1">
+  <programme start="20210219123000 +0100" stop="20210219150000 +0100" channel="LA 1">
     <title lang="es">Las cosas claras</title>
   </programme>
-  <programme start="20210219140000 +0100" stop="20210219141500 +0100" channel="La 1">
-    <title lang="es">Informativo territorial</title>
-  </programme>
-  <programme start="20210219141500 +0100" stop="20210219150000 +0100" channel="La 1">
-    <title lang="es">Las cosas claras</title>
-  </programme>
-  <programme start="20210219150000 +0100" stop="20210219160000 +0100" channel="La 1">
+  <programme start="20210219150000 +0100" stop="20210219160000 +0100" channel="LA 1">
     <title lang="es">Telediario 1</title>
   </programme>
-  <programme start="20210219160000 +0100" stop="20210219162000 +0100" channel="La 1">
-    <title lang="es">Informativo territorial</title>
-    <sub-title lang="es">Resumen</sub-title>
+  <programme start="20210219160000 +0100" stop="20210219162000 +0100" channel="LA 1">
+    <title lang="es">Redifusión La1</title>
   </programme>
-  <programme start="20210219162000 +0100" stop="20210219163500 +0100" channel="La 1">
+  <programme start="20210219162000 +0100" stop="20210219163500 +0100" channel="LA 1">
     <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20210219163500 +0100" stop="20210219172500 +0100" channel="La 1">
+  <programme start="20210219163500 +0100" stop="20210219172500 +0100" channel="LA 1">
     <title lang="es">Dos vidas</title>
+    <desc lang="es">La historia de Julia y Carmen, nieta y abuela, dos vidas unidas de manera insospechada en dos épocas y lugares distintos. Ambientada en la España actual y en la colonia de Guinea Española en los años 50, ''Dos vidas'' es una producción española grabada en el Parque Rural de Anaga (Tenerife) y en los exteriores de Madrid, entre otras ubicaciones del país. Las actrices Laura Ledesma y Amparo Piñero encabezan un amplio reparto que incluye a Cristina de Inza, Sebastián Haro y Oliver Ruano, entre otros intérpretes habituales de la pequeña pantalla.(n)</desc>
+    <credits>
+      <actor>Laura Ledesma</actor>
+      <actor>Amparo Piñero</actor>
+      <actor>Cristina de Inza</actor>
+      <actor>Sebastián Haro</actor>
+      <actor>Oliver Ruano</actor>
+      <actor>Aida de la Cruz</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MTVEP1864445" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E20</episode-num>
   </programme>
-  <programme start="20210219172500 +0100" stop="20210219181500 +0100" channel="La 1">
+  <programme start="20210219172500 +0100" stop="20210219181500 +0100" channel="LA 1">
     <title lang="es">Servir y proteger</title>
+    <desc lang="es">Distrito Sur no se ha recuperado del asalto a la comisaría y la muerte de Alicia Ocaña cuando llega el prestigioso inspector jefe enviado por jefatura para depurar responsabilidades. Además, los policías tendrán que hacer frente a un cruel asesino. Con una marcada presencia femenina en los personajes principales, la quinta temporada de ''Servir y proteger'' sigue abordando el día a día de una comisaría de barrio. Los casos que se investigan, pequeños o grandes en la escala criminal, no dejan de ser cruciales para las vidas de los afectados, lo que permitirá poner el foco en conflictos de carácter social. La ficción policíaca busca además exhibir el lado más humano de los policías, sus emociones y sentimientos ante los casos que se encuentran y mostrar cómo afecta cada caso a la vida del barrio. Luisa Martín (''Médico de familia'', ''B&amp;b, de boca en boca''), protagonista desde el comienzo de ''Servir y proteger'', continúa al frente de esta serie creada por Tirso Calero (''Amar es para siempre'', ''Gran Reserva. El origen''). Thais Blume, Antonio Valero, Cayetana Cabezas, Diego Klein, Vania Villalón, Karina Kolokolchykova y Luis Fernández son las nuevas incorporaciones.(n)</desc>
+    <credits>
+      <actor>Lydia Bosch</actor>
+      <actor>Elisa Mouliaá</actor>
+      <actor>Mamen Camacho</actor>
+      <actor>Roberto Álvarez</actor>
+      <actor>Ana Fernández</actor>
+      <actor>María Barranco</actor>
+      <actor>Luisa Martín</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Series</category>
+    <category lang="es">Policiaca</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MTVEP1864455" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S5 E103</episode-num>
   </programme>
-  <programme start="20210219181500 +0100" stop="20210219191000 +0100" channel="La 1">
-    <title lang="es">Acacias, 38</title>
+  <programme start="20210219181500 +0100" stop="20210219191000 +0100" channel="LA 1">
+    <title lang="es">Acacias 38</title>
+    <desc lang="es">Una historia de ricos y pobres que conviven en un único espacio, en un portal situado en el número 38 de la calle Acacias. Allí florecen sentimientos como el amor, los celos, las pasiones, las venganzas, los odios y la alegría. La familia Serna, los Álvarez- Hermoso, los Hidalgo, los Palacios, sus criadas y la gente del barrio pasan cada día por la puerta de esta escalera. Una telenovela española que se desarrolla entre finales del siglo XIX y principios del XX y que pretende contar la historia de un grupo de sirvientes y las familias burguesas para las que trabajan. La ficción es una idea original de Susana López Rubio, Aurora Guerra, Miquel Peidró y Josep Cister. Entre sus referentes hay series como ''Criadas y Señoras'', ''Downton Abbey'' o ''Arriba y Abajo'', pero también mucho de la literatura española de aquella época como ''Fortunata y Jacinta'' o ''Misericordia''. Se trata de una serie coral en la que intervienen muchos actores conocidos por sus trabajos en la pequeña pantalla (Sheyla Fariña, Roger Berruezo, Sara Miquel, Andrea López, Inés Aldea...). Está rodada en dos platós que suman 2.600 metros cuadrados para recrear los interiores y los exteriores del portal.(n)</desc>
+    <credits>
+      <actor>Cisco Lara</actor>
+      <actor>Adrián Reyes</actor>
+      <actor>Marc Parejo</actor>
+      <actor>Sandra Marchena</actor>
+      <actor>Sheyla Fariña</actor>
+      <actor>Sara Miquel</actor>
+      <actor>Roger Berruezo</actor>
+      <actor>Andrea López</actor>
+      <actor>Inés Aldea</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MTVEP1864450" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E1447</episode-num>
   </programme>
-  <programme start="20210219191000 +0100" stop="20210219200000 +0100" channel="La 1">
+  <programme start="20210219191000 +0100" stop="20210219200000 +0100" channel="LA 1">
     <title lang="es">El cazador</title>
   </programme>
-  <programme start="20210219200000 +0100" stop="20210219203000 +0100" channel="La 1">
+  <programme start="20210219200000 +0100" stop="20210219203000 +0100" channel="LA 1">
     <title lang="es">España directo</title>
   </programme>
-  <programme start="20210219203000 +0100" stop="20210219210000 +0100" channel="La 1">
+  <programme start="20210219203000 +0100" stop="20210219210000 +0100" channel="LA 1">
     <title lang="es">Aquí la Tierra</title>
   </programme>
-  <programme start="20210219210000 +0100" stop="20210219220000 +0100" channel="La 1">
+  <programme start="20210219210000 +0100" stop="20210219215500 +0100" channel="LA 1">
     <title lang="es">Telediario 2</title>
-    <sub-title lang="es">Incluye: El tiempo</sub-title>
   </programme>
-  <programme start="20210219220000 +0100" stop="20210219221500 +0100" channel="La 1">
+  <programme start="20210219215500 +0100" stop="20210219220000 +0100" channel="LA 1">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210219220000 +0100" stop="20210219221500 +0100" channel="LA 1">
     <title lang="es">La suerte en tus manos</title>
   </programme>
-  <programme start="20210220010500 +0100" stop="20210220021500 +0100" channel="La 1">
+  <programme start="20210219221500 +0100" stop="20210219234500 +0100" channel="LA 1">
+    <title lang="es">Dos parejas y un destino</title>
+  </programme>
+  <programme start="20210219234500 +0100" stop="20210220010500 +0100" channel="LA 1">
+    <title lang="es">Seguridad nacional</title>
+    <title lang="en">National Security</title>
+    <desc lang="es">Earl Montgomery es un engreído cadete del departamento de policía de Los Ángeles que podría llegar a ser un gran agente si dejara de dar tanto la nota. La actitud rebelde de Earl le lleva a ser expulsado de la academia y aceptar un puesto de trabajo como humilde guardia de seguridad. Poco después acusa por abusos a un nervioso oficial, Hank Rafferty, que intenta detenerlo. Hank, sin embargo, se verá también obligado a entregar su placa para terminar trabajando como agente de seguridad junto a Earl. Juntos deberán enfrentarse, si no se matan antes el uno al otro, a una sofisticada operación de contrabando cobijada tras un sucio complot de corrupción policial. Con esta comedia, el actor y director Dennis Dugan retoma el modelo de la atípica pareja de compañeros policiales contrapuestos, pero necesitados de entenderse, que deben salir airosos del caso en el que se ven implicados. El actor afroamericano Martin Lawrence se ha convertido en los últimos años en uno de los más destacados de la comedia estadounidense con títulos como "Esta abuela es un peligro", "De ladrón a policía" o "Condenados a fugarse". Aquí ejerce, además, como productor y comparte reparto con Steve Zahn, visto en "Nunca juegues con extraños", "Los chicos de mi vida", "Sahara", "Bandidas" o "Tres idiotas y una bruja".(n)</desc>
+    <credits>
+      <director>Dennis Dugan</director>
+      <actor>Troy Gilbert</actor>
+      <actor>Martin Lawrence</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Colm Feore</actor>
+      <actor>Bill Duke</actor>
+      <actor>Eric Roberts</actor>
+      <actor>Robinne Lee</actor>
+      <actor>Timothy Busfield</actor>
+      <actor>Matt McCoy</actor>
+      <actor>Wayne Morse</actor>
+      <writer>Jay Scherick</writer>
+      <writer>David Ronn</writer>
+      <producer>Robert F. Newmyer</producer>
+      <producer>Michael Green</producer>
+      <producer>Jeffrey Silver</producer>
+      <composer>Randy Edelman</composer>
+    </credits>
+    <date>2003</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MTVEP311031" />
+    <country lang="es">EE.UU</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210220010500 +0100" stop="20210220021500 +0100" channel="LA 1">
     <title lang="es">Promesas de arena</title>
   </programme>
-  <programme start="20210220021500 +0100" stop="20210220060000 +0100" channel="La 1">
-    <title lang="es">Noticias 24h</title>
+  <programme start="20210220021500 +0100" stop="20210220060000 +0100" channel="LA 1">
+    <title lang="es">Noticias 24H</title>
   </programme>
-  <programme start="20210220060000 +0100" stop="20210220060000 +0100" channel="La 1">
-    <title lang="es">Noticias 24h</title>
+  <programme start="20210220060000 +0100" stop="20210220094500 +0100" channel="LA 1">
+    <title lang="es">Noticias 24H</title>
   </programme>
-  <programme start="20210220060000 +0100" stop="20210220094500 +0100" channel="La 1">
-    <title lang="es">Noticias 24h</title>
+  <programme start="20210220094500 +0100" stop="20210220104000 +0100" channel="LA 1">
+    <title lang="es">Comando Actualidad</title>
   </programme>
-  <programme start="20210220094500 +0100" stop="20210220104000 +0100" channel="La 1">
-    <title lang="es">Comando actualidad</title>
+  <programme start="20210220104000 +0100" stop="20210220133000 +0100" channel="LA 1">
+    <title lang="es">Maestros de la Costura</title>
   </programme>
-  <programme start="20210220104000 +0100" stop="20210220133000 +0100" channel="La 1">
-    <title lang="es">Maestros de la costura</title>
-    <sub-title lang="es">(R)</sub-title>
-  </programme>
-  <programme start="20210220133000 +0100" stop="20210220140000 +0100" channel="La 1">
+  <programme start="20210220133000 +0100" stop="20210220140000 +0100" channel="LA 1">
     <title lang="es">Audiencia abierta</title>
   </programme>
-  <programme start="20210220140000 +0100" stop="20210220143000 +0100" channel="La 1">
-    <title lang="es">Flash moda</title>
+  <programme start="20210220140000 +0100" stop="20210220143000 +0100" channel="LA 1">
+    <title lang="es">Flash Moda</title>
   </programme>
-  <programme start="20210220143000 +0100" stop="20210220150000 +0100" channel="La 1">
+  <programme start="20210220143000 +0100" stop="20210220150000 +0100" channel="LA 1">
     <title lang="es">Corazón</title>
   </programme>
-  <programme start="20210220150000 +0100" stop="20210220160000 +0100" channel="La 1">
-    <title lang="es">Telediario fin de semana 1</title>
-    <sub-title lang="es">Incluye: El tiempo</sub-title>
+  <programme start="20210220150000 +0100" stop="20210220155200 +0100" channel="LA 1">
+    <title lang="es">Telediario 1 Fin de Semana</title>
   </programme>
-  <programme start="20210220160000 +0100" stop="20210220173000 +0100" channel="La 1">
-    <title lang="es">Sesión de tarde</title>
-    <sub-title lang="es">Un embarazo inesperado</sub-title>
+  <programme start="20210220155200 +0100" stop="20210220160000 +0100" channel="LA 1">
+    <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20210220173000 +0100" stop="20210220190000 +0100" channel="La 1">
-    <title lang="es">Sesión de tarde</title>
-    <sub-title lang="es">A los abogados no se les besa</sub-title>
+  <programme start="20210220160000 +0100" stop="20210220173000 +0100" channel="LA 1">
+    <title lang="es">Un embarazo inesperado</title>
+    <title lang="en">Lilly Schonauer: Meine mutter, meine manner</title>
+    <desc lang="es">Jenny tiene una carrera exitosa en la Ópera de Múnich y ha encontrado en Tobías al hombre ideal. Pero sus vidas cambian al hacerse ella una prueba de embarazo, dándole positiva.(n)</desc>
+    <credits>
+      <actor>Roman Knizka</actor>
+      <actor>Marie Zielcke</actor>
+      <actor>Anna Stieblich</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MTVEP1630054" />
+    <country lang="es">Alemania</country>
+    <rating>
+      <value>12</value>
+    </rating>
   </programme>
-  <programme start="20210220190000 +0100" stop="20210220210000 +0100" channel="La 1">
-    <title lang="es">Cine de barrio</title>
-    <sub-title lang="es">No somos ni Romeo ni Julieta</sub-title>
+  <programme start="20210220173000 +0100" stop="20210220190000 +0100" channel="LA 1">
+    <title lang="es">A los abogados no se les besa</title>
+    <title lang="en">Rosamunde Pilcher: Anwälte küsst man nicht</title>
+    <desc lang="es">Spencer, un abogado londinense, se muda al campo, con su colega. Los dos empiezan encarándose en un juicio, defendiendo a dos esposas enfrentadas, pero terminan enamorándose.(n)</desc>
+    <credits>
+      <director>Michael Keusch</director>
+      <actor>Jan Sosniok</actor>
+      <actor>Tobias Licht</actor>
+      <actor>Hugo Egon Balder</actor>
+      <actor>Barbara Barnes</actor>
+      <writer>Michael Keusch</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Telefilme</category>
+    <category lang="es">Drama</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MTVEP1288573" />
+    <country lang="es">Alemania</country>
+    <rating>
+      <value>12</value>
+    </rating>
   </programme>
-  <programme start="20210220210000 +0100" stop="20210220213000 +0100" channel="La 1">
-    <title lang="es">Telediario fin de semana 2</title>
-    <sub-title lang="es">Incluye: El tiempo</sub-title>
+  <programme start="20210220190000 +0100" stop="20210220210000 +0100" channel="LA 1">
+    <title lang="es">No somos ni Romeo ni Julieta</title>
+    <desc lang="es">No es la Italia medieval sino un barrio de Madrid y no se llaman Capuleto y Montesco sino Caporeto y Negresco, pero por lo demás, cualquier parecido con la tragedia de Shakespeare no es pura coincidencia. Sólo que las situaciones del enamoramiento de Julita y Roberto no son trágicas sino más bien cómicas. Sobre todo en lo que afecta a sus familias. Nemesio Caporeto es conductor de autobuses que tiene gran facilidad para perder los papeles, sobre todo en lo referente a la inocente de su hija Julita, quien todavía cree que los niños vienen de París, y a su vecino. Antonio Negresco, por su parte, es camarero y no deja de asombrarse de cómo un joven tan tonto como Roberto sea hijo suyo. Ni siquiera puede pronunciar la "p". Cuando los dos jóvenes se enamoran, para los Negresco y los Caporeto no puede haber tragedia mayor. Alfonso Paso, dramaturgo fecundo y popular, dio al cine casi un centenar de argumentos de los que llegó a dirigir media docena, siempre comedias. "No somos ni Romeo ni Julieta" es una de esas películas escritas y dirigidas por él en la que juega con la tragedia de Shakespeare, en plena era de apogeo de los guateques, mientras suena la música de Karina.(n)</desc>
+    <credits>
+      <director>Alfonso Paso</director>
+      <actor>Laly Soldevila</actor>
+      <actor>Xan das Bolas</actor>
+      <actor>José Luis López Vázquez</actor>
+      <actor>Laly Soldevilla</actor>
+      <actor>Emilio Gutiérrez Caba</actor>
+      <actor>Enriqueta Carballeira</actor>
+      <actor>Florinda Chico</actor>
+      <actor>Manuel Tejada</actor>
+      <actor>Antonio Martelo</actor>
+      <actor>Emilio Rodríguez</actor>
+      <writer>Alfonso Paso</writer>
+      <producer>Eduardo Brochero</producer>
+      <composer>Manuel Parada</composer>
+    </credits>
+    <date>1969</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MTVEP6085" />
+    <country lang="es">España</country>
   </programme>
-  <programme start="20210220213000 +0100" stop="20210220220000 +0100" channel="La 1">
-    <title lang="es">Informe semanal</title>
+  <programme start="20210220210000 +0100" stop="20210220212500 +0100" channel="LA 1">
+    <title lang="es">Telediario 2 Fin de Semana</title>
   </programme>
-  <programme start="20210221010500 +0100" stop="20210221022500 +0100" channel="La 1">
-    <title lang="es">Cine</title>
-    <sub-title lang="es">Me necesitas</sub-title>
+  <programme start="20210220212500 +0100" stop="20210220213000 +0100" channel="LA 1">
+    <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20210221022500 +0100" stop="20210221060000 +0100" channel="La 1">
-    <title lang="es">Noticias 24h</title>
+  <programme start="20210220213000 +0100" stop="20210220220000 +0100" channel="LA 1">
+    <title lang="es">Informe Semanal</title>
   </programme>
-  <programme start="20210221060000 +0100" stop="20210221060000 +0100" channel="La 1">
-    <title lang="es">Noticias 24h</title>
+  <programme start="20210220220000 +0100" stop="20210220232500 +0100" channel="LA 1">
+    <title lang="es">Destino Eurovisión</title>
+    <desc lang="es">Gala especial en la que Blas Cantó interpretará sus dos temas candidatos al Festival de Eurovisión 2021. Además, contará con la participación de Pastora Soler, Vanesa Martín, Edurne, Nia, Andrés Suárez, Cepeda y Roi.(n)</desc>
+    <credits>
+      <presenter>Tony Aguilar</presenter>
+      <presenter>Julia Varela</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Eventos especiales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MTVEP1866526" />
+    <country lang="es">España</country>
   </programme>
-  <programme start="20210221060000 +0100" stop="20210221090000 +0100" channel="La 1">
-    <title lang="es">Noticias 24h</title>
+  <programme start="20210220232500 +0100" stop="20210221010500 +0100" channel="LA 1">
+    <title lang="es">Separados</title>
+    <title lang="en">The Break-Up</title>
+    <desc lang="es">Una pareja se encuentra en plena crisis sentimental. Brooke, tras dos años de convivencia, piensa que su marido Gary es un inmaduro y no la aprecia lo suficiente, por lo que decide terminar la relación con el objetivo de que él la eche de menos y cambie su actitud. A pesar de que resulta obvio que su relación es cada vez más insostenible, ninguno de los dos quiere renunciar al apartamento que han compartido y decorado con tanto mimo. Y es ahí cuando comienza su auténtica guerra. Guiados por los disparatados consejos de amigos y parientes, Gary y Brooke ponen en práctica una serie de planes diseñados o bien para echar al otro o bien para conquistarle de nuevo. Comedia romántica dirigida por Peyton Reed tras "A por todas" (2000) y "Abajo el amor" (2003) y protagonizada por Vince Vaughn ("De boda en boda", "Sr. y Sra. Smith", "Be cool", "Cuestión de pelotas", "Starsky y Hutch") y Jennifer Aniston ("Dicen por ahí...", "Sin control -Derailed-", "Y entonces llegó ella", "Como Dios", la serie "Friends"), que iniciaron un romance en la vida real durante el rodaje de la película. Les acompañan en el reparto Joey Lauren Adams ("Un papá genial"), Cole Hauser ("Paparazzi", "La caverna maldita"), Jon Favreau ("Zathura, una aventura espacial", "Wimbledom, el amor está en juego") y Ann-Margret ("Un domingo cualquiera"), entre otros.(n)</desc>
+    <credits>
+      <director>Peyton Reed</director>
+      <actor>Jon Favreau</actor>
+      <actor>Jason Bateman</actor>
+      <actor>Judy Davis</actor>
+      <actor>Justin Long</actor>
+      <actor>John Michael Higgins</actor>
+      <actor>Vince Vaughn</actor>
+      <actor>Jennifer Aniston</actor>
+      <actor>Joey Lauren Adams</actor>
+      <actor>Cole Hauser</actor>
+      <writer>Jeremy Garelick</writer>
+      <writer>Jay Lavender</writer>
+      <producer>Vince Vaughn</producer>
+      <producer>Scott Stuber</producer>
+      <composer>Jon Brion</composer>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MTVEP590240" />
+    <country lang="es">EE.UU</country>
   </programme>
-  <programme start="20210221090000 +0100" stop="20210221093000 +0100" channel="La 1">
+  <programme start="20210221010500 +0100" stop="20210221022500 +0100" channel="LA 1">
+    <title lang="es">Me necesitas</title>
+    <title lang="en">You Get Me</title>
+    <desc lang="es">Tyler está locamente enamorado de su perfecta novia, Ali, pero tras una bronca que le hace perder la cabeza, termina en brazos de una sexy forastera, Holly, con la que pasa una noche inolvidable. A la mañana siguiente se encuentra con que Ali le ha perdonado y le admite de nuevo a su lado, pero también con que Holly es una nueva estudiante en la escuela en la que él trabaja, y está decidida a conservar a su hombre.(n)</desc>
+    <credits>
+      <director>Brent Bonacorso</director>
+      <actor>Bella Thorne</actor>
+      <actor>Halston Sage</actor>
+      <actor>Taylor John Smith</actor>
+      <actor>Nash Grier</actor>
+      <actor>Anna Akana</actor>
+      <writer>Ben Epstein</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Suspense</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MTVEP1392644" />
+    <country lang="es">EE.UU</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210221022500 +0100" stop="20210221060000 +0100" channel="LA 1">
+    <title lang="es">Noticias 24H</title>
+  </programme>
+  <programme start="20210221060000 +0100" stop="20210221085000 +0100" channel="LA 1">
+    <title lang="es">Noticias 24H</title>
+  </programme>
+  <programme start="20210221085000 +0100" stop="20210221092000 +0100" channel="LA 1">
     <title lang="es">Seguridad vital</title>
   </programme>
-  <programme start="20210221093000 +0100" stop="20210221112000 +0100" channel="La 1">
+  <programme start="20210221092000 +0100" stop="20210221111500 +0100" channel="LA 1">
     <title lang="es">Viaje al centro de la tele</title>
-    <sub-title lang="es">(R)</sub-title>
   </programme>
-  <programme start="20210221112000 +0100" stop="20210221130500 +0100" channel="La 1">
+  <programme start="20210221111500 +0100" stop="20210221130500 +0100" channel="LA 1">
     <title lang="es">Españoles en el mundo</title>
   </programme>
-  <programme start="20210221130500 +0100" stop="20210221135500 +0100" channel="La 1">
-    <title lang="es">Como sapiens</title>
+  <programme start="20210221130500 +0100" stop="20210221135500 +0100" channel="LA 1">
+    <title lang="es">Como Sapiens</title>
   </programme>
-  <programme start="20210221135500 +0100" stop="20210221143000 +0100" channel="La 1">
+  <programme start="20210221135500 +0100" stop="20210221143000 +0100" channel="LA 1">
     <title lang="es">TVEmos</title>
   </programme>
-  <programme start="20210221143000 +0100" stop="20210221150000 +0100" channel="La 1">
+  <programme start="20210221143000 +0100" stop="20210221150000 +0100" channel="LA 1">
     <title lang="es">Corazón</title>
   </programme>
-  <programme start="20210221150000 +0100" stop="20210221160000 +0100" channel="La 1">
-    <title lang="es">Telediario fin de semana 1</title>
-    <sub-title lang="es">Incluye: El tiempo</sub-title>
+  <programme start="20210221150000 +0100" stop="20210221155200 +0100" channel="LA 1">
+    <title lang="es">Telediario 1 Fin de Semana</title>
   </programme>
-  <programme start="20210221160000 +0100" stop="20210221203000 +0100" channel="La 1">
-    <title lang="es">Sesión de tarde</title>
-    <sub-title lang="es">Bella Germania</sub-title>
+  <programme start="20210221155200 +0100" stop="20210221160000 +0100" channel="LA 1">
+    <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20210221203000 +0100" stop="20210221210000 +0100" channel="La 1">
+  <programme start="20210221160000 +0100" stop="20210221173000 +0100" channel="LA 1">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20210221173000 +0100" stop="20210221190000 +0100" channel="LA 1">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20210221190000 +0100" stop="20210221203000 +0100" channel="LA 1">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20210221203000 +0100" stop="20210221210000 +0100" channel="LA 1">
     <title lang="es">Aquí la Tierra</title>
   </programme>
-  <programme start="20210221210000 +0100" stop="20210221220500 +0100" channel="La 1">
+  <programme start="20210221210000 +0100" stop="20210221215200 +0100" channel="LA 1">
+    <title lang="es">Telediario 2 Fin de Semana</title>
+  </programme>
+  <programme start="20210221215200 +0100" stop="20210221220500 +0100" channel="LA 1">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210221220500 +0100" stop="20210222001500 +0100" channel="LA 1">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20210222001500 +0100" stop="20210222013500 +0100" channel="LA 1">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20210222013500 +0100" stop="20210222032500 +0100" channel="LA 1">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20210222032500 +0100" stop="20210222060000 +0100" channel="LA 1">
+    <title lang="es">Noticias 24H</title>
+  </programme>
+  <programme start="20210222060000 +0100" stop="20210222063000 +0100" channel="LA 1">
+    <title lang="es">Noticias 24H</title>
+  </programme>
+  <programme start="20210222063000 +0100" stop="20210222080000 +0100" channel="LA 1">
+    <title lang="es">Telediario Matinal</title>
+  </programme>
+  <programme start="20210222080000 +0100" stop="20210222095900 +0100" channel="LA 1">
+    <title lang="es">La hora de La 1</title>
+  </programme>
+  <programme start="20210222095900 +0100" stop="20210222123000 +0100" channel="LA 1">
+    <title lang="es">La hora de La 1</title>
+  </programme>
+  <programme start="20210222123000 +0100" stop="20210222150000 +0100" channel="LA 1">
+    <title lang="es">Las cosas claras</title>
+  </programme>
+  <programme start="20210222150000 +0100" stop="20210222160000 +0100" channel="LA 1">
+    <title lang="es">Telediario 1</title>
+  </programme>
+  <programme start="20210222160000 +0100" stop="20210222162300 +0100" channel="LA 1">
+    <title lang="es">Redifusión La1</title>
+  </programme>
+  <programme start="20210222162300 +0100" stop="20210222163700 +0100" channel="LA 1">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210222163700 +0100" stop="20210222173000 +0100" channel="LA 1">
+    <title lang="es">Dos vidas</title>
+    <desc lang="es">La historia de Julia y Carmen, nieta y abuela, dos vidas unidas de manera insospechada en dos épocas y lugares distintos. Ambientada en la España actual y en la colonia de Guinea Española en los años 50, ''Dos vidas'' es una producción española grabada en el Parque Rural de Anaga (Tenerife) y en los exteriores de Madrid, entre otras ubicaciones del país. Las actrices Laura Ledesma y Amparo Piñero encabezan un amplio reparto que incluye a Cristina de Inza, Sebastián Haro y Oliver Ruano, entre otros intérpretes habituales de la pequeña pantalla.(n)</desc>
+    <credits>
+      <actor>Laura Ledesma</actor>
+      <actor>Amparo Piñero</actor>
+      <actor>Cristina de Inza</actor>
+      <actor>Sebastián Haro</actor>
+      <actor>Oliver Ruano</actor>
+      <actor>Aida de la Cruz</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MTVEP1867738" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E21</episode-num>
+  </programme>
+  <programme start="20210222173000 +0100" stop="20210222182000 +0100" channel="LA 1">
+    <title lang="es">Servir y proteger</title>
+    <desc lang="es">Distrito Sur no se ha recuperado del asalto a la comisaría y la muerte de Alicia Ocaña cuando llega el prestigioso inspector jefe enviado por jefatura para depurar responsabilidades. Además, los policías tendrán que hacer frente a un cruel asesino. Con una marcada presencia femenina en los personajes principales, la quinta temporada de ''Servir y proteger'' sigue abordando el día a día de una comisaría de barrio. Los casos que se investigan, pequeños o grandes en la escala criminal, no dejan de ser cruciales para las vidas de los afectados, lo que permitirá poner el foco en conflictos de carácter social. La ficción policíaca busca además exhibir el lado más humano de los policías, sus emociones y sentimientos ante los casos que se encuentran y mostrar cómo afecta cada caso a la vida del barrio. Luisa Martín (''Médico de familia'', ''B&amp;b, de boca en boca''), protagonista desde el comienzo de ''Servir y proteger'', continúa al frente de esta serie creada por Tirso Calero (''Amar es para siempre'', ''Gran Reserva. El origen''). Thais Blume, Antonio Valero, Cayetana Cabezas, Diego Klein, Vania Villalón, Karina Kolokolchykova y Luis Fernández son las nuevas incorporaciones.(n)</desc>
+    <credits>
+      <actor>Lydia Bosch</actor>
+      <actor>Elisa Mouliaá</actor>
+      <actor>Mamen Camacho</actor>
+      <actor>Roberto Álvarez</actor>
+      <actor>Ana Fernández</actor>
+      <actor>María Barranco</actor>
+      <actor>Luisa Martín</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Series</category>
+    <category lang="es">Policiaca</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MTVEP1867750" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S5 E104</episode-num>
+  </programme>
+  <programme start="20210222182000 +0100" stop="20210222191000 +0100" channel="LA 1">
+    <title lang="es">Acacias 38</title>
+    <desc lang="es">Una historia de ricos y pobres que conviven en un único espacio, en un portal situado en el número 38 de la calle Acacias. Allí florecen sentimientos como el amor, los celos, las pasiones, las venganzas, los odios y la alegría. La familia Serna, los Álvarez- Hermoso, los Hidalgo, los Palacios, sus criadas y la gente del barrio pasan cada día por la puerta de esta escalera. Una telenovela española que se desarrolla entre finales del siglo XIX y principios del XX y que pretende contar la historia de un grupo de sirvientes y las familias burguesas para las que trabajan. La ficción es una idea original de Susana López Rubio, Aurora Guerra, Miquel Peidró y Josep Cister. Entre sus referentes hay series como ''Criadas y Señoras'', ''Downton Abbey'' o ''Arriba y Abajo'', pero también mucho de la literatura española de aquella época como ''Fortunata y Jacinta'' o ''Misericordia''. Se trata de una serie coral en la que intervienen muchos actores conocidos por sus trabajos en la pequeña pantalla (Sheyla Fariña, Roger Berruezo, Sara Miquel, Andrea López, Inés Aldea...). Está rodada en dos platós que suman 2.600 metros cuadrados para recrear los interiores y los exteriores del portal.(n)</desc>
+    <credits>
+      <actor>Cisco Lara</actor>
+      <actor>Adrián Reyes</actor>
+      <actor>Marc Parejo</actor>
+      <actor>Sandra Marchena</actor>
+      <actor>Sheyla Fariña</actor>
+      <actor>Sara Miquel</actor>
+      <actor>Roger Berruezo</actor>
+      <actor>Andrea López</actor>
+      <actor>Inés Aldea</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MTVEP1867744" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E1448</episode-num>
+  </programme>
+  <programme start="20210222191000 +0100" stop="20210222200200 +0100" channel="LA 1">
+    <title lang="es">El cazador</title>
+  </programme>
+  <programme start="20210222200200 +0100" stop="20210222203000 +0100" channel="LA 1">
+    <title lang="es">España directo</title>
+  </programme>
+  <programme start="20210222203000 +0100" stop="20210222210000 +0100" channel="LA 1">
+    <title lang="es">Aquí la Tierra</title>
+  </programme>
+  <programme start="20210222210000 +0100" stop="20210222214900 +0100" channel="LA 1">
     <title lang="es">Telediario 2</title>
+  </programme>
+  <programme start="20210222214900 +0100" stop="20210222220100 +0100" channel="LA 1">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210222220100 +0100" stop="20210223012800 +0100" channel="LA 1">
+    <title lang="es">Maestros de la Costura</title>
+  </programme>
+  <programme start="20210223012800 +0100" stop="20210223030400 +0100" channel="LA 1">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20210223030400 +0100" stop="20210223050800 +0100" channel="LA 1">
+    <title lang="es">La noche en 24 horas</title>
+  </programme>
+  <programme start="20210219060000 +0100" stop="20210219063000 +0100" channel="LA 2">
+    <title lang="es">Para todos La 2</title>
+  </programme>
+  <programme start="20210219063000 +0100" stop="20210219065500 +0100" channel="LA 2">
+    <title lang="es">That's English</title>
+  </programme>
+  <programme start="20210219065500 +0100" stop="20210219070000 +0100" channel="LA 2">
+    <title lang="es">La 2 Exprés</title>
+  </programme>
+  <programme start="20210219070000 +0100" stop="20210219073000 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210219073000 +0100" stop="20210219075500 +0100" channel="LA 2">
+    <title lang="es">Inglés Online</title>
+  </programme>
+  <programme start="20210219075500 +0100" stop="20210219084500 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210219084500 +0100" stop="20210219085500 +0100" channel="LA 2">
+    <title lang="es">La 2 Exprés</title>
+  </programme>
+  <programme start="20210219085500 +0100" stop="20210219093000 +0100" channel="LA 2">
+    <title lang="es">El señor de los bosques</title>
+  </programme>
+  <programme start="20210219093000 +0100" stop="20210219095500 +0100" channel="LA 2">
+    <title lang="es">Aquí hay trabajo</title>
+  </programme>
+  <programme start="20210219095500 +0100" stop="20210219105000 +0100" channel="LA 2">
+    <title lang="es">UNED</title>
+  </programme>
+  <programme start="20210219105000 +0100" stop="20210219112500 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210219112500 +0100" stop="20210219122000 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210219122000 +0100" stop="20210219135500 +0100" channel="LA 2">
+    <title lang="es">El caballero del Mississippi</title>
+    <title lang="en">The Mississippi Gambler</title>
+    <desc lang="es">Dos aventureros introducen el juego honrado en los barcos que navegan por Nueva Orleans y su éxito hace que se ganen numerosos enemigos. Uno de ellos les gana en una apuesta un collar a una mujer.(n)</desc>
+    <credits>
+      <director>Rudolph Maté</director>
+      <actor>Tyrone Power</actor>
+      <actor>Piper Laurie</actor>
+      <actor>John McIntire</actor>
+      <actor>Paul Cavanagh</actor>
+      <actor>John Baer</actor>
+      <actor>Ron Randell</actor>
+      <actor>Julie Adams</actor>
+      <writer>Seton I Miller</writer>
+      <producer>Ted Richmond</producer>
+      <composer>Frank Skinner</composer>
+    </credits>
+    <date>1953</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Oeste</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MLA2P312259" />
+    <country lang="es">EE.UU</country>
+  </programme>
+  <programme start="20210219135500 +0100" stop="20210219145000 +0100" channel="LA 2">
+    <title lang="es">Las rutas de</title>
+  </programme>
+  <programme start="20210219145000 +0100" stop="20210219154500 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210219154500 +0100" stop="20210219163000 +0100" channel="LA 2">
+    <title lang="es">Saber y ganar</title>
+  </programme>
+  <programme start="20210219163000 +0100" stop="20210219181500 +0100" channel="LA 2">
+    <title lang="es">Grandes documentales</title>
+  </programme>
+  <programme start="20210219181500 +0100" stop="20210219184000 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210219184000 +0100" stop="20210219191000 +0100" channel="LA 2">
+    <title lang="es">El escarabajo verde</title>
+  </programme>
+  <programme start="20210219191000 +0100" stop="20210219200500 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210219200500 +0100" stop="20210219203000 +0100" channel="LA 2">
+    <title lang="es">Jara y sedal</title>
+  </programme>
+  <programme start="20210219203000 +0100" stop="20210219213000 +0100" channel="LA 2">
+    <title lang="es">Días de cine</title>
+  </programme>
+  <programme start="20210219213000 +0100" stop="20210219220000 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210219220000 +0100" stop="20210219230500 +0100" channel="LA 2">
+    <title lang="es">El año de las luces</title>
+    <desc lang="es">En la primavera de 1940, dos muchachos con síntomas de tuberculosis son enviados a un sanatorio dirigido por miembros de Falange y de la Sección Femenina. Durante su estancia allí, Manolo, el mayor de los dos, vive su despertar sexual cuando observa a su enfermera desnudarse. Cuando ésta es despedida, Manolo se enamora perdidamente de María Jesús, una chica del pueblo. Entre ambos se inicia una relación que los marcará para siempre. Un día de 1974, en la barra de un bar, un hombre de 50 años llamado Manolo Huete le cuenta a un chico de 18 llamado Fernando Trueba un episodio de su vida ocurrido en 1940, cuando tenía 15 años, en un preventivo antituberculoso para niños situado en Sierra de Gata (Cáceres). Doce años más tarde, durante el verano de 1986, y tras escribir el guion con Rafael Azcona, Fernando Trueba rodaba la que sería su quinta película con dos adolescentes de 15 y 16 años: Maribel Verdú y Jorge Sanz. Claro antecedente de "Belle Epoque", "El año de las luces" mezcla humor y melancolía, deseo y educación sentimental -o, más bien, 'antieducación sentimental'- en una película llena de ironía sobre una de las épocas más sombrías de la historia de España. El filme ganó un Oso de plata (logro individual sobresaliente) en el Festival de Berlín y Verónica Forqué consiguió el Goya a la mejor actriz de reparto.(n)</desc>
+    <credits>
+      <director>Fernando Trueba</director>
+      <actor>Violeta Cela</actor>
+      <actor>Diana Peñalver</actor>
+      <actor>Jorge Sanz (Actor)</actor>
+      <actor>Maribel Verdú</actor>
+      <actor>Verónica Forqué</actor>
+      <actor>Manuel Alexandre</actor>
+      <actor>Rafaela Aparicio</actor>
+      <actor>Santiago Ramos</actor>
+      <actor>Chus Lampreave</actor>
+      <actor>José Sazatornil "Saza"</actor>
+      <writer>Manuel Huete</writer>
+      <writer>Fernando Trueba</writer>
+      <writer>Rafael Azcona</writer>
+      <writer>Manolo Huete</writer>
+      <producer>Andrés Vicente Gómez</producer>
+      <composer>Francisco Guerrero</composer>
+    </credits>
+    <date>1986</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MLA2P276130" />
+    <country lang="es">España</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210219230500 +0100" stop="20210220014000 +0100" channel="LA 2">
+    <title lang="es">Las truchas</title>
+    <desc lang="es">Los miembros de un selecto club de pesca se reúnen para celebrar su banquete anual. Se producen numerosos incidentes que impiden el desarrollo normal del mismo, desde una batalla campal contra un grupo de gorrones hasta una huelga declarada por los empleados de la cocina. No obstante los socios no están dispuestos a admitir que las cosas van mal. Finalmente, el maître convence a los empleados para que preparen unas truchas capturadas por uno de los pescadores. En el momento comérselas, los socios se resisten. Las truchas huelen, están podridas. Pero un extraño vínculo de solidaridad acaba por hacerles limpiar hasta la última raspa, disponiéndose así a un sacrificio colectivo. Es una alegoría social que trata de describir la sociedad española de la época. El guión fue escrito por el propio director y Manuel Gutiérrez Aragón, uno de sus colaboradores habituales. En el reparto destacan Héctor Alterio, Verónica Forqué, Fernando Chinarro, Juan Amigo, Ofelia Angélica, Carmen Arévalo, Mary Carrillo, Luis Ciges, Antonio Gamero, Paloma Hurtado, Walter Vidarte.(n)</desc>
+    <credits>
+      <director>José Luis García Sánchez</director>
+      <actor>Mary Carrillo</actor>
+      <actor>Verónica Forqué</actor>
+      <actor>Héctor Alterio</actor>
+      <actor>Luis Ciges</actor>
+      <actor>Francisco Casares</actor>
+      <actor>Carmen Arévalo</actor>
+      <writer>José Luis García Sánchez</writer>
+      <writer>Manuel Gutiérrez Aragón</writer>
+      <writer>Luis Megino</writer>
+    </credits>
+    <date>1978</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MLA2P55774" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220014000 +0100" stop="20210220023500 +0100" channel="LA 2">
+    <title lang="es">Las noches del Monumental</title>
+  </programme>
+  <programme start="20210220023500 +0100" stop="20210220032500 +0100" channel="LA 2">
+    <title lang="es">Documenta2</title>
+  </programme>
+  <programme start="20210220032500 +0100" stop="20210220042000 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210220042000 +0100" stop="20210220051500 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210220051500 +0100" stop="20210220053000 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210220053000 +0100" stop="20210220060000 +0100" channel="LA 2">
+    <title lang="es">La 2 Exprés</title>
+  </programme>
+  <programme start="20210220060000 +0100" stop="20210220061000 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210220061000 +0100" stop="20210220065500 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210220065500 +0100" stop="20210220072000 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210220072000 +0100" stop="20210220073000 +0100" channel="LA 2">
+    <title lang="es">La 2 Exprés</title>
+  </programme>
+  <programme start="20210220073000 +0100" stop="20210220080000 +0100" channel="LA 2">
+    <title lang="es">UNED</title>
+  </programme>
+  <programme start="20210220080000 +0100" stop="20210220093000 +0100" channel="LA 2">
+    <title lang="es">Los conciertos de La 2</title>
+  </programme>
+  <programme start="20210220093000 +0100" stop="20210220100000 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210220100000 +0100" stop="20210220103500 +0100" channel="LA 2">
+    <title lang="es">Agrosfera</title>
+  </programme>
+  <programme start="20210220103500 +0100" stop="20210220110500 +0100" channel="LA 2">
+    <title lang="es">Para todos La 2</title>
+  </programme>
+  <programme start="20210220110500 +0100" stop="20210220115000 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210220115000 +0100" stop="20210220121500 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210220121500 +0100" stop="20210220123000 +0100" channel="LA 2">
+    <title lang="es">La 2 Exprés</title>
+  </programme>
+  <programme start="20210220123000 +0100" stop="20210220132500 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210220132500 +0100" stop="20210220142000 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210220142000 +0100" stop="20210220150500 +0100" channel="LA 2">
+    <title lang="es">Tendido cero</title>
+  </programme>
+  <programme start="20210220150500 +0100" stop="20210220153500 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210220153500 +0100" stop="20210220162000 +0100" channel="LA 2">
+    <title lang="es">Saber y ganar</title>
+  </programme>
+  <programme start="20210220162000 +0100" stop="20210220175500 +0100" channel="LA 2">
+    <title lang="es">Grandes documentales</title>
+  </programme>
+  <programme start="20210220175500 +0100" stop="20210220183000 +0100" channel="LA 2">
+    <title lang="es">Jardines con historia</title>
+  </programme>
+  <programme start="20210220183000 +0100" stop="20210220192500 +0100" channel="LA 2">
+    <title lang="es">Las rutas de</title>
+  </programme>
+  <programme start="20210220192500 +0100" stop="20210220201500 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210220201500 +0100" stop="20210220211000 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210220211000 +0100" stop="20210220220000 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210220220000 +0100" stop="20210220234500 +0100" channel="LA 2">
+    <title lang="es">El buen maestro</title>
+    <title lang="en">Les grands esprits</title>
+    <desc lang="es">François Foucault es un exigente profesor de literatura que se comporta de forma pedante con sus alumnos. Trabaja en el prestigioso instituto parisino Henri IV pero Foucault está descontento con el rendimiento de su clase. Un día mantiene por casualidad una charla con una funcionaria del Ministerio de Educación y, en contra de sus deseos, termina aceptando el traslado a un centro escolar en los suburbios. Allí, las inquietudes del alumnado serán muy distintas. "Mucho más que una comedia, te devuelve la sonrisa y esperanza" señala Irene Crespo de Cinemanía respecto a la cinta. "El buen maestro" aborda las diferencias entre la enseñanza dirigida a las élites y aquella vinculada al extrarradio. También habla de la interesante relación entre docentes y alumnos añadiendo dosis de humor a una trama de tintes dramáticos. Su director, Olivier Ayache-Vidal, se trasladó a los suburbios para escribir la película. El cineasta, quien ya contaba con formación previa como periodista, necesitaba vivir la experiencia en primera persona para poder construir un relato verosímil. "Busqué un colegio en una zona muy conflictiva, escogí una clase y asistí durante tres años" señala al respecto.(n)</desc>
+    <credits>
+      <director>Olivier Ayache-Vidal</director>
+      <actor>Marie-Julie Baup</actor>
+      <actor>Anne Jacquemin</actor>
+      <actor>Léa Drucker</actor>
+      <actor>Denis Podalydès</actor>
+      <actor>Emmanuel Barrouyer</actor>
+      <actor>Pauline Huruguen</actor>
+      <actor>Alexis Moncorgé</actor>
+      <actor>Jeanne Rosa</actor>
+      <actor>Abdoulaye Diallo</actor>
+      <actor>Mona Magdy Fahim</actor>
+      <actor>Tabono Tandia</actor>
+      <writer>Olivier Ayache-Vidal</writer>
+      <producer>Alain Benguigui</producer>
+      <composer>Gadou Naudin</composer>
+      <composer>Florian Cornet</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MLA2P1528136" />
+    <country lang="es">Francia</country>
+  </programme>
+  <programme start="20210220234500 +0100" stop="20210221021500 +0100" channel="LA 2">
+    <title lang="es">La noche temática</title>
+  </programme>
+  <programme start="20210221021500 +0100" stop="20210221031500 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210221031500 +0100" stop="20210221040500 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210221040500 +0100" stop="20210221050500 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210221050500 +0100" stop="20210221053300 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210221053300 +0100" stop="20210221060000 +0100" channel="LA 2">
+    <title lang="es">Inglés Online</title>
+  </programme>
+  <programme start="20210221060000 +0100" stop="20210221072500 +0100" channel="LA 2">
+    <title lang="es">That's English</title>
+  </programme>
+  <programme start="20210221072500 +0100" stop="20210221073000 +0100" channel="LA 2">
+    <title lang="es">La 2 Exprés</title>
+  </programme>
+  <programme start="20210221073000 +0100" stop="20210221080000 +0100" channel="LA 2">
+    <title lang="es">UNED</title>
+  </programme>
+  <programme start="20210221080000 +0100" stop="20210221084500 +0100" channel="LA 2">
+    <title lang="es">Los conciertos de La 2</title>
+  </programme>
+  <programme start="20210221084500 +0100" stop="20210221091500 +0100" channel="LA 2">
+    <title lang="es">En lengua de signos</title>
+  </programme>
+  <programme start="20210221091500 +0100" stop="20210221093000 +0100" channel="LA 2">
+    <title lang="es">Shalom</title>
+  </programme>
+  <programme start="20210221093000 +0100" stop="20210221094500 +0100" channel="LA 2">
+    <title lang="es">Medina en tve</title>
+  </programme>
+  <programme start="20210221094500 +0100" stop="20210221100000 +0100" channel="LA 2">
+    <title lang="es">Buenas noticias. TV</title>
+  </programme>
+  <programme start="20210221100000 +0100" stop="20210221102500 +0100" channel="LA 2">
+    <title lang="es">Últimas preguntas</title>
+  </programme>
+  <programme start="20210221102500 +0100" stop="20210221103000 +0100" channel="LA 2">
+    <title lang="es">Testimonio</title>
+  </programme>
+  <programme start="20210221103000 +0100" stop="20210221113000 +0100" channel="LA 2">
+    <title lang="es">El día del señor</title>
+  </programme>
+  <programme start="20210221113000 +0100" stop="20210221115500 +0100" channel="LA 2">
+    <title lang="es">Pueblo de Dios</title>
+  </programme>
+  <programme start="20210221115500 +0100" stop="20210221125500 +0100" channel="LA 2">
+    <title lang="es">Saber vivir</title>
+  </programme>
+  <programme start="20210221125500 +0100" stop="20210221133000 +0100" channel="LA 2">
+    <title lang="es">Zoom tendencias</title>
+  </programme>
+  <programme start="20210221133000 +0100" stop="20210221142000 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210221142000 +0100" stop="20210221144000 +0100" channel="LA 2">
+    <title lang="es">La 2 Exprés</title>
+  </programme>
+  <programme start="20210221144000 +0100" stop="20210221153500 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210221153500 +0100" stop="20210221162000 +0100" channel="LA 2">
+    <title lang="es">Saber y ganar fin de semana</title>
+  </programme>
+  <programme start="20210221162000 +0100" stop="20210221180000 +0100" channel="LA 2">
+    <title lang="es">Grandes documentales</title>
+  </programme>
+  <programme start="20210221180000 +0100" stop="20210221182500 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210221182500 +0100" stop="20210221185500 +0100" channel="LA 2">
+    <title lang="es">Diario de un nómada</title>
+  </programme>
+  <programme start="20210221185500 +0100" stop="20210221200000 +0100" channel="LA 2">
+    <title lang="es">Un país mágico</title>
+  </programme>
+  <programme start="20210221200000 +0100" stop="20210221203000 +0100" channel="LA 2">
+    <title lang="es">De seda y hierro</title>
+  </programme>
+  <programme start="20210221203000 +0100" stop="20210221213000 +0100" channel="LA 2">
+    <title lang="es">El documental de La 2</title>
+  </programme>
+  <programme start="20210221213000 +0100" stop="20210221223000 +0100" channel="LA 2">
+    <title lang="es">Imprescindibles</title>
+  </programme>
+  <programme start="20210221223000 +0100" stop="20210222011000 +0100" channel="LA 2">
+    <title lang="es">La montaña rusa</title>
+    <desc lang="es">Tres amigos de la infancia, dos hombres y una mujer, se reencuentran tras años separados. Entre ellos se forma un triángulo con la chica como protagonista. Ella deberá decidir si quedarse con un hombre con el que está bien en todos los aspectos menos el sexual o bien sucumbir ante el amante apasionado. Tras firmar el premiado drama histórico "Las 13 rosas", Emilio Martínez Lázaro firma esta comedia romántica sobre el sexo, el amor y sus muchas y complicadas combinaciones. Verónica Sánchez ("Los Serrano"), Ernesto Alterio ("Días de fútbol") y Alberto San Juan ("Bajo las estrellas") interpretan al trío protagonista, tres amigos entre los que vuelve a surgir aquellos sentimientos que dejaron anclados en el pasado, trasladando los problemas amorosos de entonces a la actualidad. Completan el elenco actoral María Lapiedra ("Torrente 4"), Luis Bermejo ("Días de fútbol2), Jorge Clemente y Paula Dalli. Como curiosidad, no es la primera vez que Martínez Lázaro aborda el tema de los tríos. De hecho, uno de sus grandes éxitos de taquilla fue otra comedia llena de sexo y enredos, "El otro lado de la cama".(n)</desc>
+    <credits>
+      <director>Emilio Martínez-Lázaro</director>
+      <actor>Ernesto Alterio</actor>
+      <actor>Alberto San Juan</actor>
+      <actor>Verónica Sánchez</actor>
+      <actor>Luis Bermejo Carrión</actor>
+      <writer>Emilio Martínez-Lázaro</writer>
+      <writer>Daniela Féjerman</writer>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MLA2P1245556" />
+    <country lang="es">España</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210222011000 +0100" stop="20210222025500 +0100" channel="LA 2">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20210222025500 +0100" stop="20210222045500 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210222045500 +0100" stop="20210222085500 +0100" channel="LA 2">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210222085500 +0100" stop="20210222093000 +0100" channel="LA 2">
+    <title lang="es">El escarabajo verde</title>
+  </programme>
+  <programme start="20210222093000 +0100" stop="20210222095500 +0100" channel="LA 2">
+    <title lang="es">Aquí hay trabajo</title>
+  </programme>
+  <programme start="20210222095500 +0100" stop="20210222105500 +0100" channel="LA 2">
+    <title lang="es">La aventura del saber</title>
+  </programme>
+  <programme start="20210222105500 +0100" stop="20210222114000 +0100" channel="LA 2">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20210222114000 +0100" stop="20210222123500 +0100" channel="LA 2">
+    <title lang="es">Los secretos del ejército fantasma</title>
+    <title lang="en">China's Ghost Army</title>
+    <desc lang="es">Gracias a las tecnologías del siglo XXI, este antiguo ejército formado por guerreros de tamaño real resurgirá por fin del polvo acumulado durante dos milenios.(n)</desc>
+    <credits>
+      <writer>Steven R. Talley</writer>
+      <producer>Steven R. Talley</producer>
+      <composer>Bruno Barrett-Garnier</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Arte y cultura</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MLA2P957426" />
+    <country lang="es">Nueva Zelanda</country>
+  </programme>
+  <programme start="20210222123500 +0100" stop="20210222140000 +0100" channel="LA 2">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20210222140000 +0100" stop="20210222145500 +0100" channel="LA 2">
+    <title lang="es">Anillos de oro</title>
+  </programme>
+  <programme start="20210222145500 +0100" stop="20210222154500 +0100" channel="LA 2">
+    <title lang="es">Espacios increíbles</title>
+  </programme>
+  <programme start="20210222154500 +0100" stop="20210222163000 +0100" channel="LA 2">
+    <title lang="es">Saber y ganar</title>
+  </programme>
+  <programme start="20210222163000 +0100" stop="20210222172200 +0100" channel="LA 2">
+    <title lang="es">Historia de un pingüino</title>
+    <title lang="en">Snow Chick: A Penguin's Tale</title>
+    <desc lang="es">Crecer en el Antártico no es fácil ni tan siquiera para los pingüinos Emperadores, la especie más grande que existe. Este emocionante documental sigue de cerca la vida de un pequeño pingüino desde el momento que sale del cascarón hasta que es capaz de ser independiente en las heladas aguas del océano. El adorable pingüino protagonista nace en pleno invierno en uno de los lugares más fríos del planeta con condiciones atmosféricas extremas y apenas sin alimentos disponibles. Pronto sus progenitores y la pequeña cría tendrán que superar las dificultades para conseguir comida, huir de los depredadores, no congelarse con temperaturas de hasta 60 grados bajo cero y no despistarse de la manada para ser presa fácil. A medida que va creciendo el pingüino, se va desprendiendo de su mullido y abrigado traje para vestirse con sus elegantes plumas blancas y negras. Pero también en ese paso hacia la vida adulta, tendrá que aprender a ser independiente, capaz de saltar grandes grietas de hielo y conseguir cazar su propio alimento. Una aventura apasionante llena de momentos de tensión, ternura e incluso humor, en un documental con que muestra con más detalle que nunca la vida de los pingüinos.(n)</desc>
+    <date>2015</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MLA2P1276452" />
+    <country lang="es">R.U</country>
+  </programme>
+  <programme start="20210222172200 +0100" stop="20210222181500 +0100" channel="LA 2">
+    <title lang="es">Supervivencia extrema</title>
+  </programme>
+  <programme start="20210222181500 +0100" stop="20210222191000 +0100" channel="LA 2">
+    <title lang="es">Medicina silvestre. Superpoderes de ls animales</title>
+    <title lang="en">Wild Medicine. Animal's Superpower</title>
+    <desc lang="es">Los animales poseen súper poderes con los que los hombres tan solo podemos soñar. Sus facultades podrían ayudarnos en la lucha contra la osteoporosis, los infartos y el Alzheimer. Los científicos siguen investigando estas misteriosas capacidades.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MLA2P1836183" />
+  </programme>
+  <programme start="20210222191000 +0100" stop="20210222200000 +0100" channel="LA 2">
+    <title lang="es">Las recetas de Julie</title>
+  </programme>
+  <programme start="20210222200000 +0100" stop="20210222203500 +0100" channel="LA 2">
+    <title lang="es">El cazador de cerebros</title>
+  </programme>
+  <programme start="20210222203500 +0100" stop="20210222211000 +0100" channel="LA 2">
+    <title lang="es">Turismo rural en Europa</title>
+  </programme>
+  <programme start="20210222211000 +0100" stop="20210222220000 +0100" channel="LA 2">
+    <title lang="es">Espacios increíbles</title>
+  </programme>
+  <programme start="20210222220000 +0100" stop="20210222225500 +0100" channel="LA 2">
+    <title lang="es">Órbita Laika</title>
+  </programme>
+  <programme start="20210222225500 +0100" stop="20210222235000 +0100" channel="LA 2">
+    <title lang="es">Einstein y Hawking - Maestros de nuestro universo</title>
+    <title lang="en">Einstein And Hawking - Masters Of Our Universe</title>
+    <desc lang="es">Albert Einstein y Stephen Hawking. Dos de las mentes más grandes del siglo XX. Einstein creó la teoría de la relatividad, una herramienta para explorar y predecir la forma en que funciona el universo desde su creación hasta su desaparición definitiva.(n)</desc>
+    <credits>
+      <director>Michael Lachmann</director>
+      <writer>Michael Lachmann</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Ciencia y tecnología</category>
+    <icon src="http://www.movistarplus.es/recorte/n/externov/MLA2P1834472" />
+    <country lang="es">EE.UU</country>
+  </programme>
+  <programme start="20210222235000 +0100" stop="20210223005000 +0100" channel="LA 2">
+    <title lang="es">Documentos TV</title>
+  </programme>
+  <programme start="20210223005000 +0100" stop="20210223011500 +0100" channel="LA 2">
+    <title lang="es">Metrópolis</title>
+  </programme>
+  <programme start="20210223011500 +0100" stop="20210223015500 +0100" channel="LA 2">
+    <title lang="es">Conciertos de Radio-3</title>
+  </programme>
+  <programme start="20210223015500 +0100" stop="20210223025500 +0100" channel="LA 2">
+    <title lang="es">Planeta Azul II</title>
+  </programme>
+  <programme start="20210223025500 +0100" stop="20210223035000 +0100" channel="LA 2">
+    <title lang="es">Dentro de la fabrica. como se hacen nuestros alimentos</title>
+  </programme>
+  <programme start="20210223035000 +0100" stop="20210223045000 +0100" channel="LA 2">
+    <title lang="es">En tren con Michael Portillo</title>
+  </programme>
+  <programme start="20210223045000 +0100" stop="20210223052500 +0100" channel="LA 2">
+    <title lang="es">Turismo rural en Europa</title>
+  </programme>
+  <programme start="20210223052500 +0100" stop="20210223053000 +0100" channel="LA 2">
+    <title lang="es">La 2 Exprés</title>
+  </programme>
+  <programme start="20210219001400 +0100" stop="20210219003700 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y trampero en Norteamérica</title>
+    <sub-title lang="es">Tras el caribú en Alaska</sub-title>
+    <desc lang="es">Cazador y trampero en Norteamérica.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/04/676100.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219003700 +0100" stop="20210219010900 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <sub-title lang="es">Montería en Valdepotros</sub-title>
+    <desc lang="es">Programa que muestra imágenes de las mejores monterías, las más espectaculares y recientes celebradas en España.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/665346.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219010900 +0100" stop="20210219013800 +0100" channel="Cazavisión">
+    <title lang="es">Cazar en familia</title>
+    <sub-title lang="es">Carlos y familia</sub-title>
+    <desc lang="es">Padres, hijos y abuelos forman las mejores cuadrillas para destacar los valores de la caza. Amistad y tradición en el desempeño de una actividad inseparablemente unida al pasado, al presente y al futuro de la historia del hombre.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/af/582575.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219013800 +0100" stop="20210219020100 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y chef en Reino Unido</title>
+    <sub-title lang="es">Cangrejos de río en el menú</sub-title>
+    <desc lang="es">Mike Robinson, cazador británico y restaurador galardonado con una Estrella Michelin, nos guía en un apasionante recorrido por la caza y la gastronomía.(n)</desc>
+    <credits>
+      <presenter>Mike Robinson</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/23/658723.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219020100 +0100" stop="20210219030000 +0100" channel="Cazavisión">
+    <title lang="es">De Caza en la vecina Francia</title>
+    <sub-title lang="es">Caza de palomas y murciélagos en Nueva Caledonia</sub-title>
+    <desc lang="es">El programa acerca a las especies que abaten y las modalidades venatorias que practican los cazadores galos, muchas de ellas compartidas en España y que provocan la sensación de estar cazando en los cotos españoles.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f9/665337.png" />
+    <country lang="es">Francia</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219030000 +0100" stop="20210219034600 +0100" channel="Cazavisión">
+    <title lang="es">De caza por el Mundo</title>
+    <sub-title lang="es">Caza de elefante y antílopes con Brenda, la ranger</sub-title>
+    <desc lang="es">Los mejores documentales de caza por el mundo están en Cazavisión. Recorreremos los territorios de caza más interesantes en busca de las especies de caza mayor y menor más valoradas por los aficionados.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/8d/410253.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219034600 +0100" stop="20210219035700 +0100" channel="Cazavisión">
+    <title lang="es">Pruebas de Armas y Tiro</title>
+    <sub-title lang="es">Rifle Sako 85 Hunter 222 Remington</sub-title>
+    <desc lang="es">Reconocidos expertos prueban las últimas novedades en armas del mercado, y te ofrecen útiles consejos para perfeccionar nuestras técnicas de tiro de cara a futuras salidas cinegéticas.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/99/410265.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219035700 +0100" stop="20210219042000 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y trampero en Norteamérica</title>
+    <sub-title lang="es">Lance perfecto a un ciervo mula de Colorado</sub-title>
+    <desc lang="es">Cazador y trampero en Norteamérica.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/04/676100.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219042000 +0100" stop="20210219051800 +0100" channel="Cazavisión">
+    <title lang="es">De Caza en la vecina Francia</title>
+    <sub-title lang="es">Jabalíes y jabalineros muy especiales, a los pies del Monte Aigoual</sub-title>
+    <desc lang="es">El programa acerca a las especies que abaten y las modalidades venatorias que practican los cazadores galos, muchas de ellas compartidas en España y que provocan la sensación de estar cazando en los cotos españoles.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f9/665337.png" />
+    <country lang="es">Francia</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219051800 +0100" stop="20210219054600 +0100" channel="Cazavisión">
+    <title lang="es">Perros y Caza</title>
+    <sub-title lang="es">Curso de adiestramiento. Cap.10: El  collar educativo</sub-title>
+    <desc lang="es">Serie que hace un repaso a las peculiaridades de las diferentes razas cazadoras: Cómo actúan, cómo cazan, cuáles son sus puntos débiles, sus puntos fuertes y diferentes técnicas y recomendaciones sobre cada raza.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/9d/410269.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219054600 +0100" stop="20210219061400 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <sub-title lang="es">Tórtolas en Canturias</sub-title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor. Ojeos de perdices, tiradas de palomas, caza con reclamo, caza de zorzales y becadas, descastes de conejos, media veda, silvestrismo...(n)</desc>
+    <category lang="es">Caza Menor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e1/617441.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219061400 +0100" stop="20210219064900 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <sub-title lang="es">Montería con lluvia en La Ribera</sub-title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies. Jabalíes, venados, corzos, machos monteses y otros ejemplares, cazados a rececho, en batida, en espera?(n)</desc>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/617365.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219064900 +0100" stop="20210219074300 +0100" channel="Cazavisión">
+    <title lang="es">De Caza en la vecina Francia</title>
+    <sub-title lang="es">Cazadores franceses en acción, batidas de jabalíes en Bielorrusia</sub-title>
+    <desc lang="es">El programa acerca a las especies que abaten y las modalidades venatorias que practican los cazadores galos, muchas de ellas compartidas en España y que provocan la sensación de estar cazando en los cotos españoles.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f9/665337.png" />
+    <country lang="es">Francia</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219074300 +0100" stop="20210219080000 +0100" channel="Cazavisión">
+    <title lang="es">Pruebas de Armas y Tiro</title>
+    <sub-title lang="es">La Armería de Cazavisión. Titán 6 con JM</sub-title>
+    <desc lang="es">Reconocidos expertos prueban las últimas novedades en armas del mercado, y te ofrecen útiles consejos para perfeccionar nuestras técnicas de tiro de cara a futuras salidas cinegéticas.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/99/410265.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219080000 +0100" stop="20210219082700 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <sub-title lang="es">Cuando la naturaleza cambia tus planes</sub-title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies. Jabalíes, venados, corzos, machos monteses y otros ejemplares, cazados a rececho, en batida, en espera….(n)</desc>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/617365.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219082700 +0100" stop="20210219085700 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <sub-title lang="es">Becadas entre robles y pinos</sub-title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor. Ojeos de perdices, tiradas de palomas, caza con reclamo, caza de zorzales y becadas, descastes de conejos, media veda, silvestrismo...(n)</desc>
+    <category lang="es">Caza Menor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e1/617441.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219085700 +0100" stop="20210219092800 +0100" channel="Cazavisión">
+    <title lang="es">A tiro</title>
+    <sub-title lang="es">Rebeco cantábrico</sub-title>
+    <desc lang="es">Espacio conducido por Ramón A.C. Fitó es periodista, experto cazador y tirador del más alto nivel que ha llegado a ser campeón de Europa de Tiro a larga distancia (2013).(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/63/655459.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219092800 +0100" stop="20210219101300 +0100" channel="Cazavisión">
+    <title lang="es">Caza Salvaje en lugares extremos</title>
+    <sub-title lang="es">Caza de antílopes y lucha contra el furtivismo en Tanzania</sub-title>
+    <desc lang="es">Los famosos cazadores Jim Shockey y Corey Knowlton acercan las más increíbles y salvajes cacerías en los enclaves más inexplorados y extremos del planeta.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f5/665333.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219101300 +0100" stop="20210219103900 +0100" channel="Cazavisión">
+    <title lang="es">Escuela de tiro aplicada a la caza</title>
+    <sub-title lang="es">El cartucho y el choke</sub-title>
+    <desc lang="es">Programa donde se muestra el aprendizaje del tiro aplicado a la caza.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fb/669691.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219103900 +0100" stop="20210219110000 +0100" channel="Cazavisión">
+    <title lang="es">Pruebas de Armas y Tiro</title>
+    <sub-title lang="es">La armería de Cazavisión. Bergara 14 con JM</sub-title>
+    <desc lang="es">Reconocidos expertos prueban las últimas novedades en armas del mercado, y te ofrecen útiles consejos para perfeccionar nuestras técnicas de tiro de cara a futuras salidas cinegéticas.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/99/410265.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219110000 +0100" stop="20210219111800 +0100" channel="Cazavisión">
+    <title lang="es">Solo Hunter</title>
+    <sub-title lang="es">Arco, rifle y un wapití selectivo</sub-title>
+    <desc lang="es">Solo Hunter es una serie de aventuras extremas de caza a través de los ojos del cazador. No hay equipos de producción ni cámara. Una aventura de caza independiente, autosuficiente, de preparación personal y estrategia.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/21/565281.png" />
+    <country lang="es">España</country>
+  </programme>
+  <programme start="20210219111800 +0100" stop="20210219120400 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <sub-title lang="es">Safari de facocheros, tsessebe, roan y enormes kudus</sub-title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies. Jabalíes, venados, corzos, machos monteses y otros ejemplares, cazados a rececho, en batida, en espera?(n)</desc>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/617365.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219120400 +0100" stop="20210219122700 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y trampero en Norteamérica</title>
+    <sub-title lang="es">Fuertes emociones con el oso en las Rocosas</sub-title>
+    <desc lang="es">Cazador y trampero en Norteamérica.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/04/676100.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219122700 +0100" stop="20210219125300 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras con Stiliyan Kadrev</title>
+    <title lang="en">The Adventures of Stiliyan Kadrev</title>
+    <sub-title lang="es">Emocionantes recechos a los búfalos de agua</sub-title>
+    <desc lang="es">Disfruta de grandes lances y espectaculares imágenes alrededor del mundo, de la mano del reconocido cazador y productor Stiliyan Kadrev. Una serie repleta de trofeos de primera categoría, paisajes de ensueño y grandes momentos entre amigos.(n)</desc>
+    <credits>
+      <presenter>Stiliyan Kadrev</presenter>
+    </credits>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6b/411243.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219125300 +0100" stop="20210219132400 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <sub-title lang="es">Montería en Llanos del Contadero</sub-title>
+    <desc lang="es">Programa que muestra imágenes de las mejores monterías, las más espectaculares y recientes celebradas en España.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/665346.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219132400 +0100" stop="20210219140800 +0100" channel="Cazavisión">
+    <title lang="es">Caza Salvaje en lugares extremos</title>
+    <sub-title lang="es">Caza de control y deportiva en Oceanía</sub-title>
+    <desc lang="es">Los famosos cazadores Jim Shockey y Corey Knowlton acercan las más increíbles y salvajes cacerías en los enclaves más inexplorados y extremos del planeta.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f5/665333.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219140800 +0100" stop="20210219143400 +0100" channel="Cazavisión">
+    <title lang="es">Zona de Caza</title>
+    <sub-title lang="es">El comienzo de la temporada, en busca de los corzos</sub-title>
+    <desc lang="es">Zona de Caza.(n)</desc>
+    <date>2013</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/69/655465.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210219143400 +0100" stop="20210219145800 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras con Stiliyan Kadrev</title>
+    <title lang="en">The Adventures of Stiliyan Kadrev</title>
+    <sub-title lang="es">Al rebeco en las montañas turcas</sub-title>
+    <desc lang="es">Disfruta de grandes lances y espectaculares imágenes alrededor del mundo, de la mano del reconocido cazador y productor Stiliyan Kadrev. Una serie repleta de trofeos de primera categoría, paisajes de ensueño y grandes momentos entre amigos.(n)</desc>
+    <credits>
+      <presenter>Stiliyan Kadrev</presenter>
+    </credits>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6b/411243.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219145800 +0100" stop="20210219151900 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras de caza en los antiguos reinos vikingos</title>
+    <sub-title lang="es">En plena berrea, tras los venados noruegos</sub-title>
+    <desc lang="es">Una espectacular serie que va más allá de la propia caza y nos habla de cómo el hombre puede aprovechar todo lo que la naturaleza le brinda para sobrevivir incluso en los entornos más extremos.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f4/665332.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219151900 +0100" stop="20210219155900 +0100" channel="Cazavisión">
+    <title lang="es">Perros y Caza</title>
+    <sub-title lang="es">Goku, rumbo fijo al Olimpo de los bretones</sub-title>
+    <desc lang="es">Serie que hace un repaso a las peculiaridades de las diferentes razas cazadoras: Cómo actúan, cómo cazan, cuáles son sus puntos débiles, sus puntos fuertes y diferentes técnicas y recomendaciones sobre cada raza.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/9d/410269.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219155900 +0100" stop="20210219163300 +0100" channel="Cazavisión">
+    <title lang="es">Cazadoras</title>
+    <sub-title lang="es">Marta López, reina de la caracola</sub-title>
+    <desc lang="es">Programa en la que se muestran intensas jornadas de caza con diferentes mujeres como protagonistas. El espacio acompaña a las cazadoras y muestra todos los momentos que se viven en la caza.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/5f/520543.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219163300 +0100" stop="20210219165400 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras de caza en los antiguos reinos vikingos</title>
+    <sub-title lang="es">Reclamando zorros durante el invierno en la implacable Escandinavia</sub-title>
+    <desc lang="es">Una espectacular serie que va más allá de la propia caza y nos habla de cómo el hombre puede aprovechar todo lo que la naturaleza le brinda para sobrevivir incluso en los entornos más extremos.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f4/665332.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219165400 +0100" stop="20210219171900 +0100" channel="Cazavisión">
+    <title lang="es">Safari Season</title>
+    <sub-title lang="es">En familia, de rececho a las monteses</sub-title>
+    <desc lang="es">Si tu pasión es cazar, entonces haz que tus sueños se hagan realidad. Únete a nosotros en este gran safari en busca de los mejores trofeos de caza del mundo a través de esta serie de veinte capítulos.(n)</desc>
+    <date>2015</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6c/411244.png" />
+    <country lang="es">Bulgaria</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219171900 +0100" stop="20210219175900 +0100" channel="Cazavisión">
+    <title lang="es">De caza por el Mundo</title>
+    <desc lang="es">Los mejores documentales de caza por el mundo están en Cazavisión. Recorreremos los territorios de caza más interesantes en busca de las especies de caza mayor y menor más valoradas por los aficionados.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/8d/410253.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219175900 +0100" stop="20210219183000 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <sub-title lang="es">Monteando la Sierra de Aracena</sub-title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies. Jabalíes, venados, corzos, machos monteses y otros ejemplares, cazados a rececho, en batida, en espera….(n)</desc>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/617365.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219183000 +0100" stop="20210219185900 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <sub-title lang="es">Lances a jabalíes en Los Riscos</sub-title>
+    <desc lang="es">Programa que muestra imágenes de las mejores monterías, las más espectaculares y recientes celebradas en España.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/665346.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219185900 +0100" stop="20210219194300 +0100" channel="Cazavisión">
+    <title lang="es">Caza Salvaje en lugares extremos</title>
+    <sub-title lang="es">Tras carneros salvajes en Nueva Zelanda</sub-title>
+    <desc lang="es">Los famosos cazadores Jim Shockey y Corey Knowlton acercan las más increíbles y salvajes cacerías en los enclaves más inexplorados y extremos del planeta.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f5/665333.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219194300 +0100" stop="20210219200000 +0100" channel="Cazavisión">
+    <title lang="es">Lances</title>
+    <sub-title lang="es">Short Hunting Films_Il cane de Tracia</sub-title>
+    <desc lang="es">Programa, con formato de revista semanal, sobre la caza y la pesca en Andalucía. Sus diversas secciones mostrarán la actualidad, los personajes, los lugares y otros muchos temas relacionados con el apasionante mundo de la cinegética y la pesca deportiva.(n)</desc>
+    <date>2002</date>
+    <category lang="es">Pesca</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/04/203012.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219200000 +0100" stop="20210219203100 +0100" channel="Cazavisión">
+    <title lang="es">Pro-Hunters</title>
+    <sub-title lang="es">Palomas a cimbel. Iván y Aníbal</sub-title>
+    <desc lang="es">La imagen del profesional de caza siempre es fundamental ya que es quien conoce el terreno y los animales que se podrán cazar. Viviremos diferentes aventuras de caza tanto de mayor como de menor y aprenderemos de los mejores cazadores de nuestro territorio.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fa/680698.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219203100 +0100" stop="20210219205800 +0100" channel="Cazavisión">
+    <title lang="es">De Caza en la vecina Francia</title>
+    <sub-title lang="es">Cacerías invernales de patos y jabalíes en Mayenne</sub-title>
+    <desc lang="es">El programa acerca a las especies que abaten y las modalidades venatorias que practican los cazadores galos, muchas de ellas compartidas en España y que provocan la sensación de estar cazando en los cotos españoles.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f9/665337.png" />
+    <country lang="es">Francia</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219205800 +0100" stop="20210219212300 +0100" channel="Cazavisión">
+    <title lang="es">Galgos</title>
+    <sub-title lang="es">78 Campeonato de España de Galgos en Campo</sub-title>
+    <desc lang="es">Una serie que hará las delicias de galgueros y amantes de los galgos, en la que disfrutaremos de diferentes documentales de caza y campeonatos con los galgos como absolutos protagonistas.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/91/410257.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219212300 +0100" stop="20210219215300 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <sub-title lang="es">En las Pilas monteando jabalíes</sub-title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies. Jabalíes, venados, corzos, machos monteses y otros ejemplares, cazados a rececho, en batida, en espera?(n)</desc>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/617365.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219215300 +0100" stop="20210219222400 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <sub-title lang="es">Pasión por la tórtola en Aragón</sub-title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor. Ojeos de perdices, tiradas de palomas, caza con reclamo, caza de zorzales y becadas, descastes de conejos, media veda, silvestrismo...(n)</desc>
+    <category lang="es">Caza Menor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e1/617441.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219222400 +0100" stop="20210219223500 +0100" channel="Cazavisión">
+    <title lang="es">Pruebas de Armas y Tiro</title>
+    <sub-title lang="es">Prueba de armas: Bergara B15 Forest</sub-title>
+    <desc lang="es">Reconocidos expertos prueban las últimas novedades en armas del mercado, y te ofrecen útiles consejos para perfeccionar nuestras técnicas de tiro de cara a futuras salidas cinegéticas.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/99/410265.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219223500 +0100" stop="20210219230000 +0100" channel="Cazavisión">
+    <title lang="es">Escuela de tiro aplicada a la caza</title>
+    <sub-title lang="es">El adelanto y la capacidad de juzgar</sub-title>
+    <desc lang="es">Programa donde se muestra el aprendizaje del tiro aplicado a la caza.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fb/669691.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219230000 +0100" stop="20210219233000 +0100" channel="Cazavisión">
+    <title lang="es">De Caza en la vecina Francia</title>
+    <sub-title lang="es">Cazadores franceses, tras los carneros de las nieves</sub-title>
+    <desc lang="es">El programa acerca a las especies que abaten y las modalidades venatorias que practican los cazadores galos, muchas de ellas compartidas en España y que provocan la sensación de estar cazando en los cotos españoles.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f9/665337.png" />
+    <country lang="es">Francia</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219233000 +0100" stop="20210219235700 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <sub-title lang="es">Cuando la naturaleza cambia tus planes</sub-title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies. Jabalíes, venados, corzos, machos monteses y otros ejemplares, cazados a rececho, en batida, en espera….(n)</desc>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/617365.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210219235700 +0100" stop="20210220003100 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <sub-title lang="es">Torcaces entre pinares y viñedos</sub-title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor. Ojeos de perdices, tiradas de palomas, caza con reclamo, caza de zorzales y becadas, descastes de conejos, media veda, silvestrismo...(n)</desc>
+    <category lang="es">Caza Menor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e1/617441.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220003100 +0100" stop="20210220004200 +0100" channel="Cazavisión">
+    <title lang="es">Pruebas de Armas y Tiro</title>
+    <sub-title lang="es">Prueba de armas: Rifle STEYR MANNLICHER CLII SX LIGHT</sub-title>
+    <desc lang="es">Reconocidos expertos prueban las últimas novedades en armas del mercado, y te ofrecen útiles consejos para perfeccionar nuestras técnicas de tiro de cara a futuras salidas cinegéticas.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/99/410265.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220004200 +0100" stop="20210220012700 +0100" channel="Cazavisión">
+    <title lang="es">Caza Salvaje en lugares extremos</title>
+    <sub-title lang="es">Tras cocodrilos devorahombres en Mozambique</sub-title>
+    <desc lang="es">Los famosos cazadores Jim Shockey y Corey Knowlton acercan las más increíbles y salvajes cacerías en los enclaves más inexplorados y extremos del planeta.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f5/665333.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220012700 +0100" stop="20210220015800 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <sub-title lang="es">De montería en La Noria</sub-title>
+    <desc lang="es">Programa que muestra imágenes de las mejores monterías, las más espectaculares y recientes celebradas en España.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/665346.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220015800 +0100" stop="20210220025200 +0100" channel="Cazavisión">
+    <title lang="es">De Caza en la vecina Francia</title>
+    <sub-title lang="es">Caza mayor y zonas urbanas: las soluciones a un reto muy actual</sub-title>
+    <desc lang="es">El programa acerca a las especies que abaten y las modalidades venatorias que practican los cazadores galos, muchas de ellas compartidas en España y que provocan la sensación de estar cazando en los cotos españoles.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f9/665337.png" />
+    <country lang="es">Francia</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220025200 +0100" stop="20210220031000 +0100" channel="Cazavisión">
+    <title lang="es">Solo Hunter</title>
+    <sub-title lang="es">Arco, rifle y un wapití selectivo</sub-title>
+    <desc lang="es">Solo Hunter es una serie de aventuras extremas de caza a través de los ojos del cazador. No hay equipos de producción ni cámara. Una aventura de caza independiente, autosuficiente, de preparación personal y estrategia.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/21/565281.png" />
+    <country lang="es">España</country>
+  </programme>
+  <programme start="20210220031000 +0100" stop="20210220035600 +0100" channel="Cazavisión">
+    <title lang="es">Caza Salvaje en lugares extremos</title>
+    <sub-title lang="es">Tras los ciervos de zonas pantanosas</sub-title>
+    <desc lang="es">Los famosos cazadores Jim Shockey y Corey Knowlton acercan las más increíbles y salvajes cacerías en los enclaves más inexplorados y extremos del planeta.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f5/665333.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220035600 +0100" stop="20210220042200 +0100" channel="Cazavisión">
+    <title lang="es">Safari Season</title>
+    <sub-title lang="es">Elk y bisonte americano en tierra de grizzlie</sub-title>
+    <desc lang="es">Si tu pasión es cazar, entonces haz que tus sueños se hagan realidad. Únete a nosotros en este gran safari en busca de los mejores trofeos de caza del mundo a través de esta serie de veinte capítulos.(n)</desc>
+    <date>2015</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6c/411244.png" />
+    <country lang="es">Bulgaria</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220042200 +0100" stop="20210220044900 +0100" channel="Cazavisión">
+    <title lang="es">Caza en Asturias</title>
+    <sub-title lang="es">Montería Española</sub-title>
+    <desc lang="es">Una selección de los mejores documentales de Al acecho, programa de TPA dedicado a los aficionados a la caza. Un espacio que recorre el Principado, mostrando los mejores escenarios para la práctica de un deporte que cuenta con un importante número de seguidores.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/4e/410958.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220044900 +0100" stop="20210220051900 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <sub-title lang="es">Becadas entre robles y pinos</sub-title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor. Ojeos de perdices, tiradas de palomas, caza con reclamo, caza de zorzales y becadas, descastes de conejos, media veda, silvestrismo...(n)</desc>
+    <category lang="es">Caza Menor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e1/617441.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220051900 +0100" stop="20210220055000 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <sub-title lang="es">Montería en Quinto Majadillas</sub-title>
+    <desc lang="es">Programa que muestra imágenes de las mejores monterías, las más espectaculares y recientes celebradas en España.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/665346.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220055000 +0100" stop="20210220061300 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y trampero en Norteamérica</title>
+    <sub-title lang="es">Caza del alce, una gran aventura</sub-title>
+    <desc lang="es">Cazador y trampero en Norteamérica.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/04/676100.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220061300 +0100" stop="20210220065000 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies. Jabalíes, venados, corzos, machos monteses y otros ejemplares, cazados a rececho, en batida, en espera….(n)</desc>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/617365.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220065000 +0100" stop="20210220070100 +0100" channel="Cazavisión">
+    <title lang="es">Pruebas de Armas y Tiro</title>
+    <sub-title lang="es">Prueba de armas: Browning Bar MK3 Hunter Fluted</sub-title>
+    <desc lang="es">Reconocidos expertos prueban las últimas novedades en armas del mercado, y te ofrecen útiles consejos para perfeccionar nuestras técnicas de tiro de cara a futuras salidas cinegéticas.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/99/410265.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220070100 +0100" stop="20210220073500 +0100" channel="Cazavisión">
+    <title lang="es">Perros y Caza</title>
+    <sub-title lang="es">Che, un setter inglés que compite con halcones</sub-title>
+    <desc lang="es">Serie que hace un repaso a las peculiaridades de las diferentes razas cazadoras: Cómo actúan, cómo cazan, cuáles son sus puntos débiles, sus puntos fuertes y diferentes técnicas y recomendaciones sobre cada raza.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/9d/410269.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220073500 +0100" stop="20210220080000 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras de caza en los antiguos reinos vikingos</title>
+    <sub-title lang="es">Lances inolvidables a los urogallos con perros de muestra</sub-title>
+    <desc lang="es">Una espectacular serie que va más allá de la propia caza y nos habla de cómo el hombre puede aprovechar todo lo que la naturaleza le brinda para sobrevivir incluso en los entornos más extremos.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f4/665332.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220080000 +0100" stop="20210220082500 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras con Stiliyan Kadrev</title>
+    <title lang="en">The Adventures of Stiliyan Kadrev</title>
+    <sub-title lang="es">Recechos de rebeco, corzo y jabalí en Bulgaria</sub-title>
+    <desc lang="es">Disfruta de grandes lances y espectaculares imágenes alrededor del mundo, de la mano del reconocido cazador y productor Stiliyan Kadrev. Una serie repleta de trofeos de primera categoría, paisajes de ensueño y grandes momentos entre amigos.(n)</desc>
+    <credits>
+      <presenter>Stiliyan Kadrev</presenter>
+    </credits>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6b/411243.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220082500 +0100" stop="20210220085800 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <sub-title lang="es">Zorzales en la serranía de Cuenca</sub-title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor. Ojeos de perdices, tiradas de palomas, caza con reclamo, caza de zorzales y becadas, descastes de conejos, media veda, silvestrismo...(n)</desc>
+    <category lang="es">Caza Menor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e1/617441.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220085800 +0100" stop="20210220092100 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y trampero en Norteamérica</title>
+    <sub-title lang="es">Tras el caribú en Alaska</sub-title>
+    <desc lang="es">Cazador y trampero en Norteamérica.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/04/676100.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220092100 +0100" stop="20210220095000 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <sub-title lang="es">Monteando la Sardina</sub-title>
+    <desc lang="es">Programa que muestra imágenes de las mejores monterías, las más espectaculares y recientes celebradas en España.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/665346.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220095000 +0100" stop="20210220110000 +0100" channel="Cazavisión">
+    <title lang="es">De Caza en la vecina Francia</title>
+    <sub-title lang="es">Arnaud: vivir para cazar</sub-title>
+    <desc lang="es">El programa acerca a las especies que abaten y las modalidades venatorias que practican los cazadores galos, muchas de ellas compartidas en España y que provocan la sensación de estar cazando en los cotos españoles.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f9/665337.png" />
+    <country lang="es">Francia</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220110000 +0100" stop="20210220112600 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras con Stiliyan Kadrev</title>
+    <title lang="en">The Adventures of Stiliyan Kadrev</title>
+    <sub-title lang="es">Un buen venado en la berrea y un gamo selectivo en la ronca</sub-title>
+    <desc lang="es">Disfruta de grandes lances y espectaculares imágenes alrededor del mundo, de la mano del reconocido cazador y productor Stiliyan Kadrev. Una serie repleta de trofeos de primera categoría, paisajes de ensueño y grandes momentos entre amigos.(n)</desc>
+    <credits>
+      <presenter>Stiliyan Kadrev</presenter>
+    </credits>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6b/411243.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220112600 +0100" stop="20210220114400 +0100" channel="Cazavisión">
+    <title lang="es">Solo Hunter</title>
+    <sub-title lang="es">Tras el ciervo cola negra, entre bosques, montañas y lagos</sub-title>
+    <desc lang="es">Solo Hunter es una serie de aventuras extremas de caza a través de los ojos del cazador. No hay equipos de producción ni cámara. Una aventura de caza independiente, autosuficiente, de preparación personal y estrategia.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/21/565281.png" />
+    <country lang="es">España</country>
+  </programme>
+  <programme start="20210220114400 +0100" stop="20210220120900 +0100" channel="Cazavisión">
+    <title lang="es">El futuro de la caza ha llegado</title>
+    <title lang="en">Young Wild Hunters</title>
+    <sub-title lang="es">Comemos lo que cazamos</sub-title>
+    <desc lang="es">Serie cuyo objetivo es fomentar la unión intergeneracional, acercando las bondades de la cinegética a todo el mundo, ayudando a explicar el verdadero valor que tiene y aunando la tradición de un arte ancestral con la modernidad que trae consigo la juventud.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/88/556168.png" />
+  </programme>
+  <programme start="20210220120900 +0100" stop="20210220125300 +0100" channel="Cazavisión">
+    <title lang="es">Caza Salvaje en lugares extremos</title>
+    <sub-title lang="es">Caza en el desierto de las gacelas Speke y Pelzelns</sub-title>
+    <desc lang="es">Los famosos cazadores Jim Shockey y Corey Knowlton acercan las más increíbles y salvajes cacerías en los enclaves más inexplorados y extremos del planeta.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f5/665333.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220125300 +0100" stop="20210220131900 +0100" channel="Cazavisión">
+    <title lang="es">Zona de Caza</title>
+    <sub-title lang="es">La actividad de caza durante el cierre del menor; jabalí y Santo Huberto</sub-title>
+    <desc lang="es">Zona de Caza.(n)</desc>
+    <date>2013</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/69/655465.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210220131900 +0100" stop="20210220135000 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <sub-title lang="es">Jabalineros en la manchela conquense</sub-title>
+    <desc lang="es">Programa que muestra imágenes de las mejores monterías, las más espectaculares y recientes celebradas en España.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/665346.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220135000 +0100" stop="20210220141900 +0100" channel="Cazavisión">
+    <title lang="es">Los secretos de África</title>
+    <sub-title lang="es">Una aventura en familia</sub-title>
+    <desc lang="es">Producción que vuelve a unir a los Young Wild Hunters. En estos documentales, se vive la caza desde un punto de vista diferente, el de unos jóvenes cazadores que buscarán cumplir su sueño venatorio en el mítico continente negro.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/65/655461.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220141900 +0100" stop="20210220145500 +0100" channel="Cazavisión">
+    <title lang="es">De Caza en la vecina Francia</title>
+    <sub-title lang="es">De caza menor y mayor en Languedoc Roussillon</sub-title>
+    <desc lang="es">El programa acerca a las especies que abaten y las modalidades venatorias que practican los cazadores galos, muchas de ellas compartidas en España y que provocan la sensación de estar cazando en los cotos españoles.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f9/665337.png" />
+    <country lang="es">Francia</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220145500 +0100" stop="20210220152600 +0100" channel="Cazavisión">
+    <title lang="es">Pro-Hunters</title>
+    <sub-title lang="es">Palomas a cimbel. Iván y Aníbal</sub-title>
+    <desc lang="es">La imagen del profesional de caza siempre es fundamental ya que es quien conoce el terreno y los animales que se podrán cazar. Viviremos diferentes aventuras de caza tanto de mayor como de menor y aprenderemos de los mejores cazadores de nuestro territorio.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fa/680698.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220152600 +0100" stop="20210220153000 +0100" channel="Cazavisión">
+    <title lang="es">Lances</title>
+    <sub-title lang="es">Perdiz Roja</sub-title>
+    <desc lang="es">Programa, con formato de revista semanal, sobre la caza y la pesca en Andalucía. Sus diversas secciones mostrarán la actualidad, los personajes, los lugares y otros muchos temas relacionados con el apasionante mundo de la cinegética y la pesca deportiva.(n)</desc>
+    <date>2002</date>
+    <category lang="es">Pesca</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/04/203012.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220153000 +0100" stop="20210220155300 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras de caza en los antiguos reinos vikingos</title>
+    <sub-title lang="es">El arte de cazar corzos con reclamo en el celo</sub-title>
+    <desc lang="es">Una espectacular serie que va más allá de la propia caza y nos habla de cómo el hombre puede aprovechar todo lo que la naturaleza le brinda para sobrevivir incluso en los entornos más extremos.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f4/665332.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220155300 +0100" stop="20210220161100 +0100" channel="Cazavisión">
+    <title lang="es">Escuela de tiro aplicada a la caza</title>
+    <sub-title lang="es">El adelanto y la capacidad de juzgar</sub-title>
+    <desc lang="es">Programa donde se muestra el aprendizaje del tiro aplicado a la caza.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fb/669691.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220161100 +0100" stop="20210220163800 +0100" channel="Cazavisión">
+    <title lang="es">Zona de Caza</title>
+    <sub-title lang="es">Los faisanes del pantano Ribatejano</sub-title>
+    <desc lang="es">Zona de Caza.(n)</desc>
+    <date>2013</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/69/655465.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210220163800 +0100" stop="20210220171000 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <sub-title lang="es">Monteando la Sierra de Aracena</sub-title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies. Jabalíes, venados, corzos, machos monteses y otros ejemplares, cazados a rececho, en batida, en espera….(n)</desc>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/617365.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220171000 +0100" stop="20210220174200 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <sub-title lang="es">Conejos a perro puesto en Relleu</sub-title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor. Ojeos de perdices, tiradas de palomas, caza con reclamo, caza de zorzales y becadas, descastes de conejos, media veda, silvestrismo...(n)</desc>
+    <category lang="es">Caza Menor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e1/617441.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220174200 +0100" stop="20210220181300 +0100" channel="Cazavisión">
+    <title lang="es">Pro-Hunters</title>
+    <sub-title lang="es">Codornices salvajes con Miguel</sub-title>
+    <desc lang="es">La imagen del profesional de caza siempre es fundamental ya que es quien conoce el terreno y los animales que se podrán cazar. Viviremos diferentes aventuras de caza tanto de mayor como de menor y aprenderemos de los mejores cazadores de nuestro territorio.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fa/680698.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220181300 +0100" stop="20210220190300 +0100" channel="Cazavisión">
+    <title lang="es">De caza por el Mundo</title>
+    <sub-title lang="es">Safari de elefante entre leones</sub-title>
+    <desc lang="es">Los mejores documentales de caza por el mundo están en Cazavisión. Recorreremos los territorios de caza más interesantes en busca de las especies de caza mayor y menor más valoradas por los aficionados.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/8d/410253.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220190300 +0100" stop="20210220193600 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <sub-title lang="es">Dos cazadores portugueses recechando en las Batuecas</sub-title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies. Jabalíes, venados, corzos, machos monteses y otros ejemplares, cazados a rececho, en batida, en espera?(n)</desc>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/617365.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220193600 +0100" stop="20210220194200 +0100" channel="Cazavisión">
+    <title lang="es">Lances</title>
+    <sub-title lang="es">Short Hunting Films_Gordon European Championship</sub-title>
+    <desc lang="es">Programa, con formato de revista semanal, sobre la caza y la pesca en Andalucía. Sus diversas secciones mostrarán la actualidad, los personajes, los lugares y otros muchos temas relacionados con el apasionante mundo de la cinegética y la pesca deportiva.(n)</desc>
+    <date>2002</date>
+    <category lang="es">Pesca</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/04/203012.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220194200 +0100" stop="20210220200000 +0100" channel="Cazavisión">
+    <title lang="es">Escuela de tiro aplicada a la caza</title>
+    <sub-title lang="es">La postura correcta de disparo</sub-title>
+    <desc lang="es">Programa donde se muestra el aprendizaje del tiro aplicado a la caza.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fb/669691.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220200000 +0100" stop="20210220204700 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <sub-title lang="es">Perdices en mano, persecuciones interminables</sub-title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor. Ojeos de perdices, tiradas de palomas, caza con reclamo, caza de zorzales y becadas, descastes de conejos, media veda, silvestrismo...(n)</desc>
+    <category lang="es">Caza Menor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e1/617441.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220204700 +0100" stop="20210220205900 +0100" channel="Cazavisión">
+    <title lang="es">Pruebas de Armas y Tiro</title>
+    <sub-title lang="es">La armería de Cazavisión. Monotiro Krieghoff con JM</sub-title>
+    <desc lang="es">Reconocidos expertos prueban las últimas novedades en armas del mercado, y te ofrecen útiles consejos para perfeccionar nuestras técnicas de tiro de cara a futuras salidas cinegéticas.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/99/410265.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220205900 +0100" stop="20210220212000 +0100" channel="Cazavisión">
+    <title lang="es">De Caza en la vecina Francia</title>
+    <sub-title lang="es">Caza de palomas y perdices en tierras argentinas. Parte 1</sub-title>
+    <desc lang="es">El programa acerca a las especies que abaten y las modalidades venatorias que practican los cazadores galos, muchas de ellas compartidas en España y que provocan la sensación de estar cazando en los cotos españoles.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f9/665337.png" />
+    <country lang="es">Francia</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220212000 +0100" stop="20210220215000 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <sub-title lang="es">Monteando con solera en Portugal</sub-title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies. Jabalíes, venados, corzos, machos monteses y otros ejemplares, cazados a rececho, en batida, en espera?(n)</desc>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/617365.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220215000 +0100" stop="20210220222100 +0100" channel="Cazavisión">
+    <title lang="es">A tiro</title>
+    <sub-title lang="es">Rebeco cantábrico</sub-title>
+    <desc lang="es">Espacio conducido por Ramón A.C. Fitó es periodista, experto cazador y tirador del más alto nivel que ha llegado a ser campeón de Europa de Tiro a larga distancia (2013).(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/63/655459.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220222100 +0100" stop="20210220230000 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <sub-title lang="es">Montería de jabalíes en Santa Quiteria</sub-title>
+    <desc lang="es">Programa que muestra imágenes de las mejores monterías, las más espectaculares y recientes celebradas en España.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/665346.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220230000 +0100" stop="20210220232100 +0100" channel="Cazavisión">
+    <title lang="es">Escuela de tiro aplicada a la caza</title>
+    <sub-title lang="es">El Hold-Point y el Swing</sub-title>
+    <desc lang="es">Programa donde se muestra el aprendizaje del tiro aplicado a la caza.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fb/669691.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210220232100 +0100" stop="20210221000800 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras con Stiliyan Kadrev</title>
+    <title lang="en">The Adventures of Stiliyan Kadrev</title>
+    <sub-title lang="es">Safari de caza peligrosa en Zimbabwe</sub-title>
+    <desc lang="es">Disfruta de grandes lances y espectaculares imágenes alrededor del mundo, de la mano del reconocido cazador y productor Stiliyan Kadrev. Una serie repleta de trofeos de primera categoría, paisajes de ensueño y grandes momentos entre amigos.(n)</desc>
+    <credits>
+      <presenter>Stiliyan Kadrev</presenter>
+    </credits>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6b/411243.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221000800 +0100" stop="20210221003800 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <sub-title lang="es">La excelencia de la caza del galgo a la liebre</sub-title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor. Ojeos de perdices, tiradas de palomas, caza con reclamo, caza de zorzales y becadas, descastes de conejos, media veda, silvestrismo...(n)</desc>
+    <category lang="es">Caza Menor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e1/617441.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221003800 +0100" stop="20210221010000 +0100" channel="Cazavisión">
+    <title lang="es">Solo Hunter</title>
+    <sub-title lang="es">Carnero del desierto, un gran sueño venatorio</sub-title>
+    <desc lang="es">Solo Hunter es una serie de aventuras extremas de caza a través de los ojos del cazador. No hay equipos de producción ni cámara. Una aventura de caza independiente, autosuficiente, de preparación personal y estrategia.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/21/565281.png" />
+    <country lang="es">España</country>
+  </programme>
+  <programme start="20210221010000 +0100" stop="20210221014400 +0100" channel="Cazavisión">
+    <title lang="es">Caza Salvaje en lugares extremos</title>
+    <sub-title lang="es">Mucha paciencia y dos viajes para cazar el oso pardo del Amur</sub-title>
+    <desc lang="es">Los famosos cazadores Jim Shockey y Corey Knowlton acercan las más increíbles y salvajes cacerías en los enclaves más inexplorados y extremos del planeta.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f5/665333.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221014400 +0100" stop="20210221020700 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y chef en Reino Unido</title>
+    <sub-title lang="es">Corzos, del campo a la mesa</sub-title>
+    <desc lang="es">Mike Robinson, cazador británico y restaurador galardonado con una Estrella Michelin, nos guía en un apasionante recorrido por la caza y la gastronomía.(n)</desc>
+    <credits>
+      <presenter>Mike Robinson</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/23/658723.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221020700 +0100" stop="20210221030100 +0100" channel="Cazavisión">
+    <title lang="es">De Caza en la vecina Francia</title>
+    <sub-title lang="es">La importancia de la caza en la Francia más rural</sub-title>
+    <desc lang="es">El programa acerca a las especies que abaten y las modalidades venatorias que practican los cazadores galos, muchas de ellas compartidas en España y que provocan la sensación de estar cazando en los cotos españoles.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f9/665337.png" />
+    <country lang="es">Francia</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221030100 +0100" stop="20210221033300 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <sub-title lang="es">Montería en Los Membrillos</sub-title>
+    <desc lang="es">Programa que muestra imágenes de las mejores monterías, las más espectaculares y recientes celebradas en España.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/665346.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221033300 +0100" stop="20210221040500 +0100" channel="Cazavisión">
+    <title lang="es">Perros y Caza</title>
+    <sub-title lang="es">Perros Estrella: Xena, una braca 10 para San Huberto</sub-title>
+    <desc lang="es">Serie que hace un repaso a las peculiaridades de las diferentes razas cazadoras: Cómo actúan, cómo cazan, cuáles son sus puntos débiles, sus puntos fuertes y diferentes técnicas y recomendaciones sobre cada raza.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/9d/410269.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221040500 +0100" stop="20210221045000 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <sub-title lang="es">PROYECTO: Salvar la perdiz roja. Caza en mano y con perro de muestra</sub-title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor. Ojeos de perdices, tiradas de palomas, caza con reclamo, caza de zorzales y becadas, descastes de conejos, media veda, silvestrismo...(n)</desc>
+    <category lang="es">Caza Menor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e1/617441.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221045000 +0100" stop="20210221052200 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <sub-title lang="es">Montería de jabalíes en Santa Quiteria</sub-title>
+    <desc lang="es">Programa que muestra imágenes de las mejores monterías, las más espectaculares y recientes celebradas en España.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/665346.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221052200 +0100" stop="20210221055300 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <sub-title lang="es">Tras el macho de Gredos en primavera</sub-title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies. Jabalíes, venados, corzos, machos monteses y otros ejemplares, cazados a rececho, en batida, en espera?(n)</desc>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/617365.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221055300 +0100" stop="20210221065200 +0100" channel="Cazavisión">
+    <title lang="es">De Caza en la vecina Francia</title>
+    <sub-title lang="es">Caza de palomas y murciélagos en Nueva Caledonia</sub-title>
+    <desc lang="es">El programa acerca a las especies que abaten y las modalidades venatorias que practican los cazadores galos, muchas de ellas compartidas en España y que provocan la sensación de estar cazando en los cotos españoles.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f9/665337.png" />
+    <country lang="es">Francia</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221065200 +0100" stop="20210221071400 +0100" channel="Cazavisión">
+    <title lang="es">Solo Hunter</title>
+    <sub-title lang="es">Con arco y rifle, en busca de un gran cola blanca</sub-title>
+    <desc lang="es">Solo Hunter es una serie de aventuras extremas de caza a través de los ojos del cazador. No hay equipos de producción ni cámara. Una aventura de caza independiente, autosuficiente, de preparación personal y estrategia.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/21/565281.png" />
+    <country lang="es">España</country>
+  </programme>
+  <programme start="20210221071400 +0100" stop="20210221080000 +0100" channel="Cazavisión">
+    <title lang="es">Caza Salvaje en lugares extremos</title>
+    <sub-title lang="es">En Siberia, tras el oso pardo</sub-title>
+    <desc lang="es">Los famosos cazadores Jim Shockey y Corey Knowlton acercan las más increíbles y salvajes cacerías en los enclaves más inexplorados y extremos del planeta.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f5/665333.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221080000 +0100" stop="20210221083100 +0100" channel="Cazavisión">
+    <title lang="es">Pro-Hunters</title>
+    <sub-title lang="es">Corzos en Junio con Sergio y Alberto</sub-title>
+    <desc lang="es">La imagen del profesional de caza siempre es fundamental ya que es quien conoce el terreno y los animales que se podrán cazar. Viviremos diferentes aventuras de caza tanto de mayor como de menor y aprenderemos de los mejores cazadores de nuestro territorio.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fa/680698.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221083100 +0100" stop="20210221090100 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <sub-title lang="es">Los Macarenos del Monte do Lobo</sub-title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies. Jabalíes, venados, corzos, machos monteses y otros ejemplares, cazados a rececho, en batida, en espera?(n)</desc>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/617365.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221090100 +0100" stop="20210221092800 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <sub-title lang="es">Montería en Arroyo Molino</sub-title>
+    <desc lang="es">Programa que muestra imágenes de las mejores monterías, las más espectaculares y recientes celebradas en España.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/665346.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221092800 +0100" stop="20210221100200 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <sub-title lang="es">Zorzales en la serranía de Cuenca</sub-title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor. Ojeos de perdices, tiradas de palomas, caza con reclamo, caza de zorzales y becadas, descastes de conejos, media veda, silvestrismo...(n)</desc>
+    <category lang="es">Caza Menor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e1/617441.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221100200 +0100" stop="20210221102400 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y chef en Reino Unido</title>
+    <sub-title lang="es">Cangrejos de río en el menú</sub-title>
+    <desc lang="es">Mike Robinson, cazador británico y restaurador galardonado con una Estrella Michelin, nos guía en un apasionante recorrido por la caza y la gastronomía.(n)</desc>
+    <credits>
+      <presenter>Mike Robinson</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/23/658723.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221102400 +0100" stop="20210221110000 +0100" channel="Cazavisión">
+    <title lang="es">De Caza en la vecina Francia</title>
+    <sub-title lang="es">Caza de palomas y perdices en tierras argentinas. Parte 2</sub-title>
+    <desc lang="es">El programa acerca a las especies que abaten y las modalidades venatorias que practican los cazadores galos, muchas de ellas compartidas en España y que provocan la sensación de estar cazando en los cotos españoles.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f9/665337.png" />
+    <country lang="es">Francia</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221110000 +0100" stop="20210221112200 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y trampero en Norteamérica</title>
+    <sub-title lang="es">Tras el caribú en Alaska</sub-title>
+    <desc lang="es">Cazador y trampero en Norteamérica.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/04/676100.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221112200 +0100" stop="20210221115200 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <sub-title lang="es">En las Pilas monteando jabalíes</sub-title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies. Jabalíes, venados, corzos, machos monteses y otros ejemplares, cazados a rececho, en batida, en espera?(n)</desc>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/617365.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221115200 +0100" stop="20210221123700 +0100" channel="Cazavisión">
+    <title lang="es">Caza Salvaje en lugares extremos</title>
+    <sub-title lang="es">Sangre fría y gran experiencia tras los osos negros con arco</sub-title>
+    <desc lang="es">Los famosos cazadores Jim Shockey y Corey Knowlton acercan las más increíbles y salvajes cacerías en los enclaves más inexplorados y extremos del planeta.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f5/665333.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221123700 +0100" stop="20210221130800 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <sub-title lang="es">Jabalineros en la manchela conquense</sub-title>
+    <desc lang="es">Programa que muestra imágenes de las mejores monterías, las más espectaculares y recientes celebradas en España.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/665346.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221130800 +0100" stop="20210221133500 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras con Stiliyan Kadrev</title>
+    <title lang="en">The Adventures of Stiliyan Kadrev</title>
+    <sub-title lang="es">Batidas y esperas a los jabalíes en el invierno búlgaro</sub-title>
+    <desc lang="es">Disfruta de grandes lances y espectaculares imágenes alrededor del mundo, de la mano del reconocido cazador y productor Stiliyan Kadrev. Una serie repleta de trofeos de primera categoría, paisajes de ensueño y grandes momentos entre amigos.(n)</desc>
+    <credits>
+      <presenter>Stiliyan Kadrev</presenter>
+    </credits>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6b/411243.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221133500 +0100" stop="20210221140200 +0100" channel="Cazavisión">
+    <title lang="es">Caza en Asturias</title>
+    <sub-title lang="es">Montería Española</sub-title>
+    <desc lang="es">Una selección de los mejores documentales de Al acecho, programa de TPA dedicado a los aficionados a la caza. Un espacio que recorre el Principado, mostrando los mejores escenarios para la práctica de un deporte que cuenta con un importante número de seguidores.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/4e/410958.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221140200 +0100" stop="20210221150000 +0100" channel="Cazavisión">
+    <title lang="es">De Caza en la vecina Francia</title>
+    <sub-title lang="es">Jabalíes y jabalineros muy especiales, a los pies del Monte Aigoual</sub-title>
+    <desc lang="es">El programa acerca a las especies que abaten y las modalidades venatorias que practican los cazadores galos, muchas de ellas compartidas en España y que provocan la sensación de estar cazando en los cotos españoles.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f9/665337.png" />
+    <country lang="es">Francia</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221150000 +0100" stop="20210221154400 +0100" channel="Cazavisión">
+    <title lang="es">Caza Salvaje en lugares extremos</title>
+    <sub-title lang="es">Caza en el desierto de las gacelas Speke y Pelzelns</sub-title>
+    <desc lang="es">Los famosos cazadores Jim Shockey y Corey Knowlton acercan las más increíbles y salvajes cacerías en los enclaves más inexplorados y extremos del planeta.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f5/665333.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221154400 +0100" stop="20210221160700 +0100" channel="Cazavisión">
+    <title lang="es">The Birdmen</title>
+    <sub-title lang="es">Cacerías con mucho frío de aves anátidas</sub-title>
+    <desc lang="es">The Birdmen es una serie de caza de aves acuáticas en EEUU. Cada capítulo presenta cuatro cacerías o historias diferentes en cada capítulo y normalmente una de ellas se centra en la formación de futuros cazadores.(n)</desc>
+    <credits>
+      <presenter>Denis Isbister</presenter>
+    </credits>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/28/565288.png" />
+    <country lang="es">Estados Unidos</country>
+  </programme>
+  <programme start="20210221160700 +0100" stop="20210221165800 +0100" channel="Cazavisión">
+    <title lang="es">De caza por el Mundo</title>
+    <sub-title lang="es">Safari de elefante entre leones</sub-title>
+    <desc lang="es">Los mejores documentales de caza por el mundo están en Cazavisión. Recorreremos los territorios de caza más interesantes en busca de las especies de caza mayor y menor más valoradas por los aficionados.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/8d/410253.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221165800 +0100" stop="20210221174500 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <sub-title lang="es">Perdices en mano, persecuciones interminables</sub-title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor. Ojeos de perdices, tiradas de palomas, caza con reclamo, caza de zorzales y becadas, descastes de conejos, media veda, silvestrismo...(n)</desc>
+    <category lang="es">Caza Menor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e1/617441.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221174500 +0100" stop="20210221181800 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <sub-title lang="es">Monteando el chaparrón</sub-title>
+    <desc lang="es">Programa que muestra imágenes de las mejores monterías, las más espectaculares y recientes celebradas en España.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/665346.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221181800 +0100" stop="20210221184800 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <sub-title lang="es">Aguardo de jabalí con arco</sub-title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies. Jabalíes, venados, corzos, machos monteses y otros ejemplares, cazados a rececho, en batida, en espera?(n)</desc>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/617365.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221184800 +0100" stop="20210221191500 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras con Stiliyan Kadrev</title>
+    <title lang="en">The Adventures of Stiliyan Kadrev</title>
+    <sub-title lang="es">Tiros de todas las clases a las palomas y tórtolas argentinas</sub-title>
+    <desc lang="es">Disfruta de grandes lances y espectaculares imágenes alrededor del mundo, de la mano del reconocido cazador y productor Stiliyan Kadrev. Una serie repleta de trofeos de primera categoría, paisajes de ensueño y grandes momentos entre amigos.(n)</desc>
+    <credits>
+      <presenter>Stiliyan Kadrev</presenter>
+    </credits>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6b/411243.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221191500 +0100" stop="20210221194200 +0100" channel="Cazavisión">
+    <title lang="es">De Caza en la vecina Francia</title>
+    <sub-title lang="es">Cacerías invernales de patos y jabalíes en Mayenne</sub-title>
+    <desc lang="es">El programa acerca a las especies que abaten y las modalidades venatorias que practican los cazadores galos, muchas de ellas compartidas en España y que provocan la sensación de estar cazando en los cotos españoles.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f9/665337.png" />
+    <country lang="es">Francia</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221194200 +0100" stop="20210221200000 +0100" channel="Cazavisión">
+    <title lang="es">Pruebas de Armas y Tiro</title>
+    <sub-title lang="es">La armería de Cazavisión. Bergara 14 con JM</sub-title>
+    <desc lang="es">Reconocidos expertos prueban las últimas novedades en armas del mercado, y te ofrecen útiles consejos para perfeccionar nuestras técnicas de tiro de cara a futuras salidas cinegéticas.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/99/410265.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221200000 +0100" stop="20210221202100 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras de caza en los antiguos reinos vikingos</title>
+    <sub-title lang="es">Tras los majestuosos venados en la berrea húngara</sub-title>
+    <desc lang="es">Una espectacular serie que va más allá de la propia caza y nos habla de cómo el hombre puede aprovechar todo lo que la naturaleza le brinda para sobrevivir incluso en los entornos más extremos.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f4/665332.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221202100 +0100" stop="20210221210000 +0100" channel="Cazavisión">
+    <title lang="es">Cazadoras</title>
+    <sub-title lang="es">Rebeca Rego, hermana de viento</sub-title>
+    <desc lang="es">Programa en la que se muestran intensas jornadas de caza con diferentes mujeres como protagonistas. El espacio acompaña a las cazadoras y muestra todos los momentos que se viven en la caza.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/5f/520543.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221210000 +0100" stop="20210221213000 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <sub-title lang="es">Lances entre jaras y pinos</sub-title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies. Jabalíes, venados, corzos, machos monteses y otros ejemplares, cazados a rececho, en batida, en espera?(n)</desc>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/617365.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221213000 +0100" stop="20210221220400 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <sub-title lang="es">Torcaces entre pinares y viñedos</sub-title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor. Ojeos de perdices, tiradas de palomas, caza con reclamo, caza de zorzales y becadas, descastes de conejos, media veda, silvestrismo...(n)</desc>
+    <category lang="es">Caza Menor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e1/617441.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221220400 +0100" stop="20210221230000 +0100" channel="Cazavisión">
+    <title lang="es">Caza Salvaje en lugares extremos</title>
+    <sub-title lang="es">Problemas en México y cacería del cola blanca más difícil del mundo</sub-title>
+    <desc lang="es">Los famosos cazadores Jim Shockey y Corey Knowlton acercan las más increíbles y salvajes cacerías en los enclaves más inexplorados y extremos del planeta.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f5/665333.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221230000 +0100" stop="20210221233000 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <sub-title lang="es">Monteando en Cabeza Parda con cazadores franceses</sub-title>
+    <desc lang="es">Programa que muestra imágenes de las mejores monterías, las más espectaculares y recientes celebradas en España.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/665346.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210221233000 +0100" stop="20210222000300 +0100" channel="Cazavisión">
+    <title lang="es">De Caza en la vecina Francia</title>
+    <sub-title lang="es">La perdiz nival. Parte 2</sub-title>
+    <desc lang="es">El programa acerca a las especies que abaten y las modalidades venatorias que practican los cazadores galos, muchas de ellas compartidas en España y que provocan la sensación de estar cazando en los cotos españoles.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f9/665337.png" />
+    <country lang="es">Francia</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222000300 +0100" stop="20210222001800 +0100" channel="Cazavisión">
+    <title lang="es">Escuela de tiro aplicada a la caza</title>
+    <sub-title lang="es">El ojo director y el encare</sub-title>
+    <desc lang="es">Programa donde se muestra el aprendizaje del tiro aplicado a la caza.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fb/669691.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222001800 +0100" stop="20210222010300 +0100" channel="Cazavisión">
+    <title lang="es">Caza Salvaje en lugares extremos</title>
+    <sub-title lang="es">Hiena marrón y orix en el desierto de Namibia</sub-title>
+    <desc lang="es">Los famosos cazadores Jim Shockey y Corey Knowlton acercan las más increíbles y salvajes cacerías en los enclaves más inexplorados y extremos del planeta.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f5/665333.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222010300 +0100" stop="20210222015400 +0100" channel="Cazavisión">
+    <title lang="es">De caza por el Mundo</title>
+    <sub-title lang="es">Safari de elefante entre leones</sub-title>
+    <desc lang="es">Los mejores documentales de caza por el mundo están en Cazavisión. Recorreremos los territorios de caza más interesantes en busca de las especies de caza mayor y menor más valoradas por los aficionados.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/8d/410253.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222015400 +0100" stop="20210222022000 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras con Stiliyan Kadrev</title>
+    <title lang="en">The Adventures of Stiliyan Kadrev</title>
+    <sub-title lang="es">Orix, cebra y caza menor en un safari en Namibia</sub-title>
+    <desc lang="es">Disfruta de grandes lances y espectaculares imágenes alrededor del mundo, de la mano del reconocido cazador y productor Stiliyan Kadrev. Una serie repleta de trofeos de primera categoría, paisajes de ensueño y grandes momentos entre amigos.(n)</desc>
+    <credits>
+      <presenter>Stiliyan Kadrev</presenter>
+    </credits>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6b/411243.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222022000 +0100" stop="20210222024700 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <sub-title lang="es">Jornada de campeonas</sub-title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor. Ojeos de perdices, tiradas de palomas, caza con reclamo, caza de zorzales y becadas, descastes de conejos, media veda, silvestrismo...(n)</desc>
+    <category lang="es">Caza Menor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e1/617441.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222024700 +0100" stop="20210222033200 +0100" channel="Cazavisión">
+    <title lang="es">Caza Salvaje en lugares extremos</title>
+    <sub-title lang="es">Mucha paciencia y dos viajes para cazar el oso pardo del Amur</sub-title>
+    <desc lang="es">Los famosos cazadores Jim Shockey y Corey Knowlton acercan las más increíbles y salvajes cacerías en los enclaves más inexplorados y extremos del planeta.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f5/665333.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222033200 +0100" stop="20210222035700 +0100" channel="Cazavisión">
+    <title lang="es">Escuela de tiro aplicada a la caza</title>
+    <sub-title lang="es">El cartucho y el choke</sub-title>
+    <desc lang="es">Programa donde se muestra el aprendizaje del tiro aplicado a la caza.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fb/669691.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222035700 +0100" stop="20210222040200 +0100" channel="Cazavisión">
+    <title lang="es">Lances</title>
+    <sub-title lang="es">Extreme Pheasants</sub-title>
+    <desc lang="es">Programa, con formato de revista semanal, sobre la caza y la pesca en Andalucía. Sus diversas secciones mostrarán la actualidad, los personajes, los lugares y otros muchos temas relacionados con el apasionante mundo de la cinegética y la pesca deportiva.(n)</desc>
+    <date>2002</date>
+    <category lang="es">Pesca</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/04/203012.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222040200 +0100" stop="20210222043300 +0100" channel="Cazavisión">
+    <title lang="es">Pro-Hunters</title>
+    <sub-title lang="es">Corzos en Junio con Sergio y Alberto</sub-title>
+    <desc lang="es">La imagen del profesional de caza siempre es fundamental ya que es quien conoce el terreno y los animales que se podrán cazar. Viviremos diferentes aventuras de caza tanto de mayor como de menor y aprenderemos de los mejores cazadores de nuestro territorio.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fa/680698.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222043300 +0100" stop="20210222050400 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <sub-title lang="es">Zorzales al paso, inicio de temporada</sub-title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor. Ojeos de perdices, tiradas de palomas, caza con reclamo, caza de zorzales y becadas, descastes de conejos, media veda, silvestrismo...(n)</desc>
+    <category lang="es">Caza Menor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e1/617441.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222050400 +0100" stop="20210222052600 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y chef en Reino Unido</title>
+    <sub-title lang="es">Ciervo Sika del sur de Inglaterra</sub-title>
+    <desc lang="es">Mike Robinson, cazador británico y restaurador galardonado con una Estrella Michelin, nos guía en un apasionante recorrido por la caza y la gastronomía.(n)</desc>
+    <credits>
+      <presenter>Mike Robinson</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/23/658723.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222052600 +0100" stop="20210222053600 +0100" channel="Cazavisión">
+    <title lang="es">Escuela de tiro aplicada a la caza</title>
+    <sub-title lang="es">La elección de material y arma</sub-title>
+    <desc lang="es">Programa donde se muestra el aprendizaje del tiro aplicado a la caza.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fb/669691.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222053600 +0100" stop="20210222060400 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras con Stiliyan Kadrev</title>
+    <title lang="en">The Adventures of Stiliyan Kadrev</title>
+    <sub-title lang="es">Caza en la berrea con la Premio Weatrherby, Rene Snider</sub-title>
+    <desc lang="es">Disfruta de grandes lances y espectaculares imágenes alrededor del mundo, de la mano del reconocido cazador y productor Stiliyan Kadrev. Una serie repleta de trofeos de primera categoría, paisajes de ensueño y grandes momentos entre amigos.(n)</desc>
+    <credits>
+      <presenter>Stiliyan Kadrev</presenter>
+    </credits>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6b/411243.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222060400 +0100" stop="20210222062700 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y trampero en Norteamérica</title>
+    <desc lang="es">Cazador y trampero en Norteamérica.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/04/676100.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222062700 +0100" stop="20210222065700 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <sub-title lang="es">Los Macarenos del Monte do Lobo</sub-title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies. Jabalíes, venados, corzos, machos monteses y otros ejemplares, cazados a rececho, en batida, en espera?(n)</desc>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/617365.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222065700 +0100" stop="20210222072000 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y chef en Reino Unido</title>
+    <sub-title lang="es">Ensalada de paloma con bacon y morcilla</sub-title>
+    <desc lang="es">Mike Robinson, cazador británico y restaurador galardonado con una Estrella Michelin, nos guía en un apasionante recorrido por la caza y la gastronomía.(n)</desc>
+    <credits>
+      <presenter>Mike Robinson</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/23/658723.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222072000 +0100" stop="20210222080000 +0100" channel="Cazavisión">
+    <title lang="es">Los secretos de África</title>
+    <desc lang="es">Producción que vuelve a unir a los Young Wild Hunters. En estos documentales, se vive la caza desde un punto de vista diferente, el de unos jóvenes cazadores que buscarán cumplir su sueño venatorio en el mítico continente negro.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/65/655461.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222080000 +0100" stop="20210222085500 +0100" channel="Cazavisión">
+    <title lang="es">De Caza en la vecina Francia</title>
+    <sub-title lang="es">Tras los rebecos en el Pirineo francés</sub-title>
+    <desc lang="es">El programa acerca a las especies que abaten y las modalidades venatorias que practican los cazadores galos, muchas de ellas compartidas en España y que provocan la sensación de estar cazando en los cotos españoles.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f9/665337.png" />
+    <country lang="es">Francia</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222085500 +0100" stop="20210222090000 +0100" channel="Cazavisión">
+    <title lang="es">Pruebas de Armas y Tiro</title>
+    <sub-title lang="es">La armería de Cazavisión. Caldwell con JM</sub-title>
+    <desc lang="es">Reconocidos expertos prueban las últimas novedades en armas del mercado, y te ofrecen útiles consejos para perfeccionar nuestras técnicas de tiro de cara a futuras salidas cinegéticas.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/99/410265.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222090000 +0100" stop="20210222092700 +0100" channel="Cazavisión">
+    <title lang="es">Zona de Caza</title>
+    <sub-title lang="es">De la enigmática becada a la reina perdiz</sub-title>
+    <desc lang="es">Zona de Caza.(n)</desc>
+    <date>2013</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/69/655465.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210222092700 +0100" stop="20210222095000 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y trampero en Norteamérica</title>
+    <sub-title lang="es">Caza del alce, una gran aventura</sub-title>
+    <desc lang="es">Cazador y trampero en Norteamérica.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/04/676100.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222095000 +0100" stop="20210222103400 +0100" channel="Cazavisión">
+    <title lang="es">Caza Salvaje en lugares extremos</title>
+    <sub-title lang="es">Beira, el pequeño antílope de Somalia</sub-title>
+    <desc lang="es">Los famosos cazadores Jim Shockey y Corey Knowlton acercan las más increíbles y salvajes cacerías en los enclaves más inexplorados y extremos del planeta.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f5/665333.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222103400 +0100" stop="20210222110000 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y chef en Reino Unido</title>
+    <sub-title lang="es">Conejos cazados con rifle en pleno verano en el menú</sub-title>
+    <desc lang="es">Mike Robinson, cazador británico y restaurador galardonado con una Estrella Michelin, nos guía en un apasionante recorrido por la caza y la gastronomía.(n)</desc>
+    <credits>
+      <presenter>Mike Robinson</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/23/658723.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222110000 +0100" stop="20210222113500 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <sub-title lang="es">Monteando al norte del Duero</sub-title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies. Jabalíes, venados, corzos, machos monteses y otros ejemplares, cazados a rececho, en batida, en espera?(n)</desc>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/617365.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222113500 +0100" stop="20210222120100 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras con Stiliyan Kadrev</title>
+    <title lang="en">The Adventures of Stiliyan Kadrev</title>
+    <sub-title lang="es">Hipopótamos en Sudáfrica, la caza del titán acuático</sub-title>
+    <desc lang="es">Disfruta de grandes lances y espectaculares imágenes alrededor del mundo, de la mano del reconocido cazador y productor Stiliyan Kadrev. Una serie repleta de trofeos de primera categoría, paisajes de ensueño y grandes momentos entre amigos.(n)</desc>
+    <credits>
+      <presenter>Stiliyan Kadrev</presenter>
+    </credits>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6b/411243.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222120100 +0100" stop="20210222123100 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <sub-title lang="es">De montería en el Barranco del Poyuelo</sub-title>
+    <desc lang="es">Programa que muestra imágenes de las mejores monterías, las más espectaculares y recientes celebradas en España.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/665346.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222123100 +0100" stop="20210222125300 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y trampero en Norteamérica</title>
+    <sub-title lang="es">Fuertes emociones con el oso en las Rocosas</sub-title>
+    <desc lang="es">Cazador y trampero en Norteamérica.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/04/676100.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222125300 +0100" stop="20210222132500 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <sub-title lang="es">Metal en el Barranco</sub-title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies. Jabalíes, venados, corzos, machos monteses y otros ejemplares, cazados a rececho, en batida, en espera?(n)</desc>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/617365.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222132500 +0100" stop="20210222134700 +0100" channel="Cazavisión">
+    <title lang="es">De Caza en la vecina Francia</title>
+    <sub-title lang="es">Caza de palomas y perdices en tierras argentinas. Parte 1</sub-title>
+    <desc lang="es">El programa acerca a las especies que abaten y las modalidades venatorias que practican los cazadores galos, muchas de ellas compartidas en España y que provocan la sensación de estar cazando en los cotos españoles.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f9/665337.png" />
+    <country lang="es">Francia</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222134700 +0100" stop="20210222141600 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras con Stiliyan Kadrev</title>
+    <title lang="en">The Adventures of Stiliyan Kadrev</title>
+    <sub-title lang="es">Papúa, un destino de caza mayor con gran encanto</sub-title>
+    <desc lang="es">Disfruta de grandes lances y espectaculares imágenes alrededor del mundo, de la mano del reconocido cazador y productor Stiliyan Kadrev. Una serie repleta de trofeos de primera categoría, paisajes de ensueño y grandes momentos entre amigos.(n)</desc>
+    <credits>
+      <presenter>Stiliyan Kadrev</presenter>
+    </credits>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6b/411243.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222141600 +0100" stop="20210222144700 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <sub-title lang="es">Descaste de conejos en Alcabon</sub-title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor. Ojeos de perdices, tiradas de palomas, caza con reclamo, caza de zorzales y becadas, descastes de conejos, media veda, silvestrismo...(n)</desc>
+    <category lang="es">Caza Menor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e1/617441.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222144700 +0100" stop="20210222150900 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras de caza en los antiguos reinos vikingos</title>
+    <sub-title lang="es">Tras los majestuosos venados en la berrea húngara</sub-title>
+    <desc lang="es">Una espectacular serie que va más allá de la propia caza y nos habla de cómo el hombre puede aprovechar todo lo que la naturaleza le brinda para sobrevivir incluso en los entornos más extremos.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f4/665332.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222150900 +0100" stop="20210222153800 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <sub-title lang="es">Monteando en Agrobom, una aldea portuguesa</sub-title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies. Jabalíes, venados, corzos, machos monteses y otros ejemplares, cazados a rececho, en batida, en espera?(n)</desc>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/617365.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222153800 +0100" stop="20210222162200 +0100" channel="Cazavisión">
+    <title lang="es">Caza Salvaje en lugares extremos</title>
+    <sub-title lang="es">Markhor de Cachemira, el gran reto de la alta montaña asiática</sub-title>
+    <desc lang="es">Los famosos cazadores Jim Shockey y Corey Knowlton acercan las más increíbles y salvajes cacerías en los enclaves más inexplorados y extremos del planeta.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f5/665333.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222162200 +0100" stop="20210222165200 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <sub-title lang="es">A perdices con el subcampeon del mundo</sub-title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor. Ojeos de perdices, tiradas de palomas, caza con reclamo, caza de zorzales y becadas, descastes de conejos, media veda, silvestrismo...(n)</desc>
+    <category lang="es">Caza Menor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e1/617441.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222165200 +0100" stop="20210222171500 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y trampero en Norteamérica</title>
+    <sub-title lang="es">Un gran elk a tiro</sub-title>
+    <desc lang="es">Cazador y trampero en Norteamérica.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/04/676100.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222171500 +0100" stop="20210222174400 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <sub-title lang="es">Lances a jabalíes en Los Riscos</sub-title>
+    <desc lang="es">Programa que muestra imágenes de las mejores monterías, las más espectaculares y recientes celebradas en España.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/665346.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222174400 +0100" stop="20210222175900 +0100" channel="Cazavisión">
+    <title lang="es">Escuela de tiro aplicada a la caza</title>
+    <sub-title lang="es">La postura correcta de disparo</sub-title>
+    <desc lang="es">Programa donde se muestra el aprendizaje del tiro aplicado a la caza.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fb/669691.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222175900 +0100" stop="20210222182900 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <sub-title lang="es">Gestión poblacional de corzas y jabalíes</sub-title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies. Jabalíes, venados, corzos, machos monteses y otros ejemplares, cazados a rececho, en batida, en espera?(n)</desc>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/617365.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222182900 +0100" stop="20210222185800 +0100" channel="Cazavisión">
+    <title lang="es">A tiro</title>
+    <sub-title lang="es">Corzo de Montaña</sub-title>
+    <desc lang="es">Espacio conducido por Ramón A.C. Fitó es periodista, experto cazador y tirador del más alto nivel que ha llegado a ser campeón de Europa de Tiro a larga distancia (2013).(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/63/655459.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222185800 +0100" stop="20210222192000 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y chef en Reino Unido</title>
+    <desc lang="es">Mike Robinson, cazador británico y restaurador galardonado con una Estrella Michelin, nos guía en un apasionante recorrido por la caza y la gastronomía.(n)</desc>
+    <credits>
+      <presenter>Mike Robinson</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/23/658723.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222192000 +0100" stop="20210222200000 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <sub-title lang="es">Montería de jabalíes en el Halcón</sub-title>
+    <desc lang="es">Programa que muestra imágenes de las mejores monterías, las más espectaculares y recientes celebradas en España.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/665346.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222200000 +0100" stop="20210222203000 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <sub-title lang="es">La ronca del gamo en Portugal y España</sub-title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies. Jabalíes, venados, corzos, machos monteses y otros ejemplares, cazados a rececho, en batida, en espera….(n)</desc>
+    <category lang="es">Caza Mayor</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/617365.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222203000 +0100" stop="20210222210100 +0100" channel="Cazavisión">
+    <title lang="es">Un sueño hecho realidad</title>
+    <sub-title lang="es">El Gran oso Negro de Canadá</sub-title>
+    <desc lang="es">Serie con la que disfrutar de las jornadas cinegéticas soñadas por los protagonistas. El programa recorre el mundo en busca de esos trofeos deseados por cualquier cazador que se precie.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/c5/543173.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222210100 +0100" stop="20210222214000 +0100" channel="Cazavisión">
+    <title lang="es">Cazadoras</title>
+    <sub-title lang="es">Rebeca Rego, hermana de viento</sub-title>
+    <desc lang="es">Programa en la que se muestran intensas jornadas de caza con diferentes mujeres como protagonistas. El espacio acompaña a las cazadoras y muestra todos los momentos que se viven en la caza.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/5f/520543.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222214000 +0100" stop="20210222220900 +0100" channel="Cazavisión">
+    <title lang="es">De Caza en la vecina Francia</title>
+    <sub-title lang="es">Por qué el setter inglés es tan popular entre los cazadores galos?</sub-title>
+    <desc lang="es">El programa acerca a las especies que abaten y las modalidades venatorias que practican los cazadores galos, muchas de ellas compartidas en España y que provocan la sensación de estar cazando en los cotos españoles.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f9/665337.png" />
+    <country lang="es">Francia</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222220900 +0100" stop="20210222224100 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <sub-title lang="es">Montería en Valdepotros</sub-title>
+    <desc lang="es">Programa que muestra imágenes de las mejores monterías, las más espectaculares y recientes celebradas en España.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/665346.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210222224100 +0100" stop="20210222230000 +0100" channel="Cazavisión">
+    <title lang="es">Escuela de tiro aplicada a la caza</title>
+    <sub-title lang="es">La escopeta</sub-title>
+    <desc lang="es">Programa donde se muestra el aprendizaje del tiro aplicado a la caza.(n)</desc>
+    <category lang="es">Caza</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fb/669691.png" />
+    <rating>
+      <value>12</value>
+    </rating>
   </programme>
 </tv>
