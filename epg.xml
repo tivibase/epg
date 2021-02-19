@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="La 1">
+    <display-name lang="es">La 1</display-name>
+    <url>http://www.formulatv.com</url>
+  </channel>
+  <channel id="Cazavisión">
+    <display-name lang="es">Cazavisión</display-name>
+    <icon src="http://www.elmundo.es//elmundo/iconos/v2.1/television/logos/grandes/cazavision.jpg" />
+    <url>http://www.elmundo.es.mp</url>
+  </channel>
+  <programme start="20210219060000 +0100" stop="20210219063000 +0100" channel="La 1">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20210219063000 +0100" stop="20210219080000 +0100" channel="La 1">
+    <title lang="es">Telediario matinal</title>
+  </programme>
+  <programme start="20210219080000 +0100" stop="20210219100000 +0100" channel="La 1">
+    <title lang="es">La hora de La 1</title>
+    <sub-title lang="es">La hora política</sub-title>
+  </programme>
+  <programme start="20210219100000 +0100" stop="20210219123000 +0100" channel="La 1">
+    <title lang="es">La hora de La 1</title>
+    <sub-title lang="es">La hora de la actualidad</sub-title>
+  </programme>
+  <programme start="20210219123000 +0100" stop="20210219140000 +0100" channel="La 1">
+    <title lang="es">Las cosas claras</title>
+  </programme>
+  <programme start="20210219140000 +0100" stop="20210219141500 +0100" channel="La 1">
+    <title lang="es">Informativo territorial</title>
+  </programme>
+  <programme start="20210219141500 +0100" stop="20210219150000 +0100" channel="La 1">
+    <title lang="es">Las cosas claras</title>
+  </programme>
+  <programme start="20210219150000 +0100" stop="20210219160000 +0100" channel="La 1">
+    <title lang="es">Telediario 1</title>
+  </programme>
+  <programme start="20210219160000 +0100" stop="20210219162000 +0100" channel="La 1">
+    <title lang="es">Informativo territorial</title>
+    <sub-title lang="es">Resumen</sub-title>
+  </programme>
+  <programme start="20210219162000 +0100" stop="20210219163500 +0100" channel="La 1">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210219163500 +0100" stop="20210219172500 +0100" channel="La 1">
+    <title lang="es">Dos vidas</title>
+  </programme>
+  <programme start="20210219172500 +0100" stop="20210219181500 +0100" channel="La 1">
+    <title lang="es">Servir y proteger</title>
+  </programme>
+  <programme start="20210219181500 +0100" stop="20210219191000 +0100" channel="La 1">
+    <title lang="es">Acacias, 38</title>
+  </programme>
+  <programme start="20210219191000 +0100" stop="20210219200000 +0100" channel="La 1">
+    <title lang="es">El cazador</title>
+  </programme>
+  <programme start="20210219200000 +0100" stop="20210219203000 +0100" channel="La 1">
+    <title lang="es">España directo</title>
+  </programme>
+  <programme start="20210219203000 +0100" stop="20210219210000 +0100" channel="La 1">
+    <title lang="es">Aquí la Tierra</title>
+  </programme>
+  <programme start="20210219210000 +0100" stop="20210219220000 +0100" channel="La 1">
+    <title lang="es">Telediario 2</title>
+    <sub-title lang="es">Incluye: El tiempo</sub-title>
+  </programme>
+  <programme start="20210219220000 +0100" stop="20210219221500 +0100" channel="La 1">
+    <title lang="es">La suerte en tus manos</title>
+  </programme>
+  <programme start="20210220010500 +0100" stop="20210220021500 +0100" channel="La 1">
+    <title lang="es">Promesas de arena</title>
+  </programme>
+  <programme start="20210220021500 +0100" stop="20210220060000 +0100" channel="La 1">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20210220060000 +0100" stop="20210220060000 +0100" channel="La 1">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20210220060000 +0100" stop="20210220094500 +0100" channel="La 1">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20210220094500 +0100" stop="20210220104000 +0100" channel="La 1">
+    <title lang="es">Comando actualidad</title>
+  </programme>
+  <programme start="20210220104000 +0100" stop="20210220133000 +0100" channel="La 1">
+    <title lang="es">Maestros de la costura</title>
+    <sub-title lang="es">(R)</sub-title>
+  </programme>
+  <programme start="20210220133000 +0100" stop="20210220140000 +0100" channel="La 1">
+    <title lang="es">Audiencia abierta</title>
+  </programme>
+  <programme start="20210220140000 +0100" stop="20210220143000 +0100" channel="La 1">
+    <title lang="es">Flash moda</title>
+  </programme>
+  <programme start="20210220143000 +0100" stop="20210220150000 +0100" channel="La 1">
+    <title lang="es">Corazón</title>
+  </programme>
+  <programme start="20210220150000 +0100" stop="20210220160000 +0100" channel="La 1">
+    <title lang="es">Telediario fin de semana 1</title>
+    <sub-title lang="es">Incluye: El tiempo</sub-title>
+  </programme>
+  <programme start="20210220160000 +0100" stop="20210220173000 +0100" channel="La 1">
+    <title lang="es">Sesión de tarde</title>
+    <sub-title lang="es">Un embarazo inesperado</sub-title>
+  </programme>
+  <programme start="20210220173000 +0100" stop="20210220190000 +0100" channel="La 1">
+    <title lang="es">Sesión de tarde</title>
+    <sub-title lang="es">A los abogados no se les besa</sub-title>
+  </programme>
+  <programme start="20210220190000 +0100" stop="20210220210000 +0100" channel="La 1">
+    <title lang="es">Cine de barrio</title>
+    <sub-title lang="es">No somos ni Romeo ni Julieta</sub-title>
+  </programme>
+  <programme start="20210220210000 +0100" stop="20210220213000 +0100" channel="La 1">
+    <title lang="es">Telediario fin de semana 2</title>
+    <sub-title lang="es">Incluye: El tiempo</sub-title>
+  </programme>
+  <programme start="20210220213000 +0100" stop="20210220220000 +0100" channel="La 1">
+    <title lang="es">Informe semanal</title>
+  </programme>
+  <programme start="20210221010500 +0100" stop="20210221022500 +0100" channel="La 1">
+    <title lang="es">Cine</title>
+    <sub-title lang="es">Me necesitas</sub-title>
+  </programme>
+  <programme start="20210221022500 +0100" stop="20210221060000 +0100" channel="La 1">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20210221060000 +0100" stop="20210221060000 +0100" channel="La 1">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20210221060000 +0100" stop="20210221090000 +0100" channel="La 1">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20210221090000 +0100" stop="20210221093000 +0100" channel="La 1">
+    <title lang="es">Seguridad vital</title>
+  </programme>
+  <programme start="20210221093000 +0100" stop="20210221112000 +0100" channel="La 1">
+    <title lang="es">Viaje al centro de la tele</title>
+    <sub-title lang="es">(R)</sub-title>
+  </programme>
+  <programme start="20210221112000 +0100" stop="20210221130500 +0100" channel="La 1">
+    <title lang="es">Españoles en el mundo</title>
+  </programme>
+  <programme start="20210221130500 +0100" stop="20210221135500 +0100" channel="La 1">
+    <title lang="es">Como sapiens</title>
+  </programme>
+  <programme start="20210221135500 +0100" stop="20210221143000 +0100" channel="La 1">
+    <title lang="es">TVEmos</title>
+  </programme>
+  <programme start="20210221143000 +0100" stop="20210221150000 +0100" channel="La 1">
+    <title lang="es">Corazón</title>
+  </programme>
+  <programme start="20210221150000 +0100" stop="20210221160000 +0100" channel="La 1">
+    <title lang="es">Telediario fin de semana 1</title>
+    <sub-title lang="es">Incluye: El tiempo</sub-title>
+  </programme>
+  <programme start="20210221160000 +0100" stop="20210221203000 +0100" channel="La 1">
+    <title lang="es">Sesión de tarde</title>
+    <sub-title lang="es">Bella Germania</sub-title>
+  </programme>
+  <programme start="20210221203000 +0100" stop="20210221210000 +0100" channel="La 1">
+    <title lang="es">Aquí la Tierra</title>
+  </programme>
+  <programme start="20210221210000 +0100" stop="20210221220500 +0100" channel="La 1">
+    <title lang="es">Telediario 2</title>
+  </programme>
+</tv>
