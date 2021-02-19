@@ -4,10 +4,15 @@
     <display-name lang="es">La 1</display-name>
     <url>http://www.formulatv.com</url>
   </channel>
+  <channel id="La 2">
+    <display-name lang="es">La 2</display-name>
+    <icon src="http://www.elmundo.es//elmundo/iconos/v2.1/television/logos/grandes/tve2.jpg" />
+    <url>http://www.elmundo.es</url>
+  </channel>
   <channel id="Cazavisión">
     <display-name lang="es">Cazavisión</display-name>
     <icon src="http://www.elmundo.es//elmundo/iconos/v2.1/television/logos/grandes/cazavision.jpg" />
-    <url>http://www.elmundo.es.mp</url>
+    <url>http://www.elmundo.es</url>
   </channel>
   <programme start="20210219060000 +0100" stop="20210219063000 +0100" channel="La 1">
     <title lang="es">Noticias 24h</title>
