@@ -133,8 +133,12 @@
     <display-name lang="es">Pluto TV Series</display-name>
     <url>http://www.merge-xmltv</url>
   </channel>
+  <channel id="5f1abce155a03d0007718834">
+    <display-name lang="es">Pluto TV Comedy</display-name>
+    <url>http://www.merge-xmltv</url>
+  </channel>
   <channel id="5f9853138d19af0007104a8d">
-    <display-name lang="es">Pluto TV Series Comedia</display-name>
+    <display-name lang="es">Pluto TV Comedia Made in Spain</display-name>
     <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="Cazavisión">
@@ -27285,6 +27289,138 @@
     <sub-title lang="es">Looks and Books</sub-title>
     <desc lang="es">Lindsay tiene una crisis en su relación con los frikis. Sam intenta mejorar, por fuera.(n)</desc>
     <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210223084500 +0100" stop="20210223091000 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">Central de Cómicos</title>
+    <sub-title lang="es">Víctor Herrero: Ahorrando</sub-title>
+    <desc lang="es">Víctor Herrero, cómico sevillano, tiene la solución para que España salga de la crisis: que nos gobiernen las madres españolas.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210223091000 +0100" stop="20210223093600 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">Central de Cómicos</title>
+    <sub-title lang="es">Jorge Segura: Running Horses: mi dedo en tu nariz (II)</sub-title>
+    <desc lang="es">Jorge tiene un mandamiento claro: fastidiar al prójimo como a él mismo, destripando con lucidez cualquier aspecto de nuestro día a día..(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210223093600 +0100" stop="20210223100000 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">Central de Cómicos</title>
+    <sub-title lang="es">Álvaro Velasco: Soy becario porque el mundo me ha hecho así</sub-title>
+    <desc lang="es">En su primer monólogo, Álvaro Velasco hace una gran sátira sobre el mundo universitario y la fauna del extrarradio madrileño.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210223100000 +0100" stop="20210223103800 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">SMONKA! ES</title>
+    <sub-title lang="es">Episodio 261</sub-title>
+    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
+    <category lang="es">Classics</category>
+  </programme>
+  <programme start="20210223103800 +0100" stop="20210223111300 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">SMONKA! ES</title>
+    <sub-title lang="es">Episodio 262</sub-title>
+    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
+    <category lang="es">Classics</category>
+  </programme>
+  <programme start="20210223111300 +0100" stop="20210223114900 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">SMONKA! ES</title>
+    <sub-title lang="es">Episodio 264</sub-title>
+    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
+    <category lang="es">Classics</category>
+  </programme>
+  <programme start="20210223114900 +0100" stop="20210223122500 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">SMONKA! ES</title>
+    <sub-title lang="es">Especial "Plug and Play"</sub-title>
+    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
+    <category lang="es">Classics</category>
+  </programme>
+  <programme start="20210223122500 +0100" stop="20210223125300 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">SMONKA! ES: SMONKA! 126</title>
+    <sub-title lang="es">SMONKA! 126</sub-title>
+    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
+    <category lang="es">Classics</category>
+  </programme>
+  <programme start="20210223125300 +0100" stop="20210223132100 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">SMONKA! ES: SMONKA! 127</title>
+    <sub-title lang="es">SMONKA! 127</sub-title>
+    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
+    <category lang="es">Classics</category>
+  </programme>
+  <programme start="20210223132100 +0100" stop="20210223134900 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">SMONKA! ES: SMONKA! 128</title>
+    <sub-title lang="es">SMONKA! 128</sub-title>
+    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
+    <category lang="es">Classics</category>
+  </programme>
+  <programme start="20210223134900 +0100" stop="20210223141800 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">SMONKA! ES: SMONKA! 129</title>
+    <sub-title lang="es">SMONKA! 129</sub-title>
+    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
+    <category lang="es">Classics</category>
+  </programme>
+  <programme start="20210223141800 +0100" stop="20210223144900 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">SMONKA! ES: SMONKA! 130</title>
+    <sub-title lang="es">SMONKA! 130</sub-title>
+    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
+    <category lang="es">Classics</category>
+  </programme>
+  <programme start="20210223144900 +0100" stop="20210223153600 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">La Hora de José Mota: 11</title>
+    <sub-title lang="es">11</sub-title>
+    <desc lang="es">En este episodio: Como la Vida Misma, El Chiste, Estará Pasando: 5D, Alfred Híco Presenta, Cabaret, Ciencia y Conocimiento: la Blasa, La Multa, La Boda, El Aberroncho, 3x2, El Tío la Vara y Facundo Collado: Juan Ramón Lucas, entre otros.(n)</desc>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20210223205400 +0100" stop="20210223214200 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">La Hora de José Mota: 10</title>
+    <sub-title lang="es">10</sub-title>
+    <desc lang="es">En este episodio: Cine: Séptimo Arte, Ansias Eleven, Fiebre del Sábado Noche, Regreso a Howard’s End, La Blasa: El Juego de tu Vida, Heat, Cansino Royal, El Tío la Vara, Mientras Usted Duerme y El Aberroncho, entre otros.(n)</desc>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20210224144900 +0100" stop="20210224153600 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">La Hora de José Mota: 11</title>
+    <sub-title lang="es">11</sub-title>
+    <desc lang="es">En este episodio: Como la Vida Misma, El Chiste, Estará Pasando: 5D, Alfred Híco Presenta, Cabaret, Ciencia y Conocimiento: la Blasa, La Multa, La Boda, El Aberroncho, 3x2, El Tío la Vara y Facundo Collado: Juan Ramón Lucas, entre otros.(n)</desc>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20210224153600 +0100" stop="20210224161900 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">La Hora de José Mota: 12</title>
+    <sub-title lang="es">12</sub-title>
+    <desc lang="es">En este episodio: Así en la Vida como en la Tele, Concursos de TV, 12 Hombres sin Piedad, Dices tú de Mili, Numeracos Palabros, Blasa y sus Amigos, INEM, Horarios, Ajuste de Tuercas, Nada x Aquí y el Tío la Vara, entre otros.(n)</desc>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20210224161900 +0100" stop="20210224184600 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">10 cómicos 10 - 2010 ES: 10 cómicos 10 - 2010</title>
+    <sub-title lang="es">10 cómicos 10 - 2010</sub-title>
+    <desc lang="es">Desde el Teatro Coliseum de Madrid, Ignatius Farray presenta una noche inolvidable con la actuación de Albert Boira, Ricardo Castella, Toni Moog , Hovik, Luis Álvaro, Paco Calavera, David Navarro, Dani Rovira, Iñaki Urrutia y J.J. Vaquero.(n)</desc>
+    <category lang="es">Classics</category>
+  </programme>
+  <programme start="20210224184600 +0100" stop="20210224191100 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">La Lista Tonta ES: La Lista Tonta 1</title>
+    <sub-title lang="es">La Lista Tonta 1</sub-title>
+    <desc lang="es">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
+    <category lang="es">Classics</category>
+  </programme>
+  <programme start="20210224191100 +0100" stop="20210224193600 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">La Lista Tonta ES: La Lista Tonta 2</title>
+    <sub-title lang="es">La Lista Tonta 2</sub-title>
+    <desc lang="es">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
+    <category lang="es">Classics</category>
+  </programme>
+  <programme start="20210224193600 +0100" stop="20210224200000 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">La Lista Tonta ES: La Lista Tonta 3</title>
+    <sub-title lang="es">La Lista Tonta 3</sub-title>
+    <desc lang="es">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
+    <category lang="es">Classics</category>
+  </programme>
+  <programme start="20210224200000 +0100" stop="20210224205400 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">La Hora de José Mota: 9</title>
+    <sub-title lang="es">9</sub-title>
+    <desc lang="es">En este episodio: Crisis, ¿qué crisis?, Metro, En el restaurante, Estará Pasando, La lista de la compra, Alarma Social, Dices tú de Mili, Empujando el coche, La Plaga, La Blasa: Corazón Vuelta y Vuelta, Partido Pendular y More, entre otros.(n)</desc>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20210224205400 +0100" stop="20210224214200 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">La Hora de José Mota: 10</title>
+    <sub-title lang="es">10</sub-title>
+    <desc lang="es">En este episodio: Cine: Séptimo Arte, Ansias Eleven, Fiebre del Sábado Noche, Regreso a Howard’s End, La Blasa: El Juego de tu Vida, Heat, Cansino Royal, El Tío la Vara, Mientras Usted Duerme y El Aberroncho, entre otros.(n)</desc>
+    <category lang="es">Music</category>
   </programme>
   <programme start="20210223085100 +0100" stop="20210223091500 +0100" channel="5f9853138d19af0007104a8d">
     <title lang="es">Big Time in Hollywood</title>
