@@ -10,8 +10,9 @@
     <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="5f1ac8f49205650007bc15f1">
-    <display-name lang="es">Pluto TV Series</display-name>
-    <url>http://www.merge-xmltv</url>
+    <display-name lang="en">Pluto TV Series</display-name>
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1ac8f49205650007bc15f1/logo.png" />
+    <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="5f1abce155a03d0007718834">
     <display-name lang="es">Pluto TV Comedy</display-name>
@@ -1506,269 +1507,214 @@
     <desc lang="es">Multideporte es la cadena interactiva de Movistar+. Accediendo a ella se pueden visualizar hasta nueve ventanas donde ver las diferentes emisiones de los canales deportivos.(n)</desc>
     <category lang="es">Sports</category>
   </programme>
-  <programme start="20210224052500 +0200" stop="20210224061200 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Acapulco H.E.A.T.</title>
-    <sub-title lang="es">Nombre de código: El fantasma</sub-title>
-    <desc lang="es">Un director de cine contrata a H.E.A.T. equipo para investigar una serie de accidentes que ocurrieron en el set.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
+  <programme start="20210224000000 +0000" stop="20210224091400 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">Pluto TV Series</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
   </programme>
-  <programme start="20210224061200 +0200" stop="20210224070000 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Acapulco H.E.A.T.</title>
-    <sub-title lang="es">Nombre de código: Cubo de sangre</sub-title>
-    <desc lang="es">Los médicos aprenden que la sangre de un criminal herido podría salvar la vida de niños enfermos, pero el hombre escapa antes de que puedan recogerla.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
+  <programme start="20210224091400 +0000" stop="20210224100400 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">Freaks And Geeks</title>
+    <desc lang="en">Lindsay se sorprende al ver que Nick es su novio y teme que quiera tener relaciones. Sam cree que tiene una oportunidad con Cindy Sanders. Pero descubren que las apariencias engañan.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f64603a25203500132da4e4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210224070000 +0200" stop="20210224073200 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">United States Of Tara</title>
-    <sub-title lang="es">Revolution</sub-title>
-    <desc lang="es">Tara se convierte en “T” y se va con su coche. Max y Charmaine van a buscarla, dándole la oportunidad perfecta a Marshall de celebrar una fiesta para poder estar cerca de su amor, Jason.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210224100400 +0000" stop="20210224105400 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">Freaks And Geeks</title>
+    <desc lang="en">A Lindsay le preocupa que Nick se esté volviendo demasiado intenso en la relación. Sam se convierte en la mascota del instituto para estar cerca de la animadora Cindy.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f64603a25203500132da4ef/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210224073200 +0200" stop="20210224080600 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">United States Of Tara</title>
-    <sub-title lang="es">Transition</sub-title>
-    <desc lang="es">La familia tiene la impresión de que los padres de Tara, Bev y Frank, están de visita para celebrar el cumpleaños de Charmaine.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210224105400 +0000" stop="20210224114400 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">Freaks And Geeks</title>
+    <desc lang="en">Bill lucha por conseguir que le respeten más en clase de gimnasia. Harold y Jean deciden que Kim es una mala influencia para su hija y le prohíben a Lindsay ver a su amiga.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f64603925203500132da49f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210224080600 +0200" stop="20210224084000 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">United States Of Tara</title>
-    <sub-title lang="es">Alterations</sub-title>
-    <desc lang="es">Charmaine ha decidido volver a operarse los pechos y le pide a Tara que la cuide mientras se recupera. Cuando Charmaine se despierta de la operación, se sorprende al ver a “Buck” junto a la cama y no a Tara.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210224114400 +0000" stop="20210224123400 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">Freaks And Geeks</title>
+    <desc lang="en">Lindsay tiene una crisis en su relación con los frikis. Sam intenta mejorar, por fuera.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f64603325203500132da3e6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210224084000 +0200" stop="20210224091400 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">United States Of Tara</title>
-    <sub-title lang="es">Abundance</sub-title>
-    <desc lang="es">Max está con las manos llenas mientras "Alice" sale. Marshall teme que el padre de Jason se dé cuenta de que está enamorados de su hijo. Los dos chicos profundizan en su amistad, aunque platónicamente.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210224123400 +0000" stop="20210224130000 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">Tarzán</title>
+    <desc lang="en">Jane y Roger están ocupados y les piden a Cheetah y Tantor que los dejen. Los amigos animales corren hacia un área con un león peligroso y Tarzán los rescata después de explicarles a Jane y Roger que los animales tienen sentimientos.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Classics</category>
+    <icon src="https://images.pluto.tv/episodes/5fe9b73c4aa70a001a4fcf7f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210224091400 +0200" stop="20210224100400 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Freaks And Geeks</title>
-    <sub-title lang="es">Girlfriends and Boyfriends</sub-title>
-    <desc lang="es">Lindsay se sorprende al ver que Nick es su novio y teme que quiera tener relaciones. Sam cree que tiene una oportunidad con Cindy Sanders. Pero descubren que las apariencias engañan.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210224130000 +0000" stop="20210224132600 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">Tarzán</title>
+    <desc lang="en">Jane debe rescatar a Tarzán cuando un viejo pozo de minas se derrumba, casi matándolo.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Classics</category>
+    <icon src="https://images.pluto.tv/episodes/5fe9b73c4aa70a001a4fcfb8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210224100400 +0200" stop="20210224105400 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Freaks And Geeks</title>
-    <sub-title lang="es">We've Got Spirit</sub-title>
-    <desc lang="es">A Lindsay le preocupa que Nick se esté volviendo demasiado intenso en la relación. Sam se convierte en la mascota del instituto para estar cerca de la animadora Cindy.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210224132600 +0000" stop="20210224135200 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">Tarzán</title>
+    <desc lang="en">Jack gana un globo de aire caliente en un juego de póker y ofrece enseñarle a Roger cómo volarlo, pero en su vuelo inicial se estrellan lejos del campamento. Contactados por radio, Tarzán y Jane emprenden un viaje nocturno para rescatarlos y acercarse.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Classics</category>
+    <icon src="https://images.pluto.tv/episodes/5fe9b73c4aa70a001a4fcf96/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210224105400 +0200" stop="20210224114400 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Freaks And Geeks</title>
-    <sub-title lang="es">The Diary</sub-title>
-    <desc lang="es">Bill lucha por conseguir que le respeten más en clase de gimnasia. Harold y Jean deciden que Kim es una mala influencia para su hija y le prohíben a Lindsay ver a su amiga.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210224135200 +0000" stop="20210224144300 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">Conan, el aventurero</title>
+    <desc lang="en">Conan se encuentra con un viejo arquero que lucha contra los soldados atacantes. Khartan mata al arquero, pero antes el viejo arquero le da a Conan una Flecha de Cristal especial que posee una gran magia.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Classics</category>
+    <icon src="https://images.pluto.tv/episodes/5fe9b7824aa70a001a4fd569/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210224114400 +0200" stop="20210224123400 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Freaks And Geeks</title>
-    <sub-title lang="es">Looks and Books</sub-title>
-    <desc lang="es">Lindsay tiene una crisis en su relación con los frikis. Sam intenta mejorar, por fuera.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210224144300 +0000" stop="20210224153400 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">Conan, el aventurero</title>
+    <desc lang="en">Conan, Bayu y Zzeben se encuentran con un hombre llamado Barr que viaja con tres mujeres que afirman que su hijo ha sido secuestrado. Pronto descubren un complot que involucra a una bestia mitad hombre y mitad toro llamada Bucentauro.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Classics</category>
+    <icon src="https://images.pluto.tv/episodes/5fe9b7824aa70a001a4fd578/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210224174500 +0200" stop="20210224183500 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Freaks And Geeks</title>
-    <sub-title lang="es">Carded and Discarded</sub-title>
-    <desc lang="es">Sam y sus amigos geeks se enamoran perdidamente de una preciosa estudiante de intercambio. Lindsay intenta conseguir documentos de identidad falsos para ella y para los frikis.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210224153400 +0000" stop="20210224160600 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">United States Of Tara</title>
+    <desc lang="en">Kate y Tara necesitan un respiro de la vida real y hacen un viaje improvisado por carretera. Ahora que Tara está lejos, Max busca respuestas sobre su pasado. Esa noche, Tara y Kate discuten, y eso hace que Tara se convierta en “T”.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f6af53c6a5806001378132a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210225114400 +0200" stop="20210225123400 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Freaks And Geeks</title>
-    <sub-title lang="es">Looks and Books</sub-title>
-    <desc lang="es">Lindsay tiene una crisis en su relación con los frikis. Sam intenta mejorar, por fuera.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210224160600 +0000" stop="20210224163900 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">United States Of Tara</title>
+    <desc lang="en">Cuando el Dr. Ocean concluye el tratamiento, Tara se va al spa con Charmaine. De vuelta a casa, una de las personalidades de Tara traiciona a Marshall, pudiendo destruir a la familia para siempre.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f6af53c6a58060013781340/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210225123400 +0200" stop="20210225130000 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Tarzán</title>
-    <sub-title lang="es">Tarzán y los fugitivos</sub-title>
-    <desc lang="es">Jane y Roger están ocupados y les piden a Cheetah y Tantor que los dejen. Los amigos animales corren hacia un área con un león peligroso y Tarzán los rescata después de explicarles a Jane y Roger que los animales tienen sentimientos.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
+  <programme start="20210224163900 +0000" stop="20210224171200 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">United States Of Tara</title>
+    <desc lang="en">Tara decide ingresar en un centro especializado en disociación. Allí, Tara conoce a un nuevo médico, el Dr. Holden, un experto carismático que la ayuda a recuperar recuerdos perdidos.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f6af53c6a58060013781338/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210225130000 +0200" stop="20210225132600 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Tarzán</title>
-    <sub-title lang="es">Tarzán y el eje de la muerte</sub-title>
-    <desc lang="es">Jane debe rescatar a Tarzán cuando un viejo pozo de minas se derrumba, casi matándolo.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
+  <programme start="20210224171200 +0000" stop="20210224174500 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">United States Of Tara</title>
+    <desc lang="en">Con la ayuda de Max y del Dr. Holden, Tara se encuentra cara a cara con una persona importante de su pasado. Pero cuando Tara mira a su familia, se da cuenta de que ella no es quien es por sus personalidades, sino por ellos.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f6af53c6a5806001378131d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210225132600 +0200" stop="20210225135200 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Tarzán</title>
-    <sub-title lang="es">Tarzán y el globo rebelde</sub-title>
-    <desc lang="es">Jack gana un globo de aire caliente en un juego de póker y ofrece enseñarle a Roger cómo volarlo, pero en su vuelo inicial se estrellan lejos del campamento. Contactados por radio, Tarzán y Jane emprenden un viaje nocturno para rescatarlos y acercarse.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
+  <programme start="20210224174500 +0000" stop="20210224183500 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">Freaks And Geeks</title>
+    <desc lang="en">Sam y sus amigos geeks se enamoran perdidamente de una preciosa estudiante de intercambio. Lindsay intenta conseguir documentos de identidad falsos para ella y para los frikis.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f64603425203500132da41f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210225135200 +0200" stop="20210225144300 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Conan, el aventurero</title>
-    <sub-title lang="es">La flecha de cristal</sub-title>
-    <desc lang="es">Conan se encuentra con un viejo arquero que lucha contra los soldados atacantes. Khartan mata al arquero, pero antes el viejo arquero le da a Conan una Flecha de Cristal especial que posee una gran magia.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
+  <programme start="20210224183500 +0000" stop="20210224192500 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">Freaks And Geeks</title>
+    <desc lang="en">Sam descubre algo desconcertante sobre el padre de Neal. Lindsay intenta reconstruir su amistad con Nick.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f64603325203500132da3d2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210225144300 +0200" stop="20210225153400 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Conan, el aventurero</title>
-    <sub-title lang="es">El laberinto</sub-title>
-    <desc lang="es">Conan, Bayu y Zzeben se encuentran con un hombre llamado Barr que viaja con tres mujeres que afirman que su hijo ha sido secuestrado. Pronto descubren un complot que involucra a una bestia mitad hombre y mitad toro llamada Bucentauro.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
+  <programme start="20210224192500 +0000" stop="20210224201500 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">Freaks And Geeks</title>
+    <desc lang="en">A Lindsay le preocupa que Nick se tire todo el día fumado. Alan, el abusón del instituto, le hace una broma a Bill, con resultados casi mortales.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f64603325203500132da3dc/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210225153400 +0200" stop="20210225160600 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">United States Of Tara</title>
-    <sub-title lang="es">Possibility</sub-title>
-    <desc lang="es">Kate y Tara necesitan un respiro de la vida real y hacen un viaje improvisado por carretera. Ahora que Tara está lejos, Max busca respuestas sobre su pasado. Esa noche, Tara y Kate discuten, y eso hace que Tara se convierta en “T”.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210224201500 +0000" stop="20210224210500 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">Freaks And Geeks</title>
+    <desc lang="en">A medida que se acerca el último día de clase, los frikis y los geeks intentan descubrir cuál es su lugar en el mundo.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f6af5a6ca44d10007f8e8af/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210225160600 +0200" stop="20210225163900 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">United States Of Tara</title>
-    <sub-title lang="es">Betrayal</sub-title>
-    <desc lang="es">Cuando el Dr. Ocean concluye el tratamiento, Tara se va al spa con Charmaine. De vuelta a casa, una de las personalidades de Tara traiciona a Marshall, pudiendo destruir a la familia para siempre.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210224210500 +0000" stop="20210224215800 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">Yellowstone: Sangre sobre el chico</title>
+    <desc lang="en">John se dispone a asociarse con un par de antiguos enemigos. Jamie toma una acción drástica para salvar el rancho. Jimmy prueba suerte en un concurso de rodeo con toros.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Classics</category>
+    <icon src="https://images.pluto.tv/episodes/6013cb032816a5001aa1e7b7/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210225163900 +0200" stop="20210225171200 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">United States Of Tara</title>
-    <sub-title lang="es">Snow</sub-title>
-    <desc lang="es">Tara decide ingresar en un centro especializado en disociación. Allí, Tara conoce a un nuevo médico, el Dr. Holden, un experto carismático que la ayuda a recuperar recuerdos perdidos.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210224215800 +0000" stop="20210224225000 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">Yellowstone: Día de Resurrección</title>
+    <desc lang="en">Las tensiones van en aumento ante la frustración de los hermanos Beck por la falta de colaboración de los Dutton.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Classics</category>
+    <icon src="https://images.pluto.tv/episodes/6011a285ce98800013ecc7e8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210225171200 +0200" stop="20210225174500 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">United States Of Tara</title>
-    <sub-title lang="es">Miracle</sub-title>
-    <desc lang="es">Con la ayuda de Max y del Dr. Holden, Tara se encuentra cara a cara con una persona importante de su pasado. Pero cuando Tara mira a su familia, se da cuenta de que ella no es quien es por sus personalidades, sino por ellos.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210225174500 +0200" stop="20210225183500 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Freaks And Geeks</title>
-    <sub-title lang="es">Carded and Discarded</sub-title>
-    <desc lang="es">Sam y sus amigos geeks se enamoran perdidamente de una preciosa estudiante de intercambio. Lindsay intenta conseguir documentos de identidad falsos para ella y para los frikis.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210226052500 +0200" stop="20210226061200 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Acapulco H.E.A.T.</title>
-    <sub-title lang="es">Nombre de código: El fantasma</sub-title>
-    <desc lang="es">Un director de cine contrata a H.E.A.T. equipo para investigar una serie de accidentes que ocurrieron en el set.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
-  </programme>
-  <programme start="20210226061200 +0200" stop="20210226070000 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Acapulco H.E.A.T.</title>
-    <sub-title lang="es">Nombre de código: Cubo de sangre</sub-title>
-    <desc lang="es">Los médicos aprenden que la sangre de un criminal herido podría salvar la vida de niños enfermos, pero el hombre escapa antes de que puedan recogerla.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
-  </programme>
-  <programme start="20210226070000 +0200" stop="20210226073200 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">United States Of Tara</title>
-    <sub-title lang="es">Revolution</sub-title>
-    <desc lang="es">Tara se convierte en “T” y se va con su coche. Max y Charmaine van a buscarla, dándole la oportunidad perfecta a Marshall de celebrar una fiesta para poder estar cerca de su amor, Jason.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210226073200 +0200" stop="20210226080600 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">United States Of Tara</title>
-    <sub-title lang="es">Transition</sub-title>
-    <desc lang="es">La familia tiene la impresión de que los padres de Tara, Bev y Frank, están de visita para celebrar el cumpleaños de Charmaine.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210226080600 +0200" stop="20210226084000 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">United States Of Tara</title>
-    <sub-title lang="es">Alterations</sub-title>
-    <desc lang="es">Charmaine ha decidido volver a operarse los pechos y le pide a Tara que la cuide mientras se recupera. Cuando Charmaine se despierta de la operación, se sorprende al ver a “Buck” junto a la cama y no a Tara.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210226084000 +0200" stop="20210226091400 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">United States Of Tara</title>
-    <sub-title lang="es">Abundance</sub-title>
-    <desc lang="es">Max está con las manos llenas mientras "Alice" sale. Marshall teme que el padre de Jason se dé cuenta de que está enamorados de su hijo. Los dos chicos profundizan en su amistad, aunque platónicamente.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210226091400 +0200" stop="20210226100400 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Freaks And Geeks</title>
-    <sub-title lang="es">Girlfriends and Boyfriends</sub-title>
-    <desc lang="es">Lindsay se sorprende al ver que Nick es su novio y teme que quiera tener relaciones. Sam cree que tiene una oportunidad con Cindy Sanders. Pero descubren que las apariencias engañan.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210226100400 +0200" stop="20210226105400 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Freaks And Geeks</title>
-    <sub-title lang="es">We've Got Spirit</sub-title>
-    <desc lang="es">A Lindsay le preocupa que Nick se esté volviendo demasiado intenso en la relación. Sam se convierte en la mascota del instituto para estar cerca de la animadora Cindy.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210226105400 +0200" stop="20210226114400 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Freaks And Geeks</title>
-    <sub-title lang="es">The Diary</sub-title>
-    <desc lang="es">Bill lucha por conseguir que le respeten más en clase de gimnasia. Harold y Jean deciden que Kim es una mala influencia para su hija y le prohíben a Lindsay ver a su amiga.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210226114400 +0200" stop="20210226123400 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Freaks And Geeks</title>
-    <sub-title lang="es">Looks and Books</sub-title>
-    <desc lang="es">Lindsay tiene una crisis en su relación con los frikis. Sam intenta mejorar, por fuera.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210226174500 +0200" stop="20210226183500 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Freaks And Geeks</title>
-    <sub-title lang="es">Carded and Discarded</sub-title>
-    <desc lang="es">Sam y sus amigos geeks se enamoran perdidamente de una preciosa estudiante de intercambio. Lindsay intenta conseguir documentos de identidad falsos para ella y para los frikis.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210227114400 +0200" stop="20210227123400 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Freaks And Geeks</title>
-    <sub-title lang="es">Looks and Books</sub-title>
-    <desc lang="es">Lindsay tiene una crisis en su relación con los frikis. Sam intenta mejorar, por fuera.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210227123400 +0200" stop="20210227130000 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Tarzán</title>
-    <sub-title lang="es">Tarzán y los fugitivos</sub-title>
-    <desc lang="es">Jane y Roger están ocupados y les piden a Cheetah y Tantor que los dejen. Los amigos animales corren hacia un área con un león peligroso y Tarzán los rescata después de explicarles a Jane y Roger que los animales tienen sentimientos.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
-  </programme>
-  <programme start="20210227130000 +0200" stop="20210227132600 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Tarzán</title>
-    <sub-title lang="es">Tarzán y el eje de la muerte</sub-title>
-    <desc lang="es">Jane debe rescatar a Tarzán cuando un viejo pozo de minas se derrumba, casi matándolo.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
-  </programme>
-  <programme start="20210227132600 +0200" stop="20210227135200 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Tarzán</title>
-    <sub-title lang="es">Tarzán y el globo rebelde</sub-title>
-    <desc lang="es">Jack gana un globo de aire caliente en un juego de póker y ofrece enseñarle a Roger cómo volarlo, pero en su vuelo inicial se estrellan lejos del campamento. Contactados por radio, Tarzán y Jane emprenden un viaje nocturno para rescatarlos y acercarse.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
-  </programme>
-  <programme start="20210227135200 +0200" stop="20210227144300 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Conan, el aventurero</title>
-    <sub-title lang="es">La flecha de cristal</sub-title>
-    <desc lang="es">Conan se encuentra con un viejo arquero que lucha contra los soldados atacantes. Khartan mata al arquero, pero antes el viejo arquero le da a Conan una Flecha de Cristal especial que posee una gran magia.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
-  </programme>
-  <programme start="20210227144300 +0200" stop="20210227153400 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Conan, el aventurero</title>
-    <sub-title lang="es">El laberinto</sub-title>
-    <desc lang="es">Conan, Bayu y Zzeben se encuentran con un hombre llamado Barr que viaja con tres mujeres que afirman que su hijo ha sido secuestrado. Pronto descubren un complot que involucra a una bestia mitad hombre y mitad toro llamada Bucentauro.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
-  </programme>
-  <programme start="20210227153400 +0200" stop="20210227160600 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">United States Of Tara</title>
-    <sub-title lang="es">Possibility</sub-title>
-    <desc lang="es">Kate y Tara necesitan un respiro de la vida real y hacen un viaje improvisado por carretera. Ahora que Tara está lejos, Max busca respuestas sobre su pasado. Esa noche, Tara y Kate discuten, y eso hace que Tara se convierta en “T”.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210227160600 +0200" stop="20210227163900 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">United States Of Tara</title>
-    <sub-title lang="es">Betrayal</sub-title>
-    <desc lang="es">Cuando el Dr. Ocean concluye el tratamiento, Tara se va al spa con Charmaine. De vuelta a casa, una de las personalidades de Tara traiciona a Marshall, pudiendo destruir a la familia para siempre.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210227163900 +0200" stop="20210227171200 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">United States Of Tara</title>
-    <sub-title lang="es">Snow</sub-title>
-    <desc lang="es">Tara decide ingresar en un centro especializado en disociación. Allí, Tara conoce a un nuevo médico, el Dr. Holden, un experto carismático que la ayuda a recuperar recuerdos perdidos.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210227171200 +0200" stop="20210227174500 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">United States Of Tara</title>
-    <sub-title lang="es">Miracle</sub-title>
-    <desc lang="es">Con la ayuda de Max y del Dr. Holden, Tara se encuentra cara a cara con una persona importante de su pasado. Pero cuando Tara mira a su familia, se da cuenta de que ella no es quien es por sus personalidades, sino por ellos.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210227174500 +0200" stop="20210227183500 +0200" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Freaks And Geeks</title>
-    <sub-title lang="es">Carded and Discarded</sub-title>
-    <desc lang="es">Sam y sus amigos geeks se enamoran perdidamente de una preciosa estudiante de intercambio. Lindsay intenta conseguir documentos de identidad falsos para ella y para los frikis.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210224225000 +0000" stop="20210224234200 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">Yellowstone: Detrás de nosotros todo está gris</title>
+    <desc lang="en">John y Rip buscan venganza. Monica se plantea las consecuencias de su situación vital. Jimmy salda viejas deudas.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Classics</category>
+    <icon src="https://images.pluto.tv/episodes/6011a285ce98800013ecc80c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
   <programme start="20210224054200 +0200" stop="20210224063100 +0200" channel="5f1abce155a03d0007718834">
     <title lang="es">Open Mike ES: Open Mike (6/4@Open Mike-)</title>
