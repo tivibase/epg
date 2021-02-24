@@ -29,7 +29,7 @@
     <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_a207b85649c027038759e0e90.png" />
     <url>http://www.orange.es.EK</url>
   </channel>
-  <programme start="20210224001800 +0100" stop="20210224020000 +0100" channel="La 1">
+  <programme start="20210224011800 +0000" stop="20210224030000 +0000" channel="La 1">
     <title lang="es">El futuro ya no es lo que era</title>
     <desc lang="es">Carlos, un famoso adivino de la televisión, está en una encrucijada. El hombre no sabe si seguir siendo un impostor y aceptar una gran oferta, o intentar luchar por el sueño de su vida: ser actor.Rodada en Oviedo y presentada en el Festival de Málaga, ''El futuro ya no es lo que era'' es una comedia dramática escrita y dirigida por Pedro L. Barbero. Tras su primera obra, titulada ''Tuno negro'' (2001), el realizador español no volvió a dirigir otro filme.Originalmente estaba previsto que José Mota fuera el protagonista del largometraje, pero al final fue el malagueño Dani Rovira el elegido. Sin embargo había una cosa clara, el papel de Carmen Maura fue escrito por y para ella, de ahí que su personaje se llamara igual.(n)</desc>
     <credits>
@@ -47,7 +47,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/12/682770.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210224020000 +0100" stop="20210224035000 +0100" channel="La 1">
+  <programme start="20210224030000 +0000" stop="20210224045000 +0000" channel="La 1">
     <title lang="es">La noche en 24 horas</title>
     <desc lang="es">Informativo diario nocturno presentado por Xabier Fortes que ofrece un análisis profundo y plural de la actualidad de la jornada.(n)</desc>
     <credits>
@@ -62,7 +62,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210224035000 +0100" stop="20210224050000 +0100" channel="La 1">
+  <programme start="20210224045000 +0000" stop="20210224060000 +0000" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -73,7 +73,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210224050000 +0100" stop="20210224053000 +0100" channel="La 1">
+  <programme start="20210224060000 +0000" stop="20210224063000 +0000" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -84,7 +84,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210224053000 +0100" stop="20210224070000 +0100" channel="La 1">
+  <programme start="20210224063000 +0000" stop="20210224080000 +0000" channel="La 1">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Sirun Demirjian conduce este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.(n)</desc>
     <credits>
@@ -97,7 +97,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210224070000 +0100" stop="20210224090000 +0100" channel="La 1">
+  <programme start="20210224080000 +0000" stop="20210224100000 +0000" channel="La 1">
     <title lang="es">La hora de La 1: La hora política</title>
     <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad con reportajes y entrevistas dedicados a analizar en profundidad el mundo de la política.(n)</desc>
     <credits>
@@ -109,7 +109,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/72/653170.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210224090000 +0100" stop="20210224113000 +0100" channel="La 1">
+  <programme start="20210224100000 +0000" stop="20210224123000 +0000" channel="La 1">
     <title lang="es">La hora de La 1: La hora de la actualidad</title>
     <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servició público para ayudar a los ciudadanos en su día a día.(n)</desc>
     <credits>
@@ -124,7 +124,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210224113000 +0100" stop="20210224140000 +0100" channel="La 1">
+  <programme start="20210224123000 +0000" stop="20210224150000 +0000" channel="La 1">
     <title lang="es">Las cosas claras</title>
     <desc lang="es">Actualidad, entretenimiento, análisis y rigor son algunos de los ingredientes de ''Las cosas claras''. Este programa es una ventana abierta a la pluralidad y a todo lo que acontece, con contenido útil y cercano al espectador y vocación de ofrecer respuestas.(n)</desc>
     <credits>
@@ -136,7 +136,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/30/676400.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210224140000 +0100" stop="20210224150000 +0100" channel="La 1">
+  <programme start="20210224150000 +0000" stop="20210224160000 +0000" channel="La 1">
     <title lang="es">Telediario 1</title>
     <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Ana Blanco conduce este espacio que ofrece un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte presentada por Lourdes García Campos.(n)</desc>
     <credits>
@@ -150,13 +150,13 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210224150000 +0100" stop="20210224152000 +0100" channel="La 1">
+  <programme start="20210224160000 +0000" stop="20210224162000 +0000" channel="La 1">
     <title lang="es">Informativo territorial</title>
     <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través del la cual se informa de los problemas más cercanos para el ciudadano.(n)</desc>
     <category lang="es">Noticias</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/660994.png" />
   </programme>
-  <programme start="20210224152000 +0100" stop="20210224153500 +0100" channel="La 1">
+  <programme start="20210224162000 +0000" stop="20210224163500 +0000" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -167,7 +167,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210224153500 +0100" stop="20210224162500 +0100" channel="La 1">
+  <programme start="20210224163500 +0000" stop="20210224172500 +0000" channel="La 1">
     <title lang="es">Dos vidas</title>
     <desc lang="es">La historia de Julia y Carmen, nieta y abuela, dos vidas unidas de manera insospechada en dos épocas y lugares distintos.(n)</desc>
     <credits>
@@ -184,7 +184,7 @@
     <country lang="es">España</country>
     <episode-num system="onscreen">E24</episode-num>
   </programme>
-  <programme start="20210224162500 +0100" stop="20210224171500 +0100" channel="La 1">
+  <programme start="20210224172500 +0000" stop="20210224181500 +0000" channel="La 1">
     <title lang="es">Servir y proteger</title>
     <desc lang="es">Distrito Sur no se ha recuperado del asalto a la comisaría y la muerte de Alicia Ocaña cuando llega el prestigioso inspector jefe enviado por jefatura para depurar responsabilidades. Además, los policías tendrán que hacer frente a un cruel asesino.(n)</desc>
     <credits>
@@ -205,7 +205,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210224171500 +0100" stop="20210224181000 +0100" channel="La 1">
+  <programme start="20210224181500 +0000" stop="20210224191000 +0000" channel="La 1">
     <title lang="es">Acacias 38</title>
     <desc lang="es">Una historia de ricos y pobres que conviven en un único espacio, en un portal situado en el número 38 de la calle Acacias. Allí florecen sentimientos como el amor, los celos, las pasiones, las venganzas, los odios y la alegría.(n)</desc>
     <credits>
@@ -232,7 +232,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210224181000 +0100" stop="20210224190000 +0100" channel="La 1">
+  <programme start="20210224191000 +0000" stop="20210224200000 +0000" channel="La 1">
     <title lang="es">El cazador</title>
     <desc lang="es">Concurso de preguntas y respuestas en el que concursantes anónimos luchan frente a un concursante profesional de la televisión para obtener un gran premio final. En el programa, los concursantes unirán sus conocimientos para ganar al 'cazador'.(n)</desc>
     <credits>
@@ -243,7 +243,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/af/677551.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210224190000 +0100" stop="20210224193000 +0100" channel="La 1">
+  <programme start="20210224200000 +0000" stop="20210224203000 +0000" channel="La 1">
     <title lang="es">España directo</title>
     <desc lang="es">Magacín informativo muy en contacto con los temas sociales que incluye conexiones con todos los rincones de la geografía nacional. El programa pretende acercarse al espectador gracias a la abundancia de intervenciones en directo y a la espontaneidad de sus reporteros.(n)</desc>
     <credits>
@@ -258,7 +258,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210224193000 +0100" stop="20210224200000 +0100" channel="La 1">
+  <programme start="20210224203000 +0000" stop="20210224210000 +0000" channel="La 1">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Quico Taronjí ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.(n)</desc>
     <credits>
@@ -271,7 +271,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210224200000 +0100" stop="20210224205200 +0100" channel="La 1">
+  <programme start="20210224210000 +0000" stop="20210224215200 +0000" channel="La 1">
     <title lang="es">Telediario 2</title>
     <desc lang="es">Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Carlos Franganillo. También hay espacio para la parcela deportiva presentada por Arsenio Cañada.(n)</desc>
     <credits>
@@ -284,7 +284,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210224205200 +0100" stop="20210224211000 +0100" channel="La 1">
+  <programme start="20210224215200 +0000" stop="20210224221000 +0000" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -295,7 +295,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210224211000 +0100" stop="20210224222000 +0100" channel="La 1">
+  <programme start="20210224221000 +0000" stop="20210224232000 +0000" channel="La 1">
     <title lang="es">La caza. Tramuntana</title>
     <sub-title lang="es">Can Falgueres</sub-title>
     <desc lang="es">La búsqueda de Sara se convierte en una contrarreloj desesperada. Víctor y Selva se topan con Cati: aunque sepan que ella está detrás de lo sucedido, no va a hablar. Tampoco logran dar con Samiah, una de las chicas que podría tener la clave de todos los crímenes.(n)</desc>
@@ -314,7 +314,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/8b/680587.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210224222000 +0100" stop="20210225001000 +0100" channel="La 1">
+  <programme start="20210224232000 +0000" stop="20210225011000 +0000" channel="La 1">
     <title lang="es">Expediente Anwar</title>
     <title lang="en">Rendition</title>
     <desc lang="es">Un ingeniero químico estadounidense de origen egipcio desaparece en un vuelo de Sudáfrica a Washington. Su esposa lo busca desesperadamente sin saber que ha sido detenido por ser sospechoso de terrorismo. Mientras, un analista de la CIA que es testigo del interrogatorio se cuestiona la ética de su trabajo.El sudafricano Gavin Hood, director de la oscarizada ''Tsotsi'', dirige este thriller coproducido y filmado de nuevo en su país de origen. A pesar de que su principal reclamo lo constituye la presencia en el reparto de intérpretes de la talla de Jake Gyllenhaal, Reese Witherspoon y Meryl Streep; la crítica destacó precisamente la labor de actores menos conocidos como Omar Metwally, Igal Naor y Peter Sarsgaard.A pesar de ello, ''Expediente Anwar'' no obtuvo ningún premio relevante (los atractivos Gyllenhaal y Witherspoon tan solo lograron sendas nominaciones en los juveniles Teen Choice Awards) y en la taquilla estadounidense recaudó poco más de la tercera parte de los casi 30 millones de dólares que costó.(n)</desc>
@@ -336,7 +336,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210225001000 +0100" stop="20210225010500 +0100" channel="La 1">
+  <programme start="20210225011000 +0000" stop="20210225020500 +0000" channel="La 1">
     <title lang="es">Españoles en el mundo</title>
     <sub-title lang="es">La Toscana</sub-title>
     <desc lang="es">El equipo del programa viaja esta semana a la Toscana para descubrir la belleza de sus paisajes de la mano de cinco españoles. El espacio recorrerá el valle de Chianti desde el aire, la costa de Livorno, las aguas termales de Saturnia y la ciudad de Florencia.(n)</desc>
@@ -351,7 +351,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210225010500 +0100" stop="20210225020000 +0100" channel="La 1">
+  <programme start="20210225020500 +0000" stop="20210225030000 +0000" channel="La 1">
     <title lang="es">Españoles en el mundo</title>
     <sub-title lang="es">Costa Rica, Costa Pacífico</sub-title>
     <desc lang="es">El programa viaja hasta uno de los países más felices del mundo, Costa Rica. Su vegetación y playas salvajes, su espectacular biodiversidad, y un ritmo de vida muy especial hacen de este país un referente mundial de turismo sostenible.(n)</desc>
@@ -366,7 +366,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210225020000 +0100" stop="20210225035000 +0100" channel="La 1">
+  <programme start="20210225030000 +0000" stop="20210225045000 +0000" channel="La 1">
     <title lang="es">La noche en 24 horas</title>
     <desc lang="es">Informativo diario nocturno presentado por Xabier Fortes que ofrece un análisis profundo y plural de la actualidad de la jornada.(n)</desc>
     <credits>
@@ -381,7 +381,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210225035000 +0100" stop="20210225050000 +0100" channel="La 1">
+  <programme start="20210225045000 +0000" stop="20210225060000 +0000" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -392,7 +392,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210225050000 +0100" stop="20210225053000 +0100" channel="La 1">
+  <programme start="20210225060000 +0000" stop="20210225063000 +0000" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -403,7 +403,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210225053000 +0100" stop="20210225070000 +0100" channel="La 1">
+  <programme start="20210225063000 +0000" stop="20210225080000 +0000" channel="La 1">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Sirun Demirjian conduce este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.(n)</desc>
     <credits>
@@ -416,7 +416,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210225070000 +0100" stop="20210225090000 +0100" channel="La 1">
+  <programme start="20210225080000 +0000" stop="20210225100000 +0000" channel="La 1">
     <title lang="es">La hora de La 1: La hora política</title>
     <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad con reportajes y entrevistas dedicados a analizar en profundidad el mundo de la política.(n)</desc>
     <credits>
@@ -428,7 +428,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/72/653170.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210225090000 +0100" stop="20210225113000 +0100" channel="La 1">
+  <programme start="20210225100000 +0000" stop="20210225123000 +0000" channel="La 1">
     <title lang="es">La hora de La 1: La hora de la actualidad</title>
     <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servició público para ayudar a los ciudadanos en su día a día.(n)</desc>
     <credits>
@@ -443,7 +443,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210225113000 +0100" stop="20210225140000 +0100" channel="La 1">
+  <programme start="20210225123000 +0000" stop="20210225150000 +0000" channel="La 1">
     <title lang="es">Las cosas claras</title>
     <desc lang="es">Actualidad, entretenimiento, análisis y rigor son algunos de los ingredientes de ''Las cosas claras''. Este programa es una ventana abierta a la pluralidad y a todo lo que acontece, con contenido útil y cercano al espectador y vocación de ofrecer respuestas.(n)</desc>
     <credits>
@@ -455,7 +455,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/30/676400.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210225140000 +0100" stop="20210225150000 +0100" channel="La 1">
+  <programme start="20210225150000 +0000" stop="20210225160000 +0000" channel="La 1">
     <title lang="es">Telediario 1</title>
     <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Ana Blanco conduce este espacio que ofrece un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte presentada por Lourdes García Campos.(n)</desc>
     <credits>
@@ -469,13 +469,13 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210225150000 +0100" stop="20210225152000 +0100" channel="La 1">
+  <programme start="20210225160000 +0000" stop="20210225162000 +0000" channel="La 1">
     <title lang="es">Informativo territorial</title>
     <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través del la cual se informa de los problemas más cercanos para el ciudadano.(n)</desc>
     <category lang="es">Noticias</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/660994.png" />
   </programme>
-  <programme start="20210225152000 +0100" stop="20210225153500 +0100" channel="La 1">
+  <programme start="20210225162000 +0000" stop="20210225163500 +0000" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -486,7 +486,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210225153500 +0100" stop="20210225162500 +0100" channel="La 1">
+  <programme start="20210225163500 +0000" stop="20210225172500 +0000" channel="La 1">
     <title lang="es">Dos vidas</title>
     <desc lang="es">La historia de Julia y Carmen, nieta y abuela, dos vidas unidas de manera insospechada en dos épocas y lugares distintos.(n)</desc>
     <credits>
@@ -503,7 +503,7 @@
     <country lang="es">España</country>
     <episode-num system="onscreen">E25</episode-num>
   </programme>
-  <programme start="20210225162500 +0100" stop="20210225171500 +0100" channel="La 1">
+  <programme start="20210225172500 +0000" stop="20210225181500 +0000" channel="La 1">
     <title lang="es">Servir y proteger</title>
     <desc lang="es">Distrito Sur no se ha recuperado del asalto a la comisaría y la muerte de Alicia Ocaña cuando llega el prestigioso inspector jefe enviado por jefatura para depurar responsabilidades. Además, los policías tendrán que hacer frente a un cruel asesino.(n)</desc>
     <credits>
@@ -523,7 +523,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210225171500 +0100" stop="20210225181000 +0100" channel="La 1">
+  <programme start="20210225181500 +0000" stop="20210225191000 +0000" channel="La 1">
     <title lang="es">Acacias 38</title>
     <desc lang="es">Una historia de ricos y pobres que conviven en un único espacio, en un portal situado en el número 38 de la calle Acacias. Allí florecen sentimientos como el amor, los celos, las pasiones, las venganzas, los odios y la alegría.(n)</desc>
     <credits>
@@ -550,7 +550,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210225181000 +0100" stop="20210225190000 +0100" channel="La 1">
+  <programme start="20210225191000 +0000" stop="20210225200000 +0000" channel="La 1">
     <title lang="es">El cazador</title>
     <desc lang="es">Concurso de preguntas y respuestas en el que concursantes anónimos luchan frente a un concursante profesional de la televisión para obtener un gran premio final. En el programa, los concursantes unirán sus conocimientos para ganar al 'cazador'.(n)</desc>
     <credits>
@@ -561,7 +561,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/af/677551.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210225190000 +0100" stop="20210225193000 +0100" channel="La 1">
+  <programme start="20210225200000 +0000" stop="20210225203000 +0000" channel="La 1">
     <title lang="es">España directo</title>
     <desc lang="es">Magacín informativo muy en contacto con los temas sociales que incluye conexiones con todos los rincones de la geografía nacional. El programa pretende acercarse al espectador gracias a la abundancia de intervenciones en directo y a la espontaneidad de sus reporteros.(n)</desc>
     <credits>
@@ -576,7 +576,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210225193000 +0100" stop="20210225200000 +0100" channel="La 1">
+  <programme start="20210225203000 +0000" stop="20210225210000 +0000" channel="La 1">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Quico Taronjí ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.(n)</desc>
     <credits>
@@ -589,7 +589,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210225200000 +0100" stop="20210225205200 +0100" channel="La 1">
+  <programme start="20210225210000 +0000" stop="20210225215200 +0000" channel="La 1">
     <title lang="es">Telediario 2</title>
     <desc lang="es">Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Carlos Franganillo. También hay espacio para la parcela deportiva presentada por Arsenio Cañada.(n)</desc>
     <credits>
@@ -602,7 +602,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210225205200 +0100" stop="20210225211000 +0100" channel="La 1">
+  <programme start="20210225215200 +0000" stop="20210225221000 +0000" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -613,7 +613,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210225211000 +0100" stop="20210225221500 +0100" channel="La 1">
+  <programme start="20210225221000 +0000" stop="20210225231500 +0000" channel="La 1">
     <title lang="es">Cuéntame cómo pasó</title>
     <desc lang="es">Los Alcántara se encuentran en una celebración en la que la familia intenta pasar página en un año de grandes expectativas -no solo para Antonio, Mercedes y sus hijos- sino para todos los españoles.(n)</desc>
     <credits>
@@ -638,7 +638,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210225221500 +0100" stop="20210225230500 +0100" channel="La 1">
+  <programme start="20210225231500 +0000" stop="20210226000500 +0000" channel="La 1">
     <title lang="es">Novéntame</title>
     <desc lang="es">Un retrato nostálgico a la España de la década de 1990. El programa recurre a imágenes de archivo y al testimonio de personas significativas, tanto de los que protagonizaron la vida del momento como de los que nacieron en aquellos años y hoy son referencia en su ámbito.(n)</desc>
     <date>2021</date>
@@ -649,7 +649,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210225230500 +0100" stop="20210226021500 +0100" channel="La 1">
+  <programme start="20210226000500 +0000" stop="20210226031500 +0000" channel="La 1">
     <title lang="es">Comando Actualidad</title>
     <desc lang="es">Un novedoso formato que presenta un tema de actualidad a través de la mirada coral de varios reporteros callejeros. Cuatro periodistas que se desplazan hasta el lugar donde ocurren las noticias, las muestran tal y como son y aportan al tema su mirada personal.(n)</desc>
     <credits>
@@ -663,7 +663,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210226021500 +0100" stop="20210226041000 +0100" channel="La 1">
+  <programme start="20210226031500 +0000" stop="20210226051000 +0000" channel="La 1">
     <title lang="es">La noche en 24 horas</title>
     <desc lang="es">Informativo diario nocturno presentado por Xabier Fortes que ofrece un análisis profundo y plural de la actualidad de la jornada.(n)</desc>
     <credits>
@@ -678,7 +678,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210226041000 +0100" stop="20210226050000 +0100" channel="La 1">
+  <programme start="20210226051000 +0000" stop="20210226060000 +0000" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -689,7 +689,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210226050000 +0100" stop="20210226053000 +0100" channel="La 1">
+  <programme start="20210226060000 +0000" stop="20210226063000 +0000" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -700,7 +700,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210226053000 +0100" stop="20210226070000 +0100" channel="La 1">
+  <programme start="20210226063000 +0000" stop="20210226080000 +0000" channel="La 1">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Sirun Demirjian conduce este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.(n)</desc>
     <credits>
@@ -713,7 +713,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210226070000 +0100" stop="20210226090000 +0100" channel="La 1">
+  <programme start="20210226080000 +0000" stop="20210226100000 +0000" channel="La 1">
     <title lang="es">La hora de La 1: La hora política</title>
     <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad con reportajes y entrevistas dedicados a analizar en profundidad el mundo de la política.(n)</desc>
     <credits>
@@ -725,7 +725,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/72/653170.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210226090000 +0100" stop="20210226113000 +0100" channel="La 1">
+  <programme start="20210226100000 +0000" stop="20210226123000 +0000" channel="La 1">
     <title lang="es">La hora de La 1: La hora de la actualidad</title>
     <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servició público para ayudar a los ciudadanos en su día a día.(n)</desc>
     <credits>
@@ -740,7 +740,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210226113000 +0100" stop="20210226140000 +0100" channel="La 1">
+  <programme start="20210226123000 +0000" stop="20210226150000 +0000" channel="La 1">
     <title lang="es">Las cosas claras</title>
     <desc lang="es">Actualidad, entretenimiento, análisis y rigor son algunos de los ingredientes de ''Las cosas claras''. Este programa es una ventana abierta a la pluralidad y a todo lo que acontece, con contenido útil y cercano al espectador y vocación de ofrecer respuestas.(n)</desc>
     <credits>
@@ -752,7 +752,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/30/676400.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210226140000 +0100" stop="20210226150000 +0100" channel="La 1">
+  <programme start="20210226150000 +0000" stop="20210226160000 +0000" channel="La 1">
     <title lang="es">Telediario 1</title>
     <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Ana Blanco conduce este espacio que ofrece un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte presentada por Lourdes García Campos.(n)</desc>
     <credits>
@@ -766,13 +766,13 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210226150000 +0100" stop="20210226152000 +0100" channel="La 1">
+  <programme start="20210226160000 +0000" stop="20210226162000 +0000" channel="La 1">
     <title lang="es">Informativo territorial</title>
     <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través del la cual se informa de los problemas más cercanos para el ciudadano.(n)</desc>
     <category lang="es">Noticias</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/660994.png" />
   </programme>
-  <programme start="20210226152000 +0100" stop="20210226153500 +0100" channel="La 1">
+  <programme start="20210226162000 +0000" stop="20210226163500 +0000" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -783,7 +783,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210226153500 +0100" stop="20210226162500 +0100" channel="La 1">
+  <programme start="20210226163500 +0000" stop="20210226172500 +0000" channel="La 1">
     <title lang="es">Dos vidas</title>
     <desc lang="es">La historia de Julia y Carmen, nieta y abuela, dos vidas unidas de manera insospechada en dos épocas y lugares distintos.(n)</desc>
     <credits>
@@ -800,7 +800,7 @@
     <country lang="es">España</country>
     <episode-num system="onscreen">E26</episode-num>
   </programme>
-  <programme start="20210226162500 +0100" stop="20210226171500 +0100" channel="La 1">
+  <programme start="20210226172500 +0000" stop="20210226181500 +0000" channel="La 1">
     <title lang="es">Servir y proteger</title>
     <desc lang="es">Distrito Sur no se ha recuperado del asalto a la comisaría y la muerte de Alicia Ocaña cuando llega el prestigioso inspector jefe enviado por jefatura para depurar responsabilidades. Además, los policías tendrán que hacer frente a un cruel asesino.(n)</desc>
     <credits>
@@ -821,7 +821,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210226171500 +0100" stop="20210226181000 +0100" channel="La 1">
+  <programme start="20210226181500 +0000" stop="20210226191000 +0000" channel="La 1">
     <title lang="es">Acacias 38</title>
     <desc lang="es">Una historia de ricos y pobres que conviven en un único espacio, en un portal situado en el número 38 de la calle Acacias. Allí florecen sentimientos como el amor, los celos, las pasiones, las venganzas, los odios y la alegría.(n)</desc>
     <credits>
@@ -848,7 +848,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210226181000 +0100" stop="20210226190000 +0100" channel="La 1">
+  <programme start="20210226191000 +0000" stop="20210226200000 +0000" channel="La 1">
     <title lang="es">El cazador</title>
     <desc lang="es">Concurso de preguntas y respuestas en el que concursantes anónimos luchan frente a un concursante profesional de la televisión para obtener un gran premio final. En el programa, los concursantes unirán sus conocimientos para ganar al 'cazador'.(n)</desc>
     <credits>
@@ -859,7 +859,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/af/677551.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210226190000 +0100" stop="20210226193000 +0100" channel="La 1">
+  <programme start="20210226200000 +0000" stop="20210226203000 +0000" channel="La 1">
     <title lang="es">España directo</title>
     <desc lang="es">Magacín informativo muy en contacto con los temas sociales que incluye conexiones con todos los rincones de la geografía nacional. El programa pretende acercarse al espectador gracias a la abundancia de intervenciones en directo y a la espontaneidad de sus reporteros.(n)</desc>
     <credits>
@@ -874,7 +874,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210226193000 +0100" stop="20210226200000 +0100" channel="La 1">
+  <programme start="20210226203000 +0000" stop="20210226210000 +0000" channel="La 1">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Quico Taronjí ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.(n)</desc>
     <credits>
@@ -887,7 +887,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210226200000 +0100" stop="20210226205200 +0100" channel="La 1">
+  <programme start="20210226210000 +0000" stop="20210226215200 +0000" channel="La 1">
     <title lang="es">Telediario 2</title>
     <desc lang="es">Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Carlos Franganillo. También hay espacio para la parcela deportiva presentada por Arsenio Cañada.(n)</desc>
     <credits>
@@ -900,7 +900,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210226205200 +0100" stop="20210226210000 +0100" channel="La 1">
+  <programme start="20210226215200 +0000" stop="20210226220000 +0000" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -911,7 +911,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210226210000 +0100" stop="20210226211500 +0100" channel="La 1">
+  <programme start="20210226220000 +0000" stop="20210226221500 +0000" channel="La 1">
     <title lang="es">La suerte en tus manos</title>
     <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.(n)</desc>
     <credits>
@@ -925,7 +925,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210226211500 +0100" stop="20210226224500 +0100" channel="La 1">
+  <programme start="20210226221500 +0000" stop="20210226234500 +0000" channel="La 1">
     <title lang="es">Dos parejas y un destino</title>
     <desc lang="es">Programa de viajes y entrevistas en el que cada semana un famoso será el anfitrión sorpresa que organizará dos recorridos para las parejas del programa. Una ruta exclusiva para realizar con maletas, y una experiencia de aventuras.(n)</desc>
     <date>2021</date>
@@ -933,7 +933,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e1/680161.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210226224500 +0100" stop="20210227001000 +0100" channel="La 1">
+  <programme start="20210226234500 +0000" stop="20210227011000 +0000" channel="La 1">
     <title lang="es">Malditos vecinos 2</title>
     <title lang="en">Neighbors 2: Sorority Rising</title>
     <desc lang="es">Los Radner esperan su segundo hijo y firman un contrato de arras para vender su casa y mudarse a una más adecuada para su creciente familia. La llegada de una fraternidad universitaria de descontroladas estudiantes amenaza sus planes.Secuela de la alocada comedia ''Malditos vecinos'', que vuelve a estar dirigida por Nicholas Stoller, todo un experto en el género que en esta ocasión también participa en el guion. La cinta se centra en los disparatados intentos de Mac y Kelly por evitar que nada salga mal durante 30 días, el plazo que tienen los compradores de la vivienda para echarse atrás. Sin embargo, una nueva crisis se cierne sobre ellos: las chicas de Kappa Nu, quienes, cansadas del sistema sexista y restrictivo de la universidad, quieren un local donde hacer lo que les venga en gana.Seth Rogen y Rose Byrne, quien participó en el filme estando realmente embarazada, vuelven a interpretar a la pareja protagonista. Ambos recurren a su antiguo enemigo Teddy, encarnado otra vez por Zac Efron, para detener a las nuevas vecinas, grupo liderado por el personaje de Chloë Grace Moretz (''Si decido quedarme'').(n)</desc>
@@ -960,7 +960,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210227001000 +0100" stop="20210227012500 +0100" channel="La 1">
+  <programme start="20210227011000 +0000" stop="20210227022500 +0000" channel="La 1">
     <title lang="es">Promesas de arena</title>
     <desc lang="es">Fascinada por un universo tan exótico, Lucía viaja hasta Libia para trabajar en una ONG. Allí descubre los dos polos humanos que se manejan: quiénes lo dan todo y quiénes sacan partido de todo, como Hayzam, un hombre que la llevará hasta los límites de la pasión.(n)</desc>
     <credits>
@@ -979,7 +979,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/19/590617.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210227012500 +0100" stop="20210227050000 +0100" channel="La 1">
+  <programme start="20210227022500 +0000" stop="20210227060000 +0000" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -990,7 +990,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210227050000 +0100" stop="20210227075000 +0100" channel="La 1">
+  <programme start="20210227060000 +0000" stop="20210227085000 +0000" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -1001,7 +1001,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210227075000 +0100" stop="20210227085500 +0100" channel="La 1">
+  <programme start="20210227085000 +0000" stop="20210227095500 +0000" channel="La 1">
     <title lang="es">Comando Actualidad</title>
     <desc lang="es">Un novedoso formato que presenta un tema de actualidad a través de la mirada coral de varios reporteros callejeros. Cuatro periodistas que se desplazan hasta el lugar donde ocurren las noticias, las muestran tal y como son y aportan al tema su mirada personal.(n)</desc>
     <credits>
@@ -1015,7 +1015,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210227085500 +0100" stop="20210227123000 +0100" channel="La 1">
+  <programme start="20210227095500 +0000" stop="20210227133000 +0000" channel="La 1">
     <title lang="es">Maestros de la Costura</title>
     <desc lang="es">Un grupo de apasionados de la costura, el diseño y la moda se enfrentan a diferentes pruebas en las que tienen que demostrar su creatividad y talento transformando prendas o cosiendo sus propias creaciones.(n)</desc>
     <credits>
@@ -1029,7 +1029,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210227123000 +0100" stop="20210227130000 +0100" channel="La 1">
+  <programme start="20210227133000 +0000" stop="20210227140000 +0000" channel="La 1">
     <title lang="es">Audiencia abierta</title>
     <desc lang="es">Espacio de servicio público sobre la jefatura del Estado, la Corona y la Monarquía parlamentaria. Cada semana, el programa informa sobre las principales actividades del Rey como Jefe del Estado, dando a conocer en profundidad sus competencias y su actividad oficial.(n)</desc>
     <credits>
@@ -1044,7 +1044,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210227130000 +0100" stop="20210227133000 +0100" channel="La 1">
+  <programme start="20210227140000 +0000" stop="20210227143000 +0000" channel="La 1">
     <title lang="es">Flash Moda</title>
     <desc lang="es">La cadena pública desfila por la pasarela de la mano de Nieves Álvarez en este repaso a las novedades del mundo de la moda, las últimas tendencias y las colecciones de vanguardia. Además, el programa presta especial atención al trabajo de los diseñadores españoles.(n)</desc>
     <credits>
@@ -1059,7 +1059,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210227133000 +0100" stop="20210227140000 +0100" channel="La 1">
+  <programme start="20210227143000 +0000" stop="20210227150000 +0000" channel="La 1">
     <title lang="es">Corazón</title>
     <desc lang="es">Crónica social sobre los famosos del mundo de la música, la moda, el cine y el teatro. El espacio incluye reportajes de las grandes pasarelas, los cantantes y actores de moda. El objetivo del programa es transmitir también la cara humana y familiar del personaje.(n)</desc>
     <credits>
@@ -1074,7 +1074,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210227140000 +0100" stop="20210227145500 +0100" channel="La 1">
+  <programme start="20210227150000 +0000" stop="20210227155500 +0000" channel="La 1">
     <title lang="es">Telediario 1 Fin de Semana</title>
     <desc lang="es">Informativo de Televisión Española de los fines de semana. Lara Siscar se encarga de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.(n)</desc>
     <credits>
@@ -1088,7 +1088,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210227145500 +0100" stop="20210227150000 +0100" channel="La 1">
+  <programme start="20210227155500 +0000" stop="20210227160000 +0000" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -1099,19 +1099,19 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210227150000 +0100" stop="20210227163000 +0100" channel="La 1">
+  <programme start="20210227160000 +0000" stop="20210227173000 +0000" channel="La 1">
     <title lang="es">Cine</title>
     <desc lang="es">Emisión de una película.(n)</desc>
     <category lang="es">Cine</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/65/142949.png" />
   </programme>
-  <programme start="20210227163000 +0100" stop="20210227180000 +0100" channel="La 1">
+  <programme start="20210227173000 +0000" stop="20210227190000 +0000" channel="La 1">
     <title lang="es">Cine</title>
     <desc lang="es">Emisión de una película.(n)</desc>
     <category lang="es">Cine</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/65/142949.png" />
   </programme>
-  <programme start="20210227180000 +0100" stop="20210227200000 +0100" channel="La 1">
+  <programme start="20210227190000 +0000" stop="20210227210000 +0000" channel="La 1">
     <title lang="es">Martes y trece</title>
     <desc lang="es">En martes y trece, dos parejas deciden casarse sin temer a las supersticiones. Sin embargo, a uno de los novios, antes de salir para la iglesia, se le incendia la casa.Una de tantas comedias que el director Pedro Lazaga realizó durante el franquismo, como ''El turismo es un gran invento'' o ''¡Cómo sois las mujeres!''. En la película, en este caso producida entre España y Portugal, vuelven a repetirse las situaciones habituales en este tipo de filmes, como son las dudas de una pareja de novios, las confusiones o los equívocos. Lo mejor, sin duda, el trabajo de los actores, especialistas en el género como José Luis López Vázquez (''Los ladrones van a la oficina'') o Concha Velasco.(n)</desc>
     <credits>
@@ -1138,7 +1138,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210227200000 +0100" stop="20210227202500 +0100" channel="La 1">
+  <programme start="20210227210000 +0000" stop="20210227212500 +0000" channel="La 1">
     <title lang="es">Telediario 2 Fin de Semana</title>
     <desc lang="es">Informativo de Televisión Española de los fines de semana. Lara Siscar se encarga de presentar las últimas noticias de ámbito nacional e internacional. Marcos López, mientras, desgrana la actualidad deportiva.(n)</desc>
     <credits>
@@ -1151,7 +1151,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210227202500 +0100" stop="20210227203000 +0100" channel="La 1">
+  <programme start="20210227212500 +0000" stop="20210227213000 +0000" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -1162,7 +1162,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210227203000 +0100" stop="20210227210000 +0100" channel="La 1">
+  <programme start="20210227213000 +0000" stop="20210227220000 +0000" channel="La 1">
     <title lang="es">Informe Semanal</title>
     <desc lang="es">El programa más veterano de la televisión nacional, y el más antiguo de su género en Europa, ofrece la emisión de reportajes de la actualidad internacional, nacional, social o cultural. A veces, los reportajes pueden llegar a tener hasta media hora de duración.(n)</desc>
     <credits>
@@ -1176,13 +1176,13 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210227210000 +0100" stop="20210227223000 +0100" channel="La 1">
+  <programme start="20210227220000 +0000" stop="20210227233000 +0000" channel="La 1">
     <title lang="es">Cine</title>
     <desc lang="es">Emisión de una película.(n)</desc>
     <category lang="es">Cine</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/65/142949.png" />
   </programme>
-  <programme start="20210227223000 +0100" stop="20210228002000 +0100" channel="La 1">
+  <programme start="20210227233000 +0000" stop="20210228012000 +0000" channel="La 1">
     <title lang="es">Cine</title>
     <desc lang="es">Emisión de una película.(n)</desc>
     <category lang="es">Cine</category>
@@ -1508,73 +1508,13 @@
     <desc lang="es">Multideporte es la cadena interactiva de Movistar+. Accediendo a ella se pueden visualizar hasta nueve ventanas donde ver las diferentes emisiones de los canales deportivos.(n)</desc>
     <category lang="es">Sports</category>
   </programme>
-  <programme start="20210224000000 +0000" stop="20210224114400 +0000" channel="5f1ac8f49205650007bc15f1">
+  <programme start="20210224120000 +0000" stop="20210224153400 +0000" channel="5f1ac8f49205650007bc15f1">
     <title lang="es">Pluto TV Series</title>
     <desc lang="es">No information available.(n)</desc>
     <category lang="es">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
-    </rating>
-  </programme>
-  <programme start="20210224114400 +0000" stop="20210224123400 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Freaks And Geeks</title>
-    <desc lang="es">Lindsay tiene una crisis en su relación con los frikis. Sam intenta mejorar, por fuera.(n)</desc>
-    <category lang="es">Comedy</category>
-    <category lang="es">Romantic Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5f64603325203500132da3e6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20210224123400 +0000" stop="20210224130000 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Tarzán</title>
-    <desc lang="es">Jane y Roger están ocupados y les piden a Cheetah y Tantor que los dejen. Los amigos animales corren hacia un área con un león peligroso y Tarzán los rescata después de explicarles a Jane y Roger que los animales tienen sentimientos.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
-    <category lang="es">Action Classics</category>
-    <icon src="https://images.pluto.tv/episodes/5fe9b73c4aa70a001a4fcf7f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20210224130000 +0000" stop="20210224132600 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Tarzán</title>
-    <desc lang="es">Jane debe rescatar a Tarzán cuando un viejo pozo de minas se derrumba, casi matándolo.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
-    <category lang="es">Action Classics</category>
-    <icon src="https://images.pluto.tv/episodes/5fe9b73c4aa70a001a4fcfb8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20210224132600 +0000" stop="20210224135200 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Tarzán</title>
-    <desc lang="es">Jack gana un globo de aire caliente en un juego de póker y ofrece enseñarle a Roger cómo volarlo, pero en su vuelo inicial se estrellan lejos del campamento. Contactados por radio, Tarzán y Jane emprenden un viaje nocturno para rescatarlos y acercarse.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
-    <category lang="es">Action Classics</category>
-    <icon src="https://images.pluto.tv/episodes/5fe9b73c4aa70a001a4fcf96/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20210224135200 +0000" stop="20210224144300 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Conan, el aventurero</title>
-    <desc lang="es">Conan se encuentra con un viejo arquero que lucha contra los soldados atacantes. Khartan mata al arquero, pero antes el viejo arquero le da a Conan una Flecha de Cristal especial que posee una gran magia.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
-    <category lang="es">Action Classics</category>
-    <icon src="https://images.pluto.tv/episodes/5fe9b7824aa70a001a4fd569/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20210224144300 +0000" stop="20210224153400 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="es">Conan, el aventurero</title>
-    <desc lang="es">Conan, Bayu y Zzeben se encuentran con un hombre llamado Barr que viaja con tres mujeres que afirman que su hijo ha sido secuestrado. Pronto descubren un complot que involucra a una bestia mitad hombre y mitad toro llamada Bucentauro.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
-    <category lang="es">Action Classics</category>
-    <icon src="https://images.pluto.tv/episodes/5fe9b7824aa70a001a4fd578/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
     </rating>
   </programme>
   <programme start="20210224153400 +0000" stop="20210224160600 +0000" channel="5f1ac8f49205650007bc15f1">
@@ -1707,83 +1647,63 @@
       <value>+16</value>
     </rating>
   </programme>
-  <programme start="20210224000000 +0000" stop="20210224115000 +0000" channel="5f1abce155a03d0007718834">
+  <programme start="20210225012700 +0000" stop="20210225021900 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Yellowstone: Detrás de nosotros todo está gris</title>
+    <desc lang="es">John y Rip buscan venganza. Monica se plantea las consecuencias de su situación vital. Jimmy salda viejas deudas.(n)</desc>
+    <category lang="es">Action &amp; Adventure</category>
+    <category lang="es">Action Classics</category>
+    <icon src="https://images.pluto.tv/episodes/6011a285ce98800013ecc80c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210225021900 +0000" stop="20210225025500 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Plats Bruts: Tenemos un lío</title>
+    <desc lang="es">David y López no saben qué hacer con un paquete de droga que les ha llegado por error. Si lo venden, pueden sacar mucho dinero pero si les pillan... aunque quizás deberían preocuparse por si su dueño lo reclama.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f5b1c023cc2d10013fba92b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210225025500 +0000" stop="20210225032600 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Plats Bruts: Tengo hipoteca</title>
+    <desc lang="es">Emma quiere pedir el paro pero allí la convocan a un cursillo y debe pasar un examen. Carbonell y Mercedes le echarán una mano para que apruebe.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f5b1bf53cc2d10013fba8df/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210225032600 +0000" stop="20210225035900 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Plats Bruts: Tengo un mal rollo</title>
+    <desc lang="es">Mercedes intenta hablar de un tema importante con López, que la esquiva constantemente por miedo a que le eche una bronca. Mercedes, que no desiste, va a su casa a esperarle y se encuentra con David.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f5b1bf63cc2d10013fba8ee/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210225035900 +0000" stop="20210225050300 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Historias Para No Dormir: El regreso</title>
+    <desc lang="es">Dos primos esperan con ansiedad el fallecimiento de su tío para heredar su inmensa fortuna. A través del médico que atiende al anciano, se enteran de que ninguno de los dos figura en el testamento. Los sobrinos plantean matar y robar al tío.(n)</desc>
+    <category lang="es">Thrillers</category>
+    <category lang="es">Crime Thrillers</category>
+    <icon src="https://images.pluto.tv/episodes/5f527ec261f1b1001aff7286/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224120000 +0000" stop="20210224152900 +0000" channel="5f1abce155a03d0007718834">
     <title lang="es">Comedia made in Spain</title>
     <desc lang="es">No information available.(n)</desc>
     <category lang="es">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1abce155a03d0007718834/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
-    </rating>
-  </programme>
-  <programme start="20210224115000 +0000" stop="20210224121800 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">SMONKA! ES: SMONKA! 135</title>
-    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="es">Classics</category>
-    <category lang="es">Classic Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5f47554ab9a18c001a4bce04/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
-    </rating>
-  </programme>
-  <programme start="20210224121800 +0000" stop="20210224124800 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">SMONKA! ES: SMONKA! 136</title>
-    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="es">Classics</category>
-    <category lang="es">Classic Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5f47554bb9a18c001a4bce36/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
-    </rating>
-  </programme>
-  <programme start="20210224124800 +0000" stop="20210224132100 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">SMONKA! ES: SMONKA! 137</title>
-    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="es">Classics</category>
-    <category lang="es">Classic Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5f47554ab9a18c001a4bce20/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
-    </rating>
-  </programme>
-  <programme start="20210224132100 +0000" stop="20210224135100 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">SMONKA! ES: SMONKA! 138</title>
-    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="es">Classics</category>
-    <category lang="es">Classic Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5f47554ab9a18c001a4bce0e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
-    </rating>
-  </programme>
-  <programme start="20210224135100 +0000" stop="20210224142100 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">SMONKA! ES: SMONKA! 139</title>
-    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="es">Classics</category>
-    <category lang="es">Classic Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5f47554ab9a18c001a4bce2c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
-    </rating>
-  </programme>
-  <programme start="20210224142100 +0000" stop="20210224144900 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">SMONKA! ES: SMONKA! 140</title>
-    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="es">Classics</category>
-    <category lang="es">Classic Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5f47554bb9a18c001a4bce31/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
-    </rating>
-  </programme>
-  <programme start="20210224144900 +0000" stop="20210224152900 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">La Hora de José Mota: 13</title>
-    <desc lang="es">En este episodio: A Dios Gracias, Alfred Híco Presenta, Dices tú de Mili, Fama, Repugnancia, El robo, Alarma Social, Si no fuera rico, El bote, Quo Vadis, El mal del bombero, Cuantos Milenios y El Viejo a Ninguna Parte, entre otros.(n)</desc>
-    <category lang="es">Music</category>
-    <category lang="es">World</category>
-    <icon src="https://images.pluto.tv/episodes/5f4f5d0ffa72a5001a5fdd8c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
     </rating>
   </programme>
   <programme start="20210224152900 +0000" stop="20210224162400 +0000" channel="5f1abce155a03d0007718834">
@@ -1946,113 +1866,93 @@
       <value>+16</value>
     </rating>
   </programme>
-  <programme start="20210224000000 +0000" stop="20210224115300 +0000" channel="5f9853138d19af0007104a8d">
+  <programme start="20210225010700 +0000" stop="20210225014700 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="es">Central de Cómicos: Miki Maka: Quiero ser una rock &amp; roll star / Denny Horror: Ve hacia la luz, Denny</title>
+    <desc lang="es">Miki Maka siempre quiso dedicarse a la música, pero esto de la risa se le daba mejor... / Denny Horror es gallego y algo gótico, como la Catedral de Santiago.  Eso sí, viendo su humor negro y los temas que aborda,  entendemos eso es lo único que tiene en.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f48a211bbff270013bcc4f3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210225014700 +0000" stop="20210225022300 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="es">Central de Cómicos</title>
+    <desc lang="es">El inimitable Toni Moog continúa contando las andanzas de sus amigos el Friky y el Choni, los saltos de esquí  y las relaciones familiares.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/60018b952816a5001aa0779c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210225022300 +0000" stop="20210225024900 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="es">Central de Cómicos</title>
+    <desc lang="es">Nene está buscando trabajo, tras su etapa como futbolista, pero no tiene claro a qué dedicarse, y además tiene un problema: nada le gusta y todo lo critica.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/60018b962816a5001aa077f1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20210225024900 +0000" stop="20210225031600 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="es">Central de Cómicos</title>
+    <desc lang="es">Miguel Iríbar, uno de los cómicos más pesimistas del país, centra este monólogo en las críticas a la religión.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/60018b962816a5001aa077f6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20210225031600 +0000" stop="20210225034200 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="es">Central de Cómicos</title>
+    <desc lang="es">Luis Álvaro es un cómico brillante e inclasificable, en cada monólogo trata una multitud de temas, y este no es una excepción.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/60018b962816a5001aa0780e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210225034200 +0000" stop="20210225040800 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="es">Central de Cómicos</title>
+    <desc lang="es">Marco Antonio saca lo peor de su carácter yendo al cine. Y si además va con su novia "calorra", la cosa se puede complicar mucho.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210225040800 +0000" stop="20210225043900 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="es">Central de Cómicos</title>
+    <desc lang="es">Las mujeres, los padres, los hijos, la tecnología, Dios, el porno, la Justicia Universal... todo entra en este monólogo, de la mano de Kaco, que se autodefine como "un tío sensible", aunque sospechamos que nadie más lo definiría así.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/60018b962816a5001aa077ac/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210225043900 +0000" stop="20210225050700 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="es">Central de Cómicos</title>
+    <desc lang="es">Kalderas es de Murcia, y no está acostumbrado a los cambios de la vida moderna. Los móviles, la tecnología, las relaciones de pareja...(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/60018b962816a5001aa077d5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20210224120000 +0000" stop="20210224155100 +0000" channel="5f9853138d19af0007104a8d">
     <title lang="es">Pluto TV Series Comedia</title>
     <desc lang="es">No information available.(n)</desc>
     <category lang="es">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f9853138d19af0007104a8d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
-    </rating>
-  </programme>
-  <programme start="20210224115300 +0000" stop="20210224121600 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">I live with Models: El dos por uno</title>
-    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="es">Comedy</category>
-    <category lang="es">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37b0e7dc9c001a9ef24e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
-    </rating>
-  </programme>
-  <programme start="20210224121600 +0000" stop="20210224123900 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">I live with Models: No ligues con Molly</title>
-    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="es">Comedy</category>
-    <category lang="es">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37b0e7dc9c001a9ef253/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
-    </rating>
-  </programme>
-  <programme start="20210224123900 +0000" stop="20210224130300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">I live with Models: El modelo</title>
-    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="es">Comedy</category>
-    <category lang="es">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37aee7dc9c001a9ef21d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
-    </rating>
-  </programme>
-  <programme start="20210224130300 +0000" stop="20210224132700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Big Time in Hollywood</title>
-    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="es">Comedy</category>
-    <category lang="es">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37d3e7dc9c001a9ef556/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20210224132700 +0000" stop="20210224135100 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Big Time in Hollywood</title>
-    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="es">Comedy</category>
-    <category lang="es">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37d3e7dc9c001a9ef54a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20210224135100 +0000" stop="20210224141500 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Big Time in Hollywood</title>
-    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="es">Comedy</category>
-    <category lang="es">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37d1e7dc9c001a9ef4fe/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20210224141500 +0000" stop="20210224143900 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Big Time in Hollywood</title>
-    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="es">Comedy</category>
-    <category lang="es">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37d2e7dc9c001a9ef515/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20210224143900 +0000" stop="20210224150300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Alternatino: Las Tías</title>
-    <desc lang="es">Un lanzador lleva su técnica de visualización demasiado lejos; una cumbre latinoamericana se sale de los rieles; y las tías de Arturo le visitan para ayudarlo a superar una ruptura.(n)</desc>
-    <category lang="es">Comedy</category>
-    <category lang="es">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fb782cae8b7e6001a75337d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20210224150300 +0000" stop="20210224152700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Alternatino: La Pulga</title>
-    <desc lang="es">Un hombre lucha por disculparse con un colega, Pitbull llega a una conclusión preocupante y Arturo considera un papel cinematográfico problemático.(n)</desc>
-    <category lang="es">Comedy</category>
-    <category lang="es">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fb782cae8b7e6001a753384/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20210224152700 +0000" stop="20210224155100 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Alternatino: La Novia</title>
-    <desc lang="es">Un niño con una enfermedad terminal pide un deseo poco convencional, la madre de un hombre y su prometida se enfrentan por tamales y Arturo descubre que está saliendo con un republicano.(n)</desc>
-    <category lang="es">Comedy</category>
-    <category lang="es">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fb782c9e8b7e6001a75336a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
     </rating>
   </programme>
   <programme start="20210224155100 +0000" stop="20210224161500 +0000" channel="5f9853138d19af0007104a8d">
@@ -2291,6 +2191,106 @@
     <category lang="es">Classics</category>
     <category lang="es">Classic Comedies</category>
     <icon src="https://images.pluto.tv/episodes/5fca37dbe7dc9c001a9ef5f6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210225012200 +0000" stop="20210225014500 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Another Period: Joplin</title>
+    <desc lang="es">Lillian y Beatrice intentan escribir una canción de éxito con la ayuda de un compositor de Kanye llamado Joplin. Peepers lucha con los deseos carnales recién descubiertos.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37dbe7dc9c001a9ef600/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210225014500 +0000" stop="20210225020800 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Another Period: La boda de Lilian</title>
+    <desc lang="es">Lillian planea casarse con un hombre extremadamente viejo y rico, Laverne. Chispas vuelan entre Hortense y el guapo nieto de Laverne, Bertram.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37dbe7dc9c001a9ef605/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210225020800 +0000" stop="20210225023100 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Broad City: Buscando piso</title>
+    <desc lang="es">Broad City sigue el día a día de dos jóvenes e inseparables amigas por la gran ciudad de Nueva York. La serie se centra en la vida cotidiana de una sociedad de bajos ingresos que lucha por la igualdad de las mujere.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fc4ac5b5fc7e1001a3ad1ec/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210225023100 +0000" stop="20210225025400 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Broad City: La última cena</title>
+    <desc lang="es">Las chicas van a un restaurante elegante para el cumpleaños de Abbi. Abbi debe aceptar ser una "perra desagradable", mientras que Ilana hace frente a los efectos secundarios autoinfligidos de su comida típica.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fc4ac5b5fc7e1001a3ad207/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210225025400 +0000" stop="20210225031700 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Broad City: Acaloradas</title>
+    <desc lang="es">Ilana busca el regalo perfecto de último minuto para Lincoln, mientras que Abbi intenta localizar un aire acondicionado para mantenerse fresco en el dormitorio.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fd722e70dddaf0013b7e9cc/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210225031700 +0000" stop="20210225034000 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Broad City: Batidos de café</title>
+    <desc lang="es">Surgen nuevas oportunidades cuando Abbi finalmente puede capacitar a alguien en Soulstice e Ilana encuentra el éxito como un señor corporativo.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fb782b7e8b7e6001a753183/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210225034000 +0000" stop="20210225040300 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Teachers: Trabajo en equipo</title>
+    <desc lang="es">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210225040300 +0000" stop="20210225042500 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Teachers: Inseguridad</title>
+    <desc lang="es">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca1f3d0983410013dbec80/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210225042500 +0000" stop="20210225044800 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Teachers: ¡A comer!: el musical</title>
+    <desc lang="es">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210225044800 +0000" stop="20210225051100 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Teachers: El baile</title>
+    <desc lang="es">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca1f3e0983410013dbecef/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+16</value>
     </rating>
