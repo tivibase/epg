@@ -27,7 +27,7 @@
     <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_a207b85649c027038759e0e90.png" />
     <url>http://www.orange.es.EK</url>
   </channel>
-  <programme start="20210224011800 +0000" stop="20210224030000 +0000" channel="La 1">
+  <programme start="20210224001800 +0100" stop="20210224020000 +0100" channel="La 1">
     <title lang="es">El futuro ya no es lo que era</title>
     <desc lang="es">Carlos, un famoso adivino de la televisión, está en una encrucijada. El hombre no sabe si seguir siendo un impostor y aceptar una gran oferta, o intentar luchar por el sueño de su vida: ser actor.Rodada en Oviedo y presentada en el Festival de Málaga, ''El futuro ya no es lo que era'' es una comedia dramática escrita y dirigida por Pedro L. Barbero. Tras su primera obra, titulada ''Tuno negro'' (2001), el realizador español no volvió a dirigir otro filme.Originalmente estaba previsto que José Mota fuera el protagonista del largometraje, pero al final fue el malagueño Dani Rovira el elegido. Sin embargo había una cosa clara, el papel de Carmen Maura fue escrito por y para ella, de ahí que su personaje se llamara igual.(n)</desc>
     <credits>
@@ -45,7 +45,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/12/682770.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210224030000 +0000" stop="20210224045000 +0000" channel="La 1">
+  <programme start="20210224020000 +0100" stop="20210224035000 +0100" channel="La 1">
     <title lang="es">La noche en 24 horas</title>
     <desc lang="es">Informativo diario nocturno presentado por Xabier Fortes que ofrece un análisis profundo y plural de la actualidad de la jornada.(n)</desc>
     <credits>
@@ -60,7 +60,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210224045000 +0000" stop="20210224060000 +0000" channel="La 1">
+  <programme start="20210224035000 +0100" stop="20210224050000 +0100" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -71,7 +71,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210224060000 +0000" stop="20210224063000 +0000" channel="La 1">
+  <programme start="20210224050000 +0100" stop="20210224053000 +0100" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -82,7 +82,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210224063000 +0000" stop="20210224080000 +0000" channel="La 1">
+  <programme start="20210224053000 +0100" stop="20210224070000 +0100" channel="La 1">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Sirun Demirjian conduce este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.(n)</desc>
     <credits>
@@ -95,7 +95,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210224080000 +0000" stop="20210224100000 +0000" channel="La 1">
+  <programme start="20210224070000 +0100" stop="20210224090000 +0100" channel="La 1">
     <title lang="es">La hora de La 1: La hora política</title>
     <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad con reportajes y entrevistas dedicados a analizar en profundidad el mundo de la política.(n)</desc>
     <credits>
@@ -107,7 +107,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/72/653170.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210224100000 +0000" stop="20210224123000 +0000" channel="La 1">
+  <programme start="20210224090000 +0100" stop="20210224113000 +0100" channel="La 1">
     <title lang="es">La hora de La 1: La hora de la actualidad</title>
     <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servició público para ayudar a los ciudadanos en su día a día.(n)</desc>
     <credits>
@@ -122,7 +122,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210224123000 +0000" stop="20210224150000 +0000" channel="La 1">
+  <programme start="20210224113000 +0100" stop="20210224140000 +0100" channel="La 1">
     <title lang="es">Las cosas claras</title>
     <desc lang="es">Actualidad, entretenimiento, análisis y rigor son algunos de los ingredientes de ''Las cosas claras''. Este programa es una ventana abierta a la pluralidad y a todo lo que acontece, con contenido útil y cercano al espectador y vocación de ofrecer respuestas.(n)</desc>
     <credits>
@@ -134,7 +134,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/30/676400.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210224150000 +0000" stop="20210224160000 +0000" channel="La 1">
+  <programme start="20210224140000 +0100" stop="20210224150000 +0100" channel="La 1">
     <title lang="es">Telediario 1</title>
     <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Ana Blanco conduce este espacio que ofrece un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte presentada por Lourdes García Campos.(n)</desc>
     <credits>
@@ -148,13 +148,13 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210224160000 +0000" stop="20210224162000 +0000" channel="La 1">
+  <programme start="20210224150000 +0100" stop="20210224152000 +0100" channel="La 1">
     <title lang="es">Informativo territorial</title>
     <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través del la cual se informa de los problemas más cercanos para el ciudadano.(n)</desc>
     <category lang="es">Noticias</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/660994.png" />
   </programme>
-  <programme start="20210224162000 +0000" stop="20210224163500 +0000" channel="La 1">
+  <programme start="20210224152000 +0100" stop="20210224153500 +0100" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -165,7 +165,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210224163500 +0000" stop="20210224172500 +0000" channel="La 1">
+  <programme start="20210224153500 +0100" stop="20210224162500 +0100" channel="La 1">
     <title lang="es">Dos vidas</title>
     <desc lang="es">La historia de Julia y Carmen, nieta y abuela, dos vidas unidas de manera insospechada en dos épocas y lugares distintos.(n)</desc>
     <credits>
@@ -182,7 +182,7 @@
     <country lang="es">España</country>
     <episode-num system="onscreen">E24</episode-num>
   </programme>
-  <programme start="20210224172500 +0000" stop="20210224181500 +0000" channel="La 1">
+  <programme start="20210224162500 +0100" stop="20210224171500 +0100" channel="La 1">
     <title lang="es">Servir y proteger</title>
     <desc lang="es">Distrito Sur no se ha recuperado del asalto a la comisaría y la muerte de Alicia Ocaña cuando llega el prestigioso inspector jefe enviado por jefatura para depurar responsabilidades. Además, los policías tendrán que hacer frente a un cruel asesino.(n)</desc>
     <credits>
@@ -203,7 +203,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210224181500 +0000" stop="20210224191000 +0000" channel="La 1">
+  <programme start="20210224171500 +0100" stop="20210224181000 +0100" channel="La 1">
     <title lang="es">Acacias 38</title>
     <desc lang="es">Una historia de ricos y pobres que conviven en un único espacio, en un portal situado en el número 38 de la calle Acacias. Allí florecen sentimientos como el amor, los celos, las pasiones, las venganzas, los odios y la alegría.(n)</desc>
     <credits>
@@ -230,7 +230,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210224191000 +0000" stop="20210224200000 +0000" channel="La 1">
+  <programme start="20210224181000 +0100" stop="20210224190000 +0100" channel="La 1">
     <title lang="es">El cazador</title>
     <desc lang="es">Concurso de preguntas y respuestas en el que concursantes anónimos luchan frente a un concursante profesional de la televisión para obtener un gran premio final. En el programa, los concursantes unirán sus conocimientos para ganar al 'cazador'.(n)</desc>
     <credits>
@@ -241,7 +241,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/af/677551.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210224200000 +0000" stop="20210224203000 +0000" channel="La 1">
+  <programme start="20210224190000 +0100" stop="20210224193000 +0100" channel="La 1">
     <title lang="es">España directo</title>
     <desc lang="es">Magacín informativo muy en contacto con los temas sociales que incluye conexiones con todos los rincones de la geografía nacional. El programa pretende acercarse al espectador gracias a la abundancia de intervenciones en directo y a la espontaneidad de sus reporteros.(n)</desc>
     <credits>
@@ -256,7 +256,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210224203000 +0000" stop="20210224210000 +0000" channel="La 1">
+  <programme start="20210224193000 +0100" stop="20210224200000 +0100" channel="La 1">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Quico Taronjí ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.(n)</desc>
     <credits>
@@ -269,7 +269,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210224210000 +0000" stop="20210224215200 +0000" channel="La 1">
+  <programme start="20210224200000 +0100" stop="20210224205200 +0100" channel="La 1">
     <title lang="es">Telediario 2</title>
     <desc lang="es">Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Carlos Franganillo. También hay espacio para la parcela deportiva presentada por Arsenio Cañada.(n)</desc>
     <credits>
@@ -282,7 +282,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210224215200 +0000" stop="20210224221000 +0000" channel="La 1">
+  <programme start="20210224205200 +0100" stop="20210224211000 +0100" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -293,7 +293,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210224221000 +0000" stop="20210224232000 +0000" channel="La 1">
+  <programme start="20210224211000 +0100" stop="20210224222000 +0100" channel="La 1">
     <title lang="es">La caza. Tramuntana</title>
     <sub-title lang="es">Can Falgueres</sub-title>
     <desc lang="es">La búsqueda de Sara se convierte en una contrarreloj desesperada. Víctor y Selva se topan con Cati: aunque sepan que ella está detrás de lo sucedido, no va a hablar. Tampoco logran dar con Samiah, una de las chicas que podría tener la clave de todos los crímenes.(n)</desc>
@@ -312,7 +312,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/8b/680587.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210224232000 +0000" stop="20210225011000 +0000" channel="La 1">
+  <programme start="20210224222000 +0100" stop="20210225001000 +0100" channel="La 1">
     <title lang="es">Expediente Anwar</title>
     <title lang="en">Rendition</title>
     <desc lang="es">Un ingeniero químico estadounidense de origen egipcio desaparece en un vuelo de Sudáfrica a Washington. Su esposa lo busca desesperadamente sin saber que ha sido detenido por ser sospechoso de terrorismo. Mientras, un analista de la CIA que es testigo del interrogatorio se cuestiona la ética de su trabajo.El sudafricano Gavin Hood, director de la oscarizada ''Tsotsi'', dirige este thriller coproducido y filmado de nuevo en su país de origen. A pesar de que su principal reclamo lo constituye la presencia en el reparto de intérpretes de la talla de Jake Gyllenhaal, Reese Witherspoon y Meryl Streep; la crítica destacó precisamente la labor de actores menos conocidos como Omar Metwally, Igal Naor y Peter Sarsgaard.A pesar de ello, ''Expediente Anwar'' no obtuvo ningún premio relevante (los atractivos Gyllenhaal y Witherspoon tan solo lograron sendas nominaciones en los juveniles Teen Choice Awards) y en la taquilla estadounidense recaudó poco más de la tercera parte de los casi 30 millones de dólares que costó.(n)</desc>
@@ -334,7 +334,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210225011000 +0000" stop="20210225020500 +0000" channel="La 1">
+  <programme start="20210225001000 +0100" stop="20210225010500 +0100" channel="La 1">
     <title lang="es">Españoles en el mundo</title>
     <sub-title lang="es">La Toscana</sub-title>
     <desc lang="es">El equipo del programa viaja esta semana a la Toscana para descubrir la belleza de sus paisajes de la mano de cinco españoles. El espacio recorrerá el valle de Chianti desde el aire, la costa de Livorno, las aguas termales de Saturnia y la ciudad de Florencia.(n)</desc>
@@ -349,7 +349,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210225020500 +0000" stop="20210225030000 +0000" channel="La 1">
+  <programme start="20210225010500 +0100" stop="20210225020000 +0100" channel="La 1">
     <title lang="es">Españoles en el mundo</title>
     <sub-title lang="es">Costa Rica, Costa Pacífico</sub-title>
     <desc lang="es">El programa viaja hasta uno de los países más felices del mundo, Costa Rica. Su vegetación y playas salvajes, su espectacular biodiversidad, y un ritmo de vida muy especial hacen de este país un referente mundial de turismo sostenible.(n)</desc>
@@ -364,7 +364,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210225030000 +0000" stop="20210225045000 +0000" channel="La 1">
+  <programme start="20210225020000 +0100" stop="20210225035000 +0100" channel="La 1">
     <title lang="es">La noche en 24 horas</title>
     <desc lang="es">Informativo diario nocturno presentado por Xabier Fortes que ofrece un análisis profundo y plural de la actualidad de la jornada.(n)</desc>
     <credits>
@@ -379,7 +379,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210225045000 +0000" stop="20210225060000 +0000" channel="La 1">
+  <programme start="20210225035000 +0100" stop="20210225050000 +0100" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -390,7 +390,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210225060000 +0000" stop="20210225063000 +0000" channel="La 1">
+  <programme start="20210225050000 +0100" stop="20210225053000 +0100" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -401,7 +401,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210225063000 +0000" stop="20210225080000 +0000" channel="La 1">
+  <programme start="20210225053000 +0100" stop="20210225070000 +0100" channel="La 1">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Sirun Demirjian conduce este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.(n)</desc>
     <credits>
@@ -414,7 +414,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210225080000 +0000" stop="20210225100000 +0000" channel="La 1">
+  <programme start="20210225070000 +0100" stop="20210225090000 +0100" channel="La 1">
     <title lang="es">La hora de La 1: La hora política</title>
     <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad con reportajes y entrevistas dedicados a analizar en profundidad el mundo de la política.(n)</desc>
     <credits>
@@ -426,7 +426,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/72/653170.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210225100000 +0000" stop="20210225123000 +0000" channel="La 1">
+  <programme start="20210225090000 +0100" stop="20210225113000 +0100" channel="La 1">
     <title lang="es">La hora de La 1: La hora de la actualidad</title>
     <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servició público para ayudar a los ciudadanos en su día a día.(n)</desc>
     <credits>
@@ -441,7 +441,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210225123000 +0000" stop="20210225150000 +0000" channel="La 1">
+  <programme start="20210225113000 +0100" stop="20210225140000 +0100" channel="La 1">
     <title lang="es">Las cosas claras</title>
     <desc lang="es">Actualidad, entretenimiento, análisis y rigor son algunos de los ingredientes de ''Las cosas claras''. Este programa es una ventana abierta a la pluralidad y a todo lo que acontece, con contenido útil y cercano al espectador y vocación de ofrecer respuestas.(n)</desc>
     <credits>
@@ -453,7 +453,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/30/676400.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210225150000 +0000" stop="20210225160000 +0000" channel="La 1">
+  <programme start="20210225140000 +0100" stop="20210225150000 +0100" channel="La 1">
     <title lang="es">Telediario 1</title>
     <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Ana Blanco conduce este espacio que ofrece un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte presentada por Lourdes García Campos.(n)</desc>
     <credits>
@@ -467,13 +467,13 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210225160000 +0000" stop="20210225162000 +0000" channel="La 1">
+  <programme start="20210225150000 +0100" stop="20210225152000 +0100" channel="La 1">
     <title lang="es">Informativo territorial</title>
     <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través del la cual se informa de los problemas más cercanos para el ciudadano.(n)</desc>
     <category lang="es">Noticias</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/660994.png" />
   </programme>
-  <programme start="20210225162000 +0000" stop="20210225163500 +0000" channel="La 1">
+  <programme start="20210225152000 +0100" stop="20210225153500 +0100" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -484,7 +484,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210225163500 +0000" stop="20210225172500 +0000" channel="La 1">
+  <programme start="20210225153500 +0100" stop="20210225162500 +0100" channel="La 1">
     <title lang="es">Dos vidas</title>
     <desc lang="es">La historia de Julia y Carmen, nieta y abuela, dos vidas unidas de manera insospechada en dos épocas y lugares distintos.(n)</desc>
     <credits>
@@ -501,7 +501,7 @@
     <country lang="es">España</country>
     <episode-num system="onscreen">E25</episode-num>
   </programme>
-  <programme start="20210225172500 +0000" stop="20210225181500 +0000" channel="La 1">
+  <programme start="20210225162500 +0100" stop="20210225171500 +0100" channel="La 1">
     <title lang="es">Servir y proteger</title>
     <desc lang="es">Distrito Sur no se ha recuperado del asalto a la comisaría y la muerte de Alicia Ocaña cuando llega el prestigioso inspector jefe enviado por jefatura para depurar responsabilidades. Además, los policías tendrán que hacer frente a un cruel asesino.(n)</desc>
     <credits>
@@ -521,7 +521,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210225181500 +0000" stop="20210225191000 +0000" channel="La 1">
+  <programme start="20210225171500 +0100" stop="20210225181000 +0100" channel="La 1">
     <title lang="es">Acacias 38</title>
     <desc lang="es">Una historia de ricos y pobres que conviven en un único espacio, en un portal situado en el número 38 de la calle Acacias. Allí florecen sentimientos como el amor, los celos, las pasiones, las venganzas, los odios y la alegría.(n)</desc>
     <credits>
@@ -548,7 +548,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210225191000 +0000" stop="20210225200000 +0000" channel="La 1">
+  <programme start="20210225181000 +0100" stop="20210225190000 +0100" channel="La 1">
     <title lang="es">El cazador</title>
     <desc lang="es">Concurso de preguntas y respuestas en el que concursantes anónimos luchan frente a un concursante profesional de la televisión para obtener un gran premio final. En el programa, los concursantes unirán sus conocimientos para ganar al 'cazador'.(n)</desc>
     <credits>
@@ -559,7 +559,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/af/677551.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210225200000 +0000" stop="20210225203000 +0000" channel="La 1">
+  <programme start="20210225190000 +0100" stop="20210225193000 +0100" channel="La 1">
     <title lang="es">España directo</title>
     <desc lang="es">Magacín informativo muy en contacto con los temas sociales que incluye conexiones con todos los rincones de la geografía nacional. El programa pretende acercarse al espectador gracias a la abundancia de intervenciones en directo y a la espontaneidad de sus reporteros.(n)</desc>
     <credits>
@@ -574,7 +574,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210225203000 +0000" stop="20210225210000 +0000" channel="La 1">
+  <programme start="20210225193000 +0100" stop="20210225200000 +0100" channel="La 1">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Quico Taronjí ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.(n)</desc>
     <credits>
@@ -587,7 +587,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210225210000 +0000" stop="20210225215200 +0000" channel="La 1">
+  <programme start="20210225200000 +0100" stop="20210225205200 +0100" channel="La 1">
     <title lang="es">Telediario 2</title>
     <desc lang="es">Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Carlos Franganillo. También hay espacio para la parcela deportiva presentada por Arsenio Cañada.(n)</desc>
     <credits>
@@ -600,7 +600,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210225215200 +0000" stop="20210225221000 +0000" channel="La 1">
+  <programme start="20210225205200 +0100" stop="20210225211000 +0100" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -611,7 +611,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210225221000 +0000" stop="20210225231500 +0000" channel="La 1">
+  <programme start="20210225211000 +0100" stop="20210225221500 +0100" channel="La 1">
     <title lang="es">Cuéntame cómo pasó</title>
     <desc lang="es">Los Alcántara se encuentran en una celebración en la que la familia intenta pasar página en un año de grandes expectativas -no solo para Antonio, Mercedes y sus hijos- sino para todos los españoles.(n)</desc>
     <credits>
@@ -636,7 +636,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210225231500 +0000" stop="20210226000500 +0000" channel="La 1">
+  <programme start="20210225221500 +0100" stop="20210225230500 +0100" channel="La 1">
     <title lang="es">Novéntame</title>
     <desc lang="es">Un retrato nostálgico a la España de la década de 1990. El programa recurre a imágenes de archivo y al testimonio de personas significativas, tanto de los que protagonizaron la vida del momento como de los que nacieron en aquellos años y hoy son referencia en su ámbito.(n)</desc>
     <date>2021</date>
@@ -647,7 +647,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210226000500 +0000" stop="20210226031500 +0000" channel="La 1">
+  <programme start="20210225230500 +0100" stop="20210226021500 +0100" channel="La 1">
     <title lang="es">Comando Actualidad</title>
     <desc lang="es">Un novedoso formato que presenta un tema de actualidad a través de la mirada coral de varios reporteros callejeros. Cuatro periodistas que se desplazan hasta el lugar donde ocurren las noticias, las muestran tal y como son y aportan al tema su mirada personal.(n)</desc>
     <credits>
@@ -661,7 +661,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210226031500 +0000" stop="20210226051000 +0000" channel="La 1">
+  <programme start="20210226021500 +0100" stop="20210226041000 +0100" channel="La 1">
     <title lang="es">La noche en 24 horas</title>
     <desc lang="es">Informativo diario nocturno presentado por Xabier Fortes que ofrece un análisis profundo y plural de la actualidad de la jornada.(n)</desc>
     <credits>
@@ -676,7 +676,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210226051000 +0000" stop="20210226060000 +0000" channel="La 1">
+  <programme start="20210226041000 +0100" stop="20210226050000 +0100" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -687,7 +687,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210226060000 +0000" stop="20210226063000 +0000" channel="La 1">
+  <programme start="20210226050000 +0100" stop="20210226053000 +0100" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -698,7 +698,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210226063000 +0000" stop="20210226080000 +0000" channel="La 1">
+  <programme start="20210226053000 +0100" stop="20210226070000 +0100" channel="La 1">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Sirun Demirjian conduce este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.(n)</desc>
     <credits>
@@ -711,7 +711,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210226080000 +0000" stop="20210226100000 +0000" channel="La 1">
+  <programme start="20210226070000 +0100" stop="20210226090000 +0100" channel="La 1">
     <title lang="es">La hora de La 1: La hora política</title>
     <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad con reportajes y entrevistas dedicados a analizar en profundidad el mundo de la política.(n)</desc>
     <credits>
@@ -723,7 +723,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/72/653170.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210226100000 +0000" stop="20210226123000 +0000" channel="La 1">
+  <programme start="20210226090000 +0100" stop="20210226113000 +0100" channel="La 1">
     <title lang="es">La hora de La 1: La hora de la actualidad</title>
     <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servició público para ayudar a los ciudadanos en su día a día.(n)</desc>
     <credits>
@@ -738,7 +738,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210226123000 +0000" stop="20210226150000 +0000" channel="La 1">
+  <programme start="20210226113000 +0100" stop="20210226140000 +0100" channel="La 1">
     <title lang="es">Las cosas claras</title>
     <desc lang="es">Actualidad, entretenimiento, análisis y rigor son algunos de los ingredientes de ''Las cosas claras''. Este programa es una ventana abierta a la pluralidad y a todo lo que acontece, con contenido útil y cercano al espectador y vocación de ofrecer respuestas.(n)</desc>
     <credits>
@@ -750,7 +750,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/30/676400.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210226150000 +0000" stop="20210226160000 +0000" channel="La 1">
+  <programme start="20210226140000 +0100" stop="20210226150000 +0100" channel="La 1">
     <title lang="es">Telediario 1</title>
     <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Ana Blanco conduce este espacio que ofrece un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte presentada por Lourdes García Campos.(n)</desc>
     <credits>
@@ -764,13 +764,13 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210226160000 +0000" stop="20210226162000 +0000" channel="La 1">
+  <programme start="20210226150000 +0100" stop="20210226152000 +0100" channel="La 1">
     <title lang="es">Informativo territorial</title>
     <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través del la cual se informa de los problemas más cercanos para el ciudadano.(n)</desc>
     <category lang="es">Noticias</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/660994.png" />
   </programme>
-  <programme start="20210226162000 +0000" stop="20210226163500 +0000" channel="La 1">
+  <programme start="20210226152000 +0100" stop="20210226153500 +0100" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -781,7 +781,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210226163500 +0000" stop="20210226172500 +0000" channel="La 1">
+  <programme start="20210226153500 +0100" stop="20210226162500 +0100" channel="La 1">
     <title lang="es">Dos vidas</title>
     <desc lang="es">La historia de Julia y Carmen, nieta y abuela, dos vidas unidas de manera insospechada en dos épocas y lugares distintos.(n)</desc>
     <credits>
@@ -798,7 +798,7 @@
     <country lang="es">España</country>
     <episode-num system="onscreen">E26</episode-num>
   </programme>
-  <programme start="20210226172500 +0000" stop="20210226181500 +0000" channel="La 1">
+  <programme start="20210226162500 +0100" stop="20210226171500 +0100" channel="La 1">
     <title lang="es">Servir y proteger</title>
     <desc lang="es">Distrito Sur no se ha recuperado del asalto a la comisaría y la muerte de Alicia Ocaña cuando llega el prestigioso inspector jefe enviado por jefatura para depurar responsabilidades. Además, los policías tendrán que hacer frente a un cruel asesino.(n)</desc>
     <credits>
@@ -819,7 +819,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210226181500 +0000" stop="20210226191000 +0000" channel="La 1">
+  <programme start="20210226171500 +0100" stop="20210226181000 +0100" channel="La 1">
     <title lang="es">Acacias 38</title>
     <desc lang="es">Una historia de ricos y pobres que conviven en un único espacio, en un portal situado en el número 38 de la calle Acacias. Allí florecen sentimientos como el amor, los celos, las pasiones, las venganzas, los odios y la alegría.(n)</desc>
     <credits>
@@ -846,7 +846,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210226191000 +0000" stop="20210226200000 +0000" channel="La 1">
+  <programme start="20210226181000 +0100" stop="20210226190000 +0100" channel="La 1">
     <title lang="es">El cazador</title>
     <desc lang="es">Concurso de preguntas y respuestas en el que concursantes anónimos luchan frente a un concursante profesional de la televisión para obtener un gran premio final. En el programa, los concursantes unirán sus conocimientos para ganar al 'cazador'.(n)</desc>
     <credits>
@@ -857,7 +857,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/af/677551.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210226200000 +0000" stop="20210226203000 +0000" channel="La 1">
+  <programme start="20210226190000 +0100" stop="20210226193000 +0100" channel="La 1">
     <title lang="es">España directo</title>
     <desc lang="es">Magacín informativo muy en contacto con los temas sociales que incluye conexiones con todos los rincones de la geografía nacional. El programa pretende acercarse al espectador gracias a la abundancia de intervenciones en directo y a la espontaneidad de sus reporteros.(n)</desc>
     <credits>
@@ -872,7 +872,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210226203000 +0000" stop="20210226210000 +0000" channel="La 1">
+  <programme start="20210226193000 +0100" stop="20210226200000 +0100" channel="La 1">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Quico Taronjí ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.(n)</desc>
     <credits>
@@ -885,7 +885,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210226210000 +0000" stop="20210226215200 +0000" channel="La 1">
+  <programme start="20210226200000 +0100" stop="20210226205200 +0100" channel="La 1">
     <title lang="es">Telediario 2</title>
     <desc lang="es">Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Carlos Franganillo. También hay espacio para la parcela deportiva presentada por Arsenio Cañada.(n)</desc>
     <credits>
@@ -898,7 +898,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210226215200 +0000" stop="20210226220000 +0000" channel="La 1">
+  <programme start="20210226205200 +0100" stop="20210226210000 +0100" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -909,7 +909,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210226220000 +0000" stop="20210226221500 +0000" channel="La 1">
+  <programme start="20210226210000 +0100" stop="20210226211500 +0100" channel="La 1">
     <title lang="es">La suerte en tus manos</title>
     <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.(n)</desc>
     <credits>
@@ -923,7 +923,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210226221500 +0000" stop="20210226234500 +0000" channel="La 1">
+  <programme start="20210226211500 +0100" stop="20210226224500 +0100" channel="La 1">
     <title lang="es">Dos parejas y un destino</title>
     <desc lang="es">Programa de viajes y entrevistas en el que cada semana un famoso será el anfitrión sorpresa que organizará dos recorridos para las parejas del programa. Una ruta exclusiva para realizar con maletas, y una experiencia de aventuras.(n)</desc>
     <date>2021</date>
@@ -931,7 +931,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e1/680161.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210226234500 +0000" stop="20210227011000 +0000" channel="La 1">
+  <programme start="20210226224500 +0100" stop="20210227001000 +0100" channel="La 1">
     <title lang="es">Malditos vecinos 2</title>
     <title lang="en">Neighbors 2: Sorority Rising</title>
     <desc lang="es">Los Radner esperan su segundo hijo y firman un contrato de arras para vender su casa y mudarse a una más adecuada para su creciente familia. La llegada de una fraternidad universitaria de descontroladas estudiantes amenaza sus planes.Secuela de la alocada comedia ''Malditos vecinos'', que vuelve a estar dirigida por Nicholas Stoller, todo un experto en el género que en esta ocasión también participa en el guion. La cinta se centra en los disparatados intentos de Mac y Kelly por evitar que nada salga mal durante 30 días, el plazo que tienen los compradores de la vivienda para echarse atrás. Sin embargo, una nueva crisis se cierne sobre ellos: las chicas de Kappa Nu, quienes, cansadas del sistema sexista y restrictivo de la universidad, quieren un local donde hacer lo que les venga en gana.Seth Rogen y Rose Byrne, quien participó en el filme estando realmente embarazada, vuelven a interpretar a la pareja protagonista. Ambos recurren a su antiguo enemigo Teddy, encarnado otra vez por Zac Efron, para detener a las nuevas vecinas, grupo liderado por el personaje de Chloë Grace Moretz (''Si decido quedarme'').(n)</desc>
@@ -958,7 +958,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210227011000 +0000" stop="20210227022500 +0000" channel="La 1">
+  <programme start="20210227001000 +0100" stop="20210227012500 +0100" channel="La 1">
     <title lang="es">Promesas de arena</title>
     <desc lang="es">Fascinada por un universo tan exótico, Lucía viaja hasta Libia para trabajar en una ONG. Allí descubre los dos polos humanos que se manejan: quiénes lo dan todo y quiénes sacan partido de todo, como Hayzam, un hombre que la llevará hasta los límites de la pasión.(n)</desc>
     <credits>
@@ -977,7 +977,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/19/590617.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210227022500 +0000" stop="20210227060000 +0000" channel="La 1">
+  <programme start="20210227012500 +0100" stop="20210227050000 +0100" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -988,7 +988,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210227060000 +0000" stop="20210227085000 +0000" channel="La 1">
+  <programme start="20210227050000 +0100" stop="20210227075000 +0100" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -999,7 +999,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210227085000 +0000" stop="20210227095500 +0000" channel="La 1">
+  <programme start="20210227075000 +0100" stop="20210227085500 +0100" channel="La 1">
     <title lang="es">Comando Actualidad</title>
     <desc lang="es">Un novedoso formato que presenta un tema de actualidad a través de la mirada coral de varios reporteros callejeros. Cuatro periodistas que se desplazan hasta el lugar donde ocurren las noticias, las muestran tal y como son y aportan al tema su mirada personal.(n)</desc>
     <credits>
@@ -1013,7 +1013,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210227095500 +0000" stop="20210227133000 +0000" channel="La 1">
+  <programme start="20210227085500 +0100" stop="20210227123000 +0100" channel="La 1">
     <title lang="es">Maestros de la Costura</title>
     <desc lang="es">Un grupo de apasionados de la costura, el diseño y la moda se enfrentan a diferentes pruebas en las que tienen que demostrar su creatividad y talento transformando prendas o cosiendo sus propias creaciones.(n)</desc>
     <credits>
@@ -1027,7 +1027,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210227133000 +0000" stop="20210227140000 +0000" channel="La 1">
+  <programme start="20210227123000 +0100" stop="20210227130000 +0100" channel="La 1">
     <title lang="es">Audiencia abierta</title>
     <desc lang="es">Espacio de servicio público sobre la jefatura del Estado, la Corona y la Monarquía parlamentaria. Cada semana, el programa informa sobre las principales actividades del Rey como Jefe del Estado, dando a conocer en profundidad sus competencias y su actividad oficial.(n)</desc>
     <credits>
@@ -1042,7 +1042,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210227140000 +0000" stop="20210227143000 +0000" channel="La 1">
+  <programme start="20210227130000 +0100" stop="20210227133000 +0100" channel="La 1">
     <title lang="es">Flash Moda</title>
     <desc lang="es">La cadena pública desfila por la pasarela de la mano de Nieves Álvarez en este repaso a las novedades del mundo de la moda, las últimas tendencias y las colecciones de vanguardia. Además, el programa presta especial atención al trabajo de los diseñadores españoles.(n)</desc>
     <credits>
@@ -1057,7 +1057,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210227143000 +0000" stop="20210227150000 +0000" channel="La 1">
+  <programme start="20210227133000 +0100" stop="20210227140000 +0100" channel="La 1">
     <title lang="es">Corazón</title>
     <desc lang="es">Crónica social sobre los famosos del mundo de la música, la moda, el cine y el teatro. El espacio incluye reportajes de las grandes pasarelas, los cantantes y actores de moda. El objetivo del programa es transmitir también la cara humana y familiar del personaje.(n)</desc>
     <credits>
@@ -1072,7 +1072,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210227150000 +0000" stop="20210227155500 +0000" channel="La 1">
+  <programme start="20210227140000 +0100" stop="20210227145500 +0100" channel="La 1">
     <title lang="es">Telediario 1 Fin de Semana</title>
     <desc lang="es">Informativo de Televisión Española de los fines de semana. Lara Siscar se encarga de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.(n)</desc>
     <credits>
@@ -1086,7 +1086,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210227155500 +0000" stop="20210227160000 +0000" channel="La 1">
+  <programme start="20210227145500 +0100" stop="20210227150000 +0100" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -1097,19 +1097,19 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210227160000 +0000" stop="20210227173000 +0000" channel="La 1">
+  <programme start="20210227150000 +0100" stop="20210227163000 +0100" channel="La 1">
     <title lang="es">Cine</title>
     <desc lang="es">Emisión de una película.(n)</desc>
     <category lang="es">Cine</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/65/142949.png" />
   </programme>
-  <programme start="20210227173000 +0000" stop="20210227190000 +0000" channel="La 1">
+  <programme start="20210227163000 +0100" stop="20210227180000 +0100" channel="La 1">
     <title lang="es">Cine</title>
     <desc lang="es">Emisión de una película.(n)</desc>
     <category lang="es">Cine</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/65/142949.png" />
   </programme>
-  <programme start="20210227190000 +0000" stop="20210227210000 +0000" channel="La 1">
+  <programme start="20210227180000 +0100" stop="20210227200000 +0100" channel="La 1">
     <title lang="es">Martes y trece</title>
     <desc lang="es">En martes y trece, dos parejas deciden casarse sin temer a las supersticiones. Sin embargo, a uno de los novios, antes de salir para la iglesia, se le incendia la casa.Una de tantas comedias que el director Pedro Lazaga realizó durante el franquismo, como ''El turismo es un gran invento'' o ''¡Cómo sois las mujeres!''. En la película, en este caso producida entre España y Portugal, vuelven a repetirse las situaciones habituales en este tipo de filmes, como son las dudas de una pareja de novios, las confusiones o los equívocos. Lo mejor, sin duda, el trabajo de los actores, especialistas en el género como José Luis López Vázquez (''Los ladrones van a la oficina'') o Concha Velasco.(n)</desc>
     <credits>
@@ -1136,7 +1136,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210227210000 +0000" stop="20210227212500 +0000" channel="La 1">
+  <programme start="20210227200000 +0100" stop="20210227202500 +0100" channel="La 1">
     <title lang="es">Telediario 2 Fin de Semana</title>
     <desc lang="es">Informativo de Televisión Española de los fines de semana. Lara Siscar se encarga de presentar las últimas noticias de ámbito nacional e internacional. Marcos López, mientras, desgrana la actualidad deportiva.(n)</desc>
     <credits>
@@ -1149,7 +1149,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210227212500 +0000" stop="20210227213000 +0000" channel="La 1">
+  <programme start="20210227202500 +0100" stop="20210227203000 +0100" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -1160,7 +1160,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210227213000 +0000" stop="20210227220000 +0000" channel="La 1">
+  <programme start="20210227203000 +0100" stop="20210227210000 +0100" channel="La 1">
     <title lang="es">Informe Semanal</title>
     <desc lang="es">El programa más veterano de la televisión nacional, y el más antiguo de su género en Europa, ofrece la emisión de reportajes de la actualidad internacional, nacional, social o cultural. A veces, los reportajes pueden llegar a tener hasta media hora de duración.(n)</desc>
     <credits>
@@ -1174,13 +1174,13 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210227220000 +0000" stop="20210227233000 +0000" channel="La 1">
+  <programme start="20210227210000 +0100" stop="20210227223000 +0100" channel="La 1">
     <title lang="es">Cine</title>
     <desc lang="es">Emisión de una película.(n)</desc>
     <category lang="es">Cine</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/65/142949.png" />
   </programme>
-  <programme start="20210227233000 +0000" stop="20210228012000 +0000" channel="La 1">
+  <programme start="20210227223000 +0100" stop="20210228002000 +0100" channel="La 1">
     <title lang="es">Cine</title>
     <desc lang="es">Emisión de una película.(n)</desc>
     <category lang="es">Cine</category>
