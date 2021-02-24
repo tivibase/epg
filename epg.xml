@@ -19,9 +19,8 @@
     <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="5f9853138d19af0007104a8d">
-    <display-name lang="en">Pluto TV Comedia Made in Spain</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f9853138d19af0007104a8d/logo.png" />
-    <url>http://www.pluto.tv.E</url>
+    <display-name lang="es">Pluto TV Comedia Made in Spain</display-name>
+    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="Cazavisión">
     <display-name lang="es">Cazavisión</display-name>
@@ -2004,344 +2003,401 @@
     <desc lang="es">Programa que reúne a 10 de los mejores cómicos del país en un único espectáculo conducido por Manu Badenes: David Navarro, Ignatius Farray, Iñaki Urrutia, Paco Calavera, Luis Álvaro, Quique Macías, Miguel Lago, Miguel Esteban y J.J. Vaquero.(n)</desc>
     <category lang="es">Classics</category>
   </programme>
-  <programme start="20210224000000 +0000" stop="20210224095500 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Pluto TV Series Comedia</title>
-    <desc lang="en">No information available.(n)</desc>
-    <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5f9853138d19af0007104a8d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-    <rating>
-      <value>No Rating</value>
-    </rating>
+  <programme start="20210224055900 +0200" stop="20210224062300 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: La Novia</title>
+    <sub-title lang="es">La Novia</sub-title>
+    <desc lang="es">Un niño con una enfermedad terminal pide un deseo poco convencional, la madre de un hombre y su prometida se enfrentan por tamales y Arturo descubre que está saliendo con un republicano.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224095500 +0000" stop="20210224101900 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: Las Tías</title>
-    <desc lang="en">Un lanzador lleva su técnica de visualización demasiado lejos; una cumbre latinoamericana se sale de los rieles; y las tías de Arturo le visitan para ayudarlo a superar una ruptura.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fb782cae8b7e6001a75337d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
+  <programme start="20210224062300 +0200" stop="20210224064700 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: El Compañero de Equipo</title>
+    <sub-title lang="es">El Compañero de Equipo</sub-title>
+    <desc lang="es">Un nuevo miembro amenaza el papel de Arturo en su equipo de fútbol, ​​una estrella de acción adopta un enfoque práctico y el drama estalla entre bastidores en "El Show de Carmen Miranda".(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224101900 +0000" stop="20210224104300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: La Pulga</title>
-    <desc lang="en">Un hombre lucha por disculparse con un colega, Pitbull llega a una conclusión preocupante y Arturo considera un papel cinematográfico problemático.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fb782cae8b7e6001a753384/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
+  <programme start="20210224064700 +0200" stop="20210224070900 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: El apaño</title>
+    <sub-title lang="es">El apaño</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224104300 +0000" stop="20210224110700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: La Novia</title>
-    <desc lang="en">Un niño con una enfermedad terminal pide un deseo poco convencional, la madre de un hombre y su prometida se enfrentan por tamales y Arturo descubre que está saliendo con un republicano.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fb782c9e8b7e6001a75336a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
+  <programme start="20210224070900 +0200" stop="20210224073200 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: El dos por uno</title>
+    <sub-title lang="es">El dos por uno</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224110700 +0000" stop="20210224113100 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: El Compañero de Equipo</title>
-    <desc lang="en">Un nuevo miembro amenaza el papel de Arturo en su equipo de fútbol, ​​una estrella de acción adopta un enfoque práctico y el drama estalla entre bastidores en "El Show de Carmen Miranda".(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fb782c9e8b7e6001a753377/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
+  <programme start="20210224073200 +0200" stop="20210224075500 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: No ligues con Molly</title>
+    <sub-title lang="es">No ligues con Molly</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224113100 +0000" stop="20210224115300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: El apaño</title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37aee7dc9c001a9ef23b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
-    </rating>
+  <programme start="20210224075500 +0200" stop="20210224081900 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: El modelo</title>
+    <sub-title lang="es">El modelo</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224115300 +0000" stop="20210224121600 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: El dos por uno</title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37b0e7dc9c001a9ef24e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
-    </rating>
+  <programme start="20210224081900 +0200" stop="20210224084300 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <sub-title lang="es">Episodio 109</sub-title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224121600 +0000" stop="20210224123900 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: No ligues con Molly</title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37b0e7dc9c001a9ef253/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
-    </rating>
+  <programme start="20210224084300 +0200" stop="20210224090700 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <sub-title lang="es">Episodio 110</sub-title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224123900 +0000" stop="20210224130300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: El modelo</title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37aee7dc9c001a9ef21d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
-    </rating>
+  <programme start="20210224090700 +0200" stop="20210224093100 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <sub-title lang="es">La Ruptura</sub-title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224130300 +0000" stop="20210224132700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37d3e7dc9c001a9ef556/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
+  <programme start="20210224093100 +0200" stop="20210224095500 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <sub-title lang="es">la Intervención</sub-title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224132700 +0000" stop="20210224135100 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37d3e7dc9c001a9ef54a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
+  <programme start="20210224095500 +0200" stop="20210224101900 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: Las Tías</title>
+    <sub-title lang="es">Las Tías</sub-title>
+    <desc lang="es">Un lanzador lleva su técnica de visualización demasiado lejos; una cumbre latinoamericana se sale de los rieles; y las tías de Arturo le visitan para ayudarlo a superar una ruptura.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224135100 +0000" stop="20210224141500 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37d1e7dc9c001a9ef4fe/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
+  <programme start="20210224101900 +0200" stop="20210224104300 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: La Pulga</title>
+    <sub-title lang="es">La Pulga</sub-title>
+    <desc lang="es">Un hombre lucha por disculparse con un colega, Pitbull llega a una conclusión preocupante y Arturo considera un papel cinematográfico problemático.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224141500 +0000" stop="20210224143900 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37d2e7dc9c001a9ef515/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
+  <programme start="20210224104300 +0200" stop="20210224110700 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: La Novia</title>
+    <sub-title lang="es">La Novia</sub-title>
+    <desc lang="es">Un niño con una enfermedad terminal pide un deseo poco convencional, la madre de un hombre y su prometida se enfrentan por tamales y Arturo descubre que está saliendo con un republicano.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224143900 +0000" stop="20210224150300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: Las Tías</title>
-    <desc lang="en">Un lanzador lleva su técnica de visualización demasiado lejos; una cumbre latinoamericana se sale de los rieles; y las tías de Arturo le visitan para ayudarlo a superar una ruptura.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fb782cae8b7e6001a75337d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
+  <programme start="20210224110700 +0200" stop="20210224113100 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: El Compañero de Equipo</title>
+    <sub-title lang="es">El Compañero de Equipo</sub-title>
+    <desc lang="es">Un nuevo miembro amenaza el papel de Arturo en su equipo de fútbol, ​​una estrella de acción adopta un enfoque práctico y el drama estalla entre bastidores en "El Show de Carmen Miranda".(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224150300 +0000" stop="20210224152700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: La Pulga</title>
-    <desc lang="en">Un hombre lucha por disculparse con un colega, Pitbull llega a una conclusión preocupante y Arturo considera un papel cinematográfico problemático.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fb782cae8b7e6001a753384/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
+  <programme start="20210224113100 +0200" stop="20210224115300 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: El apaño</title>
+    <sub-title lang="es">El apaño</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224152700 +0000" stop="20210224155100 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: La Novia</title>
-    <desc lang="en">Un niño con una enfermedad terminal pide un deseo poco convencional, la madre de un hombre y su prometida se enfrentan por tamales y Arturo descubre que está saliendo con un republicano.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fb782c9e8b7e6001a75336a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
+  <programme start="20210224115300 +0200" stop="20210224121600 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: El dos por uno</title>
+    <sub-title lang="es">El dos por uno</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224155100 +0000" stop="20210224161500 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: El Compañero de Equipo</title>
-    <desc lang="en">Un nuevo miembro amenaza el papel de Arturo en su equipo de fútbol, ​​una estrella de acción adopta un enfoque práctico y el drama estalla entre bastidores en "El Show de Carmen Miranda".(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fb782c9e8b7e6001a753377/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
+  <programme start="20210224175500 +0200" stop="20210224182000 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <sub-title lang="es">Rehabilitación</sub-title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224161500 +0000" stop="20210224164000 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: Episodio 102</title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37b6e7dc9c001a9ef2d6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
-    </rating>
+  <programme start="20210225115300 +0200" stop="20210225121600 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: El dos por uno</title>
+    <sub-title lang="es">El dos por uno</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224164000 +0000" stop="20210224170500 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: Episodio 103</title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37b7e7dc9c001a9ef2e0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
-    </rating>
+  <programme start="20210225121600 +0200" stop="20210225123900 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: No ligues con Molly</title>
+    <sub-title lang="es">No ligues con Molly</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224170500 +0000" stop="20210224173000 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: Episodio 104</title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37b7e7dc9c001a9ef2db/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
-    </rating>
+  <programme start="20210225123900 +0200" stop="20210225130300 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: El modelo</title>
+    <sub-title lang="es">El modelo</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224173000 +0000" stop="20210224175500 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: Episodio 105</title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37b6e7dc9c001a9ef2b7/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
-    </rating>
+  <programme start="20210225130300 +0200" stop="20210225132700 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <sub-title lang="es">Episodio 109</sub-title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224175500 +0000" stop="20210224182000 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37d0e7dc9c001a9ef4ea/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
+  <programme start="20210225132700 +0200" stop="20210225135100 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <sub-title lang="es">Episodio 110</sub-title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224182000 +0000" stop="20210224184400 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37d4e7dc9c001a9ef563/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
+  <programme start="20210225135100 +0200" stop="20210225141500 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <sub-title lang="es">La Ruptura</sub-title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224184400 +0000" stop="20210224190900 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37d3e7dc9c001a9ef543/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
+  <programme start="20210225141500 +0200" stop="20210225143900 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <sub-title lang="es">la Intervención</sub-title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224190900 +0000" stop="20210224193300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37d0e7dc9c001a9ef4f4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
+  <programme start="20210225143900 +0200" stop="20210225150300 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: Las Tías</title>
+    <sub-title lang="es">Las Tías</sub-title>
+    <desc lang="es">Un lanzador lleva su técnica de visualización demasiado lejos; una cumbre latinoamericana se sale de los rieles; y las tías de Arturo le visitan para ayudarlo a superar una ruptura.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224193300 +0000" stop="20210224195700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: El Soñador</title>
-    <desc lang="en">Un comentario casual durante una entrevista deja a Arturo en un aprieto, Netflix se enfrenta a una emergencia y una operación del FBI sale mal.(n)</desc>
-    <category lang="en">Classics</category>
-    <category lang="en">Classic Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5fb782cae8b7e6001a75338c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
+  <programme start="20210225150300 +0200" stop="20210225152700 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: La Pulga</title>
+    <sub-title lang="es">La Pulga</sub-title>
+    <desc lang="es">Un hombre lucha por disculparse con un colega, Pitbull llega a una conclusión preocupante y Arturo considera un papel cinematográfico problemático.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224195700 +0000" stop="20210224202000 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: La Cita</title>
-    <desc lang="en">Arturo sale con una mujer obsesionada con su condición de latino; un padre lucha por tener una conversación sexual con su hijo adolescente; y la industria turística guatemalteca intenta una nueva táctica de publicidad.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fb782c9e8b7e6001a75335e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
+  <programme start="20210225152700 +0200" stop="20210225155100 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: La Novia</title>
+    <sub-title lang="es">La Novia</sub-title>
+    <desc lang="es">Un niño con una enfermedad terminal pide un deseo poco convencional, la madre de un hombre y su prometida se enfrentan por tamales y Arturo descubre que está saliendo con un republicano.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224202000 +0000" stop="20210224204400 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: El Pivote</title>
-    <desc lang="en">El arte del pivote conversacional; la nueva película "Cincuenta sombras de Grey"; y el Che Guevara.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fb782c9e8b7e6001a753354/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
+  <programme start="20210225155100 +0200" stop="20210225161500 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: El Compañero de Equipo</title>
+    <sub-title lang="es">El Compañero de Equipo</sub-title>
+    <desc lang="es">Un nuevo miembro amenaza el papel de Arturo en su equipo de fútbol, ​​una estrella de acción adopta un enfoque práctico y el drama estalla entre bastidores en "El Show de Carmen Miranda".(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224204400 +0000" stop="20210224210800 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: Las Tías</title>
-    <desc lang="en">Un lanzador lleva su técnica de visualización demasiado lejos; una cumbre latinoamericana se sale de los rieles; y las tías de Arturo le visitan para ayudarlo a superar una ruptura.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fb782cae8b7e6001a75337d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
+  <programme start="20210225161500 +0200" stop="20210225164000 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: Episodio 102</title>
+    <sub-title lang="es">Episodio 102</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224210800 +0000" stop="20210224213000 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Teachers: Inseguridad</title>
-    <desc lang="en">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca1f3d0983410013dbec80/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+16</value>
-    </rating>
+  <programme start="20210225164000 +0200" stop="20210225170500 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: Episodio 103</title>
+    <sub-title lang="es">Episodio 103</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224213000 +0000" stop="20210224215300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Teachers: ¡A comer!: el musical</title>
-    <desc lang="en">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+16</value>
-    </rating>
+  <programme start="20210225170500 +0200" stop="20210225173000 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: Episodio 104</title>
+    <sub-title lang="es">Episodio 104</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224215300 +0000" stop="20210224221600 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Teachers: El baile</title>
-    <desc lang="en">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca1f3e0983410013dbecef/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+16</value>
-    </rating>
+  <programme start="20210225173000 +0200" stop="20210225175500 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: Episodio 105</title>
+    <sub-title lang="es">Episodio 105</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224221600 +0000" stop="20210224223800 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Teachers: Pasivo agresivo</title>
-    <desc lang="en">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca1f3d0983410013dbeca3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+16</value>
-    </rating>
+  <programme start="20210225175500 +0200" stop="20210225182000 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <sub-title lang="es">Rehabilitación</sub-title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
-  <programme start="20210224223800 +0000" stop="20210224230100 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Idiotsitter: Recensión</title>
-    <desc lang="en">La historia de una extraña pareja que alcanza cotas imprevistas de depravación: cuando la "asalvajada" y rica veinteañera Gene es condenada a arresto domiciliario, sus padres contratan a una niñera llamada Billie para que se encargue de ella.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37a4e7dc9c001a9ef188/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+16</value>
-    </rating>
+  <programme start="20210226055900 +0200" stop="20210226062300 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: La Novia</title>
+    <sub-title lang="es">La Novia</sub-title>
+    <desc lang="es">Un niño con una enfermedad terminal pide un deseo poco convencional, la madre de un hombre y su prometida se enfrentan por tamales y Arturo descubre que está saliendo con un republicano.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210226062300 +0200" stop="20210226064700 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: El Compañero de Equipo</title>
+    <sub-title lang="es">El Compañero de Equipo</sub-title>
+    <desc lang="es">Un nuevo miembro amenaza el papel de Arturo en su equipo de fútbol, ​​una estrella de acción adopta un enfoque práctico y el drama estalla entre bastidores en "El Show de Carmen Miranda".(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210226064700 +0200" stop="20210226070900 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: El apaño</title>
+    <sub-title lang="es">El apaño</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210226070900 +0200" stop="20210226073200 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: El dos por uno</title>
+    <sub-title lang="es">El dos por uno</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210226073200 +0200" stop="20210226075500 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: No ligues con Molly</title>
+    <sub-title lang="es">No ligues con Molly</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210226075500 +0200" stop="20210226081900 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: El modelo</title>
+    <sub-title lang="es">El modelo</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210226081900 +0200" stop="20210226084300 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <sub-title lang="es">Episodio 109</sub-title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210226084300 +0200" stop="20210226090700 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <sub-title lang="es">Episodio 110</sub-title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210226090700 +0200" stop="20210226093100 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <sub-title lang="es">La Ruptura</sub-title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210226093100 +0200" stop="20210226095500 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <sub-title lang="es">la Intervención</sub-title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210226095500 +0200" stop="20210226101900 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: Las Tías</title>
+    <sub-title lang="es">Las Tías</sub-title>
+    <desc lang="es">Un lanzador lleva su técnica de visualización demasiado lejos; una cumbre latinoamericana se sale de los rieles; y las tías de Arturo le visitan para ayudarlo a superar una ruptura.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210226101900 +0200" stop="20210226104300 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: La Pulga</title>
+    <sub-title lang="es">La Pulga</sub-title>
+    <desc lang="es">Un hombre lucha por disculparse con un colega, Pitbull llega a una conclusión preocupante y Arturo considera un papel cinematográfico problemático.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210226104300 +0200" stop="20210226110700 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: La Novia</title>
+    <sub-title lang="es">La Novia</sub-title>
+    <desc lang="es">Un niño con una enfermedad terminal pide un deseo poco convencional, la madre de un hombre y su prometida se enfrentan por tamales y Arturo descubre que está saliendo con un republicano.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210226110700 +0200" stop="20210226113100 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: El Compañero de Equipo</title>
+    <sub-title lang="es">El Compañero de Equipo</sub-title>
+    <desc lang="es">Un nuevo miembro amenaza el papel de Arturo en su equipo de fútbol, ​​una estrella de acción adopta un enfoque práctico y el drama estalla entre bastidores en "El Show de Carmen Miranda".(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210226113100 +0200" stop="20210226115300 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: El apaño</title>
+    <sub-title lang="es">El apaño</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210226115300 +0200" stop="20210226121600 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: El dos por uno</title>
+    <sub-title lang="es">El dos por uno</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210226175500 +0200" stop="20210226182000 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <sub-title lang="es">Rehabilitación</sub-title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210227115300 +0200" stop="20210227121600 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: El dos por uno</title>
+    <sub-title lang="es">El dos por uno</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210227121600 +0200" stop="20210227123900 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: No ligues con Molly</title>
+    <sub-title lang="es">No ligues con Molly</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210227123900 +0200" stop="20210227130300 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: El modelo</title>
+    <sub-title lang="es">El modelo</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210227130300 +0200" stop="20210227132700 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <sub-title lang="es">Episodio 109</sub-title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210227132700 +0200" stop="20210227135100 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <sub-title lang="es">Episodio 110</sub-title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210227135100 +0200" stop="20210227141500 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <sub-title lang="es">La Ruptura</sub-title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210227141500 +0200" stop="20210227143900 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <sub-title lang="es">la Intervención</sub-title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210227143900 +0200" stop="20210227150300 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: Las Tías</title>
+    <sub-title lang="es">Las Tías</sub-title>
+    <desc lang="es">Un lanzador lleva su técnica de visualización demasiado lejos; una cumbre latinoamericana se sale de los rieles; y las tías de Arturo le visitan para ayudarlo a superar una ruptura.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210227150300 +0200" stop="20210227152700 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: La Pulga</title>
+    <sub-title lang="es">La Pulga</sub-title>
+    <desc lang="es">Un hombre lucha por disculparse con un colega, Pitbull llega a una conclusión preocupante y Arturo considera un papel cinematográfico problemático.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210227152700 +0200" stop="20210227155100 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: La Novia</title>
+    <sub-title lang="es">La Novia</sub-title>
+    <desc lang="es">Un niño con una enfermedad terminal pide un deseo poco convencional, la madre de un hombre y su prometida se enfrentan por tamales y Arturo descubre que está saliendo con un republicano.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210227155100 +0200" stop="20210227161500 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: El Compañero de Equipo</title>
+    <sub-title lang="es">El Compañero de Equipo</sub-title>
+    <desc lang="es">Un nuevo miembro amenaza el papel de Arturo en su equipo de fútbol, ​​una estrella de acción adopta un enfoque práctico y el drama estalla entre bastidores en "El Show de Carmen Miranda".(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210227161500 +0200" stop="20210227164000 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: Episodio 102</title>
+    <sub-title lang="es">Episodio 102</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210227164000 +0200" stop="20210227170500 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: Episodio 103</title>
+    <sub-title lang="es">Episodio 103</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210227170500 +0200" stop="20210227173000 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: Episodio 104</title>
+    <sub-title lang="es">Episodio 104</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210227173000 +0200" stop="20210227175500 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: Episodio 105</title>
+    <sub-title lang="es">Episodio 105</sub-title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
+  </programme>
+  <programme start="20210227175500 +0200" stop="20210227182000 +0200" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <sub-title lang="es">Rehabilitación</sub-title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
   </programme>
   <programme start="20210224000300 +0000" stop="20210224002900 +0000" channel="Cazavisión">
     <title lang="es">Aventuras con Stiliyan Kadrev</title>
