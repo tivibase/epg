@@ -10,17 +10,19 @@
     <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="5f1ac8f49205650007bc15f1">
-    <display-name lang="en">Pluto TV Series</display-name>
+    <display-name lang="es">Pluto TV Series</display-name>
     <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1ac8f49205650007bc15f1/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="5f1abce155a03d0007718834">
-    <display-name lang="en">Pluto TV Comedy</display-name>
-    <url>http://www.merge-xmltv</url>
+    <display-name lang="es">Pluto TV Comedy</display-name>
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1abce155a03d0007718834/logo.png" />
+    <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="5f9853138d19af0007104a8d">
-    <display-name lang="en">Pluto TV Comedia Made in Spain</display-name>
-    <url>http://www.merge-xmltv</url>
+    <display-name lang="es">Pluto TV Comedia Made in Spain</display-name>
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f9853138d19af0007104a8d/logo.png" />
+    <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="Cazavisión">
     <display-name lang="es">Cazavisión</display-name>
@@ -1506,898 +1508,792 @@
     <desc lang="es">Multideporte es la cadena interactiva de Movistar+. Accediendo a ella se pueden visualizar hasta nueve ventanas donde ver las diferentes emisiones de los canales deportivos.(n)</desc>
     <category lang="es">Sports</category>
   </programme>
-  <programme start="20210224000000 +0000" stop="20210224091400 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">Pluto TV Series</title>
-    <desc lang="en">No information available.(n)</desc>
-    <category lang="en">No information available</category>
+  <programme start="20210224000000 +0100" stop="20210224091400 +0100" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Pluto TV Series</title>
+    <desc lang="es">No information available.(n)</desc>
+    <category lang="es">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20210224091400 +0000" stop="20210224100400 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">Freaks And Geeks</title>
-    <desc lang="en">Lindsay se sorprende al ver que Nick es su novio y teme que quiera tener relaciones. Sam cree que tiene una oportunidad con Cindy Sanders. Pero descubren que las apariencias engañan.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romantic Comedies</category>
+  <programme start="20210224091400 +0100" stop="20210224100400 +0100" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Freaks And Geeks</title>
+    <desc lang="es">Lindsay se sorprende al ver que Nick es su novio y teme que quiera tener relaciones. Sam cree que tiene una oportunidad con Cindy Sanders. Pero descubren que las apariencias engañan.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Romantic Comedies</category>
     <icon src="https://images.pluto.tv/episodes/5f64603a25203500132da4e4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210224100400 +0000" stop="20210224105400 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">Freaks And Geeks</title>
-    <desc lang="en">A Lindsay le preocupa que Nick se esté volviendo demasiado intenso en la relación. Sam se convierte en la mascota del instituto para estar cerca de la animadora Cindy.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romantic Comedies</category>
+  <programme start="20210224100400 +0100" stop="20210224105400 +0100" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Freaks And Geeks</title>
+    <desc lang="es">A Lindsay le preocupa que Nick se esté volviendo demasiado intenso en la relación. Sam se convierte en la mascota del instituto para estar cerca de la animadora Cindy.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Romantic Comedies</category>
     <icon src="https://images.pluto.tv/episodes/5f64603a25203500132da4ef/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210224105400 +0000" stop="20210224114400 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">Freaks And Geeks</title>
-    <desc lang="en">Bill lucha por conseguir que le respeten más en clase de gimnasia. Harold y Jean deciden que Kim es una mala influencia para su hija y le prohíben a Lindsay ver a su amiga.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romantic Comedies</category>
+  <programme start="20210224105400 +0100" stop="20210224114400 +0100" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Freaks And Geeks</title>
+    <desc lang="es">Bill lucha por conseguir que le respeten más en clase de gimnasia. Harold y Jean deciden que Kim es una mala influencia para su hija y le prohíben a Lindsay ver a su amiga.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Romantic Comedies</category>
     <icon src="https://images.pluto.tv/episodes/5f64603925203500132da49f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210224114400 +0000" stop="20210224123400 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">Freaks And Geeks</title>
-    <desc lang="en">Lindsay tiene una crisis en su relación con los frikis. Sam intenta mejorar, por fuera.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romantic Comedies</category>
+  <programme start="20210224114400 +0100" stop="20210224123400 +0100" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Freaks And Geeks</title>
+    <desc lang="es">Lindsay tiene una crisis en su relación con los frikis. Sam intenta mejorar, por fuera.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Romantic Comedies</category>
     <icon src="https://images.pluto.tv/episodes/5f64603325203500132da3e6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210224123400 +0000" stop="20210224130000 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">Tarzán</title>
-    <desc lang="en">Jane y Roger están ocupados y les piden a Cheetah y Tantor que los dejen. Los amigos animales corren hacia un área con un león peligroso y Tarzán los rescata después de explicarles a Jane y Roger que los animales tienen sentimientos.(n)</desc>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">Action Classics</category>
+  <programme start="20210224123400 +0100" stop="20210224130000 +0100" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Tarzán</title>
+    <desc lang="es">Jane y Roger están ocupados y les piden a Cheetah y Tantor que los dejen. Los amigos animales corren hacia un área con un león peligroso y Tarzán los rescata después de explicarles a Jane y Roger que los animales tienen sentimientos.(n)</desc>
+    <category lang="es">Action &amp; Adventure</category>
+    <category lang="es">Action Classics</category>
     <icon src="https://images.pluto.tv/episodes/5fe9b73c4aa70a001a4fcf7f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210224130000 +0000" stop="20210224132600 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">Tarzán</title>
-    <desc lang="en">Jane debe rescatar a Tarzán cuando un viejo pozo de minas se derrumba, casi matándolo.(n)</desc>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">Action Classics</category>
+  <programme start="20210224130000 +0100" stop="20210224132600 +0100" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Tarzán</title>
+    <desc lang="es">Jane debe rescatar a Tarzán cuando un viejo pozo de minas se derrumba, casi matándolo.(n)</desc>
+    <category lang="es">Action &amp; Adventure</category>
+    <category lang="es">Action Classics</category>
     <icon src="https://images.pluto.tv/episodes/5fe9b73c4aa70a001a4fcfb8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210224132600 +0000" stop="20210224135200 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">Tarzán</title>
-    <desc lang="en">Jack gana un globo de aire caliente en un juego de póker y ofrece enseñarle a Roger cómo volarlo, pero en su vuelo inicial se estrellan lejos del campamento. Contactados por radio, Tarzán y Jane emprenden un viaje nocturno para rescatarlos y acercarse.(n)</desc>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">Action Classics</category>
+  <programme start="20210224132600 +0100" stop="20210224135200 +0100" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Tarzán</title>
+    <desc lang="es">Jack gana un globo de aire caliente en un juego de póker y ofrece enseñarle a Roger cómo volarlo, pero en su vuelo inicial se estrellan lejos del campamento. Contactados por radio, Tarzán y Jane emprenden un viaje nocturno para rescatarlos y acercarse.(n)</desc>
+    <category lang="es">Action &amp; Adventure</category>
+    <category lang="es">Action Classics</category>
     <icon src="https://images.pluto.tv/episodes/5fe9b73c4aa70a001a4fcf96/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210224135200 +0000" stop="20210224144300 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">Conan, el aventurero</title>
-    <desc lang="en">Conan se encuentra con un viejo arquero que lucha contra los soldados atacantes. Khartan mata al arquero, pero antes el viejo arquero le da a Conan una Flecha de Cristal especial que posee una gran magia.(n)</desc>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">Action Classics</category>
+  <programme start="20210224135200 +0100" stop="20210224144300 +0100" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Conan, el aventurero</title>
+    <desc lang="es">Conan se encuentra con un viejo arquero que lucha contra los soldados atacantes. Khartan mata al arquero, pero antes el viejo arquero le da a Conan una Flecha de Cristal especial que posee una gran magia.(n)</desc>
+    <category lang="es">Action &amp; Adventure</category>
+    <category lang="es">Action Classics</category>
     <icon src="https://images.pluto.tv/episodes/5fe9b7824aa70a001a4fd569/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210224144300 +0000" stop="20210224153400 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">Conan, el aventurero</title>
-    <desc lang="en">Conan, Bayu y Zzeben se encuentran con un hombre llamado Barr que viaja con tres mujeres que afirman que su hijo ha sido secuestrado. Pronto descubren un complot que involucra a una bestia mitad hombre y mitad toro llamada Bucentauro.(n)</desc>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">Action Classics</category>
+  <programme start="20210224144300 +0100" stop="20210224153400 +0100" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Conan, el aventurero</title>
+    <desc lang="es">Conan, Bayu y Zzeben se encuentran con un hombre llamado Barr que viaja con tres mujeres que afirman que su hijo ha sido secuestrado. Pronto descubren un complot que involucra a una bestia mitad hombre y mitad toro llamada Bucentauro.(n)</desc>
+    <category lang="es">Action &amp; Adventure</category>
+    <category lang="es">Action Classics</category>
     <icon src="https://images.pluto.tv/episodes/5fe9b7824aa70a001a4fd578/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210224153400 +0000" stop="20210224160600 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">United States Of Tara</title>
-    <desc lang="en">Kate y Tara necesitan un respiro de la vida real y hacen un viaje improvisado por carretera. Ahora que Tara está lejos, Max busca respuestas sobre su pasado. Esa noche, Tara y Kate discuten, y eso hace que Tara se convierta en “T”.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romantic Comedies</category>
+  <programme start="20210224153400 +0100" stop="20210224160600 +0100" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">United States Of Tara</title>
+    <desc lang="es">Kate y Tara necesitan un respiro de la vida real y hacen un viaje improvisado por carretera. Ahora que Tara está lejos, Max busca respuestas sobre su pasado. Esa noche, Tara y Kate discuten, y eso hace que Tara se convierta en “T”.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Romantic Comedies</category>
     <icon src="https://images.pluto.tv/episodes/5f6af53c6a5806001378132a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210224160600 +0000" stop="20210224163900 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">United States Of Tara</title>
-    <desc lang="en">Cuando el Dr. Ocean concluye el tratamiento, Tara se va al spa con Charmaine. De vuelta a casa, una de las personalidades de Tara traiciona a Marshall, pudiendo destruir a la familia para siempre.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romantic Comedies</category>
+  <programme start="20210224160600 +0100" stop="20210224163900 +0100" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">United States Of Tara</title>
+    <desc lang="es">Cuando el Dr. Ocean concluye el tratamiento, Tara se va al spa con Charmaine. De vuelta a casa, una de las personalidades de Tara traiciona a Marshall, pudiendo destruir a la familia para siempre.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Romantic Comedies</category>
     <icon src="https://images.pluto.tv/episodes/5f6af53c6a58060013781340/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210224163900 +0000" stop="20210224171200 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">United States Of Tara</title>
-    <desc lang="en">Tara decide ingresar en un centro especializado en disociación. Allí, Tara conoce a un nuevo médico, el Dr. Holden, un experto carismático que la ayuda a recuperar recuerdos perdidos.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romantic Comedies</category>
+  <programme start="20210224163900 +0100" stop="20210224171200 +0100" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">United States Of Tara</title>
+    <desc lang="es">Tara decide ingresar en un centro especializado en disociación. Allí, Tara conoce a un nuevo médico, el Dr. Holden, un experto carismático que la ayuda a recuperar recuerdos perdidos.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Romantic Comedies</category>
     <icon src="https://images.pluto.tv/episodes/5f6af53c6a58060013781338/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210224171200 +0000" stop="20210224174500 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">United States Of Tara</title>
-    <desc lang="en">Con la ayuda de Max y del Dr. Holden, Tara se encuentra cara a cara con una persona importante de su pasado. Pero cuando Tara mira a su familia, se da cuenta de que ella no es quien es por sus personalidades, sino por ellos.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romantic Comedies</category>
+  <programme start="20210224171200 +0100" stop="20210224174500 +0100" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">United States Of Tara</title>
+    <desc lang="es">Con la ayuda de Max y del Dr. Holden, Tara se encuentra cara a cara con una persona importante de su pasado. Pero cuando Tara mira a su familia, se da cuenta de que ella no es quien es por sus personalidades, sino por ellos.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Romantic Comedies</category>
     <icon src="https://images.pluto.tv/episodes/5f6af53c6a5806001378131d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210224174500 +0000" stop="20210224183500 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">Freaks And Geeks</title>
-    <desc lang="en">Sam y sus amigos geeks se enamoran perdidamente de una preciosa estudiante de intercambio. Lindsay intenta conseguir documentos de identidad falsos para ella y para los frikis.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romantic Comedies</category>
+  <programme start="20210224174500 +0100" stop="20210224183500 +0100" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Freaks And Geeks</title>
+    <desc lang="es">Sam y sus amigos geeks se enamoran perdidamente de una preciosa estudiante de intercambio. Lindsay intenta conseguir documentos de identidad falsos para ella y para los frikis.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Romantic Comedies</category>
     <icon src="https://images.pluto.tv/episodes/5f64603425203500132da41f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210224183500 +0000" stop="20210224192500 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">Freaks And Geeks</title>
-    <desc lang="en">Sam descubre algo desconcertante sobre el padre de Neal. Lindsay intenta reconstruir su amistad con Nick.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romantic Comedies</category>
+  <programme start="20210224183500 +0100" stop="20210224192500 +0100" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Freaks And Geeks</title>
+    <desc lang="es">Sam descubre algo desconcertante sobre el padre de Neal. Lindsay intenta reconstruir su amistad con Nick.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Romantic Comedies</category>
     <icon src="https://images.pluto.tv/episodes/5f64603325203500132da3d2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210224192500 +0000" stop="20210224201500 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">Freaks And Geeks</title>
-    <desc lang="en">A Lindsay le preocupa que Nick se tire todo el día fumado. Alan, el abusón del instituto, le hace una broma a Bill, con resultados casi mortales.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romantic Comedies</category>
+  <programme start="20210224192500 +0100" stop="20210224201500 +0100" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Freaks And Geeks</title>
+    <desc lang="es">A Lindsay le preocupa que Nick se tire todo el día fumado. Alan, el abusón del instituto, le hace una broma a Bill, con resultados casi mortales.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Romantic Comedies</category>
     <icon src="https://images.pluto.tv/episodes/5f64603325203500132da3dc/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210224201500 +0000" stop="20210224210500 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">Freaks And Geeks</title>
-    <desc lang="en">A medida que se acerca el último día de clase, los frikis y los geeks intentan descubrir cuál es su lugar en el mundo.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romantic Comedies</category>
+  <programme start="20210224201500 +0100" stop="20210224210500 +0100" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Freaks And Geeks</title>
+    <desc lang="es">A medida que se acerca el último día de clase, los frikis y los geeks intentan descubrir cuál es su lugar en el mundo.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Romantic Comedies</category>
     <icon src="https://images.pluto.tv/episodes/5f6af5a6ca44d10007f8e8af/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210224210500 +0000" stop="20210224215800 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">Yellowstone: Sangre sobre el chico</title>
-    <desc lang="en">John se dispone a asociarse con un par de antiguos enemigos. Jamie toma una acción drástica para salvar el rancho. Jimmy prueba suerte en un concurso de rodeo con toros.(n)</desc>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">Action Classics</category>
+  <programme start="20210224210500 +0100" stop="20210224215800 +0100" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Yellowstone: Sangre sobre el chico</title>
+    <desc lang="es">John se dispone a asociarse con un par de antiguos enemigos. Jamie toma una acción drástica para salvar el rancho. Jimmy prueba suerte en un concurso de rodeo con toros.(n)</desc>
+    <category lang="es">Action &amp; Adventure</category>
+    <category lang="es">Action Classics</category>
     <icon src="https://images.pluto.tv/episodes/6013cb032816a5001aa1e7b7/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+16</value>
     </rating>
   </programme>
-  <programme start="20210224215800 +0000" stop="20210224225000 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">Yellowstone: Día de Resurrección</title>
-    <desc lang="en">Las tensiones van en aumento ante la frustración de los hermanos Beck por la falta de colaboración de los Dutton.(n)</desc>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">Action Classics</category>
+  <programme start="20210224215800 +0100" stop="20210224225000 +0100" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Yellowstone: Día de Resurrección</title>
+    <desc lang="es">Las tensiones van en aumento ante la frustración de los hermanos Beck por la falta de colaboración de los Dutton.(n)</desc>
+    <category lang="es">Action &amp; Adventure</category>
+    <category lang="es">Action Classics</category>
     <icon src="https://images.pluto.tv/episodes/6011a285ce98800013ecc7e8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+16</value>
     </rating>
   </programme>
-  <programme start="20210224225000 +0000" stop="20210224234200 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">Yellowstone: Detrás de nosotros todo está gris</title>
-    <desc lang="en">John y Rip buscan venganza. Monica se plantea las consecuencias de su situación vital. Jimmy salda viejas deudas.(n)</desc>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">Action Classics</category>
+  <programme start="20210224225000 +0100" stop="20210224234200 +0100" channel="5f1ac8f49205650007bc15f1">
+    <title lang="es">Yellowstone: Detrás de nosotros todo está gris</title>
+    <desc lang="es">John y Rip buscan venganza. Monica se plantea las consecuencias de su situación vital. Jimmy salda viejas deudas.(n)</desc>
+    <category lang="es">Action &amp; Adventure</category>
+    <category lang="es">Action Classics</category>
     <icon src="https://images.pluto.tv/episodes/6011a285ce98800013ecc80c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+16</value>
     </rating>
   </programme>
-  <programme start="20210224054200 +0000" stop="20210224063100 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">Open Mike ES: Open Mike (6/4@Open Mike-)</title>
-    <sub-title lang="en">Open Mike (6/4@Open Mike-)</sub-title>
-    <desc lang="en">El programa “Open Mike” es una fórmula inspirada en las clásicas “noches de micro abierto” de los clubs de comedia americanos: un cómico sube al escenario y actúa durante cuatro o cinco minutos, mientras el público aprueba (o no) su recopilación de gags.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210224063100 +0000" stop="20210224065600 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">La Lista Tonta ES: La Lista Tonta 4</title>
-    <sub-title lang="en">La Lista Tonta 4</sub-title>
-    <desc lang="en">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210224065600 +0000" stop="20210224072100 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">La Lista Tonta ES: La Lista Tonta 5</title>
-    <sub-title lang="en">La Lista Tonta 5</sub-title>
-    <desc lang="en">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210224072100 +0000" stop="20210224074500 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">La Lista Tonta ES: La Lista Tonta 6</title>
-    <sub-title lang="en">La Lista Tonta 6</sub-title>
-    <desc lang="en">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210224074500 +0000" stop="20210224081300 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">Central de Cómicos</title>
-    <sub-title lang="en">Diego Peña: El frikismo es un gran invento</sub-title>
-    <desc lang="en">En este monólogo, Diego Peña hace un viaje cómico a través del cine que marcó su infancia: ET, Regreso al Futuro, Star Wars entre otras. Todo un homenaje a la cultura freak.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210224081300 +0000" stop="20210224083800 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">Central de Cómicos</title>
-    <sub-title lang="en">Dani Alés: Me duele más a mi que a ti</sub-title>
-    <desc lang="en">Dani es un tipo algo raro. Se acaba de independizar, es profesor, vive en un sitio caro... ¿Es un triunfador? No lo sabemos. La única certeza es que está bastante loco.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210224083800 +0000" stop="20210224090500 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">Central de Cómicos: Sara Escudero: La crisis de los 31</title>
-    <sub-title lang="en">Sara Escudero: La crisis de los 31</sub-title>
-    <desc lang="en">Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210224090500 +0000" stop="20210224093400 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">Central de Cómicos: Diego Peña: Vivito y coleando</title>
-    <sub-title lang="en">Diego Peña: Vivito y coleando</sub-title>
-    <desc lang="en">Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210224093400 +0000" stop="20210224095800 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">Central de Cómicos: Jorge Segura: Follow the yellow brick road</title>
-    <sub-title lang="en">Jorge Segura: Follow the yellow brick road</sub-title>
-    <desc lang="en">Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210224095800 +0000" stop="20210224102700 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES: SMONKA! 131</title>
-    <sub-title lang="en">SMONKA! 131</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210224102700 +0000" stop="20210224105600 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES: SMONKA! 132</title>
-    <sub-title lang="en">SMONKA! 132</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210224105600 +0000" stop="20210224111900 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES</title>
-    <sub-title lang="en">SMONKA! 133</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210224111900 +0000" stop="20210224115000 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES: SMONKA! 134</title>
-    <sub-title lang="en">SMONKA! 134</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210224115000 +0000" stop="20210224121800 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES: SMONKA! 135</title>
-    <sub-title lang="en">SMONKA! 135</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210224162400 +0000" stop="20210224182400 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">10 cómicos 10 - 2011 ES: 10 cómicos 10 - 2011</title>
-    <sub-title lang="en">10 cómicos 10 - 2011</sub-title>
-    <desc lang="en">Programa que reúne a 10 de los mejores cómicos del país en un único espectáculo conducido por Manu Badenes: David Navarro, Ignatius Farray, Iñaki Urrutia, Paco Calavera, Luis Álvaro, Quique Macías, Miguel Lago, Miguel Esteban y J.J. Vaquero.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210225115000 +0000" stop="20210225121800 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES: SMONKA! 135</title>
-    <sub-title lang="en">SMONKA! 135</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210225121800 +0000" stop="20210225124800 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES: SMONKA! 136</title>
-    <sub-title lang="en">SMONKA! 136</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210225124800 +0000" stop="20210225132100 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES: SMONKA! 137</title>
-    <sub-title lang="en">SMONKA! 137</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210225132100 +0000" stop="20210225135100 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES: SMONKA! 138</title>
-    <sub-title lang="en">SMONKA! 138</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210225135100 +0000" stop="20210225142100 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES: SMONKA! 139</title>
-    <sub-title lang="en">SMONKA! 139</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210225142100 +0000" stop="20210225144900 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES: SMONKA! 140</title>
-    <sub-title lang="en">SMONKA! 140</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210225144900 +0000" stop="20210225152900 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">La Hora de José Mota: 13</title>
-    <sub-title lang="en">13</sub-title>
-    <desc lang="en">En este episodio: A Dios Gracias, Alfred Híco Presenta, Dices tú de Mili, Fama, Repugnancia, El robo, Alarma Social, Si no fuera rico, El bote, Quo Vadis, El mal del bombero, Cuantos Milenios y El Viejo a Ninguna Parte, entre otros.(n)</desc>
-    <category lang="en">Music</category>
-  </programme>
-  <programme start="20210225152900 +0000" stop="20210225162400 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">La Hora de José Mota: 1</title>
-    <sub-title lang="en">1</sub-title>
-    <desc lang="en">Humor, sketches, parodias, actualidad, muchos personajes y situaciones cotidianas en La hora de José Mota. En este episodio: La Blasa, Amores y Odios, Adán y Eva, Caín y Abel, Cuantos Milenios y El Tío la Vara, entre otros.(n)</desc>
-    <category lang="en">Music</category>
-  </programme>
-  <programme start="20210225162400 +0000" stop="20210225182400 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">10 cómicos 10 - 2011 ES: 10 cómicos 10 - 2011</title>
-    <sub-title lang="en">10 cómicos 10 - 2011</sub-title>
-    <desc lang="en">Programa que reúne a 10 de los mejores cómicos del país en un único espectáculo conducido por Manu Badenes: David Navarro, Ignatius Farray, Iñaki Urrutia, Paco Calavera, Luis Álvaro, Quique Macías, Miguel Lago, Miguel Esteban y J.J. Vaquero.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210226054200 +0000" stop="20210226063100 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">Open Mike ES: Open Mike (6/4@Open Mike-)</title>
-    <sub-title lang="en">Open Mike (6/4@Open Mike-)</sub-title>
-    <desc lang="en">El programa “Open Mike” es una fórmula inspirada en las clásicas “noches de micro abierto” de los clubs de comedia americanos: un cómico sube al escenario y actúa durante cuatro o cinco minutos, mientras el público aprueba (o no) su recopilación de gags.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210226063100 +0000" stop="20210226065600 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">La Lista Tonta ES: La Lista Tonta 4</title>
-    <sub-title lang="en">La Lista Tonta 4</sub-title>
-    <desc lang="en">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210226065600 +0000" stop="20210226072100 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">La Lista Tonta ES: La Lista Tonta 5</title>
-    <sub-title lang="en">La Lista Tonta 5</sub-title>
-    <desc lang="en">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210226072100 +0000" stop="20210226074500 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">La Lista Tonta ES: La Lista Tonta 6</title>
-    <sub-title lang="en">La Lista Tonta 6</sub-title>
-    <desc lang="en">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210226074500 +0000" stop="20210226081300 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">Central de Cómicos</title>
-    <sub-title lang="en">Diego Peña: El frikismo es un gran invento</sub-title>
-    <desc lang="en">En este monólogo, Diego Peña hace un viaje cómico a través del cine que marcó su infancia: ET, Regreso al Futuro, Star Wars entre otras. Todo un homenaje a la cultura freak.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226081300 +0000" stop="20210226083800 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">Central de Cómicos</title>
-    <sub-title lang="en">Dani Alés: Me duele más a mi que a ti</sub-title>
-    <desc lang="en">Dani es un tipo algo raro. Se acaba de independizar, es profesor, vive en un sitio caro... ¿Es un triunfador? No lo sabemos. La única certeza es que está bastante loco.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226083800 +0000" stop="20210226090500 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">Central de Cómicos: Sara Escudero: La crisis de los 31</title>
-    <sub-title lang="en">Sara Escudero: La crisis de los 31</sub-title>
-    <desc lang="en">Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226090500 +0000" stop="20210226093400 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">Central de Cómicos: Diego Peña: Vivito y coleando</title>
-    <sub-title lang="en">Diego Peña: Vivito y coleando</sub-title>
-    <desc lang="en">Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226093400 +0000" stop="20210226095800 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">Central de Cómicos: Jorge Segura: Follow the yellow brick road</title>
-    <sub-title lang="en">Jorge Segura: Follow the yellow brick road</sub-title>
-    <desc lang="en">Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226095800 +0000" stop="20210226102700 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES: SMONKA! 131</title>
-    <sub-title lang="en">SMONKA! 131</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210226102700 +0000" stop="20210226105600 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES: SMONKA! 132</title>
-    <sub-title lang="en">SMONKA! 132</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210226105600 +0000" stop="20210226111900 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES</title>
-    <sub-title lang="en">SMONKA! 133</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210226111900 +0000" stop="20210226115000 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES: SMONKA! 134</title>
-    <sub-title lang="en">SMONKA! 134</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210226115000 +0000" stop="20210226121800 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES: SMONKA! 135</title>
-    <sub-title lang="en">SMONKA! 135</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210226162400 +0000" stop="20210226182400 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">10 cómicos 10 - 2011 ES: 10 cómicos 10 - 2011</title>
-    <sub-title lang="en">10 cómicos 10 - 2011</sub-title>
-    <desc lang="en">Programa que reúne a 10 de los mejores cómicos del país en un único espectáculo conducido por Manu Badenes: David Navarro, Ignatius Farray, Iñaki Urrutia, Paco Calavera, Luis Álvaro, Quique Macías, Miguel Lago, Miguel Esteban y J.J. Vaquero.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210227115000 +0000" stop="20210227121800 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES: SMONKA! 135</title>
-    <sub-title lang="en">SMONKA! 135</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210227121800 +0000" stop="20210227124800 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES: SMONKA! 136</title>
-    <sub-title lang="en">SMONKA! 136</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210227124800 +0000" stop="20210227132100 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES: SMONKA! 137</title>
-    <sub-title lang="en">SMONKA! 137</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210227132100 +0000" stop="20210227135100 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES: SMONKA! 138</title>
-    <sub-title lang="en">SMONKA! 138</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210227135100 +0000" stop="20210227142100 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES: SMONKA! 139</title>
-    <sub-title lang="en">SMONKA! 139</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210227142100 +0000" stop="20210227144900 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">SMONKA! ES: SMONKA! 140</title>
-    <sub-title lang="en">SMONKA! 140</sub-title>
-    <desc lang="en">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210227144900 +0000" stop="20210227152900 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">La Hora de José Mota: 13</title>
-    <sub-title lang="en">13</sub-title>
-    <desc lang="en">En este episodio: A Dios Gracias, Alfred Híco Presenta, Dices tú de Mili, Fama, Repugnancia, El robo, Alarma Social, Si no fuera rico, El bote, Quo Vadis, El mal del bombero, Cuantos Milenios y El Viejo a Ninguna Parte, entre otros.(n)</desc>
-    <category lang="en">Music</category>
-  </programme>
-  <programme start="20210227152900 +0000" stop="20210227162400 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">La Hora de José Mota: 1</title>
-    <sub-title lang="en">1</sub-title>
-    <desc lang="en">Humor, sketches, parodias, actualidad, muchos personajes y situaciones cotidianas en La hora de José Mota. En este episodio: La Blasa, Amores y Odios, Adán y Eva, Caín y Abel, Cuantos Milenios y El Tío la Vara, entre otros.(n)</desc>
-    <category lang="en">Music</category>
-  </programme>
-  <programme start="20210227162400 +0000" stop="20210227182400 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">10 cómicos 10 - 2011 ES: 10 cómicos 10 - 2011</title>
-    <sub-title lang="en">10 cómicos 10 - 2011</sub-title>
-    <desc lang="en">Programa que reúne a 10 de los mejores cómicos del país en un único espectáculo conducido por Manu Badenes: David Navarro, Ignatius Farray, Iñaki Urrutia, Paco Calavera, Luis Álvaro, Quique Macías, Miguel Lago, Miguel Esteban y J.J. Vaquero.(n)</desc>
-    <category lang="en">Classics</category>
-  </programme>
-  <programme start="20210224055900 +0000" stop="20210224062300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: La Novia</title>
-    <sub-title lang="en">La Novia</sub-title>
-    <desc lang="en">Un niño con una enfermedad terminal pide un deseo poco convencional, la madre de un hombre y su prometida se enfrentan por tamales y Arturo descubre que está saliendo con un republicano.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210224062300 +0000" stop="20210224064700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: El Compañero de Equipo</title>
-    <sub-title lang="en">El Compañero de Equipo</sub-title>
-    <desc lang="en">Un nuevo miembro amenaza el papel de Arturo en su equipo de fútbol, ​​una estrella de acción adopta un enfoque práctico y el drama estalla entre bastidores en "El Show de Carmen Miranda".(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210224064700 +0000" stop="20210224070900 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: El apaño</title>
-    <sub-title lang="en">El apaño</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210224070900 +0000" stop="20210224073200 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: El dos por uno</title>
-    <sub-title lang="en">El dos por uno</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210224073200 +0000" stop="20210224075500 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: No ligues con Molly</title>
-    <sub-title lang="en">No ligues con Molly</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210224075500 +0000" stop="20210224081900 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: El modelo</title>
-    <sub-title lang="en">El modelo</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210224081900 +0000" stop="20210224084300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <sub-title lang="en">Episodio 109</sub-title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210224084300 +0000" stop="20210224090700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <sub-title lang="en">Episodio 110</sub-title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210224090700 +0000" stop="20210224093100 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <sub-title lang="en">La Ruptura</sub-title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210224093100 +0000" stop="20210224095500 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <sub-title lang="en">la Intervención</sub-title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210224095500 +0000" stop="20210224101900 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: Las Tías</title>
-    <sub-title lang="en">Las Tías</sub-title>
-    <desc lang="en">Un lanzador lleva su técnica de visualización demasiado lejos; una cumbre latinoamericana se sale de los rieles; y las tías de Arturo le visitan para ayudarlo a superar una ruptura.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210224101900 +0000" stop="20210224104300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: La Pulga</title>
-    <sub-title lang="en">La Pulga</sub-title>
-    <desc lang="en">Un hombre lucha por disculparse con un colega, Pitbull llega a una conclusión preocupante y Arturo considera un papel cinematográfico problemático.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210224104300 +0000" stop="20210224110700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: La Novia</title>
-    <sub-title lang="en">La Novia</sub-title>
-    <desc lang="en">Un niño con una enfermedad terminal pide un deseo poco convencional, la madre de un hombre y su prometida se enfrentan por tamales y Arturo descubre que está saliendo con un republicano.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210224110700 +0000" stop="20210224113100 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: El Compañero de Equipo</title>
-    <sub-title lang="en">El Compañero de Equipo</sub-title>
-    <desc lang="en">Un nuevo miembro amenaza el papel de Arturo en su equipo de fútbol, ​​una estrella de acción adopta un enfoque práctico y el drama estalla entre bastidores en "El Show de Carmen Miranda".(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210224113100 +0000" stop="20210224115300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: El apaño</title>
-    <sub-title lang="en">El apaño</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210224115300 +0000" stop="20210224121600 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: El dos por uno</title>
-    <sub-title lang="en">El dos por uno</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210224175500 +0000" stop="20210224182000 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <sub-title lang="en">Rehabilitación</sub-title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210225115300 +0000" stop="20210225121600 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: El dos por uno</title>
-    <sub-title lang="en">El dos por uno</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210225121600 +0000" stop="20210225123900 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: No ligues con Molly</title>
-    <sub-title lang="en">No ligues con Molly</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210225123900 +0000" stop="20210225130300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: El modelo</title>
-    <sub-title lang="en">El modelo</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210225130300 +0000" stop="20210225132700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <sub-title lang="en">Episodio 109</sub-title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210225132700 +0000" stop="20210225135100 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <sub-title lang="en">Episodio 110</sub-title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210225135100 +0000" stop="20210225141500 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <sub-title lang="en">La Ruptura</sub-title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210225141500 +0000" stop="20210225143900 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <sub-title lang="en">la Intervención</sub-title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210225143900 +0000" stop="20210225150300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: Las Tías</title>
-    <sub-title lang="en">Las Tías</sub-title>
-    <desc lang="en">Un lanzador lleva su técnica de visualización demasiado lejos; una cumbre latinoamericana se sale de los rieles; y las tías de Arturo le visitan para ayudarlo a superar una ruptura.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210225150300 +0000" stop="20210225152700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: La Pulga</title>
-    <sub-title lang="en">La Pulga</sub-title>
-    <desc lang="en">Un hombre lucha por disculparse con un colega, Pitbull llega a una conclusión preocupante y Arturo considera un papel cinematográfico problemático.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210225152700 +0000" stop="20210225155100 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: La Novia</title>
-    <sub-title lang="en">La Novia</sub-title>
-    <desc lang="en">Un niño con una enfermedad terminal pide un deseo poco convencional, la madre de un hombre y su prometida se enfrentan por tamales y Arturo descubre que está saliendo con un republicano.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210225155100 +0000" stop="20210225161500 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: El Compañero de Equipo</title>
-    <sub-title lang="en">El Compañero de Equipo</sub-title>
-    <desc lang="en">Un nuevo miembro amenaza el papel de Arturo en su equipo de fútbol, ​​una estrella de acción adopta un enfoque práctico y el drama estalla entre bastidores en "El Show de Carmen Miranda".(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210225161500 +0000" stop="20210225164000 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: Episodio 102</title>
-    <sub-title lang="en">Episodio 102</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210225164000 +0000" stop="20210225170500 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: Episodio 103</title>
-    <sub-title lang="en">Episodio 103</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210225170500 +0000" stop="20210225173000 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: Episodio 104</title>
-    <sub-title lang="en">Episodio 104</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210225173000 +0000" stop="20210225175500 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: Episodio 105</title>
-    <sub-title lang="en">Episodio 105</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210225175500 +0000" stop="20210225182000 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <sub-title lang="en">Rehabilitación</sub-title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226055900 +0000" stop="20210226062300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: La Novia</title>
-    <sub-title lang="en">La Novia</sub-title>
-    <desc lang="en">Un niño con una enfermedad terminal pide un deseo poco convencional, la madre de un hombre y su prometida se enfrentan por tamales y Arturo descubre que está saliendo con un republicano.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226062300 +0000" stop="20210226064700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: El Compañero de Equipo</title>
-    <sub-title lang="en">El Compañero de Equipo</sub-title>
-    <desc lang="en">Un nuevo miembro amenaza el papel de Arturo en su equipo de fútbol, ​​una estrella de acción adopta un enfoque práctico y el drama estalla entre bastidores en "El Show de Carmen Miranda".(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226064700 +0000" stop="20210226070900 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: El apaño</title>
-    <sub-title lang="en">El apaño</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226070900 +0000" stop="20210226073200 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: El dos por uno</title>
-    <sub-title lang="en">El dos por uno</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226073200 +0000" stop="20210226075500 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: No ligues con Molly</title>
-    <sub-title lang="en">No ligues con Molly</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226075500 +0000" stop="20210226081900 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: El modelo</title>
-    <sub-title lang="en">El modelo</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226081900 +0000" stop="20210226084300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <sub-title lang="en">Episodio 109</sub-title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226084300 +0000" stop="20210226090700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <sub-title lang="en">Episodio 110</sub-title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226090700 +0000" stop="20210226093100 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <sub-title lang="en">La Ruptura</sub-title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226093100 +0000" stop="20210226095500 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <sub-title lang="en">la Intervención</sub-title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226095500 +0000" stop="20210226101900 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: Las Tías</title>
-    <sub-title lang="en">Las Tías</sub-title>
-    <desc lang="en">Un lanzador lleva su técnica de visualización demasiado lejos; una cumbre latinoamericana se sale de los rieles; y las tías de Arturo le visitan para ayudarlo a superar una ruptura.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226101900 +0000" stop="20210226104300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: La Pulga</title>
-    <sub-title lang="en">La Pulga</sub-title>
-    <desc lang="en">Un hombre lucha por disculparse con un colega, Pitbull llega a una conclusión preocupante y Arturo considera un papel cinematográfico problemático.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226104300 +0000" stop="20210226110700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: La Novia</title>
-    <sub-title lang="en">La Novia</sub-title>
-    <desc lang="en">Un niño con una enfermedad terminal pide un deseo poco convencional, la madre de un hombre y su prometida se enfrentan por tamales y Arturo descubre que está saliendo con un republicano.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226110700 +0000" stop="20210226113100 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: El Compañero de Equipo</title>
-    <sub-title lang="en">El Compañero de Equipo</sub-title>
-    <desc lang="en">Un nuevo miembro amenaza el papel de Arturo en su equipo de fútbol, ​​una estrella de acción adopta un enfoque práctico y el drama estalla entre bastidores en "El Show de Carmen Miranda".(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226113100 +0000" stop="20210226115300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: El apaño</title>
-    <sub-title lang="en">El apaño</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226115300 +0000" stop="20210226121600 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: El dos por uno</title>
-    <sub-title lang="en">El dos por uno</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210226175500 +0000" stop="20210226182000 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <sub-title lang="en">Rehabilitación</sub-title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210227115300 +0000" stop="20210227121600 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: El dos por uno</title>
-    <sub-title lang="en">El dos por uno</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210227121600 +0000" stop="20210227123900 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: No ligues con Molly</title>
-    <sub-title lang="en">No ligues con Molly</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210227123900 +0000" stop="20210227130300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: El modelo</title>
-    <sub-title lang="en">El modelo</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210227130300 +0000" stop="20210227132700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <sub-title lang="en">Episodio 109</sub-title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210227132700 +0000" stop="20210227135100 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <sub-title lang="en">Episodio 110</sub-title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210227135100 +0000" stop="20210227141500 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <sub-title lang="en">La Ruptura</sub-title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210227141500 +0000" stop="20210227143900 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <sub-title lang="en">la Intervención</sub-title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210227143900 +0000" stop="20210227150300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: Las Tías</title>
-    <sub-title lang="en">Las Tías</sub-title>
-    <desc lang="en">Un lanzador lleva su técnica de visualización demasiado lejos; una cumbre latinoamericana se sale de los rieles; y las tías de Arturo le visitan para ayudarlo a superar una ruptura.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210227150300 +0000" stop="20210227152700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: La Pulga</title>
-    <sub-title lang="en">La Pulga</sub-title>
-    <desc lang="en">Un hombre lucha por disculparse con un colega, Pitbull llega a una conclusión preocupante y Arturo considera un papel cinematográfico problemático.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210227152700 +0000" stop="20210227155100 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: La Novia</title>
-    <sub-title lang="en">La Novia</sub-title>
-    <desc lang="en">Un niño con una enfermedad terminal pide un deseo poco convencional, la madre de un hombre y su prometida se enfrentan por tamales y Arturo descubre que está saliendo con un republicano.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210227155100 +0000" stop="20210227161500 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Alternatino: El Compañero de Equipo</title>
-    <sub-title lang="en">El Compañero de Equipo</sub-title>
-    <desc lang="en">Un nuevo miembro amenaza el papel de Arturo en su equipo de fútbol, ​​una estrella de acción adopta un enfoque práctico y el drama estalla entre bastidores en "El Show de Carmen Miranda".(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210227161500 +0000" stop="20210227164000 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: Episodio 102</title>
-    <sub-title lang="en">Episodio 102</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210227164000 +0000" stop="20210227170500 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: Episodio 103</title>
-    <sub-title lang="en">Episodio 103</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210227170500 +0000" stop="20210227173000 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: Episodio 104</title>
-    <sub-title lang="en">Episodio 104</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210227173000 +0000" stop="20210227175500 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: Episodio 105</title>
-    <sub-title lang="en">Episodio 105</sub-title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20210227175500 +0000" stop="20210227182000 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <sub-title lang="en">Rehabilitación</sub-title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
+  <programme start="20210224000000 +0100" stop="20210224095800 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">Comedia made in Spain</title>
+    <desc lang="es">No information available.(n)</desc>
+    <category lang="es">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f1abce155a03d0007718834/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20210224095800 +0100" stop="20210224102700 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">SMONKA! ES: SMONKA! 131</title>
+    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f475541b9a18c001a4bcd4b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210224102700 +0100" stop="20210224105600 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">SMONKA! ES: SMONKA! 132</title>
+    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f475541b9a18c001a4bcd64/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210224105600 +0100" stop="20210224111900 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">SMONKA! ES</title>
+    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f475541b9a18c001a4bcd46/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210224111900 +0100" stop="20210224115000 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">SMONKA! ES: SMONKA! 134</title>
+    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f47554ab9a18c001a4bce18/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210224115000 +0100" stop="20210224121800 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">SMONKA! ES: SMONKA! 135</title>
+    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f47554ab9a18c001a4bce04/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210224121800 +0100" stop="20210224124800 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">SMONKA! ES: SMONKA! 136</title>
+    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f47554bb9a18c001a4bce36/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210224124800 +0100" stop="20210224132100 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">SMONKA! ES: SMONKA! 137</title>
+    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f47554ab9a18c001a4bce20/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210224132100 +0100" stop="20210224135100 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">SMONKA! ES: SMONKA! 138</title>
+    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f47554ab9a18c001a4bce0e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210224135100 +0100" stop="20210224142100 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">SMONKA! ES: SMONKA! 139</title>
+    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f47554ab9a18c001a4bce2c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210224142100 +0100" stop="20210224144900 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">SMONKA! ES: SMONKA! 140</title>
+    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f47554bb9a18c001a4bce31/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210224144900 +0100" stop="20210224152900 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">La Hora de José Mota: 13</title>
+    <desc lang="es">En este episodio: A Dios Gracias, Alfred Híco Presenta, Dices tú de Mili, Fama, Repugnancia, El robo, Alarma Social, Si no fuera rico, El bote, Quo Vadis, El mal del bombero, Cuantos Milenios y El Viejo a Ninguna Parte, entre otros.(n)</desc>
+    <category lang="es">Music</category>
+    <category lang="es">World</category>
+    <icon src="https://images.pluto.tv/episodes/5f4f5d0ffa72a5001a5fdd8c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224152900 +0100" stop="20210224162400 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">La Hora de José Mota: 1</title>
+    <desc lang="es">Humor, sketches, parodias, actualidad, muchos personajes y situaciones cotidianas en La hora de José Mota. En este episodio: La Blasa, Amores y Odios, Adán y Eva, Caín y Abel, Cuantos Milenios y El Tío la Vara, entre otros.(n)</desc>
+    <category lang="es">Music</category>
+    <category lang="es">World</category>
+    <icon src="https://images.pluto.tv/episodes/5f4f5d08fa72a5001a5fdca6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224162400 +0100" stop="20210224182400 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">10 cómicos 10 - 2011 ES: 10 cómicos 10 - 2011</title>
+    <desc lang="es">Programa que reúne a 10 de los mejores cómicos del país en un único espectáculo conducido por Manu Badenes: David Navarro, Ignatius Farray, Iñaki Urrutia, Paco Calavera, Luis Álvaro, Quique Macías, Miguel Lago, Miguel Esteban y J.J. Vaquero.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f48a1ffbbff270013bcc372/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224182400 +0100" stop="20210224184900 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">La Lista Tonta ES: La Lista Tonta 4</title>
+    <desc lang="es">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f48a227bbff270013bcc652/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224184900 +0100" stop="20210224191400 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">La Lista Tonta ES: La Lista Tonta 5</title>
+    <desc lang="es">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f48a227bbff270013bcc661/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224191400 +0100" stop="20210224193800 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">La Lista Tonta ES: La Lista Tonta 6</title>
+    <desc lang="es">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f48a227bbff270013bcc65c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224193800 +0100" stop="20210224202500 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">La Hora de José Mota: 11</title>
+    <desc lang="es">En este episodio: Como la Vida Misma, El Chiste, Estará Pasando: 5D, Alfred Híco Presenta, Cabaret, Ciencia y Conocimiento: la Blasa, La Multa, La Boda, El Aberroncho, 3x2, El Tío la Vara y Facundo Collado: Juan Ramón Lucas, entre otros.(n)</desc>
+    <category lang="es">Music</category>
+    <category lang="es">World</category>
+    <icon src="https://images.pluto.tv/episodes/5f4f5d0efa72a5001a5fdd6e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224202500 +0100" stop="20210224210800 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">La Hora de José Mota: 12</title>
+    <desc lang="es">En este episodio: Así en la Vida como en la Tele, Concursos de TV, 12 Hombres sin Piedad, Dices tú de Mili, Numeracos Palabros, Blasa y sus Amigos, INEM, Horarios, Ajuste de Tuercas, Nada x Aquí y el Tío la Vara, entre otros.(n)</desc>
+    <category lang="es">Music</category>
+    <category lang="es">World</category>
+    <icon src="https://images.pluto.tv/episodes/5f4f5d0ffa72a5001a5fdda2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224210800 +0100" stop="20210224213600 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">Central de Cómicos: Kaco: Manual de autoayuda</title>
+    <desc lang="es">Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fd722de0dddaf0013b7e92b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210224213600 +0100" stop="20210224220300 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">Central de Cómicos: Paco Calavera: He vuelto</title>
+    <desc lang="es">Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fd722de0dddaf0013b7e933/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210224220300 +0100" stop="20210224223000 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">Central de Cómicos: Dani Alés: Amor conejo</title>
+    <desc lang="es">Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fd722df0dddaf0013b7e94a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210224223000 +0100" stop="20210224225700 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">Central de Cómicos: Fernando Moraño: Fernandertal</title>
+    <desc lang="es">Fernando Moraño es el primer monologuista de Paramount Comedy que pertenece al Movimiento del 15M, y nos trae por fin la solución a nuestros problemas. Bueno, quizás no sea para tanto, pero te ríes mucho con él.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f48a205bbff270013bcc3ff/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210224225700 +0100" stop="20210224232700 +0100" channel="5f1abce155a03d0007718834">
+    <title lang="es">Central de Cómicos: Javier Nácher: Entre rejas / ArchieBezos: Anatomía de gay</title>
+    <desc lang="es">Javier Nácher ha pasado por la cárcel, y no todo han sido cosas malas. Allí se está más limpio y más sobrio que en un piso de estudiantes. / Archie vive por fin solo en el madrileño barrio de Lavapiés. Ronda los 30, es homosexual, valiente y algo gamberro.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f48a204bbff270013bcc3d6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210224000000 +0100" stop="20210224095500 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Pluto TV Series Comedia</title>
+    <desc lang="es">No information available.(n)</desc>
+    <category lang="es">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f9853138d19af0007104a8d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20210224095500 +0100" stop="20210224101900 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: Las Tías</title>
+    <desc lang="es">Un lanzador lleva su técnica de visualización demasiado lejos; una cumbre latinoamericana se sale de los rieles; y las tías de Arturo le visitan para ayudarlo a superar una ruptura.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fb782cae8b7e6001a75337d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224101900 +0100" stop="20210224104300 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: La Pulga</title>
+    <desc lang="es">Un hombre lucha por disculparse con un colega, Pitbull llega a una conclusión preocupante y Arturo considera un papel cinematográfico problemático.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fb782cae8b7e6001a753384/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224104300 +0100" stop="20210224110700 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: La Novia</title>
+    <desc lang="es">Un niño con una enfermedad terminal pide un deseo poco convencional, la madre de un hombre y su prometida se enfrentan por tamales y Arturo descubre que está saliendo con un republicano.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fb782c9e8b7e6001a75336a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224110700 +0100" stop="20210224113100 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: El Compañero de Equipo</title>
+    <desc lang="es">Un nuevo miembro amenaza el papel de Arturo en su equipo de fútbol, ​​una estrella de acción adopta un enfoque práctico y el drama estalla entre bastidores en "El Show de Carmen Miranda".(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fb782c9e8b7e6001a753377/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224113100 +0100" stop="20210224115300 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: El apaño</title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37aee7dc9c001a9ef23b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210224115300 +0100" stop="20210224121600 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: El dos por uno</title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37b0e7dc9c001a9ef24e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210224121600 +0100" stop="20210224123900 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: No ligues con Molly</title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37b0e7dc9c001a9ef253/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210224123900 +0100" stop="20210224130300 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: El modelo</title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37aee7dc9c001a9ef21d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210224130300 +0100" stop="20210224132700 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37d3e7dc9c001a9ef556/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224132700 +0100" stop="20210224135100 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37d3e7dc9c001a9ef54a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224135100 +0100" stop="20210224141500 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37d1e7dc9c001a9ef4fe/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224141500 +0100" stop="20210224143900 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37d2e7dc9c001a9ef515/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224143900 +0100" stop="20210224150300 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: Las Tías</title>
+    <desc lang="es">Un lanzador lleva su técnica de visualización demasiado lejos; una cumbre latinoamericana se sale de los rieles; y las tías de Arturo le visitan para ayudarlo a superar una ruptura.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fb782cae8b7e6001a75337d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224150300 +0100" stop="20210224152700 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: La Pulga</title>
+    <desc lang="es">Un hombre lucha por disculparse con un colega, Pitbull llega a una conclusión preocupante y Arturo considera un papel cinematográfico problemático.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fb782cae8b7e6001a753384/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224152700 +0100" stop="20210224155100 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: La Novia</title>
+    <desc lang="es">Un niño con una enfermedad terminal pide un deseo poco convencional, la madre de un hombre y su prometida se enfrentan por tamales y Arturo descubre que está saliendo con un republicano.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fb782c9e8b7e6001a75336a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224155100 +0100" stop="20210224161500 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: El Compañero de Equipo</title>
+    <desc lang="es">Un nuevo miembro amenaza el papel de Arturo en su equipo de fútbol, ​​una estrella de acción adopta un enfoque práctico y el drama estalla entre bastidores en "El Show de Carmen Miranda".(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fb782c9e8b7e6001a753377/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224161500 +0100" stop="20210224164000 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: Episodio 102</title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37b6e7dc9c001a9ef2d6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210224164000 +0100" stop="20210224170500 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: Episodio 103</title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37b7e7dc9c001a9ef2e0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210224170500 +0100" stop="20210224173000 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: Episodio 104</title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37b7e7dc9c001a9ef2db/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210224173000 +0100" stop="20210224175500 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">I live with Models: Episodio 105</title>
+    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37b6e7dc9c001a9ef2b7/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210224175500 +0100" stop="20210224182000 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37d0e7dc9c001a9ef4ea/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224182000 +0100" stop="20210224184400 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37d4e7dc9c001a9ef563/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224184400 +0100" stop="20210224190900 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37d3e7dc9c001a9ef543/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224190900 +0100" stop="20210224193300 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Big Time in Hollywood</title>
+    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37d0e7dc9c001a9ef4f4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224193300 +0100" stop="20210224195700 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: El Soñador</title>
+    <desc lang="es">Un comentario casual durante una entrevista deja a Arturo en un aprieto, Netflix se enfrenta a una emergencia y una operación del FBI sale mal.(n)</desc>
+    <category lang="es">Classics</category>
+    <category lang="es">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fb782cae8b7e6001a75338c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224195700 +0100" stop="20210224202000 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: La Cita</title>
+    <desc lang="es">Arturo sale con una mujer obsesionada con su condición de latino; un padre lucha por tener una conversación sexual con su hijo adolescente; y la industria turística guatemalteca intenta una nueva táctica de publicidad.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fb782c9e8b7e6001a75335e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224202000 +0100" stop="20210224204400 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: El Pivote</title>
+    <desc lang="es">El arte del pivote conversacional; la nueva película "Cincuenta sombras de Grey"; y el Che Guevara.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fb782c9e8b7e6001a753354/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224204400 +0100" stop="20210224210800 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Alternatino: Las Tías</title>
+    <desc lang="es">Un lanzador lleva su técnica de visualización demasiado lejos; una cumbre latinoamericana se sale de los rieles; y las tías de Arturo le visitan para ayudarlo a superar una ruptura.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fb782cae8b7e6001a75337d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210224210800 +0100" stop="20210224213000 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Teachers: Inseguridad</title>
+    <desc lang="es">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca1f3d0983410013dbec80/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210224213000 +0100" stop="20210224215300 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Teachers: ¡A comer!: el musical</title>
+    <desc lang="es">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210224215300 +0100" stop="20210224221600 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Teachers: El baile</title>
+    <desc lang="es">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca1f3e0983410013dbecef/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210224221600 +0100" stop="20210224223800 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Teachers: Pasivo agresivo</title>
+    <desc lang="es">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca1f3d0983410013dbeca3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210224223800 +0100" stop="20210224230100 +0100" channel="5f9853138d19af0007104a8d">
+    <title lang="es">Idiotsitter: Recensión</title>
+    <desc lang="es">La historia de una extraña pareja que alcanza cotas imprevistas de depravación: cuando la "asalvajada" y rica veinteañera Gene es condenada a arresto domiciliario, sus padres contratan a una niñera llamada Billie para que se encargue de ella.(n)</desc>
+    <category lang="es">Comedy</category>
+    <category lang="es">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37a4e7dc9c001a9ef188/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
   <programme start="20210224000300 +0000" stop="20210224002900 +0000" channel="Cazavisión">
     <title lang="es">Aventuras con Stiliyan Kadrev</title>
