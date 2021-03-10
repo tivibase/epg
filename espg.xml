@@ -134,12 +134,14 @@
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="5f1abce155a03d0007718834">
-    <display-name lang="es">Pluto TV Comedy</display-name>
-    <url>http://www.merge-xmltv</url>
+    <display-name lang="en">Pluto TV Comedy</display-name>
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1abce155a03d0007718834/logo.png" />
+    <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="5f9853138d19af0007104a8d">
-    <display-name lang="es">Pluto TV Comedia Made in Spain</display-name>
-    <url>http://www.merge-xmltv</url>
+    <display-name lang="en">Pluto TV Comedia Made in Spain</display-name>
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f9853138d19af0007104a8d/logo.png" />
+    <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="M.ESTRENOS HD">
     <display-name lang="es">M.ESTRENOS HD</display-name>
@@ -202,36 +204,44 @@
     <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="5f1ac1f1b66c76000790ef27">
-    <display-name lang="es">Pluto TV Cine Estelar</display-name>
-    <url>http://www.merge-xmltv</url>
+    <display-name lang="en">Pluto TV Cine Estelar</display-name>
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1ac1f1b66c76000790ef27/logo.png" />
+    <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="5f1ac2591dd8880007bb7d6d">
-    <display-name lang="es">Pluto TV Acción</display-name>
-    <url>http://www.merge-xmltv</url>
+    <display-name lang="en">Pluto TV Acción</display-name>
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1ac2591dd8880007bb7d6d/logo.png" />
+    <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="5f1ac8099c49f600076579b2">
-    <display-name lang="es">Pluto TV Comedia</display-name>
-    <url>http://www.merge-xmltv</url>
+    <display-name lang="en">Pluto TV Comedia</display-name>
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1ac8099c49f600076579b2/logo.png" />
+    <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="5f1ac8a87cd38d000745d7cf">
-    <display-name lang="es">Pluto TV Thrillers</display-name>
-    <url>http://www.merge-xmltv</url>
+    <display-name lang="en">Pluto TV Thrillers</display-name>
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1ac8a87cd38d000745d7cf/logo.png" />
+    <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="5f1ac947dcd00d0007937c08">
-    <display-name lang="es">Pluto TV Drama</display-name>
-    <url>http://www.merge-xmltv</url>
+    <display-name lang="en">Pluto TV Drama</display-name>
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1ac947dcd00d0007937c08/logo.png" />
+    <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="5f1ac9a2d3611d0007a844bb">
-    <display-name lang="es">Pluto TV Romántico</display-name>
-    <url>http://www.merge-xmltv</url>
+    <display-name lang="en">Pluto TV Romántico</display-name>
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1ac9a2d3611d0007a844bb/logo.png" />
+    <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="5f6a38eaa5b68b0007a00e7a">
-    <display-name lang="es">Pluto TV Sci-Fi</display-name>
-    <url>http://www.merge-xmltv</url>
+    <display-name lang="en">Pluto TV Sci-Fi</display-name>
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f6a38eaa5b68b0007a00e7a/logo.png" />
+    <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="5f984c1dc54853000797a5e8">
-    <display-name lang="es">Pluto TV Latino</display-name>
-    <url>http://www.merge-xmltv</url>
+    <display-name lang="en">Pluto TV Latino</display-name>
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f984c1dc54853000797a5e8/logo.png" />
+    <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="DreamWorks HD">
     <display-name lang="es">DreamWorks HD</display-name>
@@ -9286,299 +9296,623 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210310123400 +0000" stop="20210310131100 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">SMONKA! ES</title>
-    <sub-title lang="es">Episodio 258</sub-title>
-    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="es">Classics</category>
-  </programme>
-  <programme start="20210310131100 +0000" stop="20210310134700 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">SMONKA! ES</title>
-    <sub-title lang="es">Episodio 259</sub-title>
-    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="es">Classics</category>
-  </programme>
-  <programme start="20210310134700 +0000" stop="20210310142500 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">SMONKA! ES</title>
-    <sub-title lang="es">Episodio 261</sub-title>
-    <desc lang="es">Smonka! es un concurso sobre cine, música y televisión en el que el ganador no importa. El buen rollo y la diversión son dos de las características que definen a este concurso.(n)</desc>
-    <category lang="es">Classics</category>
-  </programme>
-  <programme start="20210310142500 +0000" stop="20210310151800 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">La Hora de José Mota: 2</title>
-    <sub-title lang="es">2</sub-title>
-    <desc lang="es">En este episodio: El Té de las Cinco, Excesos y Defectos, Hazañas Bélicas, Alfred Híco Presenta, Historia Directo y Cuantos Milenios, entre otros.(n)</desc>
-    <category lang="es">Music</category>
-  </programme>
-  <programme start="20210310151800 +0000" stop="20210310161100 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">La Hora de José Mota: 3</title>
-    <sub-title lang="es">3</sub-title>
-    <desc lang="es">En este episodio: El Juez, Comunicación e Incomunicación, Ciencia y Conocimiento, Dices tú de Mili, Alfred Híco Presenta, Historia Directo, Las Cartas, El Tío la Vara, Cops, Facundo Collado, entre otros.(n)</desc>
-    <category lang="es">Music</category>
+  <programme start="20210310120000 +0000" stop="20210310161100 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">Comedia made in Spain</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f1abce155a03d0007718834/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
   </programme>
   <programme start="20210310161100 +0000" stop="20210310183800 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">10 cómicos 10 - 2010 ES: 10 cómicos 10 - 2010</title>
-    <sub-title lang="es">10 cómicos 10 - 2010</sub-title>
-    <desc lang="es">Desde el Teatro Coliseum de Madrid, Ignatius Farray presenta una noche inolvidable con la actuación de Albert Boira, Ricardo Castella, Toni Moog , Hovik, Luis Álvaro, Paco Calavera, David Navarro, Dani Rovira, Iñaki Urrutia y J.J. Vaquero.(n)</desc>
-    <category lang="es">Classics</category>
+    <title lang="en">10 cómicos 10 - 2010 ES: 10 cómicos 10 - 2010</title>
+    <desc lang="en">Desde el Teatro Coliseum de Madrid, Ignatius Farray presenta una noche inolvidable con la actuación de Albert Boira, Ricardo Castella, Toni Moog , Hovik,  Luis Álvaro, Paco Calavera, David Navarro, Dani Rovira, Iñaki Urrutia y  J.J. Vaquero.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f4893a43a6a110013c9b13a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
   <programme start="20210310183800 +0000" stop="20210310190200 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">La Lista Tonta ES: La Lista Tonta 6</title>
-    <sub-title lang="es">La Lista Tonta 6</sub-title>
-    <desc lang="es">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
-    <category lang="es">Classics</category>
+    <title lang="en">La Lista Tonta ES: La Lista Tonta 6</title>
+    <desc lang="en">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f48a227bbff270013bcc65c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310190200 +0000" stop="20210310192800 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">La Lista Tonta ES: La Lista Tonta 7</title>
+    <desc lang="en">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f48a225bbff270013bcc634/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310192800 +0000" stop="20210310195200 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">La Lista Tonta ES: La Lista Tonta 8</title>
+    <desc lang="en">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f48a225bbff270013bcc639/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310195200 +0000" stop="20210310203200 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">La Hora de José Mota: 13</title>
+    <desc lang="en">En este episodio: A Dios Gracias, Alfred Híco Presenta, Dices tú de Mili, Fama, Repugnancia, El robo, Alarma Social, Si no fuera rico, El bote, Quo Vadis, El mal del bombero, Cuantos Milenios y El Viejo a Ninguna Parte, entre otros.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/5f4f5d0ffa72a5001a5fdd8c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310203200 +0000" stop="20210310212700 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">La Hora de José Mota: 1</title>
+    <desc lang="en">Humor, sketches, parodias, actualidad, muchos personajes y situaciones cotidianas en La hora de José Mota. En este episodio: La Blasa, Amores y Odios, Adán y Eva, Caín y Abel, Cuantos Milenios y El Tío la Vara, entre otros.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">World</category>
+    <icon src="https://images.pluto.tv/episodes/5f4f5d08fa72a5001a5fdca6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310212700 +0000" stop="20210310215300 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">Central de Cómicos</title>
+    <desc lang="en">Con su particular mezcla de surrealismo y humor negro, Karim nos cuenta sus aventuras durante un extraño viaje a China.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210310215300 +0000" stop="20210310221900 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">Central de Cómicos</title>
+    <desc lang="en">Esta norteamericana ha llegado a Cataluña y está flipando con lo que se encuentra: el idioma, que nunca podrá hablar, los viejos verdes, que nunca podrá soportar, y la sardana, que nunca querrá bailar.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210310221900 +0000" stop="20210310224600 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">Central de Cómicos</title>
+    <desc lang="en">El carismático Juan Dávila nos habla de los deportes de riesgo urbano: ligar por la noche y convivir con tu pareja.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210310224600 +0000" stop="20210310231100 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">Central de Cómicos</title>
+    <desc lang="en">Los clubes sado-maso, los bares de toda la vida y la película Dirty-dancing son algunos de los temas tratados por el vallecano ManuKas, el único cómico con denominación de origen certificada.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/60018b962816a5001aa077a6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210310231100 +0000" stop="20210310233700 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">Central de Cómicos</title>
+    <desc lang="en">No hay nada mejor que el vestuario de un equipo de fútbol para darse cuenta de que los tópicos raciales no tienen ningún sentido.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/60018b952816a5001aa077a1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210310233700 +0000" stop="20210311000800 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">Central de Cómicos</title>
+    <desc lang="en">Quedar a cenar con una millonaria no es fácil, y la vida de este hombre, en general, tampoco lo es. Atención a este ex árbitro de fútbol catalán de gustos refinados, Ramón Tartas.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20210311000800 +0000" stop="20210311003300 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">Central de Cómicos</title>
+    <desc lang="en">Atormentada por su altura, esta cómica andaluza divaga sin parar: desde la boda que desea en secreto hasta las reuniones de tupper sex.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/60018b952816a5001aa0778c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210311003300 +0000" stop="20210311005900 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">Central de Cómicos</title>
+    <desc lang="en">Los abusos sexuales, las enfermedades venéreas, Michael Jackson, etc. Denny Horror, especialista en humor negro, nos trae su visión del amor.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/60018b952816a5001aa07791/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+18</value>
+    </rating>
   </programme>
   <programme start="20210311005900 +0000" stop="20210311012800 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">Central de Cómicos: Salomón: Vamos a morir todos</title>
-    <sub-title lang="es">Salomón: Vamos a morir todos</sub-title>
-    <desc lang="es">Salomón es un cómico que no tiene miedo de meterse en temas polémicos. En este monólogo hará comedia con temas tan delicados como el feminismo, el sexo y la religión.(n)</desc>
-    <category lang="es">Comedy</category>
+    <title lang="en">Central de Cómicos: Salomón: Vamos a morir todos</title>
+    <desc lang="en">Salomón es un cómico que no tiene miedo de meterse en temas polémicos. En este monólogo hará comedia con temas tan delicados como el feminismo, el sexo y la religión.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fd722de0dddaf0013b7e938/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+18</value>
+    </rating>
   </programme>
-  <programme start="20210311183800 +0000" stop="20210311190200 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">La Lista Tonta ES: La Lista Tonta 6</title>
-    <sub-title lang="es">La Lista Tonta 6</sub-title>
-    <desc lang="es">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
-    <category lang="es">Classics</category>
+  <programme start="20210311012800 +0000" stop="20210311015500 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">Central de Cómicos: Sara Escudero: La crisis de los 31</title>
+    <desc lang="en">Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fd722df0dddaf0013b7e945/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210311190200 +0000" stop="20210311192800 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">La Lista Tonta ES: La Lista Tonta 7</title>
-    <sub-title lang="es">La Lista Tonta 7</sub-title>
-    <desc lang="es">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
-    <category lang="es">Classics</category>
+  <programme start="20210311015500 +0000" stop="20210311022400 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">Central de Cómicos: Diego Peña: Vivito y coleando</title>
+    <desc lang="en">Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fd722de0dddaf0013b7e923/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
   </programme>
-  <programme start="20210311192800 +0000" stop="20210311195200 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">La Lista Tonta ES: La Lista Tonta 8</title>
-    <sub-title lang="es">La Lista Tonta 8</sub-title>
-    <desc lang="es">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
-    <category lang="es">Classics</category>
+  <programme start="20210311022400 +0000" stop="20210311024800 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">Central de Cómicos: Chema Ruiz: Soy positivo</title>
+    <desc lang="en">Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fd722df0dddaf0013b7e93d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311195200 +0000" stop="20210311203200 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">La Hora de José Mota: 13</title>
-    <sub-title lang="es">13</sub-title>
-    <desc lang="es">En este episodio: A Dios Gracias, Alfred Híco Presenta, Dices tú de Mili, Fama, Repugnancia, El robo, Alarma Social, Si no fuera rico, El bote, Quo Vadis, El mal del bombero, Cuantos Milenios y El Viejo a Ninguna Parte, entre otros.(n)</desc>
-    <category lang="es">Music</category>
+  <programme start="20210311024800 +0000" stop="20210311031200 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">Central de Cómicos: Jorge Segura: Follow the yellow brick road</title>
+    <desc lang="en">Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fd722df0dddaf0013b7e94f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
   </programme>
-  <programme start="20210311203200 +0000" stop="20210311212700 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">La Hora de José Mota: 1</title>
-    <sub-title lang="es">1</sub-title>
-    <desc lang="es">Humor, sketches, parodias, actualidad, muchos personajes y situaciones cotidianas en La hora de José Mota. En este episodio: La Blasa, Amores y Odios, Adán y Eva, Caín y Abel, Cuantos Milenios y El Tío la Vara, entre otros.(n)</desc>
-    <category lang="es">Music</category>
+  <programme start="20210311031200 +0000" stop="20210311034000 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">Central de Cómicos: Kaco: Manual de autoayuda</title>
+    <desc lang="en">Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fd722de0dddaf0013b7e92b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311212700 +0000" stop="20210311215300 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">Central de Cómicos</title>
-    <sub-title lang="es">Karim: Un cuento chino</sub-title>
-    <desc lang="es">Con su particular mezcla de surrealismo y humor negro, Karim nos cuenta sus aventuras durante un extraño viaje a China.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210311034000 +0000" stop="20210311040700 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">Central de Cómicos: Paco Calavera: He vuelto</title>
+    <desc lang="en">Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fd722de0dddaf0013b7e933/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311215300 +0000" stop="20210311221900 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">Central de Cómicos</title>
-    <sub-title lang="es">Rachel Arieff: Señora vs señorita</sub-title>
-    <desc lang="es">Esta norteamericana ha llegado a Cataluña y está flipando con lo que se encuentra: el idioma, que nunca podrá hablar, los viejos verdes, que nunca podrá soportar, y la sardana, que nunca querrá bailar.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210311040700 +0000" stop="20210311043400 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">Central de Cómicos: Dani Alés: Amor conejo</title>
+    <desc lang="en">Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fd722df0dddaf0013b7e94a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311221900 +0000" stop="20210311224600 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">Central de Cómicos</title>
-    <sub-title lang="es">Juan Dávila: Haz el amor gratis y no la guerra pagando</sub-title>
-    <desc lang="es">El carismático Juan Dávila nos habla de los deportes de riesgo urbano: ligar por la noche y convivir con tu pareja.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210311043400 +0000" stop="20210311050200 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">Central de Cómicos: Álex Clavero: No quiero ser moderno</title>
+    <desc lang="en">Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fd722df0dddaf0013b7e954/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210311224600 +0000" stop="20210311231100 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">Central de Cómicos</title>
-    <sub-title lang="es">Manu Kas: Ya no soy una vainilla</sub-title>
-    <desc lang="es">Los clubes sado-maso, los bares de toda la vida y la película Dirty-dancing son algunos de los temas tratados por el vallecano ManuKas, el único cómico con denominación de origen certificada.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210311050200 +0000" stop="20210311055600 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">Open Mike ES: Open Mike (2/2@Open Mike-)</title>
+    <desc lang="en">El programa “Open Mike” es una fórmula inspirada en las clásicas “noches de micro abierto” de los clubs de comedia americanos: un cómico sube al escenario y actúa durante cuatro o cinco minutos, mientras el público aprueba (o no) su recopilación de gags.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f48a23bbbff270013bcc853/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210311231100 +0000" stop="20210311233700 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">Central de Cómicos</title>
-    <sub-title lang="es">Fernando Villena: Ni pies ni cabeza</sub-title>
-    <desc lang="es">No hay nada mejor que el vestuario de un equipo de fútbol para darse cuenta de que los tópicos raciales no tienen ningún sentido.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210311055600 +0000" stop="20210311064600 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">Open Mike ES: Open Mike (3/4@Open Mike-)</title>
+    <desc lang="en">El programa “Open Mike” es una fórmula inspirada en las clásicas “noches de micro abierto” de los clubs de comedia americanos: un cómico sube al escenario y actúa durante cuatro o cinco minutos, mientras el público aprueba (o no) su recopilación de gags.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f48a23bbbff270013bcc840/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210311233700 +0000" stop="20210312000800 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="es">Central de Cómicos</title>
-    <sub-title lang="es">Ramón Tarta: Cena con una millonaria</sub-title>
-    <desc lang="es">Quedar a cenar con una millonaria no es fácil, y la vida de este hombre, en general, tampoco lo es. Atención a este ex árbitro de fútbol catalán de gustos refinados, Ramón Tartas.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210311064600 +0000" stop="20210311071200 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">La Lista Tonta ES: La Lista Tonta 9</title>
+    <desc lang="en">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f48a22ebbff270013bcc716/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210310124700 +0000" stop="20210310131200 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">I live with Models: Episodio 107</title>
-    <sub-title lang="es">Episodio 107</sub-title>
-    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210310131200 +0000" stop="20210310133600 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">I live with Models: Episodio 108</title>
-    <sub-title lang="es">Episodio 108</sub-title>
-    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210310133600 +0000" stop="20210310140000 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Alternatino: El Regalo</title>
-    <sub-title lang="es">El Regalo</sub-title>
-    <desc lang="es">Arturo comete un grave error de cálculo en su nueva relación, un general se distrae de su misión y algunos inmigrantes recientes descubren la dura verdad sobre Estados Unidos.(n)</desc>
-    <category lang="es">Classics</category>
-  </programme>
-  <programme start="20210310140000 +0000" stop="20210310142400 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Alternatino: El Vecino</title>
-    <sub-title lang="es">El Vecino</sub-title>
-    <desc lang="es">Arturo se siente en conflicto por recibir ayuda de un vecino, una ceremonia de ayahuasca se descarrila y las cosas se complican para dos guerreros en un reino fantástico.(n)</desc>
-    <category lang="es">Classics</category>
-  </programme>
-  <programme start="20210310142400 +0000" stop="20210310144700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Alternatino: Los Quince</title>
-    <sub-title lang="es">Los Quince</sub-title>
-    <desc lang="es">Arturo se ofrece como voluntario para planificar la fiesta quinceañera de su sobrina, un rudo callejero demuestra que tiene credibilidad y un invitado a la fiesta hace que todos se sientan miserables.(n)</desc>
-    <category lang="es">Classics</category>
-  </programme>
-  <programme start="20210310144700 +0000" stop="20210310151100 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Alternatino: El Soñador</title>
-    <sub-title lang="es">El Soñador</sub-title>
-    <desc lang="es">Un comentario casual durante una entrevista deja a Arturo en un aprieto, Netflix se enfrenta a una emergencia y una operación del FBI sale mal.(n)</desc>
-    <category lang="es">Classics</category>
-  </programme>
-  <programme start="20210310151100 +0000" stop="20210310153500 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Big Time in Hollywood</title>
-    <sub-title lang="es">Los sueños se hacen realidad</sub-title>
-    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210310153500 +0000" stop="20210310155900 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Big Time in Hollywood</title>
-    <sub-title lang="es">Episodio 108</sub-title>
-    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210310155900 +0000" stop="20210310162300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Big Time in Hollywood</title>
-    <sub-title lang="es">Episodio 109</sub-title>
-    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210310162300 +0000" stop="20210310164700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Big Time in Hollywood</title>
-    <sub-title lang="es">Episodio 110</sub-title>
-    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210310164700 +0000" stop="20210310171200 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">I live with Models: Episodio 105</title>
-    <sub-title lang="es">Episodio 105</sub-title>
-    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210310171200 +0000" stop="20210310173700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">I live with Models: Episodio 106</title>
-    <sub-title lang="es">Episodio 106</sub-title>
-    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210310120000 +0000" stop="20210310173700 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Pluto TV Series Comedia</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f9853138d19af0007104a8d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
   </programme>
   <programme start="20210310173700 +0000" stop="20210310180200 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">I live with Models: Episodio 107</title>
-    <sub-title lang="es">Episodio 107</sub-title>
-    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="es">Comedy</category>
+    <title lang="en">I live with Models: Episodio 107</title>
+    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37b6e7dc9c001a9ef2c6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
   </programme>
   <programme start="20210310180200 +0000" stop="20210310182600 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">I live with Models: Episodio 108</title>
-    <sub-title lang="es">Episodio 108</sub-title>
-    <desc lang="es">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="es">Comedy</category>
+    <title lang="en">I live with Models: Episodio 108</title>
+    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37b6e7dc9c001a9ef2b1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
   </programme>
   <programme start="20210310182600 +0000" stop="20210310185000 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Alternatino: El Regalo</title>
-    <sub-title lang="es">El Regalo</sub-title>
-    <desc lang="es">Arturo comete un grave error de cálculo en su nueva relación, un general se distrae de su misión y algunos inmigrantes recientes descubren la dura verdad sobre Estados Unidos.(n)</desc>
-    <category lang="es">Classics</category>
+    <title lang="en">Alternatino: El Regalo</title>
+    <desc lang="en">Arturo comete un grave error de cálculo en su nueva relación, un general se distrae de su misión y algunos inmigrantes recientes descubren la dura verdad sobre Estados Unidos.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fb782c9e8b7e6001a753363/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
   <programme start="20210310185000 +0000" stop="20210310191400 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Alternatino: El Vecino</title>
-    <sub-title lang="es">El Vecino</sub-title>
-    <desc lang="es">Arturo se siente en conflicto por recibir ayuda de un vecino, una ceremonia de ayahuasca se descarrila y las cosas se complican para dos guerreros en un reino fantástico.(n)</desc>
-    <category lang="es">Classics</category>
+    <title lang="en">Alternatino: El Vecino</title>
+    <desc lang="en">Arturo se siente en conflicto por recibir ayuda de un vecino, una ceremonia de ayahuasca se descarrila y las cosas se complican para dos guerreros en un reino fantástico.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fb782c9e8b7e6001a75334e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310191400 +0000" stop="20210310193700 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Alternatino: Los Quince</title>
+    <desc lang="en">Arturo se ofrece como voluntario para planificar la fiesta quinceañera  de su sobrina, un rudo callejero demuestra que tiene credibilidad y un invitado a la fiesta hace que todos se sientan miserables.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fb782c9e8b7e6001a753372/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310193700 +0000" stop="20210310200100 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Alternatino: El Soñador</title>
+    <desc lang="en">Un comentario casual durante una entrevista deja a Arturo en un aprieto, Netflix se enfrenta a una emergencia y una operación del FBI sale mal.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fb782cae8b7e6001a75338c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310200100 +0000" stop="20210310202500 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Big Time in Hollywood</title>
+    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37d0e7dc9c001a9ef4f4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310202500 +0000" stop="20210310204900 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Big Time in Hollywood</title>
+    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37d1e7dc9c001a9ef503/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310204900 +0000" stop="20210310211300 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Big Time in Hollywood</title>
+    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37d2e7dc9c001a9ef535/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310211300 +0000" stop="20210310213700 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Big Time in Hollywood</title>
+    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37d3e7dc9c001a9ef556/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310213700 +0000" stop="20210310220100 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Broad City: Filadelfia</title>
+    <desc lang="en">Abbi e Ilana se dirigen a Filadelfia para visitar la casa de la infancia de Abbi. Cuando Abbi se da cuenta de que cometió un gran error en la escuela secundaria, ella e Ilana van en una misión de expiación.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fc4ac555fc7e1001a3ad151/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210310220100 +0000" stop="20210310222900 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Broad City: B&amp;B-NYC</title>
+    <desc lang="en">Abbi e Ilana apuntan sus apartamentos en B&amp;B-NYC para ganar algo de dinero extra.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fc4ac545fc7e1001a3ad12f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210310222900 +0000" stop="20210310225300 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Broad City: Puentes ardientes</title>
+    <desc lang="en">Los padres de Ilana vienen a la ciudad para celebrar su 30 aniversario, pero a Abbi e Ilana les resulta difícil celebrar cuando ambas experimentan problemas de relación.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fc4ac545fc7e1001a3ad134/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210310225300 +0000" stop="20210310231700 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Broad City: Por los pelos</title>
+    <desc lang="en">Abbi e Ilana participan en una clase de yoga. Luego se dirigen para su viaje a Israel. Se encuentran corriendo contra el tiempo cuando el metro en el que están tiene que parar debido a un suicidio en la vía y porque Ilana olvidó su pasaporte.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37cde7dc9c001a9ef4a2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210310231700 +0000" stop="20210310234000 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Teachers: La minicasa</title>
+    <desc lang="en">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca1f3e0983410013dbed01/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210310234000 +0000" stop="20210311000300 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Teachers: Repetidor</title>
+    <desc lang="en">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca1f3d0983410013dbecc2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210311000300 +0000" stop="20210311002500 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Teachers: Sometida a juicio</title>
+    <desc lang="en">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210311002500 +0000" stop="20210311004800 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Teachers: En bancarrota</title>
+    <desc lang="en">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca1f420983410013dbed1c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
   <programme start="20210311004800 +0000" stop="20210311011100 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Idiotsitter: Episodio 206</title>
-    <sub-title lang="es">Episodio 206</sub-title>
-    <desc lang="es">Billie y Gene regresan con más babysitting, amistad y juerga destroyer. En esta nueva aventura, este singular dúo se traslada al campus universitario para demostrar a los veinteañeros cómo hay que montárselo para acabar en el calabozo.(n)</desc>
-    <category lang="es">Comedy</category>
+    <title lang="en">Idiotsitter: Episodio 206</title>
+    <desc lang="en">Billie y Gene regresan con más babysitting, amistad y juerga destroyer. En esta nueva aventura, este singular dúo se traslada al campus universitario para demostrar a los veinteañeros cómo hay que montárselo para acabar en el calabozo.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca2e03c8c57d00131c75e4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311185000 +0000" stop="20210311191400 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Alternatino: El Vecino</title>
-    <sub-title lang="es">El Vecino</sub-title>
-    <desc lang="es">Arturo se siente en conflicto por recibir ayuda de un vecino, una ceremonia de ayahuasca se descarrila y las cosas se complican para dos guerreros en un reino fantástico.(n)</desc>
-    <category lang="es">Classics</category>
+  <programme start="20210311011100 +0000" stop="20210311013400 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Idiotsitter: Acaba el curso</title>
+    <desc lang="en">Billie y Gene regresan con más babysitting, amistad y juerga destroyer. En esta nueva aventura, este singular dúo se traslada al campus universitario para demostrar a los veinteañeros cómo hay que montárselo para acabar en el calabozo.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca2e04c8c57d00131c760c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311191400 +0000" stop="20210311193700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Alternatino: Los Quince</title>
-    <sub-title lang="es">Los Quince</sub-title>
-    <desc lang="es">Arturo se ofrece como voluntario para planificar la fiesta quinceañera de su sobrina, un rudo callejero demuestra que tiene credibilidad y un invitado a la fiesta hace que todos se sientan miserables.(n)</desc>
-    <category lang="es">Classics</category>
+  <programme start="20210311013400 +0000" stop="20210311015700 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Idiotsitter: Piloto</title>
+    <desc lang="en">La historia de una extraña pareja que alcanza cotas imprevistas de depravación: cuando la "asalvajada" y rica veinteañera Gene es condenada a arresto domiciliario, sus padres contratan a una niñera llamada Billie para que se encargue de ella.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37a4e7dc9c001a9ef183/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311193700 +0000" stop="20210311200100 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Alternatino: El Soñador</title>
-    <sub-title lang="es">El Soñador</sub-title>
-    <desc lang="es">Un comentario casual durante una entrevista deja a Arturo en un aprieto, Netflix se enfrenta a una emergencia y una operación del FBI sale mal.(n)</desc>
-    <category lang="es">Classics</category>
+  <programme start="20210311015700 +0000" stop="20210311022000 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Idiotsitter: Recensión</title>
+    <desc lang="en">La historia de una extraña pareja que alcanza cotas imprevistas de depravación: cuando la "asalvajada" y rica veinteañera Gene es condenada a arresto domiciliario, sus padres contratan a una niñera llamada Billie para que se encargue de ella.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37a4e7dc9c001a9ef188/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311200100 +0000" stop="20210311202500 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Big Time in Hollywood</title>
-    <sub-title lang="es">Separados pero iguales</sub-title>
-    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210311022000 +0000" stop="20210311024600 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Time Traveling Bong: Episodio 103</title>
+    <desc lang="en">Dos primos descubren una pipa de agua que resulta ser una máquina del tiempo.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca15945fc7e1001a3b99c0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+18</value>
+    </rating>
   </programme>
-  <programme start="20210311202500 +0000" stop="20210311204900 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Big Time in Hollywood</title>
-    <sub-title lang="es">Los sueños se hacen realidad</sub-title>
-    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210311024600 +0000" stop="20210311031000 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Broad City: Filadelfia</title>
+    <desc lang="en">Abbi e Ilana se dirigen a Filadelfia para visitar la casa de la infancia de Abbi. Cuando Abbi se da cuenta de que cometió un gran error en la escuela secundaria, ella e Ilana van en una misión de expiación.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fc4ac555fc7e1001a3ad151/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311204900 +0000" stop="20210311211300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Big Time in Hollywood</title>
-    <sub-title lang="es">Episodio 108</sub-title>
-    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210311031000 +0000" stop="20210311033800 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Broad City: B&amp;B-NYC</title>
+    <desc lang="en">Abbi e Ilana apuntan sus apartamentos en B&amp;B-NYC para ganar algo de dinero extra.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fc4ac545fc7e1001a3ad12f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311211300 +0000" stop="20210311213700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Big Time in Hollywood</title>
-    <sub-title lang="es">Episodio 109</sub-title>
-    <desc lang="es">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210311033800 +0000" stop="20210311040200 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Broad City: Puentes ardientes</title>
+    <desc lang="en">Los padres de Ilana vienen a la ciudad para celebrar su 30 aniversario, pero a Abbi e Ilana les resulta difícil celebrar cuando ambas experimentan problemas de relación.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fc4ac545fc7e1001a3ad134/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311213700 +0000" stop="20210311220100 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Broad City: Filadelfia</title>
-    <sub-title lang="es">Filadelfia</sub-title>
-    <desc lang="es">Abbi e Ilana se dirigen a Filadelfia para visitar la casa de la infancia de Abbi. Cuando Abbi se da cuenta de que cometió un gran error en la escuela secundaria, ella e Ilana van en una misión de expiación.(n)</desc>
-    <category lang="es">Classics</category>
+  <programme start="20210311040200 +0000" stop="20210311042600 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Broad City: Por los pelos</title>
+    <desc lang="en">Abbi e Ilana participan en una clase de yoga. Luego se dirigen para su viaje a Israel. Se encuentran corriendo contra el tiempo cuando el metro en el que están tiene que parar debido a un suicidio en la vía y porque Ilana olvidó su pasaporte.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37cde7dc9c001a9ef4a2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311220100 +0000" stop="20210311222900 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Broad City: B&amp;B-NYC</title>
-    <sub-title lang="es">B&amp;B-NYC</sub-title>
-    <desc lang="es">Abbi e Ilana apuntan sus apartamentos en B&amp;B-NYC para ganar algo de dinero extra.(n)</desc>
-    <category lang="es">Classics</category>
+  <programme start="20210311042600 +0000" stop="20210311044900 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Teachers: La minicasa</title>
+    <desc lang="en">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca1f3e0983410013dbed01/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311222900 +0000" stop="20210311225300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Broad City: Puentes ardientes</title>
-    <sub-title lang="es">Puentes ardientes</sub-title>
-    <desc lang="es">Los padres de Ilana vienen a la ciudad para celebrar su 30 aniversario, pero a Abbi e Ilana les resulta difícil celebrar cuando ambas experimentan problemas de relación.(n)</desc>
-    <category lang="es">Classics</category>
+  <programme start="20210311044900 +0000" stop="20210311051200 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Teachers: Repetidor</title>
+    <desc lang="en">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca1f3d0983410013dbecc2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311225300 +0000" stop="20210311231700 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Broad City: Por los pelos</title>
-    <sub-title lang="es">Por los pelos</sub-title>
-    <desc lang="es">Abbi e Ilana participan en una clase de yoga. Luego se dirigen para su viaje a Israel. Se encuentran corriendo contra el tiempo cuando el metro en el que están tiene que parar debido a un suicidio en la vía y porque Ilana olvidó su pasaporte.(n)</desc>
-    <category lang="es">Classics</category>
+  <programme start="20210311051200 +0000" stop="20210311053600 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Big Time in Hollywood</title>
+    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37d3e7dc9c001a9ef54a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210311231700 +0000" stop="20210311234000 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Teachers: La minicasa</title>
-    <sub-title lang="es">La minicasa</sub-title>
-    <desc lang="es">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210311053600 +0000" stop="20210311060000 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Big Time in Hollywood</title>
+    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37d1e7dc9c001a9ef4fe/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210311234000 +0000" stop="20210312000300 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="es">Teachers: Repetidor</title>
-    <sub-title lang="es">Repetidor</sub-title>
-    <desc lang="es">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210311060000 +0000" stop="20210311062400 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Big Time in Hollywood</title>
+    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37d2e7dc9c001a9ef515/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210311062400 +0000" stop="20210311064900 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Big Time in Hollywood</title>
+    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37d0e7dc9c001a9ef4ea/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210311064900 +0000" stop="20210311071300 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Big Time in Hollywood</title>
+    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca37d4e7dc9c001a9ef563/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
   <programme start="20210310014000 +0100" stop="20210310032000 +0100" channel="M.ESTRENOS HD">
     <title lang="es">Seberg: más allá del cine</title>
@@ -12330,390 +12664,747 @@
     <category lang="es">Película</category>
     <icon src="https://www.bomcine.com/images/Chloe-1260x450.jpg" />
   </programme>
-  <programme start="20210310125600 +0000" stop="20210310150600 +0000" channel="5f1ac1f1b66c76000790ef27">
-    <title lang="es">Kinsey</title>
-    <desc lang="es">In 1948, Alfred Kinsey cambía irrevocablemente la cultura americana con su libro "La Conducta Sexual del Hombre".(n)</desc>
-    <category lang="es">Documentaries</category>
-  </programme>
-  <programme start="20210310150600 +0000" stop="20210310164800 +0000" channel="5f1ac1f1b66c76000790ef27">
-    <title lang="es">The Brady Bunch Movie</title>
-    <desc lang="es">La familia Brady debe defender su casa de las garras del Señor Ditmeyer que los intenta echar para beneficiarse de un negocio que lleva entre manos.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210310120000 +0000" stop="20210310164800 +0000" channel="5f1ac1f1b66c76000790ef27">
+    <title lang="en">Pluto TV Cine Estelar</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
   </programme>
   <programme start="20210310164800 +0000" stop="20210310185900 +0000" channel="5f1ac1f1b66c76000790ef27">
-    <title lang="es">El último voto</title>
-    <desc lang="es">Bud Johnson es un padre de familia perdedor y soltero, que se convierte en el centro de atención mediática del país cuando unas extrañas circunstancias determinan que su voto será decisivo para la elección del próximo presidente de los Estados Unidos.(n)</desc>
-    <category lang="es">Comedy</category>
+    <title lang="en">El último voto</title>
+    <desc lang="en">Bud Johnson es un padre de familia perdedor y soltero, que se convierte en el centro de atención mediática del país cuando unas extrañas circunstancias determinan que su voto será decisivo para la elección del próximo presidente de los Estados Unidos.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Showbiz Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f6207f4fb35bf001af7be7f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210310185900 +0000" stop="20210310204500 +0000" channel="5f1ac1f1b66c76000790ef27">
-    <title lang="es">The Contract</title>
-    <desc lang="es">Ray Keene, un entrenador de baloncesto en una escuela de secundaria, se dispone a pasar unos días de acampada en el desierto con su hijo y así recuperar el tiempo perdido con él.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
+    <title lang="en">The Contract</title>
+    <desc lang="en">Ray Keene, un entrenador de baloncesto en una escuela de secundaria, se dispone a pasar unos días de acampada en el desierto con su hijo y así recuperar el tiempo perdido con él.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Classics</category>
+    <icon src="https://images.pluto.tv/episodes/5f4f5cdefa72a5001a5fd8d3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310204500 +0000" stop="20210310222800 +0000" channel="5f1ac1f1b66c76000790ef27">
+    <title lang="en">Napoleon Dynamite</title>
+    <desc lang="en">Napoleon Dynamite vive en un pequeño pueblo de Preston llamado Idaho. Napoleon es un niño apático al que le gusta hacer dibujos de su animal favorito, el “ligre” (combinación de león y tigre).(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f6062d35e6bed001a9cb265/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210310222800 +0000" stop="20210311005400 +0000" channel="5f1ac1f1b66c76000790ef27">
+    <title lang="en">Los amos de Brooklyn</title>
+    <desc lang="en">Tres policías de Brooklyn, sin conexión entre ellos y con carreras muy diferentes entre sí, coincidirán durante una multitudinaria redada en la zona más peligrosa y criminalizada de Brooklyn.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Thrillers</category>
+    <icon src="https://images.pluto.tv/episodes/5f4e181efa72a5001a5fa4b4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
   <programme start="20210311005400 +0000" stop="20210311023700 +0000" channel="5f1ac1f1b66c76000790ef27">
-    <title lang="es">Nunca es tarde para enamorarse</title>
-    <desc lang="es">Narra la historia de Harvey, un hombre aburrido y cansado, que viaja a Londres para asistir a la boda de su hija con un hombre bastante mayor que ella. Allí, Harvey conocerá a una mujer que le cambiará la vida, despertando sus impulsos amorosos.(n)</desc>
-    <category lang="es">Classics</category>
+    <title lang="en">Nunca es tarde para enamorarse</title>
+    <desc lang="en">Narra la historia de Harvey, un hombre aburrido y cansado, que viaja a Londres para asistir a la boda de su hija con un hombre bastante mayor que ella. Allí, Harvey conocerá a una mujer que le cambiará la vida, despertando sus impulsos amorosos.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f523c1adb45a1001a79ab0b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210311185900 +0000" stop="20210311204500 +0000" channel="5f1ac1f1b66c76000790ef27">
-    <title lang="es">The Contract</title>
-    <desc lang="es">Ray Keene, un entrenador de baloncesto en una escuela de secundaria, se dispone a pasar unos días de acampada en el desierto con su hijo y así recuperar el tiempo perdido con él.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
+  <programme start="20210311023700 +0000" stop="20210311042200 +0000" channel="5f1ac1f1b66c76000790ef27">
+    <title lang="en">El largo camino a casa</title>
+    <desc lang="en">En los años 50, en Montgomery, los prejuicios raciales y sociales están a la orden del día. Cada día Odessa coge el autobús para ir al trabajo, pero tras un boicot de los negros a la empresa de transporte, la mujer tiene problemas para desplazarse.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Dramas</category>
+    <icon src="https://images.pluto.tv/episodes/5f562df3f7db51001a3c5fa0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
   </programme>
-  <programme start="20210311204500 +0000" stop="20210311222800 +0000" channel="5f1ac1f1b66c76000790ef27">
-    <title lang="es">Napoleon Dynamite</title>
-    <desc lang="es">Napoleon Dynamite vive en un pequeño pueblo de Preston llamado Idaho. Napoleon es un niño apático al que le gusta hacer dibujos de su animal favorito, el “ligre” (combinación de león y tigre).(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210311042200 +0000" stop="20210311060800 +0000" channel="5f1ac1f1b66c76000790ef27">
+    <title lang="en">The Contract</title>
+    <desc lang="en">Ray Keene, un entrenador de baloncesto en una escuela de secundaria, se dispone a pasar unos días de acampada en el desierto con su hijo y así recuperar el tiempo perdido con él.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Classics</category>
+    <icon src="https://images.pluto.tv/episodes/5f4f5cdefa72a5001a5fd8d3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210311222800 +0000" stop="20210312005400 +0000" channel="5f1ac1f1b66c76000790ef27">
-    <title lang="es">Los amos de Brooklyn</title>
-    <desc lang="es">Tres policías de Brooklyn, sin conexión entre ellos y con carreras muy diferentes entre sí, coincidirán durante una multitudinaria redada en la zona más peligrosa y criminalizada de Brooklyn.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
+  <programme start="20210311060800 +0000" stop="20210311074800 +0000" channel="5f1ac1f1b66c76000790ef27">
+    <title lang="en">Un hombre solitario</title>
+    <desc lang="en">Un ejecutivo  intenta superar los tiempos difíciles y volver a centrarse en su carrera, después de años de excesos en los que el dinero y el sexo han marcado el inicio de una imparable decadencia personal y profesional.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f523c66db45a1001a79add1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210310120800 +0000" stop="20210310134100 +0000" channel="5f1ac2591dd8880007bb7d6d">
-    <title lang="es">El Cambio mortal</title>
-    <sub-title lang="es">Polar Opposites ES</sub-title>
-    <desc lang="es">Se produce una serie de catástrofes encadenadas que movilizan al Presidente de Estados Unidos y a la comunidad científica mundial para establecer una alerta máxima con el fin de preservar, en la medida de lo posible, la seguridad de la Tierra.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
-  </programme>
-  <programme start="20210310134100 +0000" stop="20210310152700 +0000" channel="5f1ac2591dd8880007bb7d6d">
-    <title lang="es">The Contract</title>
-    <desc lang="es">Ray Keene, un entrenador de baloncesto en una escuela de secundaria, se dispone a pasar unos días de acampada en el desierto con su hijo y así recuperar el tiempo perdido con él.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
-  </programme>
-  <programme start="20210310152700 +0000" stop="20210310171300 +0000" channel="5f1ac2591dd8880007bb7d6d">
-    <title lang="es">Hércules en Nueva York</title>
-    <desc lang="es">Desterrado del Monte Olimpo, Hércules (Arnold Schwarzenegger) es enviado a la Tierra donde encuentra el amor verdadero y comienza una prometedora carrera en el negocio del físicoculturismo.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
+  <programme start="20210310120000 +0000" stop="20210310171300 +0000" channel="5f1ac2591dd8880007bb7d6d">
+    <title lang="en">Pluto TV Cine Acción</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
   </programme>
   <programme start="20210310171300 +0000" stop="20210310190400 +0000" channel="5f1ac2591dd8880007bb7d6d">
-    <title lang="es">Cruzadas: Atrapado en el pasado</title>
-    <desc lang="es">Un joven jugador de fútbol, Dolf, utiliza a su madre investigadora y su máquina para viajar en el tiempo con la intención de volver al campeonato europeo. Equivocadamente será transportado al año 1212, uniéndose como líder de una arriesgada cruzada.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
+    <title lang="en">Cruzadas: Atrapado en el pasado</title>
+    <desc lang="en">Un joven jugador de fútbol, Dolf, utiliza a su madre investigadora y su máquina para viajar en el tiempo con la intención de volver al campeonato europeo. Equivocadamente será transportado al año 1212, uniéndose como líder de una arriesgada cruzada.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Adventures</category>
+    <icon src="https://images.pluto.tv/episodes/5f4e1829fa72a5001a5fa581/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210310190400 +0000" stop="20210310204000 +0000" channel="5f1ac2591dd8880007bb7d6d">
+    <title lang="en">El poder de la fuerza</title>
+    <desc lang="en">En este wéstern “moderno”, el perverso Juez Josh gobierna una pequeña ciudad de California.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Thrillers</category>
+    <icon src="https://images.pluto.tv/episodes/5ff2ee76eff9b2001a7f5bcb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210310204000 +0000" stop="20210310221300 +0000" channel="5f1ac2591dd8880007bb7d6d">
+    <title lang="en">Tormenta de Lava</title>
+    <desc lang="en">John, un científico que trabaja en el centro de evacuación de emergencia de un parque natural, recibe la llamada de una inspectora en riesgo geológico, Lori, en la que le comunica que está teniendo lugar un calentamiento inesperado.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Classics</category>
+    <icon src="https://images.pluto.tv/episodes/5f929aa5fe51e4001aac9c15/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310221300 +0000" stop="20210310235700 +0000" channel="5f1ac2591dd8880007bb7d6d">
+    <title lang="en">Ataque Terrorista</title>
+    <desc lang="en">Un ex marine de los Estados Unidos es en un grupo musical de heavy metal invitado a dar un concierto benéfico en Moscú. La actuación se convierte en un baño de sangre cuando terroristas armados secuestran al presidente de Rusia y a su familia.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Adventures</category>
+    <icon src="https://images.pluto.tv/episodes/5f620811fb35bf001af7c06c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+18</value>
+    </rating>
   </programme>
   <programme start="20210310235700 +0000" stop="20210311014700 +0000" channel="5f1ac2591dd8880007bb7d6d">
-    <title lang="es">The Assassin's Code</title>
-    <desc lang="es">Michael Conelly es un joven detective de Cleveland. Un robo de medicamentos valorados en más de un millón de dolares y la muerte del policía a cargo del caso, será la oportunidad que Michael espera para redimirse ante sus compañeros.(n)</desc>
-    <category lang="es">Thrillers</category>
+    <title lang="en">The Assassin's Code</title>
+    <desc lang="en">Michael Conelly es un joven detective de Cleveland. Un robo de medicamentos valorados en más de un millón de dolares y la muerte del policía a cargo del caso, será la oportunidad que Michael espera para redimirse ante sus compañeros.(n)</desc>
+    <category lang="en">Thrillers</category>
+    <category lang="en">Classic Thrillers</category>
+    <icon src="https://images.pluto.tv/episodes/5f4f5cd9fa72a5001a5fd87c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311171300 +0000" stop="20210311190400 +0000" channel="5f1ac2591dd8880007bb7d6d">
-    <title lang="es">Cruzadas: Atrapado en el pasado</title>
-    <desc lang="es">Un joven jugador de fútbol, Dolf, utiliza a su madre investigadora y su máquina para viajar en el tiempo con la intención de volver al campeonato europeo. Equivocadamente será transportado al año 1212, uniéndose como líder de una arriesgada cruzada.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
+  <programme start="20210311014700 +0000" stop="20210311033600 +0000" channel="5f1ac2591dd8880007bb7d6d">
+    <title lang="en">Sacrifice</title>
+    <desc lang="en">Un policía infiltrado en una red de distribución de heroina, se ve muy involucrado cuando un joven desertor del narcotráfico deja a su hermana de cinco años a su cuidado.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Crime Action</category>
+    <icon src="https://images.pluto.tv/episodes/5f929aabfe51e4001aac9c4b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311190400 +0000" stop="20210311204000 +0000" channel="5f1ac2591dd8880007bb7d6d">
-    <title lang="es">El poder de la fuerza</title>
-    <desc lang="es">En este wéstern “moderno”, el perverso Juez Josh gobierna una pequeña ciudad de California.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
+  <programme start="20210311033600 +0000" stop="20210311051700 +0000" channel="5f1ac2591dd8880007bb7d6d">
+    <title lang="en">Dead Trigger</title>
+    <desc lang="en">En un mundo en el que un misterioso virus ha convertido a miles en zombies, el gobierno desarrolla un videojuego llamado Dead Trigger. Los jugadores que matan más zombies en el juego serán reclutados para combatir a los muertos vivientes en la vida real.(n)</desc>
+    <category lang="en">Documentaries</category>
+    <category lang="en">Spiritual Mysteries</category>
+    <icon src="https://images.pluto.tv/episodes/5f929ad0fe51e4001aac9d93/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311204000 +0000" stop="20210311221300 +0000" channel="5f1ac2591dd8880007bb7d6d">
-    <title lang="es">Tormenta de Lava</title>
-    <sub-title lang="es">Lava Storm ES</sub-title>
-    <desc lang="es">John, un científico que trabaja en el centro de evacuación de emergencia de un parque natural, recibe la llamada de una inspectora en riesgo geológico, Lori, en la que le comunica que está teniendo lugar un calentamiento inesperado.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
+  <programme start="20210311051700 +0000" stop="20210311070000 +0000" channel="5f1ac2591dd8880007bb7d6d">
+    <title lang="en">Doble identidad</title>
+    <desc lang="en">Un médico estadounidense es testigo de un asalto y ayuda a la joven víctima, una misteriosa mujer, a huir. Desde ese momento, su vida está en peligro y deberá ingeniárselas para sobrevivir en un país en el que no puede acudir a nadie en busca de ayuda.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Thrillers</category>
+    <icon src="https://images.pluto.tv/episodes/5f4e183cfa72a5001a5fa6dd/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210311221300 +0000" stop="20210311235700 +0000" channel="5f1ac2591dd8880007bb7d6d">
-    <title lang="es">Ataque Terrorista</title>
-    <desc lang="es">Un ex marine de los Estados Unidos es en un grupo musical de heavy metal invitado a dar un concierto benéfico en Moscú. La actuación se convierte en un baño de sangre cuando terroristas armados secuestran al presidente de Rusia y a su familia.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
+  <programme start="20210311070000 +0000" stop="20210311084600 +0000" channel="5f1ac2591dd8880007bb7d6d">
+    <title lang="en">The Contract</title>
+    <desc lang="en">Ray Keene, un entrenador de baloncesto en una escuela de secundaria, se dispone a pasar unos días de acampada en el desierto con su hijo y así recuperar el tiempo perdido con él.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Classics</category>
+    <icon src="https://images.pluto.tv/episodes/5f4f5cdefa72a5001a5fd8d3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210311235700 +0000" stop="20210312014700 +0000" channel="5f1ac2591dd8880007bb7d6d">
-    <title lang="es">The Assassin's Code</title>
-    <desc lang="es">Michael Conelly es un joven detective de Cleveland. Un robo de medicamentos valorados en más de un millón de dolares y la muerte del policía a cargo del caso, será la oportunidad que Michael espera para redimirse ante sus compañeros.(n)</desc>
-    <category lang="es">Thrillers</category>
-  </programme>
-  <programme start="20210310122600 +0000" stop="20210310141100 +0000" channel="5f1ac8099c49f600076579b2">
-    <title lang="es">Mi Amigo Raffi</title>
-    <desc lang="es">Sammy, de ocho años, tiene pequeño roedor que no es un hamster cualquiera: no sólo puede jugar al fútbol sino que también puede detectar materiales de contrabando. Un día Raffi desaparece pero nadie tiempo para ayudarle a buscarlo.(n)</desc>
-    <category lang="es">Children &amp; Family</category>
-  </programme>
-  <programme start="20210310141100 +0000" stop="20210310155900 +0000" channel="5f1ac8099c49f600076579b2">
-    <title lang="es">Wayne's World</title>
-    <desc lang="es">Wayne Garth hacen un programa de televisión desde el sótano de su casa con la ayuda de su amigo Garth. Un ejecutivo quiere lanzarlos a la fama.(n)</desc>
-    <category lang="es">Comedy</category>
-  </programme>
-  <programme start="20210310155900 +0000" stop="20210310174400 +0000" channel="5f1ac8099c49f600076579b2">
-    <title lang="es">Special Delivery</title>
-    <desc lang="es">Una mujer que se dedica a la mensajería especial recibe el más insólito encargo: deberá recoger a una adolescente rebelde en el domicilio paterno situado en China y entregarla a su madre en Occidente.(n)</desc>
-    <category lang="es">Thrillers</category>
+  <programme start="20210310120000 +0000" stop="20210310174400 +0000" channel="5f1ac8099c49f600076579b2">
+    <title lang="en">Pluto TV Cine Comedia</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
   </programme>
   <programme start="20210310174400 +0000" stop="20210310192800 +0000" channel="5f1ac8099c49f600076579b2">
-    <title lang="es">A Very Brady Sequel</title>
-    <desc lang="es">Mike y Carol están a punto de celebrar su aniversario de boda cuando reaparece el primer marido de ella. No contento con irrumpir en su vida se lleva a Carol a Hawái, a donde su familia les seguirá.(n)</desc>
-    <category lang="es">Comedy</category>
+    <title lang="en">A Very Brady Sequel</title>
+    <desc lang="en">Mike y Carol están a punto de celebrar su aniversario de boda cuando reaparece el primer marido de ella. No contento con irrumpir en su vida se lleva a Carol a Hawái, a donde su familia les seguirá.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f6af5636a58060013781530/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210310192800 +0000" stop="20210310213600 +0000" channel="5f1ac8099c49f600076579b2">
+    <title lang="en">School Rock Band</title>
+    <desc lang="en">Tres estudiantes de música entablan una insólita amistad después de formar un grupo de música juntos para competir en un concurso de su instituto.(n)</desc>
+    <category lang="en">Children &amp; Family</category>
+    <category lang="en">Family Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5ffd58ad2816a5001aa00c88/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210310213600 +0000" stop="20210310231900 +0000" channel="5f1ac8099c49f600076579b2">
+    <title lang="en">Cambio De Papeles</title>
+    <desc lang="en">Ariane y Hugo deciden intercambiar sus roles para escapar de la inevitable rutina, esa rutina que tras 10 años de matrimonio les hace sentir como hamsters enjaulados. Y es que la vida parece tan bonita cuando se contempla desde el otro lado...(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Showbiz Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f4e1822fa72a5001a5fa4f0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210310231900 +0000" stop="20210311013000 +0000" channel="5f1ac8099c49f600076579b2">
-    <title lang="es">El último voto</title>
-    <desc lang="es">Bud Johnson es un padre de familia perdedor y soltero, que se convierte en el centro de atención mediática del país cuando unas extrañas circunstancias determinan que su voto será decisivo para la elección del próximo presidente de los Estados Unidos.(n)</desc>
-    <category lang="es">Comedy</category>
+    <title lang="en">El último voto</title>
+    <desc lang="en">Bud Johnson es un padre de familia perdedor y soltero, que se convierte en el centro de atención mediática del país cuando unas extrañas circunstancias determinan que su voto será decisivo para la elección del próximo presidente de los Estados Unidos.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Showbiz Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f6207f4fb35bf001af7be7f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210311174400 +0000" stop="20210311192800 +0000" channel="5f1ac8099c49f600076579b2">
-    <title lang="es">A Very Brady Sequel</title>
-    <desc lang="es">Mike y Carol están a punto de celebrar su aniversario de boda cuando reaparece el primer marido de ella. No contento con irrumpir en su vida se lleva a Carol a Hawái, a donde su familia les seguirá.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210311013000 +0000" stop="20210311032300 +0000" channel="5f1ac8099c49f600076579b2">
+    <title lang="en">New York, I Love You</title>
+    <desc lang="en">Siguiendo los pasos del éxito de "Paris, je t'aime" doce directores y varios actores de primera línea toman la ciudad de Nueva York como set y narran diferentes historias de amor.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f4ead37db45a1001a795479/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
   </programme>
-  <programme start="20210311192800 +0000" stop="20210311213600 +0000" channel="5f1ac8099c49f600076579b2">
-    <title lang="es">School Rock Band</title>
-    <sub-title lang="es">Bandslam ES</sub-title>
-    <desc lang="es">Tres estudiantes de música entablan una insólita amistad después de formar un grupo de música juntos para competir en un concurso de su instituto.(n)</desc>
-    <category lang="es">Children &amp; Family</category>
+  <programme start="20210311032300 +0000" stop="20210311051600 +0000" channel="5f1ac8099c49f600076579b2">
+    <title lang="en">The Chaperone</title>
+    <desc lang="en">Exprisidario Ray Bradstone está tratando de encontrar un trabajo honrado. El jefe de una banda de ladrones de bancos le propone un último trabajo. Al principio acepta, pero cambia de opinión y decide acompañar a su hija a una excursión de la escuela.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f4f5cddfa72a5001a5fd8b6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210311213600 +0000" stop="20210311231900 +0000" channel="5f1ac8099c49f600076579b2">
-    <title lang="es">Cambio De Papeles</title>
-    <desc lang="es">Ariane y Hugo deciden intercambiar sus roles para escapar de la inevitable rutina, esa rutina que tras 10 años de matrimonio les hace sentir como hamsters enjaulados. Y es que la vida parece tan bonita cuando se contempla desde el otro lado..(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210311051600 +0000" stop="20210311065600 +0000" channel="5f1ac8099c49f600076579b2">
+    <title lang="en">Mark And Russell's Wild Ride</title>
+    <desc lang="en">Mark está muy emocionado con la idea de llevar al baile del instituto a la chica que le gusta pero tiene un pequeño problema: no sabe conducir.(n)</desc>
+    <category lang="en">Children &amp; Family</category>
+    <category lang="en">Family Classics</category>
+    <icon src="https://images.pluto.tv/episodes/5f4b5f1361f1b1001afedc21/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210311231900 +0000" stop="20210312013000 +0000" channel="5f1ac8099c49f600076579b2">
-    <title lang="es">El último voto</title>
-    <desc lang="es">Bud Johnson es un padre de familia perdedor y soltero, que se convierte en el centro de atención mediática del país cuando unas extrañas circunstancias determinan que su voto será decisivo para la elección del próximo presidente de los Estados Unidos.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210311065600 +0000" stop="20210311085300 +0000" channel="5f1ac8099c49f600076579b2">
+    <title lang="en">All's Faire in Love</title>
+    <desc lang="en">Dos rivales en los shows medievales compiten por la supremacía en el mundo de las ferias renacentistas.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f4e17f5fa72a5001a5fa1d3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210310113600 +0000" stop="20210310131000 +0000" channel="5f1ac8a87cd38d000745d7cf">
-    <title lang="es">Dangerous Company</title>
-    <desc lang="es">Pauline es una exitosa mujer de negocios felizmente casada. Su paz interior se trunca cuando descubre que le falla la memoria. Sus lapsus son cada vez más frecuentes y piensa que tiene alzhéimer.(n)</desc>
-    <category lang="es">Thrillers</category>
-  </programme>
-  <programme start="20210310131000 +0000" stop="20210310151200 +0000" channel="5f1ac8a87cd38d000745d7cf">
-    <title lang="es">Poseído</title>
-    <sub-title lang="es">Poseido ES</sub-title>
-    <desc lang="es">El joven Robbie está poseído por un violento espíritu demoníaco. Tras examinar los terribles poderes sobrenaturales de Robbie, Father William Bowdern tendrá que superar enormes dificultades para que la Iglesia le permita realizar un exorcismo.(n)</desc>
-    <category lang="es">Horror</category>
-  </programme>
-  <programme start="20210310151200 +0000" stop="20210310160100 +0000" channel="5f1ac8a87cd38d000745d7cf">
-    <title lang="es">Arcángel</title>
-    <sub-title lang="es">Parte Uno</sub-title>
-    <desc lang="es">La historia transcurre durante cuatro días en la vida del académico Fluke Kelso (Daniel Craig). Fluke es un historiador inglés que está investigando en Moscú los archivos soviéticos.(n)</desc>
-    <category lang="es">Thrillers</category>
-  </programme>
-  <programme start="20210310160100 +0000" stop="20210310165000 +0000" channel="5f1ac8a87cd38d000745d7cf">
-    <title lang="es">Arcángel</title>
-    <sub-title lang="es">Parte Dos</sub-title>
-    <desc lang="es">Fluke recibe la visita de un antiguo miembro de la guardia personal de Stalin durante los últimos días del dictador. Éste le habla de unos documentos cuyo contenido podría cambiar radicalmente el futuro político de Rusia y posiblemente del mundo.(n)</desc>
-    <category lang="es">Thrillers</category>
-  </programme>
-  <programme start="20210310165000 +0000" stop="20210310173900 +0000" channel="5f1ac8a87cd38d000745d7cf">
-    <title lang="es">Arcángel</title>
-    <sub-title lang="es">Parte Tres</sub-title>
-    <desc lang="es">Inmerso en un mundo de violencia y de intriga política, Fluke empieza a desenterrar la verdad espantosa sobre Stalin (amantes secretas e hijos olvidado).(n)</desc>
-    <category lang="es">Thrillers</category>
+  <programme start="20210310120000 +0000" stop="20210310173900 +0000" channel="5f1ac8a87cd38d000745d7cf">
+    <title lang="en">Pluto TV Thrillers</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
   </programme>
   <programme start="20210310173900 +0000" stop="20210310192100 +0000" channel="5f1ac8a87cd38d000745d7cf">
-    <title lang="es">Enemy Within</title>
-    <desc lang="es">Una chica joven, que acaba de perder la vista por causa de una enfermedad degenerativa, lucha para expulsar de su casa a un convicto que se ha refugiado en la cabaña de su madre.(n)</desc>
-    <category lang="es">Thrillers</category>
+    <title lang="en">Enemy Within</title>
+    <desc lang="en">Una chica joven, que acaba de perder la vista por causa de una enfermedad degenerativa, lucha para expulsar de su casa a un convicto que se ha refugiado en la cabaña de su madre.(n)</desc>
+    <category lang="en">Thrillers</category>
+    <category lang="en">Classic Thrillers</category>
+    <icon src="https://images.pluto.tv/episodes/5f6316beddf1b7001a80d239/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310192100 +0000" stop="20210310212300 +0000" channel="5f1ac8a87cd38d000745d7cf">
+    <title lang="en">Poseído</title>
+    <desc lang="en">El joven Robbie está poseído por un violento espíritu demoníaco. Tras examinar los terribles poderes sobrenaturales de Robbie, Father William Bowdern tendrá que superar enormes dificultades para que la Iglesia le permita realizar un exorcismo.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Horror Classics</category>
+    <icon src="https://images.pluto.tv/episodes/5f929aaefe51e4001aac9c66/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310212300 +0000" stop="20210310230500 +0000" channel="5f1ac8a87cd38d000745d7cf">
+    <title lang="en">7 Below</title>
+    <desc lang="en">Gira en torno a un grupo de extraños atrapados en circunstancias poco habituales en una casa donde, tiempo atrás, sucedieron cosas extrañas.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Horror Classics</category>
+    <icon src="https://images.pluto.tv/episodes/5f562ddff7db51001a3c5e5b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210310230500 +0000" stop="20210311004600 +0000" channel="5f1ac8a87cd38d000745d7cf">
+    <title lang="en">Exit Speed</title>
+    <desc lang="en">En Nochebuena, diez desconocidos suben a un autobús que atraviesa Texas pero chocan con un motociclista. Los pasajeros se refugian en un depósito de chatarra abandonado. Usan armas improvisadas contra los motociclistas asesinos.(n)</desc>
+    <category lang="en">Thrillers</category>
+    <category lang="en">Classic Thrillers</category>
+    <icon src="https://images.pluto.tv/episodes/5f6207f3fb35bf001af7be62/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
   <programme start="20210311004600 +0000" stop="20210311022700 +0000" channel="5f1ac8a87cd38d000745d7cf">
-    <title lang="es">Vampariah</title>
-    <desc lang="es">Mahal forma parte de un escuadrón de élite de hábiles cazadores, responsables de mantener el mundo a salvo de los vampiros y otras criaturas de la noche. Su misión se ve comprometida cuando su destino se entrelaza con un vampiro.(n)</desc>
-    <category lang="es">Horror</category>
+    <title lang="en">Vampariah</title>
+    <desc lang="en">Mahal forma parte de un escuadrón de élite de hábiles cazadores, responsables de mantener el mundo a salvo de los vampiros y otras criaturas de la noche. Su misión se ve comprometida cuando su destino se entrelaza con un vampiro.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Horror Classics</category>
+    <icon src="https://images.pluto.tv/episodes/5f7192766c03610013ac012b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+18</value>
+    </rating>
   </programme>
-  <programme start="20210311173900 +0000" stop="20210311192100 +0000" channel="5f1ac8a87cd38d000745d7cf">
-    <title lang="es">Enemy Within</title>
-    <desc lang="es">Una chica joven, que acaba de perder la vista por causa de una enfermedad degenerativa, lucha para expulsar de su casa a un convicto que se ha refugiado en la cabaña de su madre.(n)</desc>
-    <category lang="es">Thrillers</category>
+  <programme start="20210311022700 +0000" stop="20210311040300 +0000" channel="5f1ac8a87cd38d000745d7cf">
+    <title lang="en">Deadly Honeymoon</title>
+    <desc lang="en">Una pareja de recién casados viaja en un crucero. Tras una noche de fiesta y drogas junto a unos pasajeros extranjeros con los que tienen una discusión, el chico desaparece del barco.(n)</desc>
+    <category lang="en">Thrillers</category>
+    <category lang="en">Classic Thrillers</category>
+    <icon src="https://images.pluto.tv/episodes/5f4ab3d4fa72a5001a5f79ea/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311192100 +0000" stop="20210311212300 +0000" channel="5f1ac8a87cd38d000745d7cf">
-    <title lang="es">Poseído</title>
-    <sub-title lang="es">Poseido ES</sub-title>
-    <desc lang="es">El joven Robbie está poseído por un violento espíritu demoníaco. Tras examinar los terribles poderes sobrenaturales de Robbie, Father William Bowdern tendrá que superar enormes dificultades para que la Iglesia le permita realizar un exorcismo.(n)</desc>
-    <category lang="es">Horror</category>
+  <programme start="20210311040300 +0000" stop="20210311052900 +0000" channel="5f1ac8a87cd38d000745d7cf">
+    <title lang="en">23-F: El Día Más Difícil del Rey</title>
+    <desc lang="en">El 23 de febrero de 1981, un grupo de mandos militares perpetraron un intento de golpe de Estado durante la votación del candidato a la presidencia del Gobierno, Leopoldo Calvo Sotelo. Estos mandos militares se proponen modificar la situación a su manera.(n)</desc>
+    <category lang="en">Documentaries</category>
+    <category lang="en">Historical Documentaries</category>
+    <icon src="https://images.pluto.tv/episodes/5f4e1867fa72a5001a5fa9eb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210311212300 +0000" stop="20210311230500 +0000" channel="5f1ac8a87cd38d000745d7cf">
-    <title lang="es">7 Below</title>
-    <desc lang="es">Gira en torno a un grupo de extraños atrapados en circunstancias poco habituales en una casa donde, tiempo atrás, sucedieron cosas extrañas.(n)</desc>
-    <category lang="es">Horror</category>
+  <programme start="20210311052900 +0000" stop="20210311065700 +0000" channel="5f1ac8a87cd38d000745d7cf">
+    <title lang="en">23-F: El Día Más Difícil del Rey</title>
+    <desc lang="en">El 23 de febrero de 1981, un grupo de mandos militares encabezados por Antonio Tejero perpetraron un intento de golpe de Estado durante la votación del candidato a la presidencia del Gobierno, Leopoldo Calvo Sotelo, en el Congreso.(n)</desc>
+    <category lang="en">Documentaries</category>
+    <category lang="en">Historical Documentaries</category>
+    <icon src="https://images.pluto.tv/episodes/5f4e1866fa72a5001a5fa9e1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210311230500 +0000" stop="20210312004600 +0000" channel="5f1ac8a87cd38d000745d7cf">
-    <title lang="es">Exit Speed</title>
-    <desc lang="es">En Nochebuena, diez desconocidos suben a un autobús que atraviesa Texas pero chocan con un motociclista. Los pasajeros se refugian en un depósito de chatarra abandonado. Usan armas improvisadas contra los motociclistas asesinos.(n)</desc>
-    <category lang="es">Thrillers</category>
+  <programme start="20210311065700 +0000" stop="20210311082500 +0000" channel="5f1ac8a87cd38d000745d7cf">
+    <title lang="en">Voces en la noche</title>
+    <desc lang="en">Un popular escritor y comentarista radiofónico nocturno, Gabriel, desarrolla una intensa relación telefónica con un joven oyente, Pete, y su madre adoptiva, justo en el momento en el que la vida privada de Gabriel está sufriendo drásticos cambios.(n)</desc>
+    <category lang="en">Thrillers</category>
+    <category lang="en">Crime Thrillers</category>
+    <icon src="https://images.pluto.tv/episodes/5f4f5cf2fa72a5001a5fda3b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210310124800 +0000" stop="20210310144000 +0000" channel="5f1ac947dcd00d0007937c08">
-    <title lang="es">Prim: El Asesinato de la Calle del Turco</title>
-    <desc lang="es">Biopic histórica sobre el complot para asesinar al General Prim. La acción tiene lugar después del final de la revolución Gloriosa en 1868 y termina con la proclamación del rey Amadeo I de Saboya.(n)</desc>
-    <category lang="es">Classics</category>
-  </programme>
-  <programme start="20210310144000 +0000" stop="20210310164600 +0000" channel="5f1ac947dcd00d0007937c08">
-    <title lang="es">El ayuda de cámara</title>
-    <desc lang="es">In this wickedly funny and moving story, Sir reflects on his accomplishments and seeks to reconcile his turbulent friendships with those in his employ before the final curtain.(n)</desc>
-    <category lang="es">Classics</category>
+  <programme start="20210310120000 +0000" stop="20210310164600 +0000" channel="5f1ac947dcd00d0007937c08">
+    <title lang="en">Pluto TV Cine Drama</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
   </programme>
   <programme start="20210310164600 +0000" stop="20210310183700 +0000" channel="5f1ac947dcd00d0007937c08">
-    <title lang="es">Mi vida ahora</title>
-    <desc lang="es">Daisy es una adolescente que viaja de USA a Inglaterra para pasar el verano con su tía y sus primos. Allí encontrará su primer amor, pero con el inicio de la 3ra Guerra Mundial la joven deberá esconderse en un bosque para sobrevivir.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
+    <title lang="en">Mi vida ahora</title>
+    <desc lang="en">Daisy es una adolescente que viaja de USA a Inglaterra para pasar el verano con su tía y sus primos. Allí encontrará su primer amor, pero con el inicio de la 3ra Guerra Mundial la joven deberá esconderse en un bosque para sobrevivir.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Classics</category>
+    <icon src="https://images.pluto.tv/episodes/5f4eaceddb45a1001a7952bb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
   <programme start="20210310183700 +0000" stop="20210310200400 +0000" channel="5f1ac947dcd00d0007937c08">
-    <title lang="es">Fago</title>
-    <sub-title lang="es">La emboscada</sub-title>
-    <desc lang="es">Tras una reunion politica, Mateo Ibarra, alcalde de Fago, un pequeño pueblo del Pirineo aragones, regresa en su coche por una carretera angosta y nevada. A mitad del camino, unas piedras colocadas en la calzada le obligan a detener su vehiculo.(n)</desc>
-    <category lang="es">Classics</category>
+    <title lang="en">Fago</title>
+    <desc lang="en">Tras una reunion politica, Mateo Ibarra, alcalde de Fago, un pequeño pueblo del Pirineo aragones, regresa en su coche por una carretera angosta y nevada. A mitad del camino, unas piedras colocadas en la calzada le obligan a detener su vehiculo.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Dramas</category>
+    <icon src="https://images.pluto.tv/episodes/5f4f5cf9fa72a5001a5fdaeb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310200400 +0000" stop="20210310213500 +0000" channel="5f1ac947dcd00d0007937c08">
+    <title lang="en">Fago</title>
+    <desc lang="en">El hallazgo del coche del alcalde, abandonado lejos del pueblo, permite a los investigadores iniciar el análisis de restos genéticos, mientras el teniente Vidal y el sargento Pacheco interrogan a todo el pueblo y requisan las armas de caza.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Dramas</category>
+    <icon src="https://images.pluto.tv/episodes/5f4f5cf9fa72a5001a5fdaf5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310213500 +0000" stop="20210310230400 +0000" channel="5f1ac947dcd00d0007937c08">
+    <title lang="en">Fago</title>
+    <desc lang="en">Los altos mandos ya conocen la noticia: las muestras analizadas señalan a Eugenio Riaza como artífice del asesinato de Mateo Ibarra.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Dramas</category>
+    <icon src="https://images.pluto.tv/episodes/5f4f5cf9fa72a5001a5fdafa/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310230400 +0000" stop="20210311004400 +0000" channel="5f1ac947dcd00d0007937c08">
+    <title lang="en">Vencer o morir</title>
+    <desc lang="en">Es 1995. Samantha y Claire son mochileros ingleses en Australia. Samantha se enamora de Michael. Las circunstancias ponen a Samantha y Michael en el camino de un detective obsesivo, Quint.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Dramas</category>
+    <icon src="https://images.pluto.tv/episodes/5f89ffa2f75820001aa7bcba/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
   <programme start="20210311004400 +0000" stop="20210311022700 +0000" channel="5f1ac947dcd00d0007937c08">
-    <title lang="es">Vencer o morir</title>
-    <sub-title lang="es">Parte dos</sub-title>
-    <desc lang="es">Samantha y Michael huyen del obsesivo detective Quint. El tiempo se acaba para todos, el hijo de Samantha está enfermo y cada segundo cuenta.(n)</desc>
-    <category lang="es">Classics</category>
+    <title lang="en">Vencer o morir</title>
+    <desc lang="en">Samantha y Michael huyen del obsesivo detective Quint. El tiempo se acaba para todos, el hijo de Samantha está enfermo y cada segundo cuenta.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Dramas</category>
+    <icon src="https://images.pluto.tv/episodes/5f89ffa4f75820001aa7bccf/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311183700 +0000" stop="20210311200400 +0000" channel="5f1ac947dcd00d0007937c08">
-    <title lang="es">Fago</title>
-    <sub-title lang="es">La emboscada</sub-title>
-    <desc lang="es">Tras una reunion politica, Mateo Ibarra, alcalde de Fago, un pequeño pueblo del Pirineo aragones, regresa en su coche por una carretera angosta y nevada. A mitad del camino, unas piedras colocadas en la calzada le obligan a detener su vehiculo.(n)</desc>
-    <category lang="es">Classics</category>
+  <programme start="20210311022700 +0000" stop="20210311042100 +0000" channel="5f1ac947dcd00d0007937c08">
+    <title lang="en">Hermanos</title>
+    <desc lang="en">Un joven consuela a la esposa y a los hijos de su hermano mayor tras su desaparición en Afganistán.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Classics</category>
+    <icon src="https://images.pluto.tv/episodes/5f6207ecfb35bf001af7bdf2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311200400 +0000" stop="20210311213500 +0000" channel="5f1ac947dcd00d0007937c08">
-    <title lang="es">Fago</title>
-    <sub-title lang="es">Sin pistas</sub-title>
-    <desc lang="es">El hallazgo del coche del alcalde, abandonado lejos del pueblo, permite a los investigadores iniciar el análisis de restos genéticos, mientras el teniente Vidal y el sargento Pacheco interrogan a todo el pueblo y requisan las armas de caza.(n)</desc>
-    <category lang="es">Classics</category>
+  <programme start="20210311042100 +0000" stop="20210311060400 +0000" channel="5f1ac947dcd00d0007937c08">
+    <title lang="en">Viaje a los Confines de la Tierra</title>
+    <desc lang="en">1800. El joven Edmund Talbot se embarca rumbo a Australia para ocupar un puesto en el gobierno.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Dramas</category>
+    <icon src="https://images.pluto.tv/episodes/5f4f5d14fa72a5001a5fde19/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210311213500 +0000" stop="20210311230400 +0000" channel="5f1ac947dcd00d0007937c08">
-    <title lang="es">Fago</title>
-    <sub-title lang="es">Culpable o inocente</sub-title>
-    <desc lang="es">Los altos mandos ya conocen la noticia: las muestras analizadas señalan a Eugenio Riaza como artífice del asesinato de Mateo Ibarra.(n)</desc>
-    <category lang="es">Classics</category>
+  <programme start="20210311060400 +0000" stop="20210311074500 +0000" channel="5f1ac947dcd00d0007937c08">
+    <title lang="en">Viaje a los Confines de la Tierra</title>
+    <desc lang="en">El barco se detiene mientras se avista otra embarcación que resulta ser británica, el Alcyone, cuyo comandante anuncia que la guerra con Francia ha terminado.  Edmund conoce a la dulce Marion Chumley, aunque encontrará en Deverel a un rival.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Dramas</category>
+    <icon src="https://images.pluto.tv/episodes/5f4f5d14fa72a5001a5fde1e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210311230400 +0000" stop="20210312004400 +0000" channel="5f1ac947dcd00d0007937c08">
-    <title lang="es">Vencer o morir</title>
-    <sub-title lang="es">Parte uno</sub-title>
-    <desc lang="es">Es 1995. Samantha y Claire son mochileros ingleses en Australia. Samantha se enamora de Michael. Las circunstancias ponen a Samantha y Michael en el camino de un detective obsesivo, Quint.(n)</desc>
-    <category lang="es">Classics</category>
-  </programme>
-  <programme start="20210310115300 +0000" stop="20210310134600 +0000" channel="5f1ac9a2d3611d0007a844bb">
-    <title lang="es">New York, I Love You</title>
-    <desc lang="es">Siguiendo los pasos del éxito de "Paris, je t'aime" doce directores y varios actores de primera línea toman la ciudad de Nueva York como set y narran diferentes historias de amor.(n)</desc>
-    <category lang="es">Classics</category>
-  </programme>
-  <programme start="20210310134600 +0000" stop="20210310152600 +0000" channel="5f1ac9a2d3611d0007a844bb">
-    <title lang="es">El amor y otros desastres</title>
-    <desc lang="es">Emily Jackson "Jacks" es la celestina ideal para sus amigos del alma: Peter, un gay que comparte piso con ella, y Tallulah, una neurótica hambrienta de hombres. ¿Pero sabrá Jacks reconocer a su gran amor cuando éste llame a su puerta.(n)</desc>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20210310152600 +0000" stop="20210310170900 +0000" channel="5f1ac9a2d3611d0007a844bb">
-    <title lang="es">Like Crazy</title>
-    <desc lang="es">Anna, una joven británica que estudia en Los Ángeles, se enamora de Jacob. Ambos se ven obligados a separarse cuando a ella no le renuevan el visado, así que inician una relación a distancia.(n)</desc>
-    <category lang="es">Romance</category>
+  <programme start="20210310120000 +0000" stop="20210310170900 +0000" channel="5f1ac9a2d3611d0007a844bb">
+    <title lang="en">Pluto TV Cine Romántico</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
   </programme>
   <programme start="20210310170900 +0000" stop="20210310184900 +0000" channel="5f1ac9a2d3611d0007a844bb">
-    <title lang="es">El amor y otros desastres</title>
-    <desc lang="es">Emily Jackson "Jacks" es la celestina ideal para sus amigos del alma: Peter, un gay que comparte piso con ella, y Tallulah, una neurótica hambrienta de hombres. ¿Pero sabrá Jacks reconocer a su gran amor cuando éste llame a su puerta.(n)</desc>
-    <category lang="es">Romance</category>
+    <title lang="en">El amor y otros desastres</title>
+    <desc lang="en">Emily Jackson "Jacks" es la celestina ideal para sus amigos del alma: Peter, un gay que comparte piso con ella, y Tallulah, una neurótica hambrienta de hombres. ¿Pero sabrá Jacks reconocer a su gran amor cuando éste llame a su puerta?(n)</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Romantic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f929ac7fe51e4001aac9d42/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210310184900 +0000" stop="20210310210300 +0000" channel="5f1ac9a2d3611d0007a844bb">
-    <title lang="es">Luna oculta</title>
-    <desc lang="es">Miranda apareciera durante el funeral de un hombre, y la familia se ve sorprendida. El hijo de ese hombre se traslada a México para tratar de descubrir la relación de esa mujer con su padre, provocando con ello que Miranda viva una confusa situación.(n)</desc>
-    <category lang="es">Classics</category>
+    <title lang="en">Luna oculta</title>
+    <desc lang="en">Miranda apareciera durante el funeral de un hombre, y la familia se ve sorprendida. El hijo de ese hombre se traslada a México para tratar de descubrir la relación de esa mujer con su padre, provocando con ello que Miranda viva una confusa situación.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Dramas</category>
+    <icon src="https://images.pluto.tv/episodes/5f71928e6c03610013ac02ca/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210310210300 +0000" stop="20210310230400 +0000" channel="5f1ac9a2d3611d0007a844bb">
+    <title lang="en">El rompecorazones</title>
+    <desc lang="en">Paul’s womanizing fun is replaced with a series of comedic exploits when he must spend a weekend with his parents, his ex-wife, and their children.(n)</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Romantic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5ff4315e28abd1001a640666/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
   <programme start="20210310230400 +0000" stop="20210311010100 +0000" channel="5f1ac9a2d3611d0007a844bb">
-    <title lang="es">All's Faire in Love</title>
-    <desc lang="es">Dos rivales en los shows medievales compiten por la supremacía en el mundo de las ferias renacentistas.(n)</desc>
-    <category lang="es">Classics</category>
+    <title lang="en">All's Faire in Love</title>
+    <desc lang="en">Dos rivales en los shows medievales compiten por la supremacía en el mundo de las ferias renacentistas.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f4e17f5fa72a5001a5fa1d3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210311184900 +0000" stop="20210311210300 +0000" channel="5f1ac9a2d3611d0007a844bb">
-    <title lang="es">Luna oculta</title>
-    <desc lang="es">Miranda apareciera durante el funeral de un hombre, y la familia se ve sorprendida. El hijo de ese hombre se traslada a México para tratar de descubrir la relación de esa mujer con su padre, provocando con ello que Miranda viva una confusa situación.(n)</desc>
-    <category lang="es">Classics</category>
+  <programme start="20210311010100 +0000" stop="20210311030200 +0000" channel="5f1ac9a2d3611d0007a844bb">
+    <title lang="en">El rompecorazones</title>
+    <desc lang="en">Paul’s womanizing fun is replaced with a series of comedic exploits when he must spend a weekend with his parents, his ex-wife, and their children.(n)</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Romantic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5ff4315e28abd1001a640666/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311210300 +0000" stop="20210311230400 +0000" channel="5f1ac9a2d3611d0007a844bb">
-    <title lang="es">El rompecorazones</title>
-    <desc lang="es">Paul’s womanizing fun is replaced with a series of comedic exploits when he must spend a weekend with his parents, his ex-wife, and their children.(n)</desc>
-    <category lang="es">Romance</category>
+  <programme start="20210311030200 +0000" stop="20210311045800 +0000" channel="5f1ac9a2d3611d0007a844bb">
+    <title lang="en">Standing Ovation</title>
+    <desc lang="en">Un grupo de amigos compiten en un torneo de vídeos musicales. Entra en un mundo de desternillantes aventuras, canciones originales y rutinas de baile nunca vistas hasta ahora. Te quedarás creyendo en el poder de los sueños de la infancia.(n)</desc>
+    <category lang="en">Musicals</category>
+    <category lang="en">Must-See Musicals</category>
+    <icon src="https://images.pluto.tv/episodes/5f4f5cd1fa72a5001a5fd7ed/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
   </programme>
-  <programme start="20210311230400 +0000" stop="20210312010100 +0000" channel="5f1ac9a2d3611d0007a844bb">
-    <title lang="es">All's Faire in Love</title>
-    <desc lang="es">Dos rivales en los shows medievales compiten por la supremacía en el mundo de las ferias renacentistas.(n)</desc>
-    <category lang="es">Classics</category>
+  <programme start="20210311045800 +0000" stop="20210311064700 +0000" channel="5f1ac9a2d3611d0007a844bb">
+    <title lang="en">Today's Special</title>
+    <desc lang="en">El joven chef Samir redescubre su herencia y su pasión por la vida mediante el arte de la cocina hindú.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f4b5f1161f1b1001afedc06/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
   </programme>
-  <programme start="20210310120500 +0000" stop="20210310134800 +0000" channel="5f6a38eaa5b68b0007a00e7a">
-    <title lang="es">El día de los trífidos</title>
-    <sub-title lang="es">Parte 2</sub-title>
-    <desc lang="es">Bill y Coker se refugian en una abadía, cuya abadesa quiere destinarla a refugiados ciegos y videntes. Sin embargo, Bill descubre su secreto: el sacrificio de gente anciana y débil para mantener a los trífidos a raya.(n)</desc>
-    <category lang="es">Sci-Fi &amp; Fantasy</category>
+  <programme start="20210311064700 +0000" stop="20210311084000 +0000" channel="5f1ac9a2d3611d0007a844bb">
+    <title lang="en">New York, I Love You</title>
+    <desc lang="en">Siguiendo los pasos del éxito de "Paris, je t'aime" doce directores y varios actores de primera línea toman la ciudad de Nueva York como set y narran diferentes historias de amor.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f4ead37db45a1001a795479/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
   </programme>
-  <programme start="20210310134800 +0000" stop="20210310155400 +0000" channel="5f6a38eaa5b68b0007a00e7a">
-    <title lang="es">Comunión</title>
-    <desc lang="es">Whitley Strieber escribió el guion de esta cautivadora película de ciencia ficción basada en su propio best seller acerca de un autor que cree que ha sido contactado por extraterrestres.(n)</desc>
-    <category lang="es">Thrillers</category>
-  </programme>
-  <programme start="20210310155400 +0000" stop="20210310174200 +0000" channel="5f6a38eaa5b68b0007a00e7a">
-    <title lang="es">Abulele</title>
-    <desc lang="es">El hermano mayor de Adam murió en un accidente, afectando la estabilidad de su familia. Mientras sus padres luchan por seguir adelante, Adam se siente culpable y solitario. Sin embargo, su vida dará un giro al conocer a Abulele, un peculiar monstruo.(n)</desc>
-    <category lang="es">Children &amp; Family</category>
+  <programme start="20210310120000 +0000" stop="20210310174200 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+    <title lang="en">Pluto TV Sci-Fi</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
   </programme>
   <programme start="20210310174200 +0000" stop="20210310192500 +0000" channel="5f6a38eaa5b68b0007a00e7a">
-    <title lang="es">Código 46</title>
-    <desc lang="es">Una visión futurista de Shangai que los recuerdos pueden ser borrados y los peligros pueden predecirse. William, enviado a Shangai para investigar un fraude en la compañía de seguros Sphinx, tiene un virus que le permite leer la mente de los demás.(n)</desc>
-    <category lang="es">Romance</category>
+    <title lang="en">Código 46</title>
+    <desc lang="en">Una visión futurista de Shangai que los recuerdos pueden ser borrados y los peligros pueden predecirse. William, enviado a Shangai para investigar un fraude en la compañía de seguros Sphinx, tiene un virus que le permite leer la mente de los demás.(n)</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Romantic Dramas</category>
+    <icon src="https://images.pluto.tv/episodes/5f620804fb35bf001af7bf86/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310192500 +0000" stop="20210310210700 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+    <title lang="en">Maximum Ride</title>
+    <desc lang="en">Seis huérfanos genéticamente modificados con el don de volar, conocidos como La Bandada, escapan del laboratorio en el que han estado encerrados para salvar a uno de los suyos.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Classics</category>
+    <icon src="https://images.pluto.tv/episodes/5f6af55e6a580600137814d9/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210310210700 +0000" stop="20210310224800 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+    <title lang="en">El imperio de los tiburones</title>
+    <desc lang="en">En un futuro lejano donde el 98% de la superficie de la Tierra está bajo el agua, un señor de la guerra gobierna con un ejército de tiburones.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/episodes/603cf1354d8d87001aaa9234/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210310224800 +0000" stop="20210311003500 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+    <title lang="en">eXistenZ</title>
+    <desc lang="en">Un diseñador de juegos huyendo de los asesinos debe jugar su Última creación de realidad virtual con un aprendiz de marketing para determinar si el juego ha sido dañado.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Sci-Fi Horror</category>
+    <icon src="https://images.pluto.tv/episodes/5f562e08f7db51001a3c6106/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+18</value>
+    </rating>
   </programme>
   <programme start="20210311003500 +0000" stop="20210311021600 +0000" channel="5f6a38eaa5b68b0007a00e7a">
-    <title lang="es">El imperio de los tiburones</title>
-    <desc lang="es">En un futuro lejano donde el 98% de la superficie de la Tierra está bajo el agua, un señor de la guerra gobierna con un ejército de tiburones.(n)</desc>
-    <category lang="es">Sci-Fi &amp; Fantasy</category>
+    <title lang="en">El imperio de los tiburones</title>
+    <desc lang="en">En un futuro lejano donde el 98% de la superficie de la Tierra está bajo el agua, un señor de la guerra gobierna con un ejército de tiburones.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/episodes/603cf1354d8d87001aaa9234/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311174200 +0000" stop="20210311192500 +0000" channel="5f6a38eaa5b68b0007a00e7a">
-    <title lang="es">Código 46</title>
-    <desc lang="es">Una visión futurista de Shangai que los recuerdos pueden ser borrados y los peligros pueden predecirse. William, enviado a Shangai para investigar un fraude en la compañía de seguros Sphinx, tiene un virus que le permite leer la mente de los demás.(n)</desc>
-    <category lang="es">Romance</category>
+  <programme start="20210311021600 +0000" stop="20210311041000 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+    <title lang="en">El Último Guerrero</title>
+    <desc lang="en">Los escitas, los orgullosos guerreros, se han ido de Eurasia. Sus descendientes se han convertido en despiadados asesinos denominados las "olas de Ares". Es este desolador contexto se levanta Lutobor, un extraordinario soldado con ideas claras.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Sci-Fi Adventure</category>
+    <icon src="https://images.pluto.tv/episodes/5fe9b7784aa70a001a4fd472/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311192500 +0000" stop="20210311210700 +0000" channel="5f6a38eaa5b68b0007a00e7a">
-    <title lang="es">Maximum Ride</title>
-    <desc lang="es">Seis huérfanos genéticamente modificados con el don de volar, conocidos como La Bandada, escapan del laboratorio en el que han estado encerrados para salvar a uno de los suyos.(n)</desc>
-    <category lang="es">Action &amp; Adventure</category>
+  <programme start="20210311041000 +0000" stop="20210311054500 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+    <title lang="en">Nuclear Hurricane</title>
+    <desc lang="en">Las alarmas se disparan en una central nuclear, que para colmo, se ve afectada por una tormenta de gran intensidad. Los encargados deberán hacer frente a esta situación para evitar una catástrofe.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Thrillers</category>
+    <icon src="https://images.pluto.tv/episodes/5f929ab2fe51e4001aac9ca0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210311210700 +0000" stop="20210311224800 +0000" channel="5f6a38eaa5b68b0007a00e7a">
-    <title lang="es">El imperio de los tiburones</title>
-    <desc lang="es">En un futuro lejano donde el 98% de la superficie de la Tierra está bajo el agua, un señor de la guerra gobierna con un ejército de tiburones.(n)</desc>
-    <category lang="es">Sci-Fi &amp; Fantasy</category>
+  <programme start="20210311054500 +0000" stop="20210311071800 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+    <title lang="en">Pants On Fire</title>
+    <desc lang="en">Jack Parker es un joven estudiante que va al instituto y que ha acogido cierta popularidad entre sus compañeros de taquilla gracias en parte a la gran cantidad de mentiras que salen de su boca.(n)</desc>
+    <category lang="en">Children &amp; Family</category>
+    <category lang="en">Family Classics</category>
+    <icon src="https://images.pluto.tv/episodes/5f69edb0e4b56900138a1ddc/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210311224800 +0000" stop="20210312003500 +0000" channel="5f6a38eaa5b68b0007a00e7a">
-    <title lang="es">eXistenZ</title>
-    <desc lang="es">Un diseñador de juegos huyendo de los asesinos debe jugar su Última creación de realidad virtual con un aprendiz de marketing para determinar si el juego ha sido dañado.(n)</desc>
-    <category lang="es">Sci-Fi &amp; Fantasy</category>
-  </programme>
-  <programme start="20210310112700 +0000" stop="20210310131000 +0000" channel="5f984c1dc54853000797a5e8">
-    <title lang="es">La Mujer de Oro</title>
-    <desc lang="es">Una empleada bancaria huye con el dinero que robó a través de un túnel.(n)</desc>
-    <category lang="es">Classics</category>
-  </programme>
-  <programme start="20210310131000 +0000" stop="20210310145600 +0000" channel="5f984c1dc54853000797a5e8">
-    <title lang="es">Juana Gallo</title>
-    <desc lang="es">La verdadera historia de Angela Ramos, una joven campesina que llegó a ser la cabeza de una guerrilla que luchó exitosamente contra las fuerzas federales del usurpador Victoriano Huerta. El pueblo la llamó por su fiereza “Juana Gallo”.(n)</desc>
-    <category lang="es">Classics</category>
-  </programme>
-  <programme start="20210310145600 +0000" stop="20210310161900 +0000" channel="5f984c1dc54853000797a5e8">
-    <title lang="es">Implacable</title>
-    <desc lang="es">Max, en su imaginación, es un implacable galán que hace suspirar a las mujeres. Su vida dará un giro cuando convenza a Dan, un joven listo, atleta y culto, a que lo tome bajo su tutela, a compite por el amor de la misma mujer.(n)</desc>
-    <category lang="es">Comedy</category>
+  <programme start="20210310120000 +0000" stop="20210310161900 +0000" channel="5f984c1dc54853000797a5e8">
+    <title lang="en">Cine Latino</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f984c1dc54853000797a5e8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
   </programme>
   <programme start="20210310161900 +0000" stop="20210310190300 +0000" channel="5f984c1dc54853000797a5e8">
-    <title lang="es">El callejón de los milagros</title>
-    <desc lang="es">Basada en la novela homónima del escritor egipcio y Premio Nobel Mahfuz. En pleno centro de la ciudad de México, se entrecruzan las vidas e historias de varios personajes.(n)</desc>
-    <category lang="es">Independent</category>
+    <title lang="en">El callejón de los milagros</title>
+    <desc lang="en">Basada en la novela homónima del escritor egipcio y Premio Nobel Mahfuz. En pleno centro de la ciudad de México, se entrecruzan las vidas e historias de varios personajes.(n)</desc>
+    <category lang="en">Independent</category>
+    <category lang="en">Foreign Art House</category>
+    <icon src="https://images.pluto.tv/episodes/60226332bffdfc001aa1df93/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310190300 +0000" stop="20210310210800 +0000" channel="5f984c1dc54853000797a5e8">
+    <title lang="en">Patricia: el regreso del sueño</title>
+    <desc lang="en">Juan, después de residir años en Nueva York, regresa a la República Dominicana para casarse con su prometida, solo para encontrarla ya casada y embarazada, pero luego conoce a Patricia.(n)</desc>
+    <category lang="en">Independent</category>
+    <category lang="en">Foreign Art House</category>
+    <icon src="https://images.pluto.tv/episodes/60226499bffdfc001aa1dfa7/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210310210800 +0000" stop="20210310230300 +0000" channel="5f984c1dc54853000797a5e8">
+    <title lang="en">Cuando den las tres</title>
+    <desc lang="en">La opresión del crimen organizado y los ojos ciegos del gobierno han dejado a la gente furiosa durante años, por lo que Pedro e Ignacio retienen a la hija del gobernador para ser escuchados.(n)</desc>
+    <category lang="en">Independent</category>
+    <category lang="en">Foreign Art House</category>
+    <icon src="https://images.pluto.tv/episodes/6022621c3db1af001c821547/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210310230300 +0000" stop="20210311004400 +0000" channel="5f984c1dc54853000797a5e8">
+    <title lang="en">7 Soles</title>
+    <desc lang="en">Un "pollero" contratado para cruzar a un grupo de indocumentados decide que éste será su último viaje para la organización. Los jefes sospechan de él y mandan a El Gavilán a vigilarlo. Los polleros se traicionan, perdiendo parte de su "carga" humana.(n)</desc>
+    <category lang="en">Independent</category>
+    <category lang="en">Foreign Art House</category>
+    <icon src="https://images.pluto.tv/episodes/5fa26e8572d139001a1bffcc/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
   <programme start="20210311004400 +0000" stop="20210311023200 +0000" channel="5f984c1dc54853000797a5e8">
-    <title lang="es">La mala noche</title>
-    <desc lang="es">Una mujer que sufre de diferentes adicciones y problemas monetarios ve que su vida entra lentamente en un oscuro abismo.(n)</desc>
-    <category lang="es">Classics</category>
+    <title lang="en">La mala noche</title>
+    <desc lang="en">Una mujer que sufre de diferentes adicciones y problemas monetarios ve que su vida entra lentamente en un oscuro abismo.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Dramas</category>
+    <icon src="https://images.pluto.tv/episodes/5f523c5ddb45a1001a79ad59/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311161900 +0000" stop="20210311190300 +0000" channel="5f984c1dc54853000797a5e8">
-    <title lang="es">El callejón de los milagros</title>
-    <desc lang="es">Basada en la novela homónima del escritor egipcio y Premio Nobel Mahfuz. En pleno centro de la ciudad de México, se entrecruzan las vidas e historias de varios personajes.(n)</desc>
-    <category lang="es">Independent</category>
+  <programme start="20210311023200 +0000" stop="20210311040700 +0000" channel="5f984c1dc54853000797a5e8">
+    <title lang="en">La luz en el cerro</title>
+    <desc lang="en">En un aislado pueblo en los Andes peruanos, dos practicantes forenses y un policía están a cargo de la investigación. Este acontecimiento revelará un misterio sepultado por siglos, que oscurecerá el destino de los involucrados en su descubrimiento.(n)</desc>
+    <category lang="en">Thrillers</category>
+    <category lang="en">Crime Thrillers</category>
+    <icon src="https://images.pluto.tv/episodes/5f523c5bdb45a1001a79ad3c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
   </programme>
-  <programme start="20210311190300 +0000" stop="20210311210800 +0000" channel="5f984c1dc54853000797a5e8">
-    <title lang="es">Patricia: el regreso del sueño</title>
-    <desc lang="es">Juan, después de residir años en Nueva York, regresa a la República Dominicana para casarse con su prometida, solo para encontrarla ya casada y embarazada, pero luego conoce a Patricia.(n)</desc>
-    <category lang="es">Independent</category>
+  <programme start="20210311040700 +0000" stop="20210311054900 +0000" channel="5f984c1dc54853000797a5e8">
+    <title lang="en">La Familia Reyna</title>
+    <desc lang="en">Isaac es un empresario agricultor, jefe de dos casas. Está orgulloso de su éxito, casi como si fuera el propietario de todo el Valle de Costanza, a expensas de su propia familia. Todo cambia cuando Ismael, su hijo mayor y descarado, vuelve a casa.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Foreign Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fc5269ea41cb3001329702f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
-  <programme start="20210311210800 +0000" stop="20210311230300 +0000" channel="5f984c1dc54853000797a5e8">
-    <title lang="es">Cuando den las tres</title>
-    <desc lang="es">La opresión del crimen organizado y los ojos ciegos del gobierno han dejado a la gente furiosa durante años, por lo que Pedro e Ignacio retienen a la hija del gobernador para ser escuchados.(n)</desc>
-    <category lang="es">Independent</category>
-  </programme>
-  <programme start="20210311230300 +0000" stop="20210312004400 +0000" channel="5f984c1dc54853000797a5e8">
-    <title lang="es">7 Soles</title>
-    <desc lang="es">Un "pollero" contratado para cruzar a un grupo de indocumentados decide que éste será su último viaje para la organización. Los jefes sospechan de él y mandan a El Gavilán a vigilarlo. Los polleros se traicionan, perdiendo parte de su "carga" humana.(n)</desc>
-    <category lang="es">Independent</category>
+  <programme start="20210311054900 +0000" stop="20210311074200 +0000" channel="5f984c1dc54853000797a5e8">
+    <title lang="en">Las Aventuras De Moriana</title>
+    <desc lang="en">Después de un aviso de desalojo, Moriana, una madre con tres hijos, se adelanta a la vida y comienza un negocio de restaurante que no funciona.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Foreign Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fc526b90983410013db2b2f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+12</value>
+    </rating>
   </programme>
   <programme start="20210310000000 +0100" stop="20210310001500 +0100" channel="DreamWorks HD">
     <title lang="es">Mi vida y yo: La Gran Tapa</title>
