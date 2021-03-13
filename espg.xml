@@ -5,7 +5,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/83/10000003.png" />
     <url>http://www.elmundo.es</url>
   </channel>
-  <programme start="20210313013000 +0000" stop="20210313032500 +0000" channel="La 1">
+  <programme start="20210313023000 -0100" stop="20210313042500 -0100" channel="La 1">
     <title lang="es">Jem y los Hologramas</title>
     <title lang="en">Jem &amp; the Holograms</title>
     <desc lang="es">Una chica pasa de ser una sensación en el mundo del vídeo independiente a una superestrella mundial. Junto a sus tres hermanas emprende un viaje en el que descubrirá muchos talentos.La serie ochentera de dibujos animados, que se creó para promocionar unas muñecas, tuvo su réplica en personajes reales 30 años más tarde. El responsable de esta contienda fue el ecléctico Jon M. Chu, un director que se atreve con el cine de acción (''GI Joe: la venganza''), como que crea una película juvenil (''Street Dance) o un thriller de magia (''Ahora me ves 2'').A un elenco de jóvenes promesas, se les unen dos iconos de distintas épocas: Molly Ringwald, una de las musas de la década de 1980 y de las comedias de John Hugues (''La chica de rosa'', ''Dieciséis velas''); y Juliette Lewis, quien desde su salto a la fama con ''El cabo del miedo'' se convirtió en un símbolo sexual de los 90.Una curiosidad. Las dobladoras de Jem en la serie original, Samantha Newark y Britta Phillips (la voz que cantaba), realizan un 'cameo', como estilista y directora de escena, respectivamente.(n)</desc>
@@ -27,7 +27,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210313032500 +0000" stop="20210313043500 +0000" channel="La 1">
+  <programme start="20210313042500 -0100" stop="20210313053500 -0100" channel="La 1">
     <title lang="es">Promesas de arena</title>
     <desc lang="es">La inesperada enfermedad del padre de Lucía la obliga a regresar a España. Una vez allí, se enfrenta a un complicado dilema: ocuparse de su tóxica familia, o volver al lugar dónde ha encontrado, no sólo su sitio, sino también al amor de su vida.(n)</desc>
     <credits>
@@ -47,7 +47,7 @@
     <country lang="es">España</country>
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20210313043500 +0000" stop="20210313060000 +0000" channel="La 1">
+  <programme start="20210313053500 -0100" stop="20210313070000 -0100" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -58,7 +58,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210313060000 +0000" stop="20210313092500 +0000" channel="La 1">
+  <programme start="20210313070000 -0100" stop="20210313102500 -0100" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -69,7 +69,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210313092500 +0000" stop="20210313102500 +0000" channel="La 1">
+  <programme start="20210313102500 -0100" stop="20210313112500 -0100" channel="La 1">
     <title lang="es">Comando Actualidad</title>
     <sub-title lang="es">Tesoros escondidos</sub-title>
     <desc lang="es">Los reporteros se acercan a lugares que pocos conocen y que son únicos en el mundo. Entre ellos, una antena única que estudia el espacio desde un pueblo de Ávila; la única geoda del planeta visitable sin equipo especial y la mayor estupa de Occidente.(n)</desc>
@@ -84,7 +84,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210313102500 +0000" stop="20210313133000 +0000" channel="La 1">
+  <programme start="20210313112500 -0100" stop="20210313143000 -0100" channel="La 1">
     <title lang="es">Maestros de la Costura</title>
     <desc lang="es">Los aprendices tendrán que crear una prenda masculina de lujo a medida en la primera prueba, viajarán a la aldea de El Rocío para reproducir vestidos de flamenca por equipos y deberán diseñar y confeccionar un bolso para librarse de la eliminación.(n)</desc>
     <credits>
@@ -98,7 +98,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210313133000 +0000" stop="20210313140000 +0000" channel="La 1">
+  <programme start="20210313143000 -0100" stop="20210313150000 -0100" channel="La 1">
     <title lang="es">Audiencia abierta</title>
     <desc lang="es">Espacio de servicio público sobre la jefatura del Estado, la Corona y la Monarquía parlamentaria. Cada semana, el programa informa sobre las principales actividades del Rey como Jefe del Estado, dando a conocer en profundidad sus competencias y su actividad oficial.(n)</desc>
     <credits>
@@ -113,7 +113,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210313140000 +0000" stop="20210313143000 +0000" channel="La 1">
+  <programme start="20210313150000 -0100" stop="20210313153000 -0100" channel="La 1">
     <title lang="es">Flash Moda</title>
     <desc lang="es">La cadena pública desfila por la pasarela de la mano de Nieves Álvarez en este repaso a las novedades del mundo de la moda, las últimas tendencias y las colecciones de vanguardia. Además, el programa presta especial atención al trabajo de los diseñadores españoles.(n)</desc>
     <credits>
@@ -128,7 +128,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210313143000 +0000" stop="20210313150000 +0000" channel="La 1">
+  <programme start="20210313153000 -0100" stop="20210313160000 -0100" channel="La 1">
     <title lang="es">Corazón</title>
     <desc lang="es">Crónica social sobre los famosos del mundo de la música, la moda, el cine y el teatro. El espacio incluye reportajes de las grandes pasarelas, los cantantes y actores de moda. El objetivo del programa es transmitir también la cara humana y familiar del personaje.(n)</desc>
     <credits>
@@ -143,7 +143,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210313150000 +0000" stop="20210313155200 +0000" channel="La 1">
+  <programme start="20210313160000 -0100" stop="20210313165200 -0100" channel="La 1">
     <title lang="es">Telediario 1 Fin de Semana</title>
     <desc lang="es">Informativo de Televisión Española de los fines de semana. Lara Siscar se encarga de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.(n)</desc>
     <credits>
@@ -157,7 +157,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210313155200 +0000" stop="20210313160000 +0000" channel="La 1">
+  <programme start="20210313165200 -0100" stop="20210313170000 -0100" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -168,7 +168,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210313160000 +0000" stop="20210313173500 +0000" channel="La 1">
+  <programme start="20210313170000 -0100" stop="20210313183500 -0100" channel="La 1">
     <title lang="es">Familia a la fuerza</title>
     <title lang="en">Les dents, pipi et au lit</title>
     <desc lang="es">Antoine es un soltero empedernido, fiestero y seductor. Vive en un magnífico apartamento parisino con Thomas, su compañero de piso, con el que casi todas las noches son animadas. Cuando Thomas se va a vivir a Los Ángeles, le encuentra a Antoine un nuevo compañero de piso para reemplazarlo. Aunque la descripción le entusiasma a Antoine, él no sabe todavía que la encantadora Jeanne no viene sola, si no acompañada de sus dos hijos: Theo, de 8 años, y Lou, de 5 años.(n)</desc>
@@ -190,7 +190,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210313173500 +0000" stop="20210313190500 +0000" channel="La 1">
+  <programme start="20210313183500 -0100" stop="20210313200500 -0100" channel="La 1">
     <title lang="es">Todo o nada</title>
     <title lang="en">Marie fängt Feuer - Alles oder nichts</title>
     <desc lang="es">Angie recibe con agrado la gratitud de un hombre al que salvó la vida en un accidente de tráfico. Pero cuando este empieza a acosarla, tarda en reaccionar y pedir ayuda.(n)</desc>
@@ -212,7 +212,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210313190500 +0000" stop="20210313210000 +0000" channel="La 1">
+  <programme start="20210313200500 -0100" stop="20210313220000 -0100" channel="La 1">
     <title lang="es">Un genio en apuros</title>
     <desc lang="es">Durán es un intelectual extravagante que vive con su hija, la única persona que le entiende. El hombre envía sinopsis a diario a un productor cinematográfico, que se queja de su alocada imaginación.Lluís Josep Comerón (''La rebelión de los pájaros'') escribe y dirige esta película que supuso la primera y última incursión en el celuloide del desaparecido humorista Eugenio, y que precisamente fue concebida como vehículo de lucimiento del artista, que por aquel entonces se encontraba en la cúspide de su popularidad. Arropan al catalán en el reparto otros humoristas de larga trayectoria en el celuloide como José Luis López Vázquez (''La cabina''), Antonio Ozores (''Es peligroso casarse a los 60'') y Agustín González (''Belle Epoque''), entre otros.Cabe destacar que la interpretación de Eugenio se desmarca radicalmente de la escenografía estática y sombría a la que acostumbró a sus seguidores; de hecho, cada vez que está a punto de empezar a contar uno de sus chistes con el célebre ''Saben aquell que diu...?'', es interrumpido por uno de los demás intérpretes de la película.(n)</desc>
     <credits>
@@ -232,7 +232,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210313210000 +0000" stop="20210313212500 +0000" channel="La 1">
+  <programme start="20210313220000 -0100" stop="20210313222500 -0100" channel="La 1">
     <title lang="es">Telediario 2 Fin de Semana</title>
     <desc lang="es">Informativo de Televisión Española de los fines de semana. Lara Siscar se encarga de presentar las últimas noticias de ámbito nacional e internacional. Marcos López, mientras, desgrana la actualidad deportiva.(n)</desc>
     <credits>
@@ -245,7 +245,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210313212500 +0000" stop="20210313213000 +0000" channel="La 1">
+  <programme start="20210313222500 -0100" stop="20210313223000 -0100" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -256,7 +256,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210313213000 +0000" stop="20210313220000 +0000" channel="La 1">
+  <programme start="20210313223000 -0100" stop="20210313230000 -0100" channel="La 1">
     <title lang="es">Informe Semanal</title>
     <desc lang="es">El programa analiza la actualidad política marcada por las mociones de censura presentadas en tres comunidades autónomas. Además, con motivo de la conmemoración en Madrid del Día Europeo de las Víctimas del Terrorismo, el programa abordará la historia negra de ETA.(n)</desc>
     <credits>
@@ -270,7 +270,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210313220000 +0000" stop="20210314005500 +0000" channel="La 1">
+  <programme start="20210313230000 -0100" stop="20210314015500 -0100" channel="La 1">
     <title lang="es">Prodigios</title>
     <desc lang="es">Nacho Duato, Ainhoa Arteta y Andrés Salado juzgarán las actuaciones de esta noche con la ayuda de Nancy Fabiola Herrero, Antonio Najarro y Lucas Vidal. El cantaor José Mercé interpretará con Jesús Gabriel, ''Prodigio del año 2020'', el tango ''Garganta con arena''.(n)</desc>
     <credits>
@@ -281,7 +281,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/48/684360.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210314005500 +0000" stop="20210314023000 +0000" channel="La 1">
+  <programme start="20210314015500 -0100" stop="20210314033000 -0100" channel="La 1">
     <title lang="es">Corazones en Atlántida</title>
     <title lang="en">Hearts in Atlantis</title>
     <desc lang="es">Bobby ve como el pasado irrumpe en su vida cuando la muerte de un amigo de la infancia le hace volver a la ciudad donde creció. Allí le asaltan los recuerdos de su undécimo verano, marcado por la llegada de un nuevo inquilino, Ted Brautigan, quien llenó el vacío que le supuso la defunción de su padre. ''Corazones en Atlántida'' es un misterioso drama dirigido por Scott Hicks, autor de la premiada ''Shine''. La trama se basa en dos relatos interconectados que Stephen King escribió en 1999, adaptados como guión por el veterano William Goldman, ganador del Oscar por ''Dos hombres y un destino'' y ''Todos los hombres del presidente''.Anthony Hopkins declaró en una entrevista que aceptó el papel porque tuvo un 'déjà vu', ya que era la cuarta vez que participaba en una película escrita por Goldman. El prestigioso actor encarna al personaje central de esta historia cargada de referentes sobrenaturales, donde priman más la nostalgia y la atmósfera que los efectos especiales. El actor está acompañado del joven Anton Yelchin -en uno de sus primeros papeles importantes- años antes de protagonizar taquillazos como ''Star Trek'' o ''Terminator Salvation''.(n)</desc>
@@ -307,7 +307,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210314023000 +0000" stop="20210314040000 +0000" channel="La 1">
+  <programme start="20210314033000 -0100" stop="20210314050000 -0100" channel="La 1">
     <title lang="es">Como fuego y agua</title>
     <title lang="en">Katie Fforde: Wie Feuer und Wasser</title>
     <desc lang="es">Una periodista, Lucy, tiene que entrevistar a un héroe, Andrew, un bombero jubilado que sobrevivió al ataque contra las torres gemelas. Su hijo se entrometerá para que no se produzca el encuentro.(n)</desc>
@@ -325,7 +325,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210314040000 +0000" stop="20210314060000 +0000" channel="La 1">
+  <programme start="20210314050000 -0100" stop="20210314070000 -0100" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -336,7 +336,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210314060000 +0000" stop="20210314090000 +0000" channel="La 1">
+  <programme start="20210314070000 -0100" stop="20210314100000 -0100" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -347,7 +347,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210314090000 +0000" stop="20210314093000 +0000" channel="La 1">
+  <programme start="20210314100000 -0100" stop="20210314103000 -0100" channel="La 1">
     <title lang="es">Seguridad vital</title>
     <desc lang="es">El programa dedica hoy el radar a los peligros de conducir con lluvia. Además, abordamos el alto coste económico que tienen, para todos, los accidentes de tráfico en España. Los mayores y el carsharing son los protagonistas de un divertido reto.(n)</desc>
     <credits>
@@ -361,7 +361,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210314093000 +0000" stop="20210314102100 +0000" channel="La 1">
+  <programme start="20210314103000 -0100" stop="20210314112100 -0100" channel="La 1">
     <title lang="es">Viaje al centro de la tele</title>
     <sub-title lang="es">Como en casa (primera parte)</sub-title>
     <desc lang="es">Primera parte de un hogareño y divertido viaje por las entrevistas de los famosos en sus propias casas. Jesulín de Ubrique, Pajares, Peret, Al Bano y Romina Power, María Jiménez, Julio Iglesias, El Fary, Tony Leblanc, Javier Gurruchaga, Raphael, Nacho Cano y muchos más.(n)</desc>
@@ -376,7 +376,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210314102100 +0000" stop="20210314112500 +0000" channel="La 1">
+  <programme start="20210314112100 -0100" stop="20210314122500 -0100" channel="La 1">
     <title lang="es">Viaje al centro de la tele</title>
     <sub-title lang="es">Bailas (Primera parte)</sub-title>
     <desc lang="es">Un entrañable y divertido recorrido por las mejores baladas internacionales del archivo de Televisión Española. Gupos e intérpretes inolvidables como Chicago, The Cristians, Joe Cocker, Bonnie Tyler, Frank Sinatra, The Craberries, Santana y otros muchos.(n)</desc>
@@ -391,7 +391,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210314112500 +0000" stop="20210314121300 +0000" channel="La 1">
+  <programme start="20210314122500 -0100" stop="20210314131300 -0100" channel="La 1">
     <title lang="es">Españoles en el mundo</title>
     <sub-title lang="es">Córcega</sub-title>
     <desc lang="es">El programa viaja a Córcega para descubrir los encantos de esta isla francesa. Junto a Nela, Alberto, Raquel, Borja y David, el equipo recorre esta montañosa isla de bellas cumbres y playas azul turquesa, conoce su gastronomía y las costumbres de sus habitantes.(n)</desc>
@@ -406,7 +406,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210314121300 +0000" stop="20210314130500 +0000" channel="La 1">
+  <programme start="20210314131300 -0100" stop="20210314140500 -0100" channel="La 1">
     <title lang="es">Españoles en el mundo</title>
     <sub-title lang="es">Las Rocosas, Canadá</sub-title>
     <desc lang="es">El equipo de programa viaja hasta la provincia de Alberta, en Canadá, para recorrer los fascinantes paisajes de las Montañas Rocosas de la mano de siete españoles que viven allí.(n)</desc>
@@ -421,7 +421,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210314130500 +0000" stop="20210314135500 +0000" channel="La 1">
+  <programme start="20210314140500 -0100" stop="20210314145500 -0100" channel="La 1">
     <title lang="es">Como Sapiens</title>
     <sub-title lang="es">Redondo, caldereta y caldo gallego</sub-title>
     <desc lang="es">El programa trae un plato que tiene un sabor inconfundible: el riquísimo caldo gallego. Además, probaremos un dulce hecho con avellana de Reus. Cocinaremos con Fran Perea. Y contaremos con Paloma San Basilio, Elena Furiase, Tania Llasera, y el cocinero Íñigo Urrechu.(n)</desc>
@@ -433,7 +433,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/1e/656158.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210314135500 +0000" stop="20210314143000 +0000" channel="La 1">
+  <programme start="20210314145500 -0100" stop="20210314153000 -0100" channel="La 1">
     <title lang="es">TVEmos</title>
     <desc lang="es">Una ventana a las noticias y las imágenes más sorprendentes, curiosas y divertidas de la actualidad. Elisa Mouliaá presenta esta aproximación a la información más distendida de manera atractiva, moderna y lúdica.(n)</desc>
     <credits>
@@ -447,7 +447,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210314143000 +0000" stop="20210314150000 +0000" channel="La 1">
+  <programme start="20210314153000 -0100" stop="20210314160000 -0100" channel="La 1">
     <title lang="es">Corazón</title>
     <desc lang="es">Crónica social sobre los famosos del mundo de la música, la moda, el cine y el teatro. El espacio incluye reportajes de las grandes pasarelas, los cantantes y actores de moda. El objetivo del programa es transmitir también la cara humana y familiar del personaje.(n)</desc>
     <credits>
@@ -462,7 +462,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210314150000 +0000" stop="20210314155200 +0000" channel="La 1">
+  <programme start="20210314160000 -0100" stop="20210314165200 -0100" channel="La 1">
     <title lang="es">Telediario 1 Fin de Semana</title>
     <desc lang="es">Informativo de Televisión Española de los fines de semana. Lara Siscar se encarga de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.(n)</desc>
     <credits>
@@ -476,7 +476,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210314155200 +0000" stop="20210314160000 +0000" channel="La 1">
+  <programme start="20210314165200 -0100" stop="20210314170000 -0100" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -487,7 +487,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210314160000 +0000" stop="20210314173000 +0000" channel="La 1">
+  <programme start="20210314170000 -0100" stop="20210314183000 -0100" channel="La 1">
     <title lang="es">Un verano en el Algarve</title>
     <title lang="en">Ein Sommer an der Algarve</title>
     <desc lang="es">La bióloga marina Julika necesita un descanso, así que visita a su amiga Natalie en la costa de Algarve. Allí se enamora de Miguel, un surfista de la zona, y también recibe una oferta de trabajo.(n)</desc>
@@ -510,7 +510,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210314173000 +0000" stop="20210314190000 +0000" channel="La 1">
+  <programme start="20210314183000 -0100" stop="20210314200000 -0100" channel="La 1">
     <title lang="es">Boda en Hardingsholm</title>
     <title lang="en">Inga Lindström: Hochzeit in Hardingsholm</title>
     <desc lang="es">La joven piloto Hellen Reslow recibe el encargo de llevar un paquete, que contiene un vestido de novia, a la isla de Hardingsholm. Allí se enamora de Erik, el cual está a punto de casarse con Lynn.(n)</desc>
@@ -530,7 +530,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210314190000 +0000" stop="20210314203000 +0000" channel="La 1">
+  <programme start="20210314200000 -0100" stop="20210314213000 -0100" channel="La 1">
     <title lang="es">El baile de Martha</title>
     <title lang="en">Katie Fforde: Martha tanzt</title>
     <desc lang="es">Martha es una doctora acostumbrada a tratar con todo tipo de urgencias. Sin embargo, su nuevo caso le resultará mucho más complicado puesto que está estrechamente relacionado con ella.(n)</desc>
@@ -551,7 +551,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210314203000 +0000" stop="20210314210000 +0000" channel="La 1">
+  <programme start="20210314213000 -0100" stop="20210314220000 -0100" channel="La 1">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Quico Taronjí ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.(n)</desc>
     <credits>
@@ -564,7 +564,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210314210000 +0000" stop="20210314215200 +0000" channel="La 1">
+  <programme start="20210314220000 -0100" stop="20210314225200 -0100" channel="La 1">
     <title lang="es">Telediario 2 Fin de Semana</title>
     <desc lang="es">Informativo de Televisión Española de los fines de semana. Lara Siscar se encarga de presentar las últimas noticias de ámbito nacional e internacional. Marcos López, mientras, desgrana la actualidad deportiva.(n)</desc>
     <credits>
@@ -577,7 +577,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210314215200 +0000" stop="20210314220500 +0000" channel="La 1">
+  <programme start="20210314225200 -0100" stop="20210314230500 -0100" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -588,7 +588,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210314220500 +0000" stop="20210315000000 +0000" channel="La 1">
+  <programme start="20210314230500 -0100" stop="20210315010000 -0100" channel="La 1">
     <title lang="es">Godzilla: rey de los monstruos</title>
     <title lang="en">Godzilla: King of the Monsters</title>
     <desc lang="es">Los criptozoólogos de la agencia Monarch se enfrentan a una serie de enormes criaturas, incluyendo al poderoso Godzilla, quien intenta resistir los ataques de Mothra, Rodan y su némesis, el rey Ghidorah de tres cabezas.Secuela de la exitosa ''Godzilla'' (2014), que con un presupuesto de 140 millones de euros logró recaudar más de 380 en todo el mundo. Bajo la dirección de Michael Dougherty (''Krampus: Maldita Navidad''), la trama gira en torno a la batalla entre un grupo de ancianos seres que harán todo lo posible por sobrevivir, poniendo en riesgo la existencia del ser humano en la Tierra. Del reparto de carne y hueso hay que mencionar el debut cinematográfico de Millie Bobby Brown, todo un fenómeno gracias a su paso por la serie ''Stranger Things''.Cabe destacar que esta es la tercera producción del universo cinematográfico de la Warner Bros sobre monstruos, conocido como ''MonsterVerse''. A ''Godzilla: Rey de los monstruos'' hay que sumarle la entrega original y ''Kong: La Isla Calavera''. Se trata de una serie de películas con dos de los iconos más populares del cine fantástico como protagonistas, cuyo combate final verá la luz en 2020 bajo el título ''Godzilla vs. Kong''.(n)</desc>
