@@ -10,7 +10,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/84/10000004.png" />
     <url>http://www.elmundo.es</url>
   </channel>
-  <programme start="20210317003500 +0200" stop="20210317022500 +0200" channel="La 1">
+  <programme start="20210317013500 +0100" stop="20210317032500 +0100" channel="La 1">
     <title lang="es">La noche en 24 horas</title>
     <desc lang="es">Informativo diario nocturno presentado por Xabier Fortes que ofrece un análisis profundo y plural de la actualidad de la jornada.(n)</desc>
     <credits>
@@ -25,7 +25,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317022500 +0200" stop="20210317040000 +0200" channel="La 1">
+  <programme start="20210317032500 +0100" stop="20210317050000 +0100" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -36,7 +36,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317040000 +0200" stop="20210317043000 +0200" channel="La 1">
+  <programme start="20210317050000 +0100" stop="20210317053000 +0100" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -47,7 +47,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317043000 +0200" stop="20210317060000 +0200" channel="La 1">
+  <programme start="20210317053000 +0100" stop="20210317070000 +0100" channel="La 1">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Sirun Demirjian conduce este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.(n)</desc>
     <credits>
@@ -60,7 +60,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317060000 +0200" stop="20210317080000 +0200" channel="La 1">
+  <programme start="20210317070000 +0100" stop="20210317090000 +0100" channel="La 1">
     <title lang="es">La hora de La 1: La hora política</title>
     <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad con reportajes y entrevistas dedicados a analizar en profundidad el mundo de la política.(n)</desc>
     <credits>
@@ -72,7 +72,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/72/653170.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210317080000 +0200" stop="20210317103000 +0200" channel="La 1">
+  <programme start="20210317090000 +0100" stop="20210317113000 +0100" channel="La 1">
     <title lang="es">La hora de La 1: La hora de la actualidad</title>
     <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servició público para ayudar a los ciudadanos en su día a día.(n)</desc>
     <credits>
@@ -87,7 +87,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210317103000 +0200" stop="20210317130000 +0200" channel="La 1">
+  <programme start="20210317113000 +0100" stop="20210317140000 +0100" channel="La 1">
     <title lang="es">Las cosas claras</title>
     <desc lang="es">Actualidad, entretenimiento, análisis y rigor son algunos de los ingredientes de ''Las cosas claras''. Este programa es una ventana abierta a la pluralidad y a todo lo que acontece, con contenido útil y cercano al espectador y vocación de ofrecer respuestas.(n)</desc>
     <credits>
@@ -99,7 +99,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/30/676400.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210317130000 +0200" stop="20210317140000 +0200" channel="La 1">
+  <programme start="20210317140000 +0100" stop="20210317150000 +0100" channel="La 1">
     <title lang="es">Telediario 1</title>
     <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Ana Blanco conduce este espacio que ofrece un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte presentada por Lourdes García Campos.(n)</desc>
     <credits>
@@ -113,13 +113,13 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317140000 +0200" stop="20210317142000 +0200" channel="La 1">
+  <programme start="20210317150000 +0100" stop="20210317152000 +0100" channel="La 1">
     <title lang="es">Informativo territorial</title>
     <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través del la cual se informa de los problemas más cercanos para el ciudadano.(n)</desc>
     <category lang="es">Noticias</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/660994.png" />
   </programme>
-  <programme start="20210317142000 +0200" stop="20210317143500 +0200" channel="La 1">
+  <programme start="20210317152000 +0100" stop="20210317153500 +0100" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -130,7 +130,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210317143500 +0200" stop="20210317152500 +0200" channel="La 1">
+  <programme start="20210317153500 +0100" stop="20210317162500 +0100" channel="La 1">
     <title lang="es">Dos vidas</title>
     <desc lang="es">La historia de Julia y Carmen, nieta y abuela, dos vidas unidas de manera insospechada en dos épocas y lugares distintos.(n)</desc>
     <credits>
@@ -147,7 +147,7 @@
     <country lang="es">España</country>
     <episode-num system="onscreen">E38</episode-num>
   </programme>
-  <programme start="20210317152500 +0200" stop="20210317161500 +0200" channel="La 1">
+  <programme start="20210317162500 +0100" stop="20210317171500 +0100" channel="La 1">
     <title lang="es">Servir y proteger</title>
     <desc lang="es">Distrito Sur no se ha recuperado del asalto a la comisaría y la muerte de Alicia Ocaña cuando llega el prestigioso inspector jefe enviado por jefatura para depurar responsabilidades. Además, los policías tendrán que hacer frente a un cruel asesino.(n)</desc>
     <credits>
@@ -168,7 +168,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210317161500 +0200" stop="20210317171000 +0200" channel="La 1">
+  <programme start="20210317171500 +0100" stop="20210317181000 +0100" channel="La 1">
     <title lang="es">Acacias 38</title>
     <desc lang="es">Una historia de ricos y pobres que conviven en un único espacio, en un portal situado en el número 38 de la calle Acacias. Allí florecen sentimientos como el amor, los celos, las pasiones, las venganzas, los odios y la alegría.(n)</desc>
     <credits>
@@ -195,7 +195,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210317171000 +0200" stop="20210317180000 +0200" channel="La 1">
+  <programme start="20210317181000 +0100" stop="20210317190000 +0100" channel="La 1">
     <title lang="es">El cazador</title>
     <desc lang="es">Concurso de preguntas y respuestas en el que concursantes anónimos luchan frente a un concursante profesional de la televisión para obtener un gran premio final. En el programa, los concursantes unirán sus conocimientos para ganar al 'cazador'.(n)</desc>
     <credits>
@@ -206,7 +206,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/af/677551.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210317180000 +0200" stop="20210317183000 +0200" channel="La 1">
+  <programme start="20210317190000 +0100" stop="20210317193000 +0100" channel="La 1">
     <title lang="es">España directo</title>
     <desc lang="es">Magacín informativo muy en contacto con los temas sociales que incluye conexiones con todos los rincones de la geografía nacional. El programa pretende acercarse al espectador gracias a la abundancia de intervenciones en directo y a la espontaneidad de sus reporteros.(n)</desc>
     <credits>
@@ -221,7 +221,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317183000 +0200" stop="20210317190000 +0200" channel="La 1">
+  <programme start="20210317193000 +0100" stop="20210317200000 +0100" channel="La 1">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Quico Taronjí ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.(n)</desc>
     <credits>
@@ -234,7 +234,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317190000 +0200" stop="20210317195200 +0200" channel="La 1">
+  <programme start="20210317200000 +0100" stop="20210317205200 +0100" channel="La 1">
     <title lang="es">Telediario 2</title>
     <desc lang="es">Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Carlos Franganillo. También hay espacio para la parcela deportiva presentada por Arsenio Cañada.(n)</desc>
     <credits>
@@ -247,7 +247,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317195200 +0200" stop="20210317201000 +0200" channel="La 1">
+  <programme start="20210317205200 +0100" stop="20210317211000 +0100" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -258,7 +258,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210317201000 +0200" stop="20210317211500 +0200" channel="La 1">
+  <programme start="20210317211000 +0100" stop="20210317221500 +0100" channel="La 1">
     <title lang="es">Estoy vivo</title>
     <desc lang="es">Ya ha pasado el tiempo y Adriana ha crecido y se ha convertido en policía. Muy orgulloso, Márquez acompaña a su nieta a la comisaría de Vallecas. Allí conocerá a Landa, el nuevo comisario y a Mikel, el nuevo y joven agente que será su compañero de trabajo.(n)</desc>
     <credits>
@@ -275,7 +275,7 @@
     <country lang="es">España</country>
     <episode-num system="onscreen">E3</episode-num>
   </programme>
-  <programme start="20210317211500 +0200" stop="20210317225000 +0200" channel="La 1">
+  <programme start="20210317221500 +0100" stop="20210317235000 +0100" channel="La 1">
     <title lang="es">Una terapia peligrosa</title>
     <title lang="en">Analyze This</title>
     <desc lang="es">Paul Vitti, un importante capo de la mafia, sufre una crisis personal. A pesar de sus creencias, se ve obligado a acudir al psiquiatra, ya que si las bandas rivales descubren su problema podrían aprovecharse de la situación. El psiquiatra elegido es Ben Sobol quien, a partir de este momento, verá cómo los gánsteres se entrometen en su vida. Harold Ramis vuelve a dar en el clavo con esta notable comedia. Tras la mítica ''Atrapado en el tiempo'', Ramis demostró sobradamente su olfato cómico gracias a ''Mis dobles, mi mujer y yo'' o a los guiones de ''Los cazafantasmas''. En esta ocasión ofrece una visión cómica de dos mundos completamente alejados: el de la psiquiatría y el del crimen organizado, representados por Billy Crystal y Robert De Niro, respectivamente. Éste último hace una parodia de los personajes mafiosos que él ha encarnado en películas como ''Uno de los nuestros'' o ''El Padrino II''. El filme obtuvo buenas críticas a ambos lados del atlántico, además de cosechar unos resultados de taquilla excelentes. Todo ello provocó que tres años después fuera engendrada una secuela, ''Otra terapia peligrosa. ¡Recaída total!'', que lamentablemente no tuvo la misma acogida.(n)</desc>
@@ -301,7 +301,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210317225000 +0200" stop="20210317234500 +0200" channel="La 1">
+  <programme start="20210317235000 +0100" stop="20210318004500 +0100" channel="La 1">
     <title lang="es">Españoles en el mundo</title>
     <sub-title lang="es">Namibia, desierto y sabana</sub-title>
     <desc lang="es">El programa se dirige al continente africano para viajar a Namibia. Cinco españoles muestran al espectador la riqueza en espacios salvajes únicos de un país que en su historia ha estado bajo dominio alemán, inglés y de Sudáfrica.(n)</desc>
@@ -316,7 +316,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210317234500 +0200" stop="20210318004000 +0200" channel="La 1">
+  <programme start="20210318004500 +0100" stop="20210318014000 +0100" channel="La 1">
     <title lang="es">Españoles en el mundo</title>
     <sub-title lang="es">Bali, Lombok y las islas Gili</sub-title>
     <desc lang="es">El programa viaja a Indonesia, un archipiélago formado por 17.000 islas bañadas por los océanos Pacífico e Índico. De la mano de Itziar, Marta, Cristian y Pablo, los espectadores podrán conocer Bali, Lombok y las islas Gili.(n)</desc>
@@ -331,7 +331,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210318004000 +0200" stop="20210318023000 +0200" channel="La 1">
+  <programme start="20210318014000 +0100" stop="20210318033000 +0100" channel="La 1">
     <title lang="es">La noche en 24 horas</title>
     <desc lang="es">Informativo diario nocturno presentado por Xabier Fortes que ofrece un análisis profundo y plural de la actualidad de la jornada.(n)</desc>
     <credits>
@@ -346,7 +346,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318023000 +0200" stop="20210318040000 +0200" channel="La 1">
+  <programme start="20210318033000 +0100" stop="20210318050000 +0100" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -357,7 +357,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318040000 +0200" stop="20210318043000 +0200" channel="La 1">
+  <programme start="20210318050000 +0100" stop="20210318053000 +0100" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2014</date>
@@ -368,7 +368,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318043000 +0200" stop="20210318060000 +0200" channel="La 1">
+  <programme start="20210318053000 +0100" stop="20210318070000 +0100" channel="La 1">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Sirun Demirjian conduce este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.(n)</desc>
     <credits>
@@ -381,7 +381,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318060000 +0200" stop="20210318080000 +0200" channel="La 1">
+  <programme start="20210318070000 +0100" stop="20210318090000 +0100" channel="La 1">
     <title lang="es">La hora de La 1: La hora política</title>
     <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad con reportajes y entrevistas dedicados a analizar en profundidad el mundo de la política.(n)</desc>
     <credits>
@@ -393,7 +393,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/72/653170.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210318080000 +0200" stop="20210318103000 +0200" channel="La 1">
+  <programme start="20210318090000 +0100" stop="20210318113000 +0100" channel="La 1">
     <title lang="es">La hora de La 1: La hora de la actualidad</title>
     <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servició público para ayudar a los ciudadanos en su día a día.(n)</desc>
     <credits>
@@ -408,7 +408,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210318103000 +0200" stop="20210318130000 +0200" channel="La 1">
+  <programme start="20210318113000 +0100" stop="20210318140000 +0100" channel="La 1">
     <title lang="es">Las cosas claras</title>
     <desc lang="es">Actualidad, entretenimiento, análisis y rigor son algunos de los ingredientes de ''Las cosas claras''. Este programa es una ventana abierta a la pluralidad y a todo lo que acontece, con contenido útil y cercano al espectador y vocación de ofrecer respuestas.(n)</desc>
     <credits>
@@ -420,7 +420,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/30/676400.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210318130000 +0200" stop="20210318140000 +0200" channel="La 1">
+  <programme start="20210318140000 +0100" stop="20210318150000 +0100" channel="La 1">
     <title lang="es">Telediario 1</title>
     <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Ana Blanco conduce este espacio que ofrece un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte presentada por Lourdes García Campos.(n)</desc>
     <credits>
@@ -434,13 +434,13 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318140000 +0200" stop="20210318142000 +0200" channel="La 1">
+  <programme start="20210318150000 +0100" stop="20210318152000 +0100" channel="La 1">
     <title lang="es">Informativo territorial</title>
     <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través del la cual se informa de los problemas más cercanos para el ciudadano.(n)</desc>
     <category lang="es">Noticias</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/660994.png" />
   </programme>
-  <programme start="20210318142000 +0200" stop="20210318143500 +0200" channel="La 1">
+  <programme start="20210318152000 +0100" stop="20210318153500 +0100" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -451,7 +451,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210318143500 +0200" stop="20210318152500 +0200" channel="La 1">
+  <programme start="20210318153500 +0100" stop="20210318162500 +0100" channel="La 1">
     <title lang="es">Dos vidas</title>
     <desc lang="es">La historia de Julia y Carmen, nieta y abuela, dos vidas unidas de manera insospechada en dos épocas y lugares distintos.(n)</desc>
     <credits>
@@ -468,7 +468,7 @@
     <country lang="es">España</country>
     <episode-num system="onscreen">E39</episode-num>
   </programme>
-  <programme start="20210318152500 +0200" stop="20210318161500 +0200" channel="La 1">
+  <programme start="20210318162500 +0100" stop="20210318171500 +0100" channel="La 1">
     <title lang="es">Servir y proteger</title>
     <desc lang="es">Distrito Sur no se ha recuperado del asalto a la comisaría y la muerte de Alicia Ocaña cuando llega el prestigioso inspector jefe enviado por jefatura para depurar responsabilidades. Además, los policías tendrán que hacer frente a un cruel asesino.(n)</desc>
     <credits>
@@ -489,7 +489,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210318161500 +0200" stop="20210318171000 +0200" channel="La 1">
+  <programme start="20210318171500 +0100" stop="20210318181000 +0100" channel="La 1">
     <title lang="es">Acacias 38</title>
     <desc lang="es">Una historia de ricos y pobres que conviven en un único espacio, en un portal situado en el número 38 de la calle Acacias. Allí florecen sentimientos como el amor, los celos, las pasiones, las venganzas, los odios y la alegría.(n)</desc>
     <credits>
@@ -516,7 +516,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210318171000 +0200" stop="20210318180000 +0200" channel="La 1">
+  <programme start="20210318181000 +0100" stop="20210318190000 +0100" channel="La 1">
     <title lang="es">El cazador</title>
     <desc lang="es">Concurso de preguntas y respuestas en el que concursantes anónimos luchan frente a un concursante profesional de la televisión para obtener un gran premio final. En el programa, los concursantes unirán sus conocimientos para ganar al 'cazador'.(n)</desc>
     <credits>
@@ -527,7 +527,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/af/677551.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210318180000 +0200" stop="20210318183000 +0200" channel="La 1">
+  <programme start="20210318190000 +0100" stop="20210318193000 +0100" channel="La 1">
     <title lang="es">España directo</title>
     <desc lang="es">Magacín informativo muy en contacto con los temas sociales que incluye conexiones con todos los rincones de la geografía nacional. El programa pretende acercarse al espectador gracias a la abundancia de intervenciones en directo y a la espontaneidad de sus reporteros.(n)</desc>
     <credits>
@@ -542,7 +542,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318183000 +0200" stop="20210318190000 +0200" channel="La 1">
+  <programme start="20210318193000 +0100" stop="20210318200000 +0100" channel="La 1">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Quico Taronjí ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.(n)</desc>
     <credits>
@@ -555,7 +555,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318190000 +0200" stop="20210318195200 +0200" channel="La 1">
+  <programme start="20210318200000 +0100" stop="20210318205200 +0100" channel="La 1">
     <title lang="es">Telediario 2</title>
     <desc lang="es">Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Carlos Franganillo. También hay espacio para la parcela deportiva presentada por Arsenio Cañada.(n)</desc>
     <credits>
@@ -568,7 +568,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318195200 +0200" stop="20210318201000 +0200" channel="La 1">
+  <programme start="20210318205200 +0100" stop="20210318211000 +0100" channel="La 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
     <credits>
@@ -579,7 +579,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210318201000 +0200" stop="20210318211500 +0200" channel="La 1">
+  <programme start="20210318211000 +0100" stop="20210318221500 +0100" channel="La 1">
     <title lang="es">Cuéntame cómo pasó</title>
     <desc lang="es">Los Alcántara se encuentran en una celebración en la que la familia intenta pasar página en un año de grandes expectativas -no solo para Antonio, Mercedes y sus hijos- sino para todos los españoles.(n)</desc>
     <credits>
@@ -604,7 +604,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210318211500 +0200" stop="20210318221000 +0200" channel="La 1">
+  <programme start="20210318221500 +0100" stop="20210318231000 +0100" channel="La 1">
     <title lang="es">Novéntame</title>
     <desc lang="es">Un retrato nostálgico a la España de la década de 1990. El programa recurre a imágenes de archivo y al testimonio de personas significativas, tanto de los que protagonizaron la vida del momento como de los que nacieron en aquellos años y hoy son referencia en su ámbito.(n)</desc>
     <date>2021</date>
@@ -615,7 +615,38 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317000500 +0200" stop="20210317005000 +0200" channel="La 2">
+  <programme start="20210317000500 +0100" stop="20210317003000 +0100" channel="La 2">
+    <title lang="es">Metrópolis</title>
+    <sub-title lang="es">Bienal Mav 2020</sub-title>
+    <desc lang="es">Espacio de cultura que se ha convertido en un punto de referencia obligado para todos aquellos inquietos por seguir las últimas tendencias en el campo de la creación artística. Temporada tras temporada, el programa ha sabido crear su propio lenguaje televisivo.(n)</desc>
+    <credits>
+      <director>María Pallier</director>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Generales</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/ac/244396.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210317003000 +0100" stop="20210317010500 +0100" channel="La 2">
+    <title lang="es">Conciertos de Radio-3</title>
+    <title lang="en">Los conciertos de Radio 3</title>
+    <sub-title lang="es">Pedro Burruezo</sub-title>
+    <desc lang="es">Programa que recoge la actuación de algún cantante, grupo o instrumentista del más actual panorama musical, con predominio de artistas españoles y latinos. El objetivo es abrir las puertas a aquellos artistas y grupos que existen al margen de las listas de ventas.(n)</desc>
+    <credits>
+      <director>Tomás Fernando Flores</director>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Conciertos</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fe/665342.png" />
+    <country lang="es">España</country>
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20210317010500 +0100" stop="20210317015000 +0100" channel="La 2">
     <title lang="es">La inmensa tierra</title>
     <sub-title lang="es">Montañas</sub-title>
     <desc lang="es">Desiertos, bosques, cuevas... la particular geografía  de la Tierra ha hecho que los humanos se adapten a vivir en lugares muy distintos. Esta serie documental visita los lugares más inhóspitos y espectaculares del planeta.(n)</desc>
@@ -629,7 +660,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317005000 +0200" stop="20210317014000 +0200" channel="La 2">
+  <programme start="20210317015000 +0100" stop="20210317024000 +0100" channel="La 2">
     <title lang="es">Tierras extremas</title>
     <title lang="en">Terres extrêmes</title>
     <sub-title lang="es">Islandia</sub-title>
@@ -642,7 +673,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317014000 +0200" stop="20210317022500 +0200" channel="La 2">
+  <programme start="20210317024000 +0100" stop="20210317032500 +0100" channel="La 2">
     <title lang="es">Jamie cocina en Italia</title>
     <title lang="en">Jamie cooks Italy</title>
     <sub-title lang="es">Piamonte</sub-title>
@@ -654,7 +685,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317022500 +0200" stop="20210317031000 +0200" channel="La 2">
+  <programme start="20210317032500 +0100" stop="20210317041000 +0100" channel="La 2">
     <title lang="es">Iberia salvaje</title>
     <sub-title lang="es">Primavera</sub-title>
     <desc lang="es">Serie documental que muestra los cambios que ocurren en la naturaleza de la Península Ibérica y cómo afectan a la vida salvaje los cambios de cada estación del año.(n)</desc>
@@ -669,7 +700,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317031000 +0200" stop="20210317033000 +0200" channel="La 2">
+  <programme start="20210317041000 +0100" stop="20210317043000 +0100" channel="La 2">
     <title lang="es">La 2 Exprés</title>
     <title lang="en">La 2 Noticias Exprés</title>
     <desc lang="es">Una versión resumida del informativo de La 2 que sirve para cerrar el día con las informaciones y las imágenes más impotantes de la jornada. Eso sí, con el sello del veterano espacio del canal público, en el que predominan temas sociales, ecología y nuevas tecnologías.(n)</desc>
@@ -681,7 +712,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317033000 +0200" stop="20210317043000 +0200" channel="La 2">
+  <programme start="20210317043000 +0100" stop="20210317053000 +0100" channel="La 2">
     <title lang="es">La aventura del saber</title>
     <desc lang="es">Programa diario matinal destinado a la formación educativa y la divulgación mediante entrevistas y series documentales. Coproducido por RTVE y el Ministerio de Educación, se trata de uno de los espacios más veteranos de la cadena, con más de dos décadas de emisión.(n)</desc>
     <credits>
@@ -696,7 +727,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317043000 +0200" stop="20210317044500 +0200" channel="La 2">
+  <programme start="20210317053000 +0100" stop="20210317054500 +0100" channel="La 2">
     <title lang="es">That's English</title>
     <sub-title lang="es">Nivel Intermedio B2 4</sub-title>
     <desc lang="es">Programa divulgativo que ofrece un curso de inglés a distancia, creado por el Ministerio de Educación en colaboración con la BBC británica y Televisión Española. El curso permite obtener el Certificado del Ciclo Elemental de la Escuela Oficial de Idiomas.(n)</desc>
@@ -711,7 +742,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317044500 +0200" stop="20210317045500 +0200" channel="La 2">
+  <programme start="20210317054500 +0100" stop="20210317055500 +0100" channel="La 2">
     <title lang="es">That's English</title>
     <sub-title lang="es">Nivel Intermedio B2 4</sub-title>
     <desc lang="es">Programa divulgativo que ofrece un curso de inglés a distancia, creado por el Ministerio de Educación en colaboración con la BBC británica y Televisión Española. El curso permite obtener el Certificado del Ciclo Elemental de la Escuela Oficial de Idiomas.(n)</desc>
@@ -726,7 +757,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317045500 +0200" stop="20210317050500 +0200" channel="La 2">
+  <programme start="20210317055500 +0100" stop="20210317060500 +0100" channel="La 2">
     <title lang="es">La 2 Exprés</title>
     <title lang="en">La 2 Noticias Exprés</title>
     <desc lang="es">Una versión resumida del informativo de La 2 que sirve para cerrar el día con las informaciones y las imágenes más impotantes de la jornada. Eso sí, con el sello del veterano espacio del canal público, en el que predominan temas sociales, ecología y nuevas tecnologías.(n)</desc>
@@ -738,7 +769,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317050500 +0200" stop="20210317053000 +0200" channel="La 2">
+  <programme start="20210317060500 +0100" stop="20210317063000 +0100" channel="La 2">
     <title lang="es">Senderos de Gran Recorrido</title>
     <sub-title lang="es">Gr 140 Almeria</sub-title>
     <desc lang="es">El Sendero de Gran Recorrido 140 recorre Almería desde Sierra Nevada hasta el Cabo de Gata, pasando por la Sierra de Gádor.(n)</desc>
@@ -750,7 +781,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317053000 +0200" stop="20210317055500 +0200" channel="La 2">
+  <programme start="20210317063000 +0100" stop="20210317065500 +0100" channel="La 2">
     <title lang="es">Inglés Online</title>
     <title lang="en">Inglés Online TVE</title>
     <desc lang="es">Curso de ingles de Televisión Española para hisponoparlantes.(n)</desc>
@@ -766,7 +797,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317055500 +0200" stop="20210317064500 +0200" channel="La 2">
+  <programme start="20210317065500 +0100" stop="20210317074500 +0100" channel="La 2">
     <title lang="es">Grande y hermoso</title>
     <title lang="en">Big is Beautiful</title>
     <desc lang="es">El mundo está lleno de gigantes que nos llenan de admiración y asombro. Los humanos parecen atraídos por estas criaturas. Ellos fascinan e inspiran.Pero los más grandes se fueron extinguiendo por el ser humano. Debemos permitir que el mundo sea grande y hermoso.(n)</desc>
@@ -781,7 +812,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210317064500 +0200" stop="20210317065500 +0200" channel="La 2">
+  <programme start="20210317074500 +0100" stop="20210317075500 +0100" channel="La 2">
     <title lang="es">La 2 Exprés</title>
     <title lang="en">La 2 Noticias Exprés</title>
     <desc lang="es">Una versión resumida del informativo de La 2 que sirve para cerrar el día con las informaciones y las imágenes más impotantes de la jornada. Eso sí, con el sello del veterano espacio del canal público, en el que predominan temas sociales, ecología y nuevas tecnologías.(n)</desc>
@@ -793,7 +824,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317065500 +0200" stop="20210317073000 +0200" channel="La 2">
+  <programme start="20210317075500 +0100" stop="20210317083000 +0100" channel="La 2">
     <title lang="es">Jardines con historia</title>
     <sub-title lang="es">Mallorca. Raixa y Son Marroig</sub-title>
     <desc lang="es">Repaso a la historia y a la botánica de los jardines más emblemáticos del patrimonio español: los de Aranjuez, los Pazos de Santa Cruz de Rivadulla y de Oca, el Jardín de aclimatación de la Orotava, el Chillida Leku, La Alhambra, entre otros.(n)</desc>
@@ -802,7 +833,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/b1/674737.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210317073000 +0200" stop="20210317075500 +0200" channel="La 2">
+  <programme start="20210317083000 +0100" stop="20210317085500 +0100" channel="La 2">
     <title lang="es">Aquí hay trabajo</title>
     <desc lang="es">Un espacio que resume la actualidad del mundo laboral, con información sobre su situación, sobre becas y cursos de formación. Todo apoyado con invitados especialistas. Además, el programa muestra ofertas de empleo a las que pueden acceder los televidentes.(n)</desc>
     <credits>
@@ -817,7 +848,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317075500 +0200" stop="20210317085500 +0200" channel="La 2">
+  <programme start="20210317085500 +0100" stop="20210317095500 +0100" channel="La 2">
     <title lang="es">La aventura del saber</title>
     <desc lang="es">Programa diario matinal destinado a la formación educativa y la divulgación mediante entrevistas y series documentales. Coproducido por RTVE y el Ministerio de Educación, se trata de uno de los espacios más veteranos de la cadena, con más de dos décadas de emisión.(n)</desc>
     <credits>
@@ -832,7 +863,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317085500 +0200" stop="20210317094000 +0200" channel="La 2">
+  <programme start="20210317095500 +0100" stop="20210317104000 +0100" channel="La 2">
     <title lang="es">La inmensa tierra</title>
     <sub-title lang="es">Bosques</sub-title>
     <desc lang="es">Desiertos, bosques, cuevas... la particular geografía  de la Tierra ha hecho que los humanos se adapten a vivir en lugares muy distintos. Esta serie documental visita los lugares más inhóspitos y espectaculares del planeta.(n)</desc>
@@ -846,7 +877,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317094000 +0200" stop="20210317103500 +0200" channel="La 2">
+  <programme start="20210317104000 +0100" stop="20210317113500 +0100" channel="La 2">
     <title lang="es">La Basílica de San Pedro</title>
     <title lang="en">Saint-Pierre de Rome: la basilique de tous les records</title>
     <desc lang="es">La Basílica de San Pedro, en la Ciudad del Vaticano, Roma (Italia), es una mega estructura religiosa, depósito de obras maestras del arte cristiano. Se colocó la primera piedra en 1506 y se consagró en el año 1626.(n)</desc>
@@ -858,7 +889,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317103500 +0200" stop="20210317120000 +0200" channel="La 2">
+  <programme start="20210317113500 +0100" stop="20210317130000 +0100" channel="La 2">
     <title lang="es">Traición y olvido</title>
     <title lang="en">Gunpoint</title>
     <desc lang="es">Un grupo de criminales, liderados por el malvado Drago, asalta un tren y se lleva todo el dinero del que depende un pequeño pueblo de Colorado. Es entonces cuando Chad Lucas, sheriff de Lodgepole, reúne a una variopinta cuadrilla para ir en busca de Drago, quien se esconde en Nuevo México. Una vez allí, el grupo intentará recuperar el dinero y rescatar a Uvalde, la camarera a la que Drago ha secuestrado y de la que el sheriff está enamorado.Wéstern que supuso una de las primeras películas que el cineasta estadounidense Earl Bellamy producía para la gran pantalla. A pesar de su modesta trayectoría como director de largometrajes, Bellamy es uno de los directores más prolíficos de los Estados Unidos y en su currículo figuran más de 1600 episodios de series de televisión dirigidos. ''Lassie'', ''Starsky y Hutch'', ''Los hombres de Harrelson'' o ''V'' son algunas de las exitosas series en las que Bellamy ha trabajado. A pesar de tratarse de una película del oeste cargada de acción, el filme incluye pequeñas dosis de humor, herencia del carácter de su director. El escaso presupuesto no acabó repercutiendo el resultado final de la película, en la que destaca la interpretación de Audie Murphy.(n)</desc>
@@ -882,7 +913,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210317120000 +0200" stop="20210317125000 +0200" channel="La 2">
+  <programme start="20210317130000 +0100" stop="20210317135000 +0100" channel="La 2">
     <title lang="es">América salvaje</title>
     <title lang="en">Wild LATAM</title>
     <desc lang="es">Sudamérica, junto con Centroamérica y México componen una unidad ecológica sorprendente. Esta serie documental muestra la riqueza de su vida salvaje, sus momentos más llamativos y sus secretos mejor guardados.(n)</desc>
@@ -893,7 +924,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317125000 +0200" stop="20210317131500 +0200" channel="La 2">
+  <programme start="20210317135000 +0100" stop="20210317141500 +0100" channel="La 2">
     <title lang="es">Visítame en un día</title>
     <sub-title lang="es">Helsinki</sub-title>
     <desc lang="es">Diana Dzhalalova propone visitar los lugares más importantes de una ciudad en un solo día.(n)</desc>
@@ -907,7 +938,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317131500 +0200" stop="20210317134500 +0200" channel="La 2">
+  <programme start="20210317141500 +0100" stop="20210317144500 +0100" channel="La 2">
     <title lang="es">Visítame en un día</title>
     <sub-title lang="es">Tallin</sub-title>
     <desc lang="es">Diana Dzhalalova propone visitar los lugares más importantes de una ciudad en un solo día.(n)</desc>
@@ -921,7 +952,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317134500 +0200" stop="20210317143000 +0200" channel="La 2">
+  <programme start="20210317144500 +0100" stop="20210317153000 +0100" channel="La 2">
     <title lang="es">Saber y ganar</title>
     <desc lang="es">El concurso, presentado por Jordi Hurtado, es el programa diario con más años de emisión en la historia de la televisión en España. Durante el programa, tres concursantes se enfrentan a diferentes pruebas de conocimientos culturales y de agilidad mental.(n)</desc>
     <credits>
@@ -936,7 +967,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317143000 +0200" stop="20210317151900 +0200" channel="La 2">
+  <programme start="20210317153000 +0100" stop="20210317161900 +0100" channel="La 2">
     <title lang="es">Iberia salvaje</title>
     <sub-title lang="es">Otoño</sub-title>
     <desc lang="es">Serie documental que muestra los cambios que ocurren en la naturaleza de la Península Ibérica y cómo afectan a la vida salvaje los cambios de cada estación del año.(n)</desc>
@@ -951,7 +982,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317151900 +0200" stop="20210317161500 +0200" channel="La 2">
+  <programme start="20210317161900 +0100" stop="20210317171500 +0100" channel="La 2">
     <title lang="es">Vivir con lobos</title>
     <title lang="en">Vivre avec les loups</title>
     <desc lang="es">Cerca de 3.000 lobos pueblan los bosques de los Cárpatos en el norte de Rumania. Campesinos, como Vostinar, crían a sus rebaños siguiendo las tradiciones ancestrales. Para proteger su rebaño de más de 300 ovejas, solo tiene perros, los famosos pastores de los Cárpatos.(n)</desc>
@@ -967,7 +998,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317161500 +0200" stop="20210317171000 +0200" channel="La 2">
+  <programme start="20210317171500 +0100" stop="20210317181000 +0100" channel="La 2">
     <title lang="es">Los secretos de la noche</title>
     <sub-title lang="es">El Campo</sub-title>
     <desc lang="es">Cuando los colores del día se desvanecen y la luz de la luna sumerge al mundo en un resplandor brillante, comienza el momento más secreto del día: la noche. La noche se polariza. Nos fascina y, sin embargo, al mismo tiempo siempre nos ha aterrorizado.(n)</desc>
@@ -981,7 +1012,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317171000 +0200" stop="20210317180000 +0200" channel="La 2">
+  <programme start="20210317181000 +0100" stop="20210317190000 +0100" channel="La 2">
     <title lang="es">Las recetas de Julie</title>
     <title lang="en">Les carnets de Julie</title>
     <sub-title lang="es">Provins</sub-title>
@@ -996,7 +1027,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317180000 +0200" stop="20210317183000 +0200" channel="La 2">
+  <programme start="20210317190000 +0100" stop="20210317193000 +0100" channel="La 2">
     <title lang="es">Arqueomanía</title>
     <sub-title lang="es">Gadir</sub-title>
     <desc lang="es">La geografía española alberga algunos de los más preciados tesoros arqueológicos e históricos. Esta serie documental visita en cada entrega un yacimiento de la Península, con las aportaciones de diversos expertos y sin dejar de lado su contexto histórico y cultural.(n)</desc>
@@ -1011,7 +1042,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317183000 +0200" stop="20210317184500 +0200" channel="La 2">
+  <programme start="20210317193000 +0100" stop="20210317194500 +0100" channel="La 2">
     <title lang="es">La 2 Exprés</title>
     <title lang="en">La 2 Noticias Exprés</title>
     <desc lang="es">Una versión resumida del informativo de La 2 que sirve para cerrar el día con las informaciones y las imágenes más impotantes de la jornada. Eso sí, con el sello del veterano espacio del canal público, en el que predominan temas sociales, ecología y nuevas tecnologías.(n)</desc>
@@ -1023,7 +1054,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317184500 +0200" stop="20210317191000 +0200" channel="La 2">
+  <programme start="20210317194500 +0100" stop="20210317201000 +0100" channel="La 2">
     <title lang="es">Visítame en un día</title>
     <sub-title lang="es">Nápoles</sub-title>
     <desc lang="es">Diana Dzhalalova propone visitar los lugares más importantes de una ciudad en un solo día.(n)</desc>
@@ -1037,7 +1068,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317191000 +0200" stop="20210317200000 +0200" channel="La 2">
+  <programme start="20210317201000 +0100" stop="20210317210000 +0100" channel="La 2">
     <title lang="es">Tierras extremas</title>
     <title lang="en">Terres extrêmes</title>
     <sub-title lang="es">Los Emiratos contra el desierto</sub-title>
@@ -1050,7 +1081,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317200000 +0200" stop="20210317205000 +0200" channel="La 2">
+  <programme start="20210317210000 +0100" stop="20210317215000 +0100" channel="La 2">
     <title lang="es">Documaster monarquias en guerra</title>
     <title lang="en">Royals at War</title>
     <sub-title lang="es">Primera Parte</sub-title>
@@ -1063,7 +1094,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210317205000 +0200" stop="20210317214500 +0200" channel="La 2">
+  <programme start="20210317215000 +0100" stop="20210317224500 +0100" channel="La 2">
     <title lang="es">Documaster monarquias en guerra</title>
     <title lang="en">Royals at War</title>
     <sub-title lang="es">Segunda Parte</sub-title>
@@ -1076,7 +1107,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210317214500 +0200" stop="20210317223000 +0200" channel="La 2">
+  <programme start="20210317224500 +0100" stop="20210317233000 +0100" channel="La 2">
     <title lang="es">En portada</title>
     <sub-title lang="es">El espejo roto de Siria</sub-title>
     <desc lang="es">Espacio que ofrece reportajes internacionales sobre situaciones conflictivas que sufren determinados países. ''En portada'' es uno de los programas más veteranos de la cadena y su calidad se ha visto recompensada con numerosos premios nacionales e internacionales.(n)</desc>
@@ -1091,7 +1122,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210317223000 +0200" stop="20210317232500 +0200" channel="La 2">
+  <programme start="20210317233000 +0100" stop="20210318002500 +0100" channel="La 2">
     <title lang="es">Las cartas de mis padres</title>
     <title lang="en">Les 7 caixes</title>
     <desc lang="es">La historia de Dory Sontheiner que al morir su madre encuentra en el altillo de su casa siete cajas, llenas de fotografías, cartas y recuerdos de familia. Al abrirlas descubre que toda su familia era judía, víctima de persecuciones y crímenes perpretados por los nazis.(n)</desc>
@@ -1103,7 +1134,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/d0/414416.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210317232500 +0200" stop="20210317235500 +0200" channel="La 2">
+  <programme start="20210318002500 +0100" stop="20210318005500 +0100" channel="La 2">
     <title lang="es">Conciertos de Radio-3</title>
     <title lang="en">Los conciertos de Radio 3</title>
     <sub-title lang="es">Las Bajas Pasiones</sub-title>
@@ -1119,7 +1150,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210317235500 +0200" stop="20210318004000 +0200" channel="La 2">
+  <programme start="20210318005500 +0100" stop="20210318014000 +0100" channel="La 2">
     <title lang="es">La inmensa tierra</title>
     <sub-title lang="es">Agua</sub-title>
     <desc lang="es">Desiertos, bosques, cuevas... la particular geografía  de la Tierra ha hecho que los humanos se adapten a vivir en lugares muy distintos. Esta serie documental visita los lugares más inhóspitos y espectaculares del planeta.(n)</desc>
@@ -1133,7 +1164,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318004000 +0200" stop="20210318013000 +0200" channel="La 2">
+  <programme start="20210318014000 +0100" stop="20210318023000 +0100" channel="La 2">
     <title lang="es">Tierras extremas</title>
     <title lang="en">Terres extrêmes</title>
     <sub-title lang="es">Chile</sub-title>
@@ -1146,7 +1177,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318013000 +0200" stop="20210318022000 +0200" channel="La 2">
+  <programme start="20210318023000 +0100" stop="20210318032000 +0100" channel="La 2">
     <title lang="es">Las recetas de Julie</title>
     <title lang="en">Les carnets de Julie</title>
     <sub-title lang="es">Las playas del Norte</sub-title>
@@ -1161,7 +1192,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318022000 +0200" stop="20210318031000 +0200" channel="La 2">
+  <programme start="20210318032000 +0100" stop="20210318041000 +0100" channel="La 2">
     <title lang="es">Iberia salvaje</title>
     <sub-title lang="es">Verano</sub-title>
     <desc lang="es">Serie documental que muestra los cambios que ocurren en la naturaleza de la Península Ibérica y cómo afectan a la vida salvaje los cambios de cada estación del año.(n)</desc>
@@ -1176,7 +1207,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318031000 +0200" stop="20210318033000 +0200" channel="La 2">
+  <programme start="20210318041000 +0100" stop="20210318043000 +0100" channel="La 2">
     <title lang="es">La 2 Exprés</title>
     <title lang="en">La 2 Noticias Exprés</title>
     <desc lang="es">Una versión resumida del informativo de La 2 que sirve para cerrar el día con las informaciones y las imágenes más impotantes de la jornada. Eso sí, con el sello del veterano espacio del canal público, en el que predominan temas sociales, ecología y nuevas tecnologías.(n)</desc>
@@ -1188,7 +1219,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318033000 +0200" stop="20210318043000 +0200" channel="La 2">
+  <programme start="20210318043000 +0100" stop="20210318053000 +0100" channel="La 2">
     <title lang="es">La aventura del saber</title>
     <desc lang="es">Programa diario matinal destinado a la formación educativa y la divulgación mediante entrevistas y series documentales. Coproducido por RTVE y el Ministerio de Educación, se trata de uno de los espacios más veteranos de la cadena, con más de dos décadas de emisión.(n)</desc>
     <credits>
@@ -1203,7 +1234,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318043000 +0200" stop="20210318045500 +0200" channel="La 2">
+  <programme start="20210318053000 +0100" stop="20210318055500 +0100" channel="La 2">
     <title lang="es">That's English</title>
     <desc lang="es">Programa divulgativo que ofrece un curso de inglés a distancia, creado por el Ministerio de Educación en colaboración con la BBC británica y Televisión Española. El curso permite obtener el Certificado del Ciclo Elemental de la Escuela Oficial de Idiomas.(n)</desc>
     <credits>
@@ -1217,7 +1248,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318045500 +0200" stop="20210318050000 +0200" channel="La 2">
+  <programme start="20210318055500 +0100" stop="20210318060000 +0100" channel="La 2">
     <title lang="es">La 2 Exprés</title>
     <title lang="en">La 2 Noticias Exprés</title>
     <desc lang="es">Una versión resumida del informativo de La 2 que sirve para cerrar el día con las informaciones y las imágenes más impotantes de la jornada. Eso sí, con el sello del veterano espacio del canal público, en el que predominan temas sociales, ecología y nuevas tecnologías.(n)</desc>
@@ -1229,7 +1260,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318050000 +0200" stop="20210318053000 +0200" channel="La 2">
+  <programme start="20210318060000 +0100" stop="20210318063000 +0100" channel="La 2">
     <title lang="es">Zoom tendencias</title>
     <desc lang="es">Espacio semanal dedicado a destacar y analizar el estilo de vida actual proponiendo reportajes de interiorismo, moda, restauración o cosmética. Aquellas tendencias que marcan la forma de ser hoy en día, serán tratadas en el programa.(n)</desc>
     <credits>
@@ -1243,7 +1274,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318053000 +0200" stop="20210318055500 +0200" channel="La 2">
+  <programme start="20210318063000 +0100" stop="20210318065500 +0100" channel="La 2">
     <title lang="es">Inglés Online</title>
     <title lang="en">Inglés Online TVE</title>
     <desc lang="es">Curso de ingles de Televisión Española para hisponoparlantes.(n)</desc>
@@ -1259,13 +1290,13 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318055500 +0200" stop="20210318064500 +0200" channel="La 2">
+  <programme start="20210318065500 +0100" stop="20210318074500 +0100" channel="La 2">
     <title lang="es">Documental</title>
     <desc lang="es">Espacio que incluye la emisión de un documental.(n)</desc>
     <category lang="es">Actualidad</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/69/155497.png" />
   </programme>
-  <programme start="20210318064500 +0200" stop="20210318065500 +0200" channel="La 2">
+  <programme start="20210318074500 +0100" stop="20210318075500 +0100" channel="La 2">
     <title lang="es">La 2 Exprés</title>
     <title lang="en">La 2 Noticias Exprés</title>
     <desc lang="es">Una versión resumida del informativo de La 2 que sirve para cerrar el día con las informaciones y las imágenes más impotantes de la jornada. Eso sí, con el sello del veterano espacio del canal público, en el que predominan temas sociales, ecología y nuevas tecnologías.(n)</desc>
@@ -1277,7 +1308,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318065500 +0200" stop="20210318073000 +0200" channel="La 2">
+  <programme start="20210318075500 +0100" stop="20210318083000 +0100" channel="La 2">
     <title lang="es">Pueblo de Dios</title>
     <desc lang="es">Programa religioso que ofrece reportajes sobre el trabajo que realizan las ONG o comunidades religiosas en España y en el mundo. Retrata los proyectos que se desarrollan en el campo de la educación y la salud para ayudar a las capas sociales más necesitadas.(n)</desc>
     <credits>
@@ -1291,7 +1322,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318073000 +0200" stop="20210318075500 +0200" channel="La 2">
+  <programme start="20210318083000 +0100" stop="20210318085500 +0100" channel="La 2">
     <title lang="es">Aquí hay trabajo</title>
     <desc lang="es">Un espacio que resume la actualidad del mundo laboral, con información sobre su situación, sobre becas y cursos de formación. Todo apoyado con invitados especialistas. Además, el programa muestra ofertas de empleo a las que pueden acceder los televidentes.(n)</desc>
     <credits>
@@ -1306,7 +1337,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318075500 +0200" stop="20210318085500 +0200" channel="La 2">
+  <programme start="20210318085500 +0100" stop="20210318095500 +0100" channel="La 2">
     <title lang="es">La aventura del saber</title>
     <desc lang="es">Programa diario matinal destinado a la formación educativa y la divulgación mediante entrevistas y series documentales. Coproducido por RTVE y el Ministerio de Educación, se trata de uno de los espacios más veteranos de la cadena, con más de dos décadas de emisión.(n)</desc>
     <credits>
@@ -1321,19 +1352,19 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318085500 +0200" stop="20210318094000 +0200" channel="La 2">
+  <programme start="20210318095500 +0100" stop="20210318104000 +0100" channel="La 2">
     <title lang="es">Documenta2</title>
     <desc lang="es">Espacio que ofrece a los espectadores la oportunidad de disfrutar de diferentes documentales internacionales especializados en los diversos ámbitos de la divulgación histórica, científica y cultural, entre otros campos.(n)</desc>
     <category lang="es">Deportes</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/52/246866.png" />
   </programme>
-  <programme start="20210318094000 +0200" stop="20210318103000 +0200" channel="La 2">
+  <programme start="20210318104000 +0100" stop="20210318113000 +0100" channel="La 2">
     <title lang="es">Documental</title>
     <desc lang="es">Espacio que incluye la emisión de un documental.(n)</desc>
     <category lang="es">Actualidad</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/69/155497.png" />
   </programme>
-  <programme start="20210318103000 +0200" stop="20210318120500 +0200" channel="La 2">
+  <programme start="20210318113000 +0100" stop="20210318130500 +0100" channel="La 2">
     <title lang="es">La Duquesa y el Truhán</title>
     <title lang="en">The Duchess and the Dirtwater Fox</title>
     <desc lang="es">El Truhán es un hábil jugador que quiere conservar los cuarenta mil dólares que le ha robado a un grupo de bandidos, y la Duquesa es una ingeniosa cantante de taberna que se quiere convertir en una 'auténtica dama'. Pero cuando se hacen cómplices se dan cuenta de que lo que en realidad quieren es estar juntos. Comedia romántica ambientada en el Lejano Oeste que parodia el popular género wéstern. ''La Duquesa y el Truhán'', cuyo resultado final es bastante irregular, se encuentra entre el género clásico de Hollywood y la comedia contemporánea. La química entre la pareja protagonista, formada por George Segal (''¿Quién teme a Virginia Woolf?'') y Goldie Hawn (que además de tener una extensa carrera cinematográfica, es madre de la también actriz Kate Hudson), es lo más destacable del filme, consiguiendo Hawn incluso ser nominada a los Globos de Oro por su interpretación de la Duquesa Swansbury. Como curiosidad, el padre de la actriz, Rut Hawn, aparece en la película interpretando al violinista de una orquesta.(n)</desc>
@@ -1357,19 +1388,19 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210318120500 +0200" stop="20210318125500 +0200" channel="La 2">
+  <programme start="20210318130500 +0100" stop="20210318135500 +0100" channel="La 2">
     <title lang="es">Documental</title>
     <desc lang="es">Espacio que incluye la emisión de un documental.(n)</desc>
     <category lang="es">Actualidad</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/69/155497.png" />
   </programme>
-  <programme start="20210318125500 +0200" stop="20210318134500 +0200" channel="La 2">
+  <programme start="20210318135500 +0100" stop="20210318144500 +0100" channel="La 2">
     <title lang="es">Documental</title>
     <desc lang="es">Espacio que incluye la emisión de un documental.(n)</desc>
     <category lang="es">Actualidad</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/69/155497.png" />
   </programme>
-  <programme start="20210318134500 +0200" stop="20210318143000 +0200" channel="La 2">
+  <programme start="20210318144500 +0100" stop="20210318153000 +0100" channel="La 2">
     <title lang="es">Saber y ganar</title>
     <desc lang="es">El concurso, presentado por Jordi Hurtado, es el programa diario con más años de emisión en la historia de la televisión en España. Durante el programa, tres concursantes se enfrentan a diferentes pruebas de conocimientos culturales y de agilidad mental.(n)</desc>
     <credits>
@@ -1384,25 +1415,25 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318143000 +0200" stop="20210318161500 +0200" channel="La 2">
+  <programme start="20210318153000 +0100" stop="20210318171500 +0100" channel="La 2">
     <title lang="es">Grandes documentales</title>
     <desc lang="es">Programa divulgativo que aprovecha la hora de la sobremesa para viajar a los confines del mundo y observar con detenimiento la diversa vida natural que brinda el planeta Tierra. Para ello, se emiten series documentales de televisiones y productoras de todo el mundo.(n)</desc>
     <category lang="es">General</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/5a/138586.png" />
   </programme>
-  <programme start="20210318161500 +0200" stop="20210318170500 +0200" channel="La 2">
+  <programme start="20210318171500 +0100" stop="20210318180500 +0100" channel="La 2">
     <title lang="es">Documenta2</title>
     <desc lang="es">Espacio que ofrece a los espectadores la oportunidad de disfrutar de diferentes documentales internacionales especializados en los diversos ámbitos de la divulgación histórica, científica y cultural, entre otros campos.(n)</desc>
     <category lang="es">Deportes</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/52/246866.png" />
   </programme>
-  <programme start="20210318170500 +0200" stop="20210318180000 +0200" channel="La 2">
+  <programme start="20210318180500 +0100" stop="20210318190000 +0100" channel="La 2">
     <title lang="es">Documental</title>
     <desc lang="es">Espacio que incluye la emisión de un documental.(n)</desc>
     <category lang="es">Actualidad</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/69/155497.png" />
   </programme>
-  <programme start="20210318180000 +0200" stop="20210318183000 +0200" channel="La 2">
+  <programme start="20210318190000 +0100" stop="20210318193000 +0100" channel="La 2">
     <title lang="es">¡Atención Obras!</title>
     <desc lang="es">Magacín de actualidad cuyo objetivo es mostrar al espectador las líneas fundamentales de lo que está pasando en el ámbito cultural. Con una vocación divulgativa clara, el espacio presta especial atención a las artes escénicas, la música y las artes plásticas.(n)</desc>
     <credits>
@@ -1417,7 +1448,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318183000 +0200" stop="20210318184500 +0200" channel="La 2">
+  <programme start="20210318193000 +0100" stop="20210318194500 +0100" channel="La 2">
     <title lang="es">La 2 Exprés</title>
     <title lang="en">La 2 Noticias Exprés</title>
     <desc lang="es">Una versión resumida del informativo de La 2 que sirve para cerrar el día con las informaciones y las imágenes más impotantes de la jornada. Eso sí, con el sello del veterano espacio del canal público, en el que predominan temas sociales, ecología y nuevas tecnologías.(n)</desc>
@@ -1429,19 +1460,19 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210318184500 +0200" stop="20210318191000 +0200" channel="La 2">
+  <programme start="20210318194500 +0100" stop="20210318201000 +0100" channel="La 2">
     <title lang="es">Documental</title>
     <desc lang="es">Espacio que incluye la emisión de un documental.(n)</desc>
     <category lang="es">Actualidad</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/69/155497.png" />
   </programme>
-  <programme start="20210318191000 +0200" stop="20210318200000 +0200" channel="La 2">
+  <programme start="20210318201000 +0100" stop="20210318210000 +0100" channel="La 2">
     <title lang="es">Documental</title>
     <desc lang="es">Espacio que incluye la emisión de un documental.(n)</desc>
     <category lang="es">Actualidad</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/69/155497.png" />
   </programme>
-  <programme start="20210318200000 +0200" stop="20210318205500 +0200" channel="La 2">
+  <programme start="20210318210000 +0100" stop="20210318215500 +0100" channel="La 2">
     <title lang="es">El condensador de Fluzo</title>
     <desc lang="es">El escritor escritor Juan Gómez-Jurado conduce este espacio de divulgación histórica. En cada edición den programa se analiza un concepto concreto desde el punto de vista de la historia universal. Además, l Javier Cansado y Miguel Iríbar dan la nota cómica del espacio.(n)</desc>
     <credits>
@@ -1452,7 +1483,7 @@
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/5a/673882.png" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20210318205500 +0200" stop="20210318223500 +0200" channel="La 2">
+  <programme start="20210318215500 +0100" stop="20210318233500 +0100" channel="La 2">
     <title lang="es">Genius: Picasso</title>
     <title lang="en">Genius 2: Pablo Picasso</title>
     <desc lang="es">Pablo Picasso lucha por llamar la atención sobre la creciente amenaza del fascismo en España. Mientras tanto, el joven Pablo sueña con convertirse en un gran pintor. Pero primero debe encontrar su voz.(n)</desc>
