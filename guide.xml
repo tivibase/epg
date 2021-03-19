@@ -1,343 +1,1532 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="La 1">
-    <display-name lang="es">La 1</display-name>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/83/10000003.png" />
-    <url>http://www.elmundo.es</url>
+  <channel id="Cazavisión">
+    <display-name lang="es">Cazavisión</display-name>
+    <icon src="https://programacion-tv.elpais.com/imagenes/canales/656.jpg" />
+    <url>http://www.elpais.com</url>
   </channel>
-  <programme start="20210319001000 +0100" stop="20210319011100 +0100" channel="La 1">
-    <title lang="es">Comando Actualidad</title>
-    <sub-title lang="es">Alta gama</sub-title>
-    <desc lang="es">España es el paraíso de los millonarios. En 2018 se ha convertido en el país europeo de mayor consumo de productos de alta gama. Sin embargo, el mercado del lujo ha cambiado. Las nuevas necesidades de los millonarios pasan por vivir llamativas experiencias.(n)</desc>
+  <channel id="La 1 HD">
+    <display-name lang="es">La 1 HD</display-name>
+    <icon src="https://programacion-tv.elpais.com/imagenes/canales/690.jpg" />
+    <url>http://www.elpais.com</url>
+  </channel>
+  <programme start="20210319000000 +0100" stop="20210319003130 +0100" channel="Cazavisión">
+    <title lang="es">A tiro</title>
+    <desc lang="es">Serie conducida por Ramón A.C. Fitó es periodista, experto cazador y tirador del más alto nivel que ha llegado a ser campeón de Europa de Tiro a larga distancia (2013).(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2669189.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="ES">
+      <value>defensor de la carne de caza, afirma que no encontrarás una carne más ecológica que la criada en libertad sin la intervención del hombre</value>
+    </rating>
+  </programme>
+  <programme start="20210319003130 +0100" stop="20210319010801 +0100" channel="Cazavisión">
+    <title lang="es">Perros de caza</title>
+    <desc lang="es">En esta serie repasaremos las peculiaridades de las diferentes razas cazadoras: Cómo actúan, cómo cazan, cuáles son sus puntos débiles, sus puntos fuertes y diferentes técnicas y recomendaciones sobre cada raza.(n)</desc>
     <credits>
-      <director>Silvia Sánchez</director>
+      <presenter>Ricardo Vicente Corredera</presenter>
     </credits>
     <date>2020</date>
-    <category lang="es">Actualidad</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/62/500834.png" />
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2586973.jpg" />
     <country lang="es">España</country>
-    <rating>
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210319011100 +0100" stop="20210319021000 +0100" channel="La 1">
-    <title lang="es">Comando Actualidad</title>
-    <sub-title lang="es">Modas peligrosas</sub-title>
-    <desc lang="es">El programa analiza, desde todos los puntos de vista, qué sucede para que decenas de jóvenes se jueguen la vida por salir en una foto. Los retos de siempre, amplificados por internet y las redes sociales, son hoy en día más peligrosos que nunca.(n)</desc>
-    <credits>
-      <director>Silvia Sánchez</director>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Actualidad</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/bd/668349.png" />
-    <country lang="es">España</country>
-    <rating>
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210319021000 +0100" stop="20210319040000 +0100" channel="La 1">
-    <title lang="es">La noche en 24 horas</title>
-    <desc lang="es">Informativo diario nocturno presentado por Xabier Fortes que ofrece un análisis profundo y plural de la actualidad de la jornada.(n)</desc>
-    <credits>
-      <director>Xabier Fortes</director>
-      <presenter>Xabier Fortes</presenter>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Noticias</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e6/655590.png" />
-    <country lang="es">España</country>
-    <rating>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210319040000 +0100" stop="20210319050000 +0100" channel="La 1">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
-    <date>2014</date>
-    <category lang="es">Noticias</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/2a/170538.png" />
+  <programme start="20210319010801 +0100" stop="20210319013248 +0100" channel="Cazavisión">
+    <title lang="es">Safari Seasons</title>
+    <desc lang="es">No importa quién seas o dónde vivas. Si tu pasión es cazar, entonces haz que tus sueños se hagan realidad.(n)</desc>
+    <category lang="es">Caza y Pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1722965.jpg" />
     <country lang="es">España</country>
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20210319050000 +0100" stop="20210319053000 +0100" channel="La 1">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
-    <date>2014</date>
-    <category lang="es">Noticias</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/2a/170538.png" />
-    <country lang="es">España</country>
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20210319053000 +0100" stop="20210319070000 +0100" channel="La 1">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Sirun Demirjian conduce este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.(n)</desc>
-    <credits>
-      <presenter>Sirun Demirjian</presenter>
-    </credits>
-    <category lang="es">Noticias</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f9/682745.png" />
-    <country lang="es">España</country>
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20210319070000 +0100" stop="20210319090000 +0100" channel="La 1">
-    <title lang="es">La hora de La 1: La hora política</title>
-    <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad con reportajes y entrevistas dedicados a analizar en profundidad el mundo de la política.(n)</desc>
-    <credits>
-      <director>Mónica López</director>
-      <presenter>Mónica López</presenter>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Magazines</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/72/653170.png" />
-    <country lang="es">España</country>
-  </programme>
-  <programme start="20210319090000 +0100" stop="20210319113000 +0100" channel="La 1">
-    <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servició público para ayudar a los ciudadanos en su día a día.(n)</desc>
-    <credits>
-      <director>Mónica López</director>
-      <presenter>Mónica López</presenter>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Magazines</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/72/653170.png" />
-    <country lang="es">España</country>
-    <rating>
+    <episode-num system="onscreen">S1 E46</episode-num>
+    <rating system="ES">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210319113000 +0100" stop="20210319140000 +0100" channel="La 1">
+  <programme start="20210319013248 +0100" stop="20210319015231 +0100" channel="Cazavisión">
+    <title lang="es">Outdoor Secrets</title>
+    <desc lang="es">Programa sobre caza.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Caza y Pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1607918.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S1 E68</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210319015231 +0100" stop="20210319021519 +0100" channel="Cazavisión">
+    <title lang="es">Birdmen</title>
+    <desc lang="es">Serie de caza de aves acuáticas en EEUU, conducida por Denis Isbister y Dale Dyer, que presenta cuatro cacerías o historias diferentes en cada capítulo.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2392618.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210319021519 +0100" stop="20210319024321 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies.(n)</desc>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2529107.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E42</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210319024321 +0100" stop="20210319030806 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras con Stiliyan Kadrev</title>
+    <desc lang="es">Disfruta de grandes lances y espectaculares imágenes alrededor del mundo, de la mano del reconocido cazador y productor Stiliyan Kadrev.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1601319.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E34</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210319030806 +0100" stop="20210319035229 +0100" channel="Cazavisión">
+    <title lang="es">Caza Salvaje en lugares extremos</title>
+    <desc lang="es">El famoso cazador Jim Shockey, nos hará disfrutar de las más increíbles y salvajes cacerías en los enclaves más inexplorados y extremos del planeta.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2545321.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E34</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210319035229 +0100" stop="20210319042440 +0100" channel="Cazavisión">
+    <title lang="es">Pro-Hunters</title>
+    <desc lang="es">La imagen del profesional de caza siempre es fundamental ya que es quien conoce el terreno y los animales que se podrán cazar.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1601288.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210319042440 +0100" stop="20210319045744 +0100" channel="Cazavisión">
+    <title lang="es">Corzos. Los duendes del bosque</title>
+    <desc lang="es">Serie dedicada al 'duende', donde descubriremos los secretos que encierra este ansiado y misterioso ejemplar.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2710597.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210319045744 +0100" stop="20210319052633 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <desc lang="es">En esta ocasión, viajaremos hasta tierras castellanomanchegas con el objetivo puesto en los conejos. Haremos parada en las localidades de Almorox y Villahermosa.(n)</desc>
+    <category lang="es">Caza y Pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1561659.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E135</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210319052633 +0100" stop="20210319060239 +0100" channel="Cazavisión">
+    <title lang="es">Caza en Extremadura</title>
+    <desc lang="es">Una serie para los amantes de la caza en Extremadura. Tierra de gran actividad cinegética en la que, además de espectaculares monterías, también seremos testigos de diferentes modalidades tanto de caza mayor como menor.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1518347.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E286</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210319060239 +0100" stop="20210319065926 +0100" channel="Cazavisión">
+    <title lang="es">De caza en la vecina Francia</title>
+    <desc lang="es">En este documental, veremos cómo se las arreglan unos jóvenes aficionados franceses en plena naturaleza, donde habrán de poner en práctica todos los conocimientos teóricos adquiridos previamente.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2484121.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E57</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210319065926 +0100" stop="20210319074029 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y Pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1561659.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E26</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210319074029 +0100" stop="20210319081055 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2529107.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E53</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210319081055 +0100" stop="20210319090000 +0100" channel="Cazavisión">
+    <title lang="es">Caza en Extremadura</title>
+    <desc lang="es">Una serie para los amantes de la caza en Extremadura. Tierra de gran actividad cinegética en la que, además de espectaculares monterías, también seremos testigos de diferentes modalidades tanto de caza mayor como menor.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1518347.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E306</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210319090000 +0100" stop="20210319092245 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y trampero en Norteamérica</title>
+    <desc lang="es">Documental de caza.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3969751.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210319092245 +0100" stop="20210319095000 +0100" channel="Cazavisión">
+    <title lang="es">Zona de caza</title>
+    <desc lang="es">Producida y realizada en Portugal, y dirigida por Pedro Vitorino (director de la revista Caça &amp; Cães de Caça), 'Zona de Caza' llega con nuevas aventuras cinegéticas.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2628316.jpg" />
+    <country lang="es">Portugal</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="ES">
+      <value>director de la revista Caça &amp; Cães de Caça</value>
+    </rating>
+  </programme>
+  <programme start="20210319095000 +0100" stop="20210319100052 +0100" channel="Cazavisión">
+    <title lang="es">Prueba de armas</title>
+    <desc lang="es">Espacio que analiza las diferentes armas dedicadas a la caza.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/426960.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E68</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210319100052 +0100" stop="20210319102838 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras con Stiliyan Kadrev</title>
+    <desc lang="es">Disfruta de grandes lances y espectaculares imágenes alrededor del mundo, de la mano del reconocido cazador y productor Stiliyan Kadrev.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1601319.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E25</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210319102838 +0100" stop="20210319105904 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2529107.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E31</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210319105904 +0100" stop="20210319113039 +0100" channel="Cazavisión">
+    <title lang="es">Pro-Hunters</title>
+    <desc lang="es">La imagen del profesional de caza siempre es fundamental ya que es quien conoce el terreno y los animales que se podrán cazar.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1601288.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210319113039 +0100" stop="20210319120000 +0100" channel="Cazavisión">
+    <title lang="es">Los secretos de África</title>
+    <desc lang="es">Volvemos a unirnos a los Young Wild Hunters para conocer, en esta ocasión, Los Secretos de África. Y es que cazar en el Continente Negro es uno de esos sueños que todo aficionado lleva dentro.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2727860.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210319120000 +0100" stop="20210319124950 +0100" channel="Cazavisión">
+    <title lang="es">De caza en la vecina Francia</title>
+    <desc lang="es">Espacio documental de caza que nos lleva hasta Francia.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2484121.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E49</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210319124950 +0100" stop="20210319132650 +0100" channel="Cazavisión">
+    <title lang="es">Perros de caza</title>
+    <desc lang="es">En esta serie repasaremos las peculiaridades de las diferentes razas cazadoras: Cómo actúan, cómo cazan, cuáles son sus puntos débiles, sus puntos fuertes y diferentes técnicas y recomendaciones sobre cada raza.(n)</desc>
+    <credits>
+      <presenter>Ricardo Vicente Corredera</presenter>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2586973.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E19</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210319132650 +0100" stop="20210319135546 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <desc lang="es">Programa de caza que recoge los mejores documentales.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/483149.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E177</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20210319135546 +0100" stop="20210319142712 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2529107.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E50</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210319142712 +0100" stop="20210319151124 +0100" channel="Cazavisión">
+    <title lang="es">Caza Salvaje en lugares extremos</title>
+    <desc lang="es">El famoso cazador Jim Shockey, nos hará disfrutar de las más increíbles y salvajes cacerías en los enclaves más inexplorados y extremos del planeta.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2545321.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E61</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210319151124 +0100" stop="20210319154603 +0100" channel="Cazavisión">
+    <title lang="es">Mi caza, mi locura</title>
+    <desc lang="es">Hay gente para quien la caza es una tradición, para otros es un instinto.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4455976.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210319154603 +0100" stop="20210319161845 +0100" channel="Cazavisión">
+    <title lang="es">Safari Seasons</title>
+    <desc lang="es">No importa quién seas o dónde vivas. Si tu pasión es cazar, entonces haz que tus sueños se hagan realidad.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Caza y Pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1722965.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E36</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210319161845 +0100" stop="20210319170445 +0100" channel="Cazavisión">
+    <title lang="es">De caza por el mundo</title>
+    <desc lang="es">Los mejores documentales de caza por el mundo están en Cazavisión. Recorreremos los territorios de caza más interesantes en busca de las especies de caza mayor y menor más valoradas por los aficionados.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Caza y Pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2528657.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E55</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210319170445 +0100" stop="20210319172726 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y trampero en Norteamérica</title>
+    <desc lang="es">Documental de caza.(n)</desc>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3969751.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210319172726 +0100" stop="20210319175655 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1561675.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E142</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210319175655 +0100" stop="20210319183119 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor.(n)</desc>
+    <category lang="es">Caza y Pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1561659.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E30</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210319183119 +0100" stop="20210319185143 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras de caza en los antiguos reinos vikingos</title>
+    <desc lang="es">Una espectacular serie que va más allá de la propia caza y nos habla de cómo el hombre puede aprovechar todo lo que la naturaleza le brinda para sobrevivir incluso en los entornos más extremos.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3583504.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210319185143 +0100" stop="20210319192020 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras con Stiliyan Kadrev</title>
+    <desc lang="es">Disfruta de grandes lances y espectaculares imágenes alrededor del mundo, de la mano del reconocido cazador y productor Stiliyan Kadrev.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1601319.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E37</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210319192020 +0100" stop="20210319194606 +0100" channel="Cazavisión">
+    <title lang="es">Zona de caza</title>
+    <desc lang="es">Producida y realizada en Portugal, y dirigida por Pedro Vitorino (director de la revista Caça &amp; Cães de Caça), 'Zona de Caza' llega con nuevas aventuras cinegéticas.(n)</desc>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2628316.jpg" />
+    <country lang="es">Portugal</country>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="ES">
+      <value>director de la revista Caça &amp; Cães de Caça</value>
+    </rating>
+  </programme>
+  <programme start="20210319194606 +0100" stop="20210319201859 +0100" channel="Cazavisión">
+    <title lang="es">Corzos. Los duendes del bosque</title>
+    <desc lang="es">Serie dedicada al 'duende', donde descubriremos los secretos que encierra este ansiado y misterioso ejemplar.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2710597.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210319201859 +0100" stop="20210319204004 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras de caza en los antiguos reinos vikingos</title>
+    <desc lang="es">Una espectacular serie que va más allá de la propia caza y nos habla de cómo el hombre puede aprovechar todo lo que la naturaleza le brinda para sobrevivir incluso en los entornos más extremos.(n)</desc>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3583504.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210319204004 +0100" stop="20210319210000 +0100" channel="Cazavisión">
+    <title lang="es">Solo Hunters</title>
+    <desc lang="es">Nueva serie americana que desarrolla el concepto Solo Hunting. Esta idea no es nueva en el mundo venatorio sino que es consustancial con el propio concepto de la caza.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3517266.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S2 E21</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210319210000 +0100" stop="20210319212625 +0100" channel="Cazavisión">
+    <title lang="es">Zona de caza</title>
+    <desc lang="es">Producida y realizada en Portugal, y dirigida por Pedro Vitorino (director de la revista Caça &amp; Cães de Caça), 'Zona de Caza' llega con nuevas aventuras cinegéticas.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2628316.jpg" />
+    <country lang="es">Portugal</country>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="ES">
+      <value>director de la revista Caça &amp; Cães de Caça</value>
+    </rating>
+  </programme>
+  <programme start="20210319212625 +0100" stop="20210319220201 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza y Pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1561659.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E152</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210319220201 +0100" stop="20210319222949 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <desc lang="es">Programa de caza que recoge los mejores documentales.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/483149.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E121</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20210319222949 +0100" stop="20210319231407 +0100" channel="Cazavisión">
+    <title lang="es">Perros de caza</title>
+    <desc lang="es">En esta serie repasaremos las peculiaridades de las diferentes razas cazadoras: Cómo actúan, cómo cazan, cuáles son sus puntos débiles, sus puntos fuertes y diferentes técnicas y recomendaciones sobre cada raza.(n)</desc>
+    <credits>
+      <presenter>Ricardo Vicente Corredera</presenter>
+    </credits>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2586973.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S3 </episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210319231407 +0100" stop="20210319234215 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2529107.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210319234215 +0100" stop="20210320000000 +0100" channel="Cazavisión">
+    <title lang="es">Lances</title>
+    <desc lang="es">Una selección de imágenes de los mejores reportajes de caza mayor y menor.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Reportajes</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2496772.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 </episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320000000 +0100" stop="20210320004428 +0100" channel="Cazavisión">
+    <title lang="es">Caza Salvaje en lugares extremos</title>
+    <desc lang="es">El famoso cazador Jim Shockey, nos hará disfrutar de las más increíbles y salvajes cacerías en los enclaves más inexplorados y extremos del planeta.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2545321.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320004428 +0100" stop="20210320011503 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2529107.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E34</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320011503 +0100" stop="20210320014219 +0100" channel="Cazavisión">
+    <title lang="es">Zona de caza</title>
+    <desc lang="es">Producida y realizada en Portugal, y dirigida por Pedro Vitorino (director de la revista Caça &amp; Cães de Caça), 'Zona de Caza' llega con nuevas aventuras cinegéticas.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2628316.jpg" />
+    <country lang="es">Portugal</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="ES">
+      <value>director de la revista Caça &amp; Cães de Caça</value>
+    </rating>
+  </programme>
+  <programme start="20210320014219 +0100" stop="20210320021906 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Caza y Pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1561659.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E31</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320021906 +0100" stop="20210320024151 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y trampero en Norteamérica</title>
+    <desc lang="es">Documental de caza.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3969751.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320024151 +0100" stop="20210320030918 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras con Stiliyan Kadrev</title>
+    <desc lang="es">Disfruta de grandes lances y espectaculares imágenes alrededor del mundo, de la mano del reconocido cazador y productor Stiliyan Kadrev.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1601319.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E17</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210320030918 +0100" stop="20210320033726 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2529107.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320033726 +0100" stop="20210320040002 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y chef en Reino Unido</title>
+    <desc lang="es">Mike Robinson, cazador británico y restaurador galardonado con una Estrella Michelin, nos guía en un apasionante recorrido por la caza y la gastronomía.(n)</desc>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3539745.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210320040002 +0100" stop="20210320044407 +0100" channel="Cazavisión">
+    <title lang="es">Caza Salvaje en lugares extremos</title>
+    <desc lang="es">El famoso cazador Jim Shockey, nos hará disfrutar de las más increíbles y salvajes cacerías en los enclaves más inexplorados y extremos del planeta.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2545321.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E54</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320044407 +0100" stop="20210320051122 +0100" channel="Cazavisión">
+    <title lang="es">Zona de caza</title>
+    <desc lang="es">Producida y realizada en Portugal, y dirigida por Pedro Vitorino (director de la revista Caça &amp; Cães de Caça), 'Zona de Caza' llega con nuevas aventuras cinegéticas.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2628316.jpg" />
+    <country lang="es">Portugal</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="ES">
+      <value>director de la revista Caça &amp; Cães de Caça</value>
+    </rating>
+  </programme>
+  <programme start="20210320051122 +0100" stop="20210320054132 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <desc lang="es">Programa de caza que recoge los mejores documentales.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/483149.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E173</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20210320054132 +0100" stop="20210320061248 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1561675.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E108</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320061248 +0100" stop="20210320064216 +0100" channel="Cazavisión">
+    <title lang="es">A tiro</title>
+    <desc lang="es">Serie conducida por Ramón A.C. Fitó es periodista, experto cazador y tirador del más alto nivel que ha llegado a ser campeón de Europa de Tiro a larga distancia (2013).(n)</desc>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2669189.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="ES">
+      <value>defensor de la carne de caza, afirma que no encontrarás una carne más ecológica que la criada en libertad sin la intervención del hombre</value>
+    </rating>
+  </programme>
+  <programme start="20210320064216 +0100" stop="20210320071420 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <desc lang="es">Programa de caza que recoge los mejores documentales.(n)</desc>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/483149.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E163</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20210320071420 +0100" stop="20210320074514 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2529107.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E22</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320074514 +0100" stop="20210320082414 +0100" channel="Cazavisión">
+    <title lang="es">Perros de caza</title>
+    <desc lang="es">En esta serie repasaremos las peculiaridades de las diferentes razas cazadoras: Cómo actúan, cómo cazan, cuáles son sus puntos débiles, sus puntos fuertes y diferentes técnicas y recomendaciones sobre cada raza.(n)</desc>
+    <credits>
+      <presenter>Ricardo Vicente Corredera</presenter>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2586973.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210320082414 +0100" stop="20210320084457 +0100" channel="Cazavisión">
+    <title lang="es">Outdoor Secrets</title>
+    <desc lang="es">Programa sobre caza.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Caza y Pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1607918.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S1 E67</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320084457 +0100" stop="20210320090000 +0100" channel="Cazavisión">
+    <title lang="es">Lances</title>
+    <desc lang="es">Una selección de imágenes de los mejores reportajes de caza mayor y menor.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Reportajes</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2496772.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320090000 +0100" stop="20210320093254 +0100" channel="Cazavisión">
+    <title lang="es">Cazadores Únicos</title>
+    <desc lang="es">De la mano de  José María García, periodista y cazador madrileño, director de las revistas Federcaza y Caza Mayor, vamos a conocer a varios cazadores diferentes y especiales.(n)</desc>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1601288.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 </episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320093254 +0100" stop="20210320100354 +0100" channel="Cazavisión">
+    <title lang="es">Corzos. Los duendes del bosque</title>
+    <desc lang="es">Serie dedicada al 'duende', donde descubriremos los secretos que encierra este ansiado y misterioso ejemplar.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2710597.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210320100354 +0100" stop="20210320102653 +0100" channel="Cazavisión">
+    <title lang="es">Caza Mayor</title>
+    <desc lang="es">Tu cita con las mejores jornadas cinegéticas de caza mayor, en la que disfrutarás de todas las modalidades y especies.(n)</desc>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1561675.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E93</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320102653 +0100" stop="20210320105730 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y Pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1561659.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E19</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320105730 +0100" stop="20210320112309 +0100" channel="Cazavisión">
+    <title lang="es">El futuro de la caza ha llegado</title>
+    <desc lang="es">Continuamos con nuestra serie sobre el prometedor futuro de la caza. Estaremos junto a un grupo jóvenes aficionados que van a reunirse para celebrar el final de la temporada general.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2429056.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210320112309 +0100" stop="20210320120000 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y trampero en Norteamérica</title>
+    <desc lang="es">Documental de caza.(n)</desc>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3969751.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320120000 +0100" stop="20210320122824 +0100" channel="Cazavisión">
+    <title lang="es">El futuro de la caza ha llegado</title>
+    <desc lang="es">Serie documental para entender y disfrutar la caza desde el punto de vista de los jóvenes.(n)</desc>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2429056.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 </episode-num>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210320122824 +0100" stop="20210320123924 +0100" channel="Cazavisión">
+    <title lang="es">Prueba de armas</title>
+    <desc lang="es">Espacio que analiza las diferentes armas dedicadas a la caza.(n)</desc>
+    <date>2013</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/426960.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E60</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210320123924 +0100" stop="20210320131135 +0100" channel="Cazavisión">
+    <title lang="es">Pro-Hunters</title>
+    <desc lang="es">La imagen del profesional de caza siempre es fundamental ya que es quien conoce el terreno y los animales que se podrán cazar.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1601288.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210320131135 +0100" stop="20210320140620 +0100" channel="Cazavisión">
+    <title lang="es">De caza por el mundo</title>
+    <desc lang="es">Recorreremos los territorios de caza más interesantes en busca de las especies de caza mayor y menor más valoradas por los aficionados.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y Pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2528657.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E53</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320140620 +0100" stop="20210320143245 +0100" channel="Cazavisión">
+    <title lang="es">Zona de caza</title>
+    <desc lang="es">Producida y realizada en Portugal, y dirigida por Pedro Vitorino (director de la revista Caça &amp; Cães de Caça), 'Zona de Caza' llega con nuevas aventuras cinegéticas.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2628316.jpg" />
+    <country lang="es">Portugal</country>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="ES">
+      <value>director de la revista Caça &amp; Cães de Caça</value>
+    </rating>
+  </programme>
+  <programme start="20210320143245 +0100" stop="20210320150120 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Caza y Pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1561659.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E138</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320150120 +0100" stop="20210320152405 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y trampero en Norteamérica</title>
+    <desc lang="es">Documental de caza.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3969751.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320152405 +0100" stop="20210320161105 +0100" channel="Cazavisión">
+    <title lang="es">Perros de caza</title>
+    <desc lang="es">En esta serie repasaremos las peculiaridades de las diferentes razas cazadoras: Cómo actúan, cómo cazan, cuáles son sus puntos débiles, sus puntos fuertes y diferentes técnicas y recomendaciones sobre cada raza.(n)</desc>
+    <credits>
+      <presenter>Ricardo Vicente Corredera</presenter>
+    </credits>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2586973.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 </episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210320161105 +0100" stop="20210320164119 +0100" channel="Cazavisión">
+    <title lang="es">Un sueño hecho realidad</title>
+    <desc lang="es">Beceite, Gredos o Sierra Nevada son algunos de los lugares ideales para cazar machos monteses.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2360095.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210320164119 +0100" stop="20210320171114 +0100" channel="Cazavisión">
+    <title lang="es">Nos vamos de montería</title>
+    <desc lang="es">Programa de caza que recoge los mejores documentales.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/483149.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E162</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20210320171114 +0100" stop="20210320173257 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras de caza en los antiguos reinos vikingos</title>
+    <desc lang="es">Una espectacular serie que va más allá de la propia caza y nos habla de cómo el hombre puede aprovechar todo lo que la naturaleza le brinda para sobrevivir incluso en los entornos más extremos.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3583504.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320173257 +0100" stop="20210320175533 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y chef en Reino Unido</title>
+    <desc lang="es">Mike Robinson, cazador británico y restaurador galardonado con una Estrella Michelin, nos guía en un apasionante recorrido por la caza y la gastronomía.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3539745.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210320175533 +0100" stop="20210320182708 +0100" channel="Cazavisión">
+    <title lang="es">Pro-Hunters</title>
+    <desc lang="es">La imagen del profesional de caza siempre es fundamental ya que es quien conoce el terreno y los animales que se podrán cazar.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1601288.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210320182708 +0100" stop="20210320191658 +0100" channel="Cazavisión">
+    <title lang="es">De caza en la vecina Francia</title>
+    <desc lang="es">Espacio documental de caza que nos lleva hasta Francia.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2484121.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E49</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210320191658 +0100" stop="20210320200108 +0100" channel="Cazavisión">
+    <title lang="es">Caza Salvaje en lugares extremos</title>
+    <desc lang="es">El famoso cazador Jim Shockey, nos hará disfrutar de las más increíbles y salvajes cacerías en los enclaves más inexplorados y extremos del planeta.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2545321.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E32</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320200108 +0100" stop="20210320202342 +0100" channel="Cazavisión">
+    <title lang="es">Cazador y trampero en Norteamérica</title>
+    <desc lang="es">Documental de caza.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3969751.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320202342 +0100" stop="20210320210000 +0100" channel="Cazavisión">
+    <title lang="es">Zona de caza</title>
+    <desc lang="es">Producida y realizada en Portugal, y dirigida por Pedro Vitorino (director de la revista Caça &amp; Cães de Caça), 'Zona de Caza' llega con nuevas aventuras cinegéticas.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2628316.jpg" />
+    <country lang="es">Portugal</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="ES">
+      <value>director de la revista Caça &amp; Cães de Caça</value>
+    </rating>
+  </programme>
+  <programme start="20210320210000 +0100" stop="20210320214506 +0100" channel="Cazavisión">
+    <title lang="es">Caza Menor</title>
+    <desc lang="es">Todo tipo de especies y todo tipo de modalidades para los amantes de la caza menor.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Caza y Pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1561659.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E128</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320214506 +0100" stop="20210320220149 +0100" channel="Cazavisión">
+    <title lang="es">Prueba de armas</title>
+    <desc lang="es">Espacio que analiza las diferentes armas dedicadas a la caza.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/426960.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E70</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210320220149 +0100" stop="20210320222634 +0100" channel="Cazavisión">
+    <title lang="es">Aventuras con Stiliyan Kadrev</title>
+    <desc lang="es">Disfruta de grandes lances y espectaculares imágenes alrededor del mundo, de la mano del reconocido cazador y productor Stiliyan Kadrev.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1601319.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E34</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210320222634 +0100" stop="20210320225229 +0100" channel="Cazavisión">
+    <title lang="es">Escuela de tiro aplicada a la caza</title>
+    <desc lang="es">Documental de caza.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1601288.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210320225229 +0100" stop="20210320232609 +0100" channel="Cazavisión">
+    <title lang="es">De caza en la vecina Francia</title>
+    <desc lang="es">Espacio documental de caza que nos lleva hasta Francia.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Caza y pesca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2484121.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E71</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210319001000 +0100" stop="20210319011008 +0100" channel="La 1 HD">
+    <title lang="es">Comando Actualidad</title>
+    <desc lang="es">Un grupo de periodistas visitan un punto en el que está presente un tema de actualidad y se adentran en la realidad para mostrarla a través de sus reportajes.(n)</desc>
+    <credits>
+      <director>Raúl García</director>
+      <director>César Pérez</director>
+    </credits>
+    <category lang="es">Reportajes</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/466248.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S14 E19</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20210319011008 +0100" stop="20210319021140 +0100" channel="La 1 HD">
+    <title lang="es">Comando Actualidad</title>
+    <desc lang="es">España es el paraíso de los millonarios. En 2018 nuestro país se ha convertido en el país europeo de mayor consumo de productos de alta gama.(n)</desc>
+    <credits>
+      <director>Silvia Sánchez</director>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Reportajes</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/466248.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S12 E8</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20210319021140 +0100" stop="20210319031000 +0100" channel="La 1 HD">
+    <title lang="es">Comando Actualidad</title>
+    <desc lang="es">Cada vez son más, y más jóvenes, quienes se juegan la vida por salir en una foto o ganar seguidores. Los retos virales son, según los expertos, uno de los mayores peligros en internet para niños y adolescentes.(n)</desc>
+    <credits>
+      <director>Raúl García</director>
+      <director>César Pérez</director>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Reportajes</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/466248.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S14 E4</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20210319031000 +0100" stop="20210319050000 +0100" channel="La 1 HD">
+    <title lang="es">La noche en 24h</title>
+    <desc lang="es">Informativo que incluye conexiones en directo desde los puntos protagonistas de la actualidad, entrevistas, análisis de la información y una tertulia de opinión para ayudar a comprender los hechos.(n)</desc>
+    <credits>
+      <director>Sergio Martín</director>
+      <director>Victor Arribas</director>
+      <actor>Realizacion: German Sancho produccion: Ruben Freijo edicion: Paz Camara</actor>
+      <producer>Javier Redondo</producer>
+      <presenter>Víctor Arribas</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/460639.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210319050000 +0100" stop="20210319060000 +0100" channel="La 1 HD">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Información contínua 24 horas nacional e internacional. Presentado por Alex Barreiro, Jerónimo Fernández, Marta Ventura, Beatriz Pérez y Mercedes Martel.(n)</desc>
+    <credits>
+      <presenter>Beatriz Pérez</presenter>
+      <presenter>Moisés Rodríguez</presenter>
+      <presenter>Mercedes Martel</presenter>
+      <presenter>Marta Ventura</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/461243.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210319060000 +0100" stop="20210319063000 +0100" channel="La 1 HD">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Información contínua 24 horas nacional e internacional. Presentado por Alex Barreiro, Jerónimo Fernández, Marta Ventura, Beatriz Pérez y Mercedes Martel.(n)</desc>
+    <credits>
+      <presenter>Beatriz Pérez</presenter>
+      <presenter>Moisés Rodríguez</presenter>
+      <presenter>Mercedes Martel</presenter>
+      <presenter>Marta Ventura</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/461243.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210319063000 +0100" stop="20210319080000 +0100" channel="La 1 HD">
+    <title lang="es">Telediario matinal</title>
+    <desc lang="es">Informativo con las primeras noticias de la jornada, presentado por Sirún Demirjián. Incluye la información deportiva con Rubén Briones, así como el pronóstico del tiempo en España y Europa.(n)</desc>
+    <credits>
+      <presenter>Inma Gómez Lobo</presenter>
+      <presenter>Ana Ibáñez</presenter>
+      <presenter>Ángel Pons</presenter>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2494238.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210319080000 +0100" stop="20210319100000 +0100" channel="La 1 HD">
+    <title lang="es">La hora de la 1</title>
+    <desc lang="es">Magazine, presentado por Mónica López, en el que cada día se abordarán contenidos muy variados, que van desde las entrevistas y debates políticos a la crónica social pasando por bloques de economía y consumo, sucesos y cultura.(n)</desc>
+    <credits>
+      <director>Mónica López</director>
+      <director>Ana Rodríguez Martí</director>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Magazine</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3543502.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 </episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210319100000 +0100" stop="20210319123000 +0100" channel="La 1 HD">
+    <title lang="es">La hora de la 1</title>
+    <desc lang="es">En 'La hora de la Actualidad' se abordará actualidad social. El programa contará con voces autorizadas que tratarán temas que fomenten el pensamiento crítico y el servició público para ayudar a los ciudadanos en su día a día.(n)</desc>
+    <credits>
+      <director>Mónica López</director>
+      <director>Ana Rodríguez Martí</director>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Magazine</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3543502.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 </episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210319123000 +0100" stop="20210319140000 +0100" channel="La 1 HD">
     <title lang="es">Las cosas claras</title>
-    <desc lang="es">Actualidad, entretenimiento, análisis y rigor son algunos de los ingredientes de ''Las cosas claras''. Este programa es una ventana abierta a la pluralidad y a todo lo que acontece, con contenido útil y cercano al espectador y vocación de ofrecer respuestas.(n)</desc>
-    <credits>
-      <director>Carlos Arévalo</director>
-      <presenter>Ane Ibarzabal</presenter>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Actualidad</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/30/676400.png" />
+    <desc lang="es">Jesús Cintora estará al frente del programa. Una ventana abierta a toda la actualidad desde un punto de vista plural, con contenido útil y cercano al espectador con información diaria, inquietudes sociales, económicas, políticas...(n)</desc>
+    <category lang="es">Magazine</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3627387.jpg" />
     <country lang="es">España</country>
-    <rating>
+    <episode-num system="onscreen">S1 E86</episode-num>
+    <rating system="ES">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210319140000 +0100" stop="20210319150000 +0100" channel="La 1">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Ana Blanco conduce este espacio que ofrece un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte presentada por Lourdes García Campos.(n)</desc>
-    <credits>
-      <presenter>Ana Blanco</presenter>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Noticias</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/0e/681742.png" />
+  <programme start="20210319140000 +0100" stop="20210319141500 +0100" channel="La 1 HD">
+    <title lang="es">Informativo territorial</title>
+    <desc lang="es">Desconexión territorial con la actualidad e información más próxima y cercana a los ciudadanos.(n)</desc>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/467493.jpg" />
     <country lang="es">España</country>
-    <rating>
+    <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210319150000 +0100" stop="20210319152000 +0100" channel="La 1">
-    <title lang="es">Informativo territorial</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través del la cual se informa de los problemas más cercanos para el ciudadano.(n)</desc>
-    <category lang="es">Noticias</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/02/660994.png" />
-  </programme>
-  <programme start="20210319152000 +0100" stop="20210319153500 +0100" channel="La 1">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
-    <credits>
-      <presenter>Roberto Brasero</presenter>
-    </credits>
-    <date>2016</date>
-    <category lang="es">El Tiempo</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
+  <programme start="20210319141500 +0100" stop="20210319150000 +0100" channel="La 1 HD">
+    <title lang="es">Las cosas claras</title>
+    <desc lang="es">Jesús Cintora estará al frente del programa. Una ventana abierta a toda la actualidad desde un punto de vista plural, con contenido útil y cercano al espectador con información diaria, inquietudes sociales, económicas, políticas...(n)</desc>
+    <category lang="es">Magazine</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3627387.jpg" />
     <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E86</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20210319153500 +0100" stop="20210319162500 +0100" channel="La 1">
-    <title lang="es">Dos vidas</title>
-    <desc lang="es">La historia de Julia y Carmen, nieta y abuela, dos vidas unidas de manera insospechada en dos épocas y lugares distintos.(n)</desc>
+  <programme start="20210319150000 +0100" stop="20210319160000 +0100" channel="La 1 HD">
+    <title lang="es">Telediario 1</title>
+    <desc lang="es">Ana Blanco presenta la primera edición del Telediario de TVE, uno de los informativos más antiguos de la televisión, para desgranar la actualidad nacional e internacional. Lourdes García Campos presenta la información deportiva.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4292627.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210319160000 +0100" stop="20210319162000 +0100" channel="La 1 HD">
+    <title lang="es">Informativo territorial</title>
+    <desc lang="es">Desconexión territorial con la actualidad e información más próxima y cercana a los ciudadanos.(n)</desc>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/467493.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210319162000 +0100" stop="20210319163500 +0100" channel="La 1 HD">
+    <title lang="es">El tiempo TVE 1</title>
+    <desc lang="es">Información meteorológica por provincias y predicción a corto y largo plazo, con Albert Barniol.(n)</desc>
     <credits>
-      <actor>Laura Ledesma</actor>
+      <presenter>Albert Barniol</presenter>
+    </credits>
+    <category lang="es">Tiempo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/466993.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210319163500 +0100" stop="20210319172500 +0100" channel="La 1 HD">
+    <title lang="es">Dos vidas</title>
+    <desc lang="es">Ambientada en la España actual y en la colonia de Guinea Española de los años 50, la serie narra la historia de Carmen y Julia, abuela y nieta, dos mujeres dispuestas a cambiar el mundo y a luchar por amor.(n)</desc>
+    <credits>
+      <director>Mario Montero</director>
+      <director>Miguel Conde</director>
       <actor>Amparo Piñero</actor>
+      <actor>Laura Ledesma</actor>
       <actor>Cristina de Inza</actor>
       <actor>Sebastián Haro</actor>
       <actor>Oliver Ruano</actor>
-      <actor>Aida de la Cruz</actor>
+      <actor>Aída de la Cruz</actor>
+      <actor>Miguel Brocca</actor>
+      <actor>Kenai White</actor>
+      <writer>Josep Cister Rubio</writer>
+      <writer>Alba Lucío</writer>
+      <producer>Teresa Fernández-Valdés</producer>
+      <producer>Ramón Campos</producer>
+      <composer>Manu Guix</composer>
+      <composer>Roger Rodés</composer>
     </credits>
-    <date>2021</date>
     <category lang="es">Drama</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/1c/663068.png" />
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4088586.jpg" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">E40</episode-num>
-  </programme>
-  <programme start="20210319162500 +0100" stop="20210319171500 +0100" channel="La 1">
-    <title lang="es">Servir y proteger</title>
-    <desc lang="es">Distrito Sur no se ha recuperado del asalto a la comisaría y la muerte de Alicia Ocaña cuando llega el prestigioso inspector jefe enviado por jefatura para depurar responsabilidades. Además, los policías tendrán que hacer frente a un cruel asesino.(n)</desc>
-    <credits>
-      <actor>Elisa Mouliaá</actor>
-      <actor>Mamen Camacho</actor>
-      <actor>Roberto Álvarez</actor>
-      <actor>Ana Fernández</actor>
-      <actor>María Barranco</actor>
-      <actor>Luisa Martín</actor>
-      <actor>Lydia Bosch</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Policiacas</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/de/615390.png" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">E124</episode-num>
-    <rating>
+    <episode-num system="onscreen">S1 E39</episode-num>
+    <rating system="ES">
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210319171500 +0100" stop="20210319181000 +0100" channel="La 1">
-    <title lang="es">Acacias 38</title>
-    <desc lang="es">Una historia de ricos y pobres que conviven en un único espacio, en un portal situado en el número 38 de la calle Acacias. Allí florecen sentimientos como el amor, los celos, las pasiones, las venganzas, los odios y la alegría.(n)</desc>
+  <programme start="20210319172500 +0100" stop="20210319181500 +0100" channel="La 1 HD">
+    <title lang="es">Servir y proteger</title>
+    <desc lang="es">Antonio recibe una oferta para ocupar plaza en Asturias, pero no sabe qué hará. En el caso del Vigilante, Salgado propone a Bremón usar a Alba como cebo para atrapar a Lucas.(n)</desc>
     <credits>
+      <director>Humberto Miro</director>
+      <director>Rubén Torrejón</director>
+      <actor>Clara Garrido</actor>
+      <actor>Sandra Marchena</actor>
+      <actor>Montse Alcoverro</actor>
+      <actor>Juanma Navas</actor>
+      <actor>Luisa Martín</actor>
+      <actor>Andrea del Río</actor>
+      <actor>Juanjo Ballesta</actor>
+      <actor>Nicolás Coronado</actor>
+      <actor>Bernabé Fernández</actor>
+      <actor>Lolita Flores</actor>
+      <actor>Elena Furiase</actor>
+      <actor>Antonio Valero</actor>
+      <actor>Thais Blume</actor>
+      <actor>Luis Fernández</actor>
+      <actor>Cayetana Cabezas</actor>
+      <actor>Diego Klein</actor>
+      <actor>Vania Villalón</actor>
+      <actor>Karina Kolokolchycova</actor>
+      <writer>Tirso Calero</writer>
+      <producer>Mar Díaz</producer>
+      <producer>César Benítez</producer>
+      <composer>Paco Musulén</composer>
+      <composer>Juan Carlos Cuello</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1443628.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S5 E124</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20210319181500 +0100" stop="20210319191000 +0100" channel="La 1 HD">
+    <title lang="es">Acacias, 38</title>
+    <desc lang="es">Serie ambientada en 1899 que narra las historias de amor, celos, pasiones, venganzas, odios y alegrías de cuatro familias burguesas y sus criadas en el edificio señorial de la calle Acacias, 38.(n)</desc>
+    <credits>
+      <director>Humberto Miro</director>
+      <director>Humberto Miró</director>
+      <actor>Clara Garrido</actor>
+      <actor>Sandra Marchena</actor>
+      <actor>Montse Alcoverro</actor>
+      <actor>Juanma Navas</actor>
       <actor>Sheyla Fariña</actor>
       <actor>Roger Berruezo</actor>
       <actor>Sara Miquel</actor>
       <actor>Andrea López</actor>
-      <actor>Inés Aldea</actor>
-      <actor>Marc Parejo</actor>
-      <actor>Sandra Marchena</actor>
-      <actor>Cisco Lara</actor>
-      <actor>Adrián Reyes</actor>
-      <writer>Susana López Rubio</writer>
       <writer>Aurora Guerra</writer>
-      <writer>Miquel Peidro</writer>
-      <writer>Josep Cister</writer>
+      <writer>Miquel Peidró</writer>
     </credits>
-    <date>2015</date>
-    <category lang="es">Telenovelas</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/3a/613946.png" />
+    <category lang="es">Telenovela</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2494328.jpg" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">E1468</episode-num>
-    <rating>
+    <episode-num system="onscreen">S2 E490</episode-num>
+    <rating system="ES">
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210319181000 +0100" stop="20210319190000 +0100" channel="La 1">
+  <programme start="20210319191000 +0100" stop="20210319200000 +0100" channel="La 1 HD">
     <title lang="es">El cazador</title>
-    <desc lang="es">Concurso de preguntas y respuestas en el que concursantes anónimos luchan frente a un concursante profesional de la televisión para obtener un gran premio final. En el programa, los concursantes unirán sus conocimientos para ganar al 'cazador'.(n)</desc>
-    <credits>
-      <presenter>Ion Aramendi</presenter>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Concursos</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/af/677551.png" />
+    <desc lang="es">Cuatro concursantes anónimos se enfrentan a los mejores concursantes de televisión de España, en un 'quiz show' conducido por Ion Aramendi.(n)</desc>
+    <category lang="es">Concurso</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2631860.jpg" />
     <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E247</episode-num>
+    <rating system="ES">
+      <value>'Boom'</value>
+    </rating>
   </programme>
-  <programme start="20210319190000 +0100" stop="20210319193000 +0100" channel="La 1">
+  <programme start="20210319200000 +0100" stop="20210319203000 +0100" channel="La 1 HD">
     <title lang="es">España directo</title>
-    <desc lang="es">Magacín informativo muy en contacto con los temas sociales que incluye conexiones con todos los rincones de la geografía nacional. El programa pretende acercarse al espectador gracias a la abundancia de intervenciones en directo y a la espontaneidad de sus reporteros.(n)</desc>
+    <desc lang="es">Magacín diario presentado por Ana Ibáñez que nos ofrece reportajes, actualidad y la última hora sobre la actualidad del país.(n)</desc>
     <credits>
-      <director>Enrique Álvarez</director>
+      <director>Kike Álvarez</director>
       <presenter>Ana Ibáñez</presenter>
     </credits>
-    <date>2021</date>
-    <category lang="es">Actualidad</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fb/611067.png" />
+    <date>2005</date>
+    <category lang="es">Magazine</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2192970.jpg" />
     <country lang="es">España</country>
-    <rating>
+    <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210319193000 +0100" stop="20210319200000 +0100" channel="La 1">
+  <programme start="20210319203000 +0100" stop="20210319210000 +0100" channel="La 1 HD">
     <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Quico Taronjí ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.(n)</desc>
+    <desc lang="es">Jacob Petrus, geógrafo especializado en climatología, nos da una nueva visión de nuestro planeta y demuestra cómo la salud, la arquitectura, la conducta, incluso el arte o la economía, pueden estar condicionados por la meteorología.(n)</desc>
     <credits>
-      <presenter>Quico Taronjí</presenter>
+      <director>Jacob Petrus</director>
+      <director>Victor Otamendi</director>
+      <presenter>Jacob Petrus</presenter>
     </credits>
-    <date>2017</date>
-    <category lang="es">Magazines</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/46/480838.png" />
-    <rating>
+    <date>2014</date>
+    <category lang="es">Magazine</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/462103.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210319200000 +0100" stop="20210319205200 +0100" channel="La 1">
+  <programme start="20210319210000 +0100" stop="20210319220000 +0100" channel="La 1 HD">
     <title lang="es">Telediario 2</title>
-    <desc lang="es">Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Carlos Franganillo. También hay espacio para la parcela deportiva presentada por Arsenio Cañada.(n)</desc>
+    <desc lang="es">Carlos Franganillo presenta la 2ª edición del Telediario de TVE, uno de los informativos más antiguos de la televisión, con una cobertura exhaustiva de lo acontecido en España y el mundo durante el día. Arsenio Cañada ofrece los deportes.(n)</desc>
     <credits>
       <presenter>Carlos Franganillo</presenter>
+      <presenter>Sergio Sauca</presenter>
     </credits>
-    <category lang="es">Noticias</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6c/681836.png" />
+    <date>2019</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3552323.jpg" />
     <country lang="es">España</country>
-    <rating>
+    <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210319205200 +0100" stop="20210319210000 +0100" channel="La 1">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
-    <credits>
-      <presenter>Roberto Brasero</presenter>
-    </credits>
-    <date>2016</date>
-    <category lang="es">El Tiempo</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
-    <country lang="es">España</country>
-  </programme>
-  <programme start="20210319210000 +0100" stop="20210319211500 +0100" channel="La 1">
+  <programme start="20210319220000 +0100" stop="20210319221500 +0100" channel="La 1 HD">
     <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.(n)</desc>
-    <credits>
-      <presenter>Silvia Salgado</presenter>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Sorteos</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/aa/148906.png" />
+    <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional.(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2054882.jpg" />
     <country lang="es">España</country>
-    <rating>
+    <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210319211500 +0100" stop="20210319225000 +0100" channel="La 1">
+  <programme start="20210319221500 +0100" stop="20210319235000 +0100" channel="La 1 HD">
     <title lang="es">Dos parejas y un destino</title>
-    <sub-title lang="es">Madrid</sub-title>
     <desc lang="es">Jesulín de Ubrique y Chenoa, y La Terremoto de Alcorcón y Pedro Delgado viajan a la capital para descubrir sus dos caras: el Madrid rural y el Madrid castizo.(n)</desc>
-    <date>2021</date>
     <category lang="es">Viajes</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e1/680161.png" />
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4200722.jpg" />
     <country lang="es">España</country>
-    <rating>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210319225000 +0100" stop="20210320001500 +0100" channel="La 1">
+  <programme start="20210319235000 +0100" stop="20210320011500 +0100" channel="La 1 HD">
     <title lang="es">El hombre de los puños de hierro</title>
-    <title lang="en">The Man with the Iron Fists</title>
-    <desc lang="es">En la China del siglo XIX, un humilde herrero fabrica armas para los vecinos de una pequeña aldea. Pero cuando esta es asediada por una banda de guerreros, un grupo de asesinos y un soldado británico, el artesano se convierte en su protector.El polifacético rapero Robert Fitzgerald Diggs, más conocido como RZA (''American Gangster'', ''Repo Men''), dirige, escribe, protagoniza y, obviamente, pone música a este filme que significa su primer trabajo detrás de las cámaras. ''El hombre de los puños de hierro'' es un auténtico cóctel que derrocha acción y espectaculares coreografías de artes marciales. Todo ello acompañado de música rap, sello inherente al verdadero protagonista de esta producción.Pese a que la crítica no fue especialmente benevolente con la película, el elenco de actores que aparecen no es nada desdeñable. Destaca la presencia de Lucy Liu (''Kill Bill. Volumen 1'') y el ganador de un Oscar Russell Crowe (''Gladiator''), poco habitual en esta clase de trabajos.(n)</desc>
+    <desc lang="es">Un grupo de guerreros, un clan de asesinos y un solitario forastero unen sus fuerzas, en la China del siglo XIX, para acabar con el tirano que quiere deshacerse de ellos.(n)</desc>
     <credits>
       <director>RZA</director>
-      <actor>RZA</actor>
       <actor>Russell Crowe</actor>
+      <actor>Cung Le</actor>
       <actor>Lucy Liu</actor>
-      <actor>Byron Mann</actor>
       <actor>Jamie Chung</actor>
       <actor>Rick Yune</actor>
+      <actor>Dave Bautista</actor>
+      <actor>Byron Mann</actor>
+      <actor>Daniel Wu</actor>
       <writer>RZA</writer>
       <writer>Eli Roth</writer>
+      <producer>Marc Abraham</producer>
+      <producer>Eric Newman</producer>
+      <composer>Howard Drossin</composer>
+      <composer>RZA</composer>
     </credits>
     <date>2012</date>
     <category lang="es">Acción</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/86/689542.png" />
-    <rating>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2387630.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210320001500 +0100" stop="20210320014500 +0100" channel="La 1">
+  <programme start="20210320011500 +0100" stop="20210320024500 +0100" channel="La 1 HD">
     <title lang="es">Verano en Norrsunda</title>
-    <title lang="en">Inga Lindström: Sommer in Norrsunda</title>
-    <desc lang="es">Tras acabar sus estudios universitarios, Lena regresa a Norrsunda para visitar a su madre. Allí, se enamora de Marius, un abogado que guarda un secreto que podría hacer tambalear su relación.(n)</desc>
+    <desc lang="es">Al terminar la universidad, Lena visita a su madre en Norrsunda para aclarar sus ideas... no está segura de haber elegido bien su profesión. Allí se enamora de Marius, un apuesto abogado que le oculta un importante secreto.(n)</desc>
     <credits>
       <director>Thomas Herrmann</director>
       <actor>Ina Paule Klink</actor>
@@ -345,272 +1534,324 @@
       <actor>Susanne Uhlen</actor>
       <actor>Michael Mendl</actor>
       <actor>Maria Ehrich</actor>
+      <actor>Emilie Cappallo</actor>
+      <actor>Adrian Wahlen</actor>
+      <actor>Joachim Kappl</actor>
       <writer>Christiane Sadlo</writer>
+      <producer>Ronald Mühlfellner</producer>
+      <producer>Julia Wenzel</producer>
+      <composer>Richard Blackford</composer>
     </credits>
     <date>2008</date>
-    <category lang="es">Drama</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/68/278632.png" />
+    <category lang="es">Romántica</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/824768.jpg" />
     <country lang="es">Alemania</country>
-    <rating>
+    <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210320014500 +0100" stop="20210320030000 +0100" channel="La 1">
+  <programme start="20210320024500 +0100" stop="20210320040000 +0100" channel="La 1 HD">
     <title lang="es">Promesas de arena</title>
-    <desc lang="es">Tras el salvaje bombardeo del Hospital llevado a cabo por las milicias yihadistas, parece imposible encontrar supervivientes entre sus ruinas. Sin embargo, ni Hayzan ni Andy, aceptan la idea de haber perdido a Lucía.(n)</desc>
+    <desc lang="es">Tras el salvaje bombardeo del Hospital llevado a cabo por las milicias yihadistas, parece imposible encontrar supervivientes entre sus ruinas.(n)</desc>
     <credits>
       <director>Joaquín Llamas</director>
+      <director>Manuel Estudillo</director>
       <actor>Andrea Duro</actor>
+      <actor>Daniel Grao</actor>
       <actor>Francesco Arca</actor>
+      <actor>Somaya Taoufiki</actor>
       <actor>Thaïs Blume</actor>
       <actor>Marcel Borràs</actor>
-      <actor>Daniel Grao</actor>
-      <actor>Blanca Portillo</actor>
+      <actor>Ayoub El Hilali</actor>
+      <actor>Abdelatif Hwidar</actor>
       <writer>Ignasi Rubio</writer>
       <writer>Guadalupe Rilova</writer>
+      <producer>Amparo Rivelles</producer>
+      <producer>Javier García Díaz</producer>
+      <composer>Pablo Cervantes</composer>
     </credits>
     <date>2019</date>
     <category lang="es">Drama</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/19/590617.png" />
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2552095.jpg" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">E6</episode-num>
-  </programme>
-  <programme start="20210320030000 +0100" stop="20210320050000 +0100" channel="La 1">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
-    <date>2014</date>
-    <category lang="es">Noticias</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/2a/170538.png" />
-    <country lang="es">España</country>
-    <rating>
-      <value>TP</value>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="ES">
+      <value>12</value>
     </rating>
   </programme>
-  <programme start="20210320050000 +0100" stop="20210320060000 +0100" channel="La 1">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
-    <date>2014</date>
-    <category lang="es">Noticias</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/2a/170538.png" />
-    <country lang="es">España</country>
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20210320060000 +0100" stop="20210320082000 +0100" channel="La 1">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
-    <date>2014</date>
-    <category lang="es">Noticias</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/2a/170538.png" />
-    <country lang="es">España</country>
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20210320082000 +0100" stop="20210320092000 +0100" channel="La 1">
-    <title lang="es">Comando Actualidad</title>
-    <sub-title lang="es">Fiebre minera</sub-title>
-    <desc lang="es">Un novedoso formato que presenta un tema de actualidad a través de la mirada coral de varios reporteros callejeros. Cuatro periodistas que se desplazan hasta el lugar donde ocurren las noticias, las muestran tal y como son y aportan al tema su mirada personal.(n)</desc>
+  <programme start="20210320040000 +0100" stop="20210320060000 +0100" channel="La 1 HD">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Información contínua 24 horas nacional e internacional. Presentado por Alex Barreiro, Jerónimo Fernández, Marta Ventura, Beatriz Pérez y Mercedes Martel.(n)</desc>
     <credits>
-      <director>Silvia Sánchez</director>
+      <presenter>Beatriz Pérez</presenter>
+      <presenter>Moisés Rodríguez</presenter>
+      <presenter>Mercedes Martel</presenter>
+      <presenter>Marta Ventura</presenter>
     </credits>
-    <date>2020</date>
-    <category lang="es">Actualidad</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/bd/668349.png" />
+    <date>2018</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/461243.jpg" />
     <country lang="es">España</country>
-    <rating>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210320060000 +0100" stop="20210320070000 +0100" channel="La 1 HD">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Información contínua 24 horas nacional e internacional. Presentado por Alex Barreiro, Jerónimo Fernández, Marta Ventura, Beatriz Pérez y Mercedes Martel.(n)</desc>
+    <credits>
+      <presenter>Beatriz Pérez</presenter>
+      <presenter>Moisés Rodríguez</presenter>
+      <presenter>Mercedes Martel</presenter>
+      <presenter>Marta Ventura</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/461243.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210320070000 +0100" stop="20210320092000 +0100" channel="La 1 HD">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Información contínua 24 horas nacional e internacional. Presentado por Alex Barreiro, Jerónimo Fernández, Marta Ventura, Beatriz Pérez y Mercedes Martel.(n)</desc>
+    <credits>
+      <presenter>Beatriz Pérez</presenter>
+      <presenter>Moisés Rodríguez</presenter>
+      <presenter>Mercedes Martel</presenter>
+      <presenter>Marta Ventura</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/461243.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210320092000 +0100" stop="20210320102000 +0100" channel="La 1 HD">
+    <title lang="es">Comando Actualidad</title>
+    <desc lang="es">Un grupo de periodistas visitan un punto en el que está presente un tema de actualidad y se adentran en la realidad para mostrarla a través de sus reportajes.(n)</desc>
+    <credits>
+      <director>Raúl García</director>
+      <director>César Pérez</director>
+    </credits>
+    <category lang="es">Reportajes</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/466248.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S14 E19</episode-num>
+    <rating system="ES">
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210320092000 +0100" stop="20210320123000 +0100" channel="La 1">
-    <title lang="es">Maestros de la Costura</title>
-    <desc lang="es">Esta semana, los concursantes confeccionarán un EPI en la primera prueba, se adentrarán en los talleres de Ángel Schlesser para replicar dos vestidos por equipos, y crearán lencería para personas trans para librarse de la eliminación.(n)</desc>
+  <programme start="20210320102000 +0100" stop="20210320133000 +0100" channel="La 1 HD">
+    <title lang="es">Maestros de la costura</title>
+    <desc lang="es">El talent rinde un homenaje al personal sanitario que ha estado al frente de la pandemia.(n)</desc>
     <credits>
-      <director>Raquel Sánchez Silva</director>
+      <director>Ernesto Martínez</director>
+      <director>Hugo Tomás</director>
+      <presenter>Raquel Sánchez Silva</presenter>
     </credits>
     <date>2021</date>
-    <category lang="es">Moda</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/74/677492.png" />
+    <category lang="es">Reality Show</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4088546.jpg" />
     <country lang="es">España</country>
-    <rating>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210320123000 +0100" stop="20210320130000 +0100" channel="La 1">
+  <programme start="20210320133000 +0100" stop="20210320140000 +0100" channel="La 1 HD">
     <title lang="es">Audiencia abierta</title>
-    <desc lang="es">Espacio de servicio público sobre la jefatura del Estado, la Corona y la Monarquía parlamentaria. Cada semana, el programa informa sobre las principales actividades del Rey como Jefe del Estado, dando a conocer en profundidad sus competencias y su actividad oficial.(n)</desc>
+    <desc lang="es">Programa presentado por Ángeles Bravo que sigue la actualidad informativa relacionada con el Rey Felipe VI, con el objetivo de dar a conocer las competencias, el funcionamiento y la acción cotidiana del Jefe del Estado.(n)</desc>
     <credits>
       <director>Miguel Ángel Sacaluga</director>
-      <presenter>Carmen Romero</presenter>
+      <presenter>Ángeles Bravo</presenter>
     </credits>
-    <date>2012</date>
-    <category lang="es">Política</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/51/640849.png" />
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/462131.jpg" />
     <country lang="es">España</country>
-    <rating>
+    <episode-num system="onscreen">S1 E382</episode-num>
+    <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210320130000 +0100" stop="20210320133000 +0100" channel="La 1">
-    <title lang="es">Flash Moda</title>
-    <desc lang="es">La cadena pública desfila por la pasarela de la mano de Nieves Álvarez en este repaso a las novedades del mundo de la moda, las últimas tendencias y las colecciones de vanguardia. Además, el programa presta especial atención al trabajo de los diseñadores españoles.(n)</desc>
+  <programme start="20210320140000 +0100" stop="20210320143000 +0100" channel="La 1 HD">
+    <title lang="es">Flash moda</title>
+    <desc lang="es">Espacio dedicado a la alta costura, presentado por Nieves Álvarez. Cada programa incluye entrevistas con profesionales del sector y toda la actualidad en tendencias de moda.(n)</desc>
     <credits>
-      <director>Jesús María Montes-Fernández</director>
+      <director>Jesús Mª Montes-Fernández</director>
+      <actor>José María Sánchez Chiquito</actor>
+      <producer>Carmen Marín</producer>
       <presenter>Nieves Álvarez</presenter>
     </credits>
-    <date>2021</date>
     <category lang="es">Moda</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/10/640784.png" />
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/688896.jpg" />
     <country lang="es">España</country>
-    <rating>
+    <episode-num system="onscreen">S7 E14</episode-num>
+    <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210320133000 +0100" stop="20210320140000 +0100" channel="La 1">
+  <programme start="20210320143000 +0100" stop="20210320150000 +0100" channel="La 1 HD">
     <title lang="es">Corazón</title>
-    <desc lang="es">Crónica social sobre los famosos del mundo de la música, la moda, el cine y el teatro. El espacio incluye reportajes de las grandes pasarelas, los cantantes y actores de moda. El objetivo del programa es transmitir también la cara humana y familiar del personaje.(n)</desc>
+    <desc lang="es">Magazine que ofrece toda la actualidad de la crónica social acompañada de reportajes sobre moda, belleza y cultura, con especial interés a los eventos de alta costura y las novedades de las firmas de diseñadores españoles.(n)</desc>
     <credits>
-      <director>Rufino Sanchez</director>
+      <director>Carmina Jaro Hernández</director>
+      <director>Carmina Jaro</director>
+      <actor>Realizacion: Miguel Rosillo</actor>
+      <actor>Angel Redondo produccion: Aurora Triguero-Lizana presentacion</actor>
+      <presenter>Elena Sánchez</presenter>
+      <presenter>Anne Igartiburu</presenter>
       <presenter>Carolina Casado</presenter>
     </credits>
-    <date>2021</date>
-    <category lang="es">Corazón</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/1e/616478.png" />
+    <date>1997</date>
+    <category lang="es">Crónica Rosa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2581240.jpg" />
     <country lang="es">España</country>
-    <rating>
+    <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210320140000 +0100" stop="20210320145200 +0100" channel="La 1">
-    <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Informativo de Televisión Española de los fines de semana. Lara Siscar se encarga de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.(n)</desc>
+  <programme start="20210320150000 +0100" stop="20210320160000 +0100" channel="La 1 HD">
+    <title lang="es">Telediario fin de semana 1</title>
+    <desc lang="es">Informativo con la actualidad nacional e internacional, presentado por Lluís Aguilera y Lara Siscar. La información deportiva cobra relevancia en el fin de semana de la mano de Marcos López.(n)</desc>
     <credits>
-      <presenter>Lara Siscar</presenter>
+      <presenter>Oriol Nolis</presenter>
+      <presenter>Arsenio Cañada</presenter>
     </credits>
-    <date>2014</date>
-    <category lang="es">Noticias</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/d9/682713.png" />
+    <date>2019</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2605831.jpg" />
     <country lang="es">España</country>
-    <rating>
+    <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210320145200 +0100" stop="20210320150000 +0100" channel="La 1">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
-    <credits>
-      <presenter>Roberto Brasero</presenter>
-    </credits>
-    <date>2016</date>
-    <category lang="es">El Tiempo</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
-    <country lang="es">España</country>
-  </programme>
-  <programme start="20210320150000 +0100" stop="20210320163000 +0100" channel="La 1">
+  <programme start="20210320160000 +0100" stop="20210320173000 +0100" channel="La 1 HD">
     <title lang="es">Divorcio de ida y vuelta</title>
-    <title lang="en">Katie Fforde: 38 - Das kind der Anderen</title>
-    <desc lang="es">El día de su divorcio no es exactamente lo planeado por Ella. De camino al juzgado su todavía marido, Adrian tiene un accidente y la cita se pospone. Pero eso no es todo.(n)</desc>
+    <desc lang="es">Ella va a divorciarse pero, llegado el día, no es cómo ella lo había planeado. De camino al juzgado su todavía marido, Adrian, tiene un accidente y la cita se pospone.(n)</desc>
     <credits>
       <director>Helmut Metzger</director>
       <actor>Anna König</actor>
       <actor>Ole Eisfeld</actor>
       <actor>Michaela May</actor>
       <actor>Leonard Lansik</actor>
-      <actor>Anna-Hatherina Fecher</actor>
       <actor>Kai Albrecht</actor>
-      <writer>Beate Fraunholz</writer>
+      <actor>Anna-Katharina Fecher</actor>
+      <actor>Francesca Martins</actor>
+      <actor>Jovanna Martins</actor>
+      <writer>Beate Fraunhofer</writer>
+      <producer>Jutta Lieck-Klenke</producer>
+      <producer>Sabine Jaspers</producer>
+      <composer>Rainer Oleak</composer>
+      <composer>Ingo Ludwig Frenzel</composer>
     </credits>
     <date>2019</date>
-    <category lang="es">Drama</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e0/629216.png" />
+    <category lang="es">Romántica</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2689139.jpg" />
     <country lang="es">Alemania</country>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
-  <programme start="20210320163000 +0100" stop="20210320180000 +0100" channel="La 1">
-    <title lang="es">Hint of Love</title>
-    <desc lang="es">Becky, experta culinaria, es contratada para mejorar la imagen de Will, presentador de un popular programa de cocina que quiere escribir un libro sobre recetas.(n)</desc>
+  <programme start="20210320173000 +0100" stop="20210320190000 +0100" channel="La 1 HD">
+    <title lang="es">Una pizca de amor</title>
+    <desc lang="es">Una aspirante a chef consigue trabajar en el restaurante de su ídolo culinario. Pero cuando ella y otro cocinero son despedidos, emprenderán juntos su propio negocio hostelero.(n)</desc>
     <credits>
-      <director>Kevin Fair</director>
+      <director>Christie Will</director>
+      <director>Kevin G. Fair</director>
+      <actor>Jen Lilley</actor>
+      <actor>Brendan Penny</actor>
+      <actor>Peri Gilpin</actor>
+      <actor>Kandyse McClure</actor>
+      <actor>Frances Flanagan</actor>
+      <actor>Eric Pollins</actor>
       <actor>Debs Howard</actor>
       <actor>Dennis Andres</actor>
-      <actor>Matthew James Dowden</actor>
-      <actor>Aadila Dosani</actor>
+      <writer>Judith Berg</writer>
+      <writer>Sandra Berg</writer>
+      <producer>Kim Arnott</producer>
     </credits>
-    <date>2020</date>
-    <category lang="es">Comedia</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/bb/677051.png" />
-    <country lang="es">Canadá</country>
+    <date>2017</date>
+    <category lang="es">Romántica</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1624037.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210320180000 +0100" stop="20210320200000 +0100" channel="La 1">
-    <title lang="es">Ha llegado un ángel</title>
-    <desc lang="es">Después de la muerte de sus padres, una niña llamada Marisol viaja a Madrid para ir a vivir con sus tíos. Su familia la recibe fríamente y la desprecian hasta que descubren que la niña lleva consigo 25.000 pesetas de la venta de los muebles de sus padres. La única que es sincera con ella es la criada gallega Herminia que la toma bajo su protección y, poco a poco, gracias a su amabilidad y simpatía, sus primos se ponen de su lado.Después de debutar en la exitosa ''Un rayo de luz'', la niña prodigio Marisol participó en este filme que, conjuntamente con ''Tómbola'', forma una trilogía que convirtió a esta rubia de ojos azules en todo un fenómeno sociológico de la España de la década de los 60. Las tres cintas fueron producidas por su descubridor, Manuel J. Goyanes, y dirigidas por el realizador Luis Lucía.Con canciones tan pegadizas como ''Bulerías'' o ''Estando Contigo'', ''Ha llegado un ángel'' cuenta también con secundarios destacables, como Isabel Garcés, habitual contrapunto de estrellas infantiles, o un joven Carlos Larrañaga.(n)</desc>
+  <programme start="20210320190000 +0100" stop="20210320192500 +0100" channel="La 1 HD">
+    <title lang="es">Cine de Barrio</title>
+    <desc lang="es">Emitimos la película 'Ha llegado un ángel', protagonizada por Marisol; y recibe en plató al escritor José Aguilar y a Sandra Merino y Alex Gallego, componentes del dúo 'Merino', que interpretarán canciones de la artista Malagueña.(n)</desc>
     <credits>
-      <director>Luis Lucia</director>
+      <presenter>Alaska</presenter>
+    </credits>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3559888.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2021 E10</episode-num>
+    <rating system="ES">
+      <value>1961</value>
+    </rating>
+  </programme>
+  <programme start="20210320192500 +0100" stop="20210320210000 +0100" channel="La 1 HD">
+    <title lang="es">Ha llegado un ángel</title>
+    <desc lang="es">Los padres de Marisol han muerto y la pequeña se traslada a Madrid para vivir con sus tíos. El trato de su familia es frío, pero la criada de la casa, Herminia, la acoge como a una hija.(n)</desc>
+    <credits>
+      <director>Luis Lucía</director>
       <actor>Marisol</actor>
       <actor>Isabel Garcés</actor>
       <actor>Carlos Larrañaga</actor>
-      <actor>Ana María Custodio</actor>
       <actor>José Marco Davó</actor>
-      <actor>Cesáreo Quezadas</actor>
+      <actor>Ana María Custodio</actor>
+      <actor>Raquel Daina</actor>
+      <actor>Francisco Camoiras</actor>
+      <actor>Isabel Garces</actor>
       <writer>José Luis Colina</writer>
+      <writer>Alfonso Paso</writer>
+      <producer>Cesáreo González</producer>
       <producer>Manuel J. Goyanes</producer>
       <composer>Augusto Algueró</composer>
     </credits>
     <date>1961</date>
     <category lang="es">Drama</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/98/153752.png" />
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2516836.jpg" />
     <country lang="es">España</country>
-    <rating>
+    <rating system="ES">
+      <value>Isabel Garcés</value>
+    </rating>
+  </programme>
+  <programme start="20210320210000 +0100" stop="20210320213000 +0100" channel="La 1 HD">
+    <title lang="es">Telediario fin de semana 2</title>
+    <desc lang="es">Informativo con la actualidad nacional e internacional, presentado por Lluís Guilera y Lara Siscar. La información deportiva cobra relevancia en el fin de semana de la mano de Marcos López.(n)</desc>
+    <credits>
+      <presenter>Oriol Nolis</presenter>
+      <presenter>Arsenio Cañada</presenter>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2605896.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210320200000 +0100" stop="20210320202500 +0100" channel="La 1">
-    <title lang="es">Telediario 2 Fin de Semana</title>
-    <desc lang="es">Informativo de Televisión Española de los fines de semana. Lara Siscar se encarga de presentar las últimas noticias de ámbito nacional e internacional. Marcos López, mientras, desgrana la actualidad deportiva.(n)</desc>
+  <programme start="20210320213000 +0100" stop="20210320220000 +0100" channel="La 1 HD">
+    <title lang="es">Informe semanal</title>
+    <desc lang="es">Espacio informativo que ofrece nuevos reportajes cada semana para profundizar y analizar los temas de la actualidad nacional e internacional.(n)</desc>
     <credits>
-      <presenter>Marcos López</presenter>
+      <director>Óscar González</director>
+      <presenter>Pilar García Muñiz</presenter>
+      <presenter>Rosa María Molló</presenter>
     </credits>
-    <category lang="es">Noticias</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/d9/682713.png" />
+    <category lang="es">Reportajes</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3552349.jpg" />
     <country lang="es">España</country>
-    <rating>
+    <episode-num system="onscreen">S49 E26</episode-num>
+    <rating system="ES">
       <value>TP</value>
     </rating>
-  </programme>
-  <programme start="20210320202500 +0100" stop="20210320203000 +0100" channel="La 1">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.(n)</desc>
-    <credits>
-      <presenter>Roberto Brasero</presenter>
-    </credits>
-    <date>2016</date>
-    <category lang="es">El Tiempo</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/168177.png" />
-    <country lang="es">España</country>
-  </programme>
-  <programme start="20210320203000 +0100" stop="20210320210000 +0100" channel="La 1">
-    <title lang="es">Informe Semanal</title>
-    <desc lang="es">El programa más veterano de la televisión nacional, y el más antiguo de su género en Europa, ofrece la emisión de reportajes de la actualidad internacional, nacional, social o cultural. A veces, los reportajes pueden llegar a tener hasta media hora de duración.(n)</desc>
-    <credits>
-      <presenter>Marisa Rodríguez Palop</presenter>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Actualidad</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fa/655098.png" />
-    <country lang="es">España</country>
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20210320210000 +0100" stop="20210320234000 +0100" channel="La 1">
-    <title lang="es">Prodigios</title>
-    <desc lang="es">Boris Izaguirre conduce este concurso musical infantil. Nacho Duato, Ainhoa Arteta, Andrés Salado, José Manuel Zapata y Lucas Vidal juzgarán las actuaciones de los 27 participantes. En cada categoría habrá un consultor que ayudará en las valoraciones.(n)</desc>
-    <credits>
-      <presenter>Boris Izaguirre</presenter>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Concursos</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/48/684360.png" />
-    <country lang="es">España</country>
   </programme>
 </tv>
