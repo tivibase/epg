@@ -3,32 +3,32 @@
   <channel id="La 1 HD">
     <display-name lang="es">La 1 HD</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/690.jpg" />
-    <url>http://www.elpais.com.E</url>
+    <url>http://www.elpais.com</url>
   </channel>
   <channel id="La 2">
     <display-name lang="es">La 2</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/4.jpg" />
-    <url>http://www.elpais.com.E</url>
+    <url>http://www.elpais.com</url>
   </channel>
   <channel id="Antena 3">
     <display-name lang="es">Antena 3</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/2.jpg" />
-    <url>http://www.elpais.com.E</url>
+    <url>http://www.elpais.com</url>
   </channel>
   <channel id="Cuatro">
     <display-name lang="es">Cuatro</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/496.jpg" />
-    <url>http://www.elpais.com.E</url>
+    <url>http://www.elpais.com</url>
   </channel>
   <channel id="Telecinco">
     <display-name lang="es">Telecinco</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/1.jpg" />
-    <url>http://www.elpais.com.E</url>
+    <url>http://www.elpais.com</url>
   </channel>
   <channel id="laSexta">
     <display-name lang="es">laSexta</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/510.jpg" />
-    <url>http://www.elpais.com.E</url>
+    <url>http://www.elpais.com</url>
   </channel>
   <channel id="#0">
     <display-name lang="es">#0</display-name>
@@ -43,7 +43,7 @@
   <channel id="Movistar Series">
     <display-name lang="es">Movistar Series</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/843.jpg" />
-    <url>http://www.elpais.com.E</url>
+    <url>http://www.elpais.com</url>
   </channel>
   <channel id="M. Seriesmanía">
     <display-name lang="es">M. Seriesmanía</display-name>
@@ -58,27 +58,27 @@
   <channel id="FOX">
     <display-name lang="es">FOX</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/202.jpg" />
-    <url>http://www.elpais.com.E</url>
+    <url>http://www.elpais.com</url>
   </channel>
   <channel id="AXN">
     <display-name lang="es">AXN</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/63.jpg" />
-    <url>http://www.elpais.com.E</url>
+    <url>http://www.elpais.com</url>
   </channel>
   <channel id="TNT">
     <display-name lang="es">TNT</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/577.jpg" />
-    <url>http://www.elpais.com.E</url>
+    <url>http://www.elpais.com</url>
   </channel>
   <channel id="Comedy Central">
     <display-name lang="es">Comedy Central</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/493.jpg" />
-    <url>http://www.elpais.com.E</url>
+    <url>http://www.elpais.com</url>
   </channel>
   <channel id="Calle 13">
     <display-name lang="es">Calle 13</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/64.jpg" />
-    <url>http://www.elpais.com.E</url>
+    <url>http://www.elpais.com</url>
   </channel>
   <channel id="COSMO">
     <display-name lang="es">COSMO</display-name>
@@ -88,42 +88,42 @@
   <channel id="AMC">
     <display-name lang="es">AMC</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/481.jpg" />
-    <url>http://www.elpais.com.E</url>
+    <url>http://www.elpais.com</url>
   </channel>
   <channel id="Fox Life">
     <display-name lang="es">Fox Life</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/660.jpg" />
-    <url>http://www.elpais.com.E</url>
+    <url>http://www.elpais.com</url>
   </channel>
   <channel id="AXN White">
     <display-name lang="es">AXN White</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/512.jpg" />
-    <url>http://www.elpais.com.E</url>
+    <url>http://www.elpais.com</url>
   </channel>
   <channel id="Syfy">
     <display-name lang="es">Syfy</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/520.jpg" />
-    <url>http://www.elpais.com.E</url>
+    <url>http://www.elpais.com</url>
   </channel>
   <channel id="FDF Telecinco">
     <display-name lang="es">FDF Telecinco</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/506.jpg" />
-    <url>http://www.elpais.com.E</url>
+    <url>http://www.elpais.com</url>
   </channel>
   <channel id="Neox">
     <display-name lang="es">Neox</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/508.jpg" />
-    <url>http://www.elpais.com.E</url>
+    <url>http://www.elpais.com</url>
   </channel>
   <channel id="Atreseries">
     <display-name lang="es">Atreseries</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/883.jpg" />
-    <url>http://www.elpais.com.E</url>
+    <url>http://www.elpais.com</url>
   </channel>
   <channel id="Energy">
     <display-name lang="es">Energy</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/709.jpg" />
-    <url>http://www.elpais.com.E</url>
+    <url>http://www.elpais.com</url>
   </channel>
   <channel id="5f1ac8f49205650007bc15f1">
     <display-name lang="en">Pluto TV Series</display-name>
@@ -228,7 +228,7 @@
   <channel id="Cazavisión">
     <display-name lang="es">Cazavisión</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/656.jpg" />
-    <url>http://www.elpais.com.E</url>
+    <url>http://www.elpais.com</url>
   </channel>
   <channel id="Multideporte1">
     <display-name lang="es">Multideporte1</display-name>
@@ -24708,33 +24708,13 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210322000000 +0000" stop="20210322073700 +0000" channel="5f1ac8f49205650007bc15f1">
+  <programme start="20210322000000 +0000" stop="20210322084600 +0000" channel="5f1ac8f49205650007bc15f1">
     <title lang="en">Pluto TV Series</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
-    </rating>
-  </programme>
-  <programme start="20210322073700 +0000" stop="20210322081200 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">United States Of Tara</title>
-    <desc lang="en">Tara Gregor no es que no tenga personalidad... ¡es que tiene muchas! Casada y con dos hijos adolescentes, Tara tiene trastornos de personalidad. Su familia intentará llevarlo lo mejor posible.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romantic Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5f6af53c6a58060013781325/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20210322081200 +0000" stop="20210322084600 +0000" channel="5f1ac8f49205650007bc15f1">
-    <title lang="en">United States Of Tara</title>
-    <desc lang="en">Cuando “T” y “Buck” están en casa, limpiar después es un caos. Kate se frustra cuando Tara intenta que se sienten para “hablar” y Marshall está demasiado avergonzado para que Tara le ayude cuando tiene problemas en el colegio.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romantic Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5f6af53c6a58060013781330/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
     </rating>
   </programme>
   <programme start="20210322084600 +0000" stop="20210322093600 +0000" channel="5f1ac8f49205650007bc15f1">
@@ -24917,43 +24897,33 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210322000000 +0000" stop="20210322073600 +0000" channel="5f1abce155a03d0007718834">
+  <programme start="20210322210200 +0000" stop="20210322214800 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">Yellowstone: Recuerdos</title>
+    <desc lang="en">Una nueva sociedad amenaza a John y el Yellowstone. Jamie acelera su campaña política. Rip se enfrenta a Kayce por tener que solucionarle los líos.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Classics</category>
+    <icon src="https://images.pluto.tv/episodes/6013cb0b2816a5001aa1e883/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210322214800 +0000" stop="20210322223900 +0000" channel="5f1ac8f49205650007bc15f1">
+    <title lang="en">Yellowstone: Hay un monstruo entre nosotros</title>
+    <desc lang="en">Rip se encuentra con una peligrosa y funesta situación. Se pone en marcha un plan para exprimir a John Dutton y amenazar su estilo de vida. Monica empieza una dura recuperación.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Classics</category>
+    <icon src="https://images.pluto.tv/episodes/6011a28bce98800013ecc847/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210322000000 +0000" stop="20210322084500 +0000" channel="5f1abce155a03d0007718834">
     <title lang="en">Comedia made in Spain</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1abce155a03d0007718834/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
-    </rating>
-  </programme>
-  <programme start="20210322073600 +0000" stop="20210322080200 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">La Lista Tonta ES: La Lista Tonta 11</title>
-    <desc lang="en">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
-    <category lang="en">Classics</category>
-    <category lang="en">Classic Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5f48a22ebbff270013bcc723/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20210322080200 +0000" stop="20210322082700 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">La Lista Tonta ES: La Lista Tonta 12</title>
-    <desc lang="en">Comedy Central presenta un programa de comedia basado en una particular lista de éxitos compuesta por videoclips originales. Se trata de personajes creados ad-hoc que convertiremos en artistas de éxito.(n)</desc>
-    <category lang="en">Classics</category>
-    <category lang="en">Classic Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5f48a22ebbff270013bcc71c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20210322082700 +0000" stop="20210322084500 +0000" channel="5f1abce155a03d0007718834">
-    <title lang="en">Central de Cómicos</title>
-    <desc lang="en">Fabrizio es un joven cómico chileno que hace gags provocadores basándose en la cultura popular. En su primer monólogo, también da un buen repaso a la Iglesia.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/602b9273025979001352bc1b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
     </rating>
   </programme>
   <programme start="20210322084500 +0000" stop="20210322091000 +0000" channel="5f1abce155a03d0007718834">
@@ -25156,33 +25126,33 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210322000000 +0000" stop="20210322075200 +0000" channel="5f9853138d19af0007104a8d">
+  <programme start="20210322211000 +0000" stop="20210322215000 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">Central de Cómicos: Miki Maka: Quiero ser una rock &amp; roll star / Denny Horror: Ve hacia la luz, Denny</title>
+    <desc lang="en">Miki Maka siempre quiso dedicarse a la música, pero esto de la risa se le daba mejor... / Denny Horror es gallego y algo gótico, como la Catedral de Santiago.  Eso sí, viendo su humor negro y los temas que aborda,  entendemos eso es lo único que tiene en.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f48a211bbff270013bcc4f3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210322215000 +0000" stop="20210322221300 +0000" channel="5f1abce155a03d0007718834">
+    <title lang="en">Central de Cómicos: Jorge Segura: Estupidez extrema</title>
+    <desc lang="en">Jorge sigue con sus obsesiones: la televisión, las bromas a la gente que se estanca, y su hija como fuente de anécdotas sin fin...(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f48a211bbff270013bcc4e9/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210322000000 +0000" stop="20210322083900 +0000" channel="5f9853138d19af0007104a8d">
     <title lang="en">Pluto TV Series Comedia</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f9853138d19af0007104a8d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
-    </rating>
-  </programme>
-  <programme start="20210322075200 +0000" stop="20210322081600 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">Big Time in Hollywood</title>
-    <desc lang="en">Sigue la historia de dos hermanos, autoproclamados cineastas, en el momento en que son expulsados de casa de sus padres y acaban teniendo un viaje cinemático épico.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37d2e7dc9c001a9ef515/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20210322081600 +0000" stop="20210322083900 +0000" channel="5f9853138d19af0007104a8d">
-    <title lang="en">I live with Models: No ligues con Molly</title>
-    <desc lang="en">Trata las aventuras del día a día en el mundo de la moda. Cuando Tommy es descubierto como modelo, se encuentra viviendo su sueño en un apartamento de Miami con tres jóvenes: un británico rebelde, un musculado lothario y una diva neurótica.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Stand-Up</category>
-    <icon src="https://images.pluto.tv/episodes/5fca37b0e7dc9c001a9ef253/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
     </rating>
   </programme>
   <programme start="20210322083900 +0000" stop="20210322090300 +0000" channel="5f9853138d19af0007104a8d">
@@ -25505,6 +25475,36 @@
       <value>+12</value>
     </rating>
   </programme>
+  <programme start="20210322211300 +0000" stop="20210322213400 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Teachers: Que fluya</title>
+    <desc lang="en">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca1f3e0983410013dbecd7/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210322213400 +0000" stop="20210322215700 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Teachers: La cita cañón</title>
+    <desc lang="en">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210322215700 +0000" stop="20210322221800 +0000" channel="5f9853138d19af0007104a8d">
+    <title lang="en">Teachers: La sujetavelas</title>
+    <desc lang="en">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que Cecilia, Chelsea, A.J., Caroline, Mary Louise y Deb seguirán intentando moldear las mentes de sus jóvenes alumnos, a la par que lo hacen con sus propios problemas.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.pluto.tv/episodes/5fca1f3d0983410013dbec86/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
   <programme start="20210322000000 +0000" stop="20210322074400 +0000" channel="5f1ac1f1b66c76000790ef27">
     <title lang="en">Pluto TV Cine Estelar</title>
     <desc lang="en">No information available.(n)</desc>
@@ -25683,23 +25683,13 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210322000000 +0000" stop="20210322061600 +0000" channel="5f1ac8099c49f600076579b2">
+  <programme start="20210322000000 +0000" stop="20210322080100 +0000" channel="5f1ac8099c49f600076579b2">
     <title lang="en">Pluto TV Cine Comedia</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
-    </rating>
-  </programme>
-  <programme start="20210322061600 +0000" stop="20210322080100 +0000" channel="5f1ac8099c49f600076579b2">
-    <title lang="en">Special Delivery</title>
-    <desc lang="en">Una mujer que se dedica a la mensajería especial recibe el más insólito encargo: deberá recoger a una adolescente rebelde en el domicilio paterno situado en China y entregarla a su madre en Occidente.(n)</desc>
-    <category lang="en">Thrillers</category>
-    <category lang="en">Classic Thrillers</category>
-    <icon src="https://images.pluto.tv/episodes/5f6316baddf1b7001a80d203/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
     </rating>
   </programme>
   <programme start="20210322080100 +0000" stop="20210322093800 +0000" channel="5f1ac8099c49f600076579b2">
@@ -25780,6 +25770,16 @@
     <icon src="https://images.pluto.tv/episodes/5f4f5cd4fa72a5001a5fd827/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20210322212300 +0000" stop="20210322230700 +0000" channel="5f1ac8099c49f600076579b2">
+    <title lang="en">The Out of Towners</title>
+    <desc lang="en">Nancy decide acompañar a su marido, Henry, hasta Nueva York donde él va en busca de trabajo. El viaje se convierte desde el principio en una auténtica pesadilla para ambos, y terminan arreglárselas solos en la ciudad de los rascacielos.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f6062c25e6bed001a9cb141/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
     </rating>
   </programme>
   <programme start="20210322000000 +0000" stop="20210322073800 +0000" channel="5f1ac8a87cd38d000745d7cf">
@@ -25980,23 +25980,23 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210322000000 +0000" stop="20210322062800 +0000" channel="5f1ac9a2d3611d0007a844bb">
+  <programme start="20210322212600 +0000" stop="20210322232200 +0000" channel="5f1ac947dcd00d0007937c08">
+    <title lang="en">Goat</title>
+    <desc lang="en">Traumatizado por un terrible asalto, un chico de 19 años se matricula en la universidad con su hermano, y ambos se unen a la misma fraternidad. Lo que ocurre en ella, los pone a prueba.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Dramas</category>
+    <icon src="https://images.pluto.tv/episodes/5f5f3a2ea93c29001ae12569/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210322000000 +0000" stop="20210322082200 +0000" channel="5f1ac9a2d3611d0007a844bb">
     <title lang="en">Pluto TV Cine Romántico</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
-    </rating>
-  </programme>
-  <programme start="20210322062800 +0000" stop="20210322082200 +0000" channel="5f1ac9a2d3611d0007a844bb">
-    <title lang="en">Un encuentro prometedor</title>
-    <desc lang="en">Josh y Molly, amigos de la infancia, deciden simular su compromiso para hacer feliz al padre de Josh que se está muriendo. Pero su inocente mentira pronto se les irá de las manos y deberán comenzar a planear una boda falsa.(n)</desc>
-    <category lang="en">Romance</category>
-    <category lang="en">Romantic Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5f523c64db45a1001a79adb4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TP</value>
     </rating>
   </programme>
   <programme start="20210322082200 +0000" stop="20210322102400 +0000" channel="5f1ac9a2d3611d0007a844bb">
@@ -26069,23 +26069,23 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20210322000000 +0000" stop="20210322061400 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+  <programme start="20210322213400 +0000" stop="20210322231800 +0000" channel="5f1ac9a2d3611d0007a844bb">
+    <title lang="en">In &amp; Out</title>
+    <desc lang="en">Un maestro del medio oeste estadounidense se cuestiona su sexualidad cuando un ex alumno hace un comentario sobre él en los premios de la Academia.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f6062dc5e6bed001a9cb319/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210322000000 +0000" stop="20210322080200 +0000" channel="5f6a38eaa5b68b0007a00e7a">
     <title lang="en">Pluto TV Sci-Fi</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
-    </rating>
-  </programme>
-  <programme start="20210322061400 +0000" stop="20210322080200 +0000" channel="5f6a38eaa5b68b0007a00e7a">
-    <title lang="en">Abulele</title>
-    <desc lang="en">El hermano mayor de Adam murió en un accidente, afectando la estabilidad de su familia. Mientras sus padres luchan por seguir adelante, Adam se siente culpable y solitario. Sin embargo, su vida dará un giro al conocer a Abulele, un peculiar monstruo.(n)</desc>
-    <category lang="en">Children &amp; Family</category>
-    <category lang="en">Family Animation</category>
-    <icon src="https://images.pluto.tv/episodes/5fe9b7a14aa70a001a4fd89f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
     </rating>
   </programme>
   <programme start="20210322080200 +0000" stop="20210322094600 +0000" channel="5f6a38eaa5b68b0007a00e7a">
@@ -26257,33 +26257,23 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210322000000 +0000" stop="20210322075306 +0000" channel="5f1aa9bcd8160700076d45d1">
+  <programme start="20210322210100 +0000" stop="20210322225600 +0000" channel="5f984c1dc54853000797a5e8">
+    <title lang="en">Como te ves me vi</title>
+    <desc lang="en">Una familia disfuncional, cuyos problemas se acentúan por la difícil relación entre un padre y su hijo adolescente que se está convirtiendo en un adulto y con el padre recordando su propia juventud.(n)</desc>
+    <category lang="en">Independent</category>
+    <category lang="en">Foreign Art House</category>
+    <icon src="https://images.pluto.tv/episodes/602261b3dc6117001bb36147/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20210322000000 +0000" stop="20210322084906 +0000" channel="5f1aa9bcd8160700076d45d1">
     <title lang="en">Pluto TV Junior</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
-    </rating>
-  </programme>
-  <programme start="20210322075306 +0000" stop="20210322082206 +0000" channel="5f1aa9bcd8160700076d45d1">
-    <title lang="en">Las Tres Mellizas: El Libro de la selva</title>
-    <desc lang="en">Las Tres Mellizas visitan el zoo y se dan cuenta de la precariedad en que viven los animales.(n)</desc>
-    <category lang="en">Children &amp; Family</category>
-    <category lang="en">Cartoons</category>
-    <icon src="https://images.pluto.tv/episodes/5f4371be0b2a6c001ab9d3b5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20210322082206 +0000" stop="20210322084906 +0000" channel="5f1aa9bcd8160700076d45d1">
-    <title lang="en">El Día que Henry Conoció</title>
-    <desc lang="en">Todos los días Henry encuentra algo nuevo, como una ballena, la luna o incluso un automóvil. Únete a Henry en sus emocionantes aventuras y descubre lo que se va a encontrar hoy.(n)</desc>
-    <category lang="en">Children &amp; Family</category>
-    <category lang="en">Ages 2-4</category>
-    <icon src="https://images.pluto.tv/episodes/5f460e34b9a18c001a4b8c30/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TP</value>
     </rating>
   </programme>
   <programme start="20210322084906 +0000" stop="20210322092106 +0000" channel="5f1aa9bcd8160700076d45d1">
@@ -26556,33 +26546,33 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210322000000 +0000" stop="20210322074931 +0000" channel="5f1aab1d29b39600073e243f">
+  <programme start="20210322211106 +0000" stop="20210322214006 +0000" channel="5f1aa9bcd8160700076d45d1">
+    <title lang="en">Las Tres Mellizas: San Jorge y el dragón</title>
+    <desc lang="en">Una ciudad medieval vive atemorizada por un gran dragón. Cada vez está más hambriento, el dragón saca fuego por la boca y con su aliento pestilente envenena el aire.(n)</desc>
+    <category lang="en">Children &amp; Family</category>
+    <category lang="en">Cartoons</category>
+    <icon src="https://images.pluto.tv/episodes/5f43723d0b2a6c001ab9d528/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210322214006 +0000" stop="20210322220806 +0000" channel="5f1aa9bcd8160700076d45d1">
+    <title lang="en">Bernard</title>
+    <desc lang="en">Conoce a Bernard, un oso polar torpe y algo egoísta que viaja por el mundo haciéndose querer.(n)</desc>
+    <category lang="en">Children &amp; Family</category>
+    <category lang="en">Family Animation</category>
+    <icon src="https://images.pluto.tv/episodes/5f5a5ecf638b1800139e59cc/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210322000000 +0000" stop="20210322083631 +0000" channel="5f1aab1d29b39600073e243f">
     <title lang="en">Pluto TV Kids</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
-    </rating>
-  </programme>
-  <programme start="20210322074931 +0000" stop="20210322081431 +0000" channel="5f1aab1d29b39600073e243f">
-    <title lang="en">Bella y los Bulldogs: Receptor-Impostor</title>
-    <desc lang="en">Bella lleva a Troy a conocer a una leyenda de la NFL, y allí, él le cuenta un secreto que podría poner en peligro toda la temporada de los Bulldogs. Pepper y Newt tienen que hacer locuras para pasar tiempo con Sophie y Sawyer.(n)</desc>
-    <category lang="en">Children &amp; Family</category>
-    <category lang="en">Family Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5fc60ca94926fb00133b8233/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20210322081431 +0000" stop="20210322083631 +0000" channel="5f1aab1d29b39600073e243f">
-    <title lang="en">Clarissa Explains it All</title>
-    <desc lang="en">Clarissa es una adolescente que vive con sus padres y su hermano Ferguson, que le hace la vida imposible. Pero Clarissa siempre tiene originales planes para vengarse de él.(n)</desc>
-    <category lang="en">Children &amp; Family</category>
-    <category lang="en">Teen Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/6006cdd52a97380013431953/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TP</value>
     </rating>
   </programme>
   <programme start="20210322083631 +0000" stop="20210322090231 +0000" channel="5f1aab1d29b39600073e243f">
@@ -26885,33 +26875,33 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210322000000 +0000" stop="20210322075400 +0000" channel="60218c2a32f9c40007c2f7cc">
+  <programme start="20210322211731 +0000" stop="20210322214231 +0000" channel="5f1aab1d29b39600073e243f">
+    <title lang="en">Bella y los Bulldogs</title>
+    <desc lang="en">Bella recibe el esperado mensaje de Charlie que iba a suponer un gran paso en su relación, pero, antes de poder contestar, se ve obligada a pasar el día con Zach Barnes, lo que confundirá aún más sus sentimientos.(n)</desc>
+    <category lang="en">Children &amp; Family</category>
+    <category lang="en">Family Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5fc60ca94926fb00133b8242/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210322214231 +0000" stop="20210322220731 +0000" channel="5f1aab1d29b39600073e243f">
+    <title lang="en">Bella y los Bulldogs: Solo Yo Choco Las Tres</title>
+    <desc lang="en">Bella anima a Sophie y a Pepper a buscar una sustituta para cubrir la vacante que dejó en el equipo de animadoras. Pero, al ver lo fácil que les resulta cubrir su puesto, empieza a cuestionarse su amistad con ellas.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Showbiz Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f72ddc807ce43001306a473/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210322000000 +0000" stop="20210322084500 +0000" channel="60218c2a32f9c40007c2f7cc">
     <title lang="en">Pluto TV Action Kids</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/60218c2a32f9c40007c2f7cc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
-    </rating>
-  </programme>
-  <programme start="20210322075400 +0000" stop="20210322081900 +0000" channel="60218c2a32f9c40007c2f7cc">
-    <title lang="en">Avatar - la leyenda de Aang: El pergamino del control del agua</title>
-    <desc lang="en">Cuando Katara se deja llevar por su deseo de dominar el control del agua, los chicos acaban huyendo de unos piratas.(n)</desc>
-    <category lang="en">Children &amp; Family</category>
-    <category lang="en">Family Animation</category>
-    <icon src="https://images.pluto.tv/episodes/600fdac6e5c9e7001aaf879e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20210322081900 +0000" stop="20210322084500 +0000" channel="60218c2a32f9c40007c2f7cc">
-    <title lang="en">Avatar - la leyenda de Aang: La gran división</title>
-    <desc lang="en">Cuando Aang y sus amigos llegan al borde de un cañón gigante, les piden que ayuden a cruzar a dos grupos de refugiados. Aang descubre rápidamente que eso no será tarea fácil: las dos tribus llevan cien años luchando.(n)</desc>
-    <category lang="en">Children &amp; Family</category>
-    <category lang="en">Family Animation</category>
-    <icon src="https://images.pluto.tv/episodes/600fdac6e5c9e7001aaf8770/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TP</value>
     </rating>
   </programme>
   <programme start="20210322084500 +0000" stop="20210322091100 +0000" channel="60218c2a32f9c40007c2f7cc">
@@ -27204,43 +27194,43 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210322000000 +0000" stop="20210322071100 +0000" channel="60016a60a8e3520008e0d331">
+  <programme start="20210322210900 +0000" stop="20210322213400 +0000" channel="60218c2a32f9c40007c2f7cc">
+    <title lang="en">Avatar - la leyenda de Aang: El templo del aire del sur</title>
+    <desc lang="en">Aang está deseando llevar a Sokka y a Katara al Templo Aire, donde se crio él. Pero al llegar, resulta evidente que el templo ya no es precisamente como Aang lo recordaba.(n)</desc>
+    <category lang="en">Children &amp; Family</category>
+    <category lang="en">Family Animation</category>
+    <icon src="https://images.pluto.tv/episodes/600fdac6e5c9e7001aaf8793/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210322213400 +0000" stop="20210322215900 +0000" channel="60218c2a32f9c40007c2f7cc">
+    <title lang="en">Avatar - la leyenda de Aang: Las guerreras de Kyoshi</title>
+    <desc lang="en">Cuando los habitantes de una isla pequeña descubren que Aang es el Avatar, lo tratan como a un famoso. Aang disfruta de sus atenciones, pero eso, al final, causa problemas.(n)</desc>
+    <category lang="en">Children &amp; Family</category>
+    <category lang="en">Family Animation</category>
+    <icon src="https://images.pluto.tv/episodes/600fdac6e5c9e7001aaf875c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210322215900 +0000" stop="20210322222400 +0000" channel="60218c2a32f9c40007c2f7cc">
+    <title lang="en">Avatar - la leyenda de Aang: El rey de Omashu</title>
+    <desc lang="en">Aang lleva a Katara y a Sokka a una ciudad de controladores de la tierra para jugar con los corrimientos de tierras provocados. Los chicos causan daños en la ciudad y tienen que comparecer ante un rey viejo y loco, que disfruta confundiéndolos.(n)</desc>
+    <category lang="en">Children &amp; Family</category>
+    <category lang="en">Family Animation</category>
+    <icon src="https://images.pluto.tv/episodes/600fdac6e5c9e7001aaf8766/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210322000000 +0000" stop="20210322085100 +0000" channel="60016a60a8e3520008e0d331">
     <title lang="en">Pluto TV Teen Stars</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/60016a60a8e3520008e0d331/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
-    </rating>
-  </programme>
-  <programme start="20210322071100 +0000" stop="20210322080100 +0000" channel="60016a60a8e3520008e0d331">
-    <title lang="en">iCarly</title>
-    <desc lang="en">Cuando Carly tiene una cita con un chico malo, intenta ocultarle la relació3n a Spencer. Mientras tanto, Sam le paga a Freddie para que le haga una web con todos sus vídeos favoritos.(n)</desc>
-    <category lang="en">Children &amp; Family</category>
-    <category lang="en">Family Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5ff4245ce3ed06001a5e8446/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20210322080100 +0000" stop="20210322082600 +0000" channel="60016a60a8e3520008e0d331">
-    <title lang="en">iCarly</title>
-    <desc lang="en">Cuando Carly, Sam y Freddie pierden la URL de iCarly y sólo la tiene Nevel, él le pide a Carly un beso si quiere su URL de vuelta. Mientras tanto, Spencer.(n)</desc>
-    <category lang="en">Children &amp; Family</category>
-    <category lang="en">Family Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5fec43c8b27a60001b2b33d5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20210322082600 +0000" stop="20210322085100 +0000" channel="60016a60a8e3520008e0d331">
-    <title lang="en">iCarly</title>
-    <desc lang="en">Cuando Sam y Freddie ganan un concurso para tener la mejor taquilla del colegio, están obligados a compartir la misma taquilla. Mientras tanto, Carly le pide a Spencer clases de dibujo.(n)</desc>
-    <category lang="en">Children &amp; Family</category>
-    <category lang="en">Family Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5fec43c8b27a60001b2b33cb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TP</value>
     </rating>
   </programme>
   <programme start="20210322085100 +0000" stop="20210322094100 +0000" channel="60016a60a8e3520008e0d331">
@@ -27533,33 +27523,23 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210322000000 +0000" stop="20210322074400 +0000" channel="5f1aabee6f4a2c00076a322c">
+  <programme start="20210322211900 +0000" stop="20210322220900 +0000" channel="60016a60a8e3520008e0d331">
+    <title lang="en">iCarly</title>
+    <desc lang="en">Nora, una chica de 16 aó1os, invita a Carly, Freddie y Sam a su cumpleaó1os. Cuando la fiesta está terminando, Carly, Sam y Freddie se encuentran en una situació3n complicada. Mientras tanto, Gibby y Cuppy acampan con Spencer.(n)</desc>
+    <category lang="en">Children &amp; Family</category>
+    <category lang="en">Family Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5ff4245ce3ed06001a5e844c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210322000000 +0000" stop="20210322083500 +0000" channel="5f1aabee6f4a2c00076a322c">
     <title lang="en">Pluto TV Animakids</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
-    </rating>
-  </programme>
-  <programme start="20210322074400 +0000" stop="20210322081000 +0000" channel="5f1aabee6f4a2c00076a322c">
-    <title lang="en">Planeta Sheen</title>
-    <desc lang="en">Sheen funda un nuevo movimiento artístico. Sheen no quiere que Aseefa sepa que él se tiene que ir.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Showbiz Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5f96b05d184e2e001a746890/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20210322081000 +0000" stop="20210322083500 +0000" channel="5f1aabee6f4a2c00076a322c">
-    <title lang="en">Planeta Sheen: Baila conmigo / Vaya problemón</title>
-    <desc lang="en">Sheen se compra un bigote en el mercado negro para ayudar a Aseefa. Sheen se come una baya que lo hace gigante y peligroso.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Showbiz Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5f72dd8107ce430013069ce4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TP</value>
     </rating>
   </programme>
   <programme start="20210322083500 +0000" stop="20210322090000 +0000" channel="5f1aabee6f4a2c00076a322c">
@@ -27862,43 +27842,43 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210322000000 +0000" stop="20210322074100 +0000" channel="5f1aa7aab66c76000790ee7e">
+  <programme start="20210322210800 +0000" stop="20210322213200 +0000" channel="5f1aabee6f4a2c00076a322c">
+    <title lang="en">Sanjay y Craig: Isla tráfico / Fiestabot</title>
+    <desc lang="en">Los chicos se vuelven contra Sanjay cuando este los abandona a todos en la mediana de una autopista. Sanjay y Craig encuentran un viejo robot y se convierten en chicos fiesteros.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Showbiz Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f72dd6007ce430013069965/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210322213200 +0000" stop="20210322215700 +0000" channel="5f1aabee6f4a2c00076a322c">
+    <title lang="en">Planeta Sheen: Piloto</title>
+    <desc lang="en">Sheen despega por accidente y su nave cae en el planeta Zeenu. El emperador de Zeenu lo confunde con un genio y lo nombra Consejero Real Número Uno. Dorkus, movido por los celos, se hace amigo del simio de Sheen para intentar acabar con él.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Showbiz Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f72dd8307ce430013069d40/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210322215700 +0000" stop="20210322222200 +0000" channel="5f1aabee6f4a2c00076a322c">
+    <title lang="en">Planeta Sheen: El Ultra Cordón Umbilical / Juicio Conjuntado</title>
+    <desc lang="en">A Nesmith y a Doppy les preocupa el comportamiento irregular de Sheen. Cuando acusan al señor Nesmith de haberse comido la mascota del emperador, Sheen presenta en Zeenu lo que es el sistema judicial.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Showbiz Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f72dd8407ce430013069d68/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210322000000 +0000" stop="20210322085200 +0000" channel="5f1aa7aab66c76000790ee7e">
     <title lang="en">Big Time Rush</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
-    </rating>
-  </programme>
-  <programme start="20210322074100 +0000" stop="20210322080500 +0000" channel="5f1aa7aab66c76000790ee7e">
-    <title lang="en">Big Time Rush: La gran ruptura</title>
-    <desc lang="en">Advertidos de que los grupos de chicos se disuelven siempre tras el tercer album, los chicos compiten por conseguir bolos en solitario para no quedarse atrás.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Showbiz Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5f69a7d15abba500136ad8d2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
-    </rating>
-  </programme>
-  <programme start="20210322080500 +0000" stop="20210322082900 +0000" channel="5f1aa7aab66c76000790ee7e">
-    <title lang="en">Big Time Rush: La gran gira en autobús</title>
-    <desc lang="en">BTR sale de gira con Victoria Justice y subiremos al autobús con ellos para presenciar la locura de abordo. Cuando se ven retenidos por culpa de un atasco, Victoria tendrá que entretener al público hasta que lleguen los chicos.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Showbiz Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5f69a7d15abba500136ad8eb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
-    </rating>
-  </programme>
-  <programme start="20210322082900 +0000" stop="20210322085200 +0000" channel="5f1aa7aab66c76000790ee7e">
-    <title lang="en">Big Time Rush: La gran entrega de premios (Parte 1)</title>
-    <desc lang="en">¡Es la entrega de los premios Tween Choice, BTR está nominado y ha sido contratado para cerrar el evento! Sin embargo, su noche se empaña cuando los chicos descubren un plan diabólico para lavar el cerebro al público.(n)</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Showbiz Comedies</category>
-    <icon src="https://images.pluto.tv/episodes/5f69a7d15abba500136ad8bf/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>+7</value>
     </rating>
   </programme>
   <programme start="20210322085200 +0000" stop="20210322091800 +0000" channel="5f1aa7aab66c76000790ee7e">
@@ -28191,43 +28171,43 @@
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20210322000000 +0000" stop="20210322073354 +0000" channel="5f1aa82c150b2500077733d7">
+  <programme start="20210322210500 +0000" stop="20210322213000 +0000" channel="5f1aa7aab66c76000790ee7e">
+    <title lang="en">Big Time Rush: Grandes Enamoramientos</title>
+    <desc lang="en">Kendall y Jo ayudan a Carlos a encontrar una novia y Logan flirtea con una chica nueva mientras intenta aclarar qué siente por Camille. James quiere ayudar a Katie a acercarse a un chico que le gusta pero acabará portándose como un padre protector.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Showbiz Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f69a7e55abba500136adb45/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210322213000 +0000" stop="20210322215500 +0000" channel="5f1aa7aab66c76000790ee7e">
+    <title lang="en">Big Time Rush: El Gran Grupo De Chicas</title>
+    <desc lang="en">Gustavo funda un grupo pop solo de chicas, lo que desencadenará los celos de los chicos.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Showbiz Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f69a7e65abba500136adbc4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210322215500 +0000" stop="20210322222000 +0000" channel="5f1aa7aab66c76000790ee7e">
+    <title lang="en">Big Time Rush: La Gran Realidad</title>
+    <desc lang="en">Griffin filma la vida de los chicos para un programa de telerealidad.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Showbiz Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/5f69a7e65abba500136adbbf/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20210322000000 +0000" stop="20210322085654 +0000" channel="5f1aa82c150b2500077733d7">
     <title lang="en">Pistas de Blue</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1aa82c150b2500077733d7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
-    </rating>
-  </programme>
-  <programme start="20210322073354 +0000" stop="20210322080054 +0000" channel="5f1aa82c150b2500077733d7">
-    <title lang="en">Pistas de Blue</title>
-    <desc lang="en">Jugamos a las Pistas de Blue para ver qué quiere comprar Blue. Ayudamos al Sr. Sal y la Sra. Pimienta a ver quién tiene más manzanas, cómo igualarlas y el número total que tienen todas juntas. También ayudamos a Cubo y Pala a contar sus galletas.(n)</desc>
-    <category lang="en">Children &amp; Family</category>
-    <category lang="en">Family Animation</category>
-    <icon src="https://images.pluto.tv/episodes/5fc6330b99839e0013e0bac2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20210322080054 +0000" stop="20210322082854 +0000" channel="5f1aa82c150b2500077733d7">
-    <title lang="en">Pistas de Blue: Episodio 92</title>
-    <desc lang="en">En Pistas de Blue resolveremos multitud de enigmas junto a Steve y a su perrita Blue. Interactúa con ellos y con sus amigos para ayudarles a descifrar las pistas de Blue.(n)</desc>
-    <category lang="en">Children &amp; Family</category>
-    <category lang="en">Family Animation</category>
-    <icon src="https://images.pluto.tv/episodes/5f59cd3909f8c300134a5b76/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20210322082854 +0000" stop="20210322085654 +0000" channel="5f1aa82c150b2500077733d7">
-    <title lang="en">Pistas de Blue: Episodio 93</title>
-    <desc lang="en">En Pistas de Blue resolveremos multitud de enigmas junto a Steve y a su perrita Blue. Interactúa con ellos y con sus amigos para ayudarles a descifrar las pistas de Blue.(n)</desc>
-    <category lang="en">Children &amp; Family</category>
-    <category lang="en">Family Animation</category>
-    <icon src="https://images.pluto.tv/episodes/5f59cd3c09f8c300134a5bcb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TP</value>
     </rating>
   </programme>
   <programme start="20210322085654 +0000" stop="20210322092354 +0000" channel="5f1aa82c150b2500077733d7">
@@ -28500,43 +28480,33 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210322000000 +0000" stop="20210322074200 +0000" channel="5f1aca0b4e448e00075e7c5e">
+  <programme start="20210322212154 +0000" stop="20210322214954 +0000" channel="5f1aa82c150b2500077733d7">
+    <title lang="en">Pistas de Blue: Episodio 80</title>
+    <desc lang="en">En Pistas de Blue resolveremos multitud de enigmas junto a Steve y a su perrita Blue. Interactúa con ellos y con sus amigos para ayudarles a descifrar las pistas de Blue.(n)</desc>
+    <category lang="en">Children &amp; Family</category>
+    <category lang="en">Family Animation</category>
+    <icon src="https://images.pluto.tv/episodes/5f59cd3109f8c300134a5aa8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210322214954 +0000" stop="20210322221754 +0000" channel="5f1aa82c150b2500077733d7">
+    <title lang="en">Pistas de Blue</title>
+    <desc lang="en">Tenemos una gran exposición de arte y jugamos a las Pistas de Blue para ver qué aporta Blue. Mientras buscamos pistas, ayudamos a Steve con sus proyectos artísticos, localizamos el pez en los cuadros y descubrimos la escultura de Cubo y Pala.(n)</desc>
+    <category lang="en">Children &amp; Family</category>
+    <category lang="en">Family Animation</category>
+    <icon src="https://images.pluto.tv/episodes/5fc6330299839e0013e0b9df/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210322000000 +0000" stop="20210322085700 +0000" channel="5f1aca0b4e448e00075e7c5e">
     <title lang="en">Bob Esponja</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
-    </rating>
-  </programme>
-  <programme start="20210322074200 +0000" stop="20210322080700 +0000" channel="5f1aca0b4e448e00075e7c5e">
-    <title lang="en">Bob Esponja Pantalones Cuadrados</title>
-    <desc lang="en">Bob Esponja decide renunciar a su vida industrializada y vivir de la tierra con las medusas Calamardo está enfadado con Bob Esponja y Patricio y decide vender su casa.(n)</desc>
-    <category lang="en">Children &amp; Family</category>
-    <category lang="en">Family Animation</category>
-    <icon src="https://images.pluto.tv/episodes/5fb4db12cfb475001a28d5bd/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20210322080700 +0000" stop="20210322083200 +0000" channel="5f1aca0b4e448e00075e7c5e">
-    <title lang="en">Bob Esponja Pantalones Cuadrados</title>
-    <desc lang="en">Va a haber un show de talentos en el Krustáceo Krujiente y Calamardo se encarga de planificarlo. El malvado Plankton intenta robar una cangreburger del Krustáceo Krujiente.(n)</desc>
-    <category lang="en">Children &amp; Family</category>
-    <category lang="en">Family Animation</category>
-    <icon src="https://images.pluto.tv/episodes/5fb4db12cfb475001a28d59b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20210322083200 +0000" stop="20210322085700 +0000" channel="5f1aca0b4e448e00075e7c5e">
-    <title lang="en">Bob Esponja Pantalones Cuadrados</title>
-    <desc lang="en">Bob Esponja se pone cachas con la ayuda de músculos inflables. Una caracola voladora golpea accidentalmente a Calamardo y eso atormenta a Bob Esponja y Patricio.(n)</desc>
-    <category lang="en">Children &amp; Family</category>
-    <category lang="en">Family Animation</category>
-    <icon src="https://images.pluto.tv/episodes/5fb4db12cfb475001a28d5c8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TP</value>
     </rating>
   </programme>
   <programme start="20210322085700 +0000" stop="20210322092200 +0000" channel="5f1aca0b4e448e00075e7c5e">
@@ -28819,33 +28789,43 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210322000000 +0000" stop="20210322075201 +0000" channel="5f1aa89d42a0500007363ea3">
+  <programme start="20210322210100 +0000" stop="20210322212700 +0000" channel="5f1aca0b4e448e00075e7c5e">
+    <title lang="en">Bob Esponja Pantalones Cuadrados</title>
+    <desc lang="en">Calamardo cree que el señor Cangrejo se aprovecha de ellos y convence a Bob Esponja de que se una a él y amenacen al señor Cangrejo con una huelga. Un gusano grande aterroriza Fondo de Bikini y Bob Esponja está muerto de miedo.(n)</desc>
+    <category lang="en">Children &amp; Family</category>
+    <category lang="en">Family Animation</category>
+    <icon src="https://images.pluto.tv/episodes/5fb4db05cfb475001a28d438/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210322212700 +0000" stop="20210322215300 +0000" channel="5f1aca0b4e448e00075e7c5e">
+    <title lang="en">Bob Esponja Pantalones Cuadrados: Las algas son siempre verdes / Esponja socorrista</title>
+    <desc lang="en">Plankton tiene un nuevo invento que le permite intercambiar su vida con la del Señor Cangrejo. A Larry la Langosta le falta un hombre para que trabaje de socorrista y Bob Esponja se ofrece voluntario.(n)</desc>
+    <category lang="en">Children &amp; Family</category>
+    <category lang="en">Family Animation</category>
+    <icon src="https://images.pluto.tv/episodes/5fc8cfff5fc7e1001a3b3a9c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210322215300 +0000" stop="20210322221900 +0000" channel="5f1aca0b4e448e00075e7c5e">
+    <title lang="en">Bob Esponja Pantalones Cuadrados</title>
+    <desc lang="en">Bob Esponja y Patricio construyen una casa en un árbol. Calamardo quiere unirse al club, pero no cabe en la casa. Bob Esponja encuentra un caballito de mar perdido y lo adopta.(n)</desc>
+    <category lang="en">Children &amp; Family</category>
+    <category lang="en">Family Animation</category>
+    <icon src="https://images.pluto.tv/episodes/5fb4dafdcfb475001a28d359/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210322000000 +0000" stop="20210322084401 +0000" channel="5f1aa89d42a0500007363ea3">
     <title lang="en">Go Diego Go!</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
     <icon src="https://images.pluto.tv/channels/5f1aa89d42a0500007363ea3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
-    </rating>
-  </programme>
-  <programme start="20210322075201 +0000" stop="20210322081701 +0000" channel="5f1aa89d42a0500007363ea3">
-    <title lang="en">Go, Diego, Go!: Tuga ayuda a la luna Parte 2</title>
-    <desc lang="en">Hay luna llena y Diego, Alicia y Tuga están en la playa preparándose para &amp;apos;Historias a la luz de la luna&amp;apos;. Hoy Diego cuenta la historia del día en el que Tuga y él estaban en la playa, esperando que nacieran los tortugas marinas bebés.(n)</desc>
-    <category lang="en">Children &amp; Family</category>
-    <category lang="en">Family Animation</category>
-    <icon src="https://images.pluto.tv/episodes/5f647abf5e6bed001a9d1a12/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20210322081701 +0000" stop="20210322084401 +0000" channel="5f1aa89d42a0500007363ea3">
-    <title lang="en">Go, Diego, Go!: Mami flamenco</title>
-    <desc lang="en">Hoy todos los flamencos saldrán de sus huevos. Diego está en las Montañas de los Andes de camino a Lago Flamenco cuando de pronto oye pedir socorro. Es Mami Flamenco, que se esconde de un zorro dentro de una cueva. Diego acude en su rescate.(n)</desc>
-    <category lang="en">Children &amp; Family</category>
-    <category lang="en">Family Animation</category>
-    <icon src="https://images.pluto.tv/episodes/5f647abf5e6bed001a9d1a26/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TP</value>
     </rating>
   </programme>
   <programme start="20210322084401 +0000" stop="20210322091001 +0000" channel="5f1aa89d42a0500007363ea3">
@@ -29124,6 +29104,26 @@
     <category lang="en">Children &amp; Family</category>
     <category lang="en">Family Animation</category>
     <icon src="https://images.pluto.tv/episodes/5f647af05e6bed001a9d1e7b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210322211501 +0000" stop="20210322214201 +0000" channel="5f1aa89d42a0500007363ea3">
+    <title lang="en">Go, Diego, Go!: Panchita, la perra de las praderas</title>
+    <desc lang="en">Diego y Alicia están en el rancho del rescate cuando se encuentran con Panchita, la perra de las praderas, que necesita encontrar un buen pasto para su familia.(n)</desc>
+    <category lang="en">Children &amp; Family</category>
+    <category lang="en">Family Animation</category>
+    <icon src="https://images.pluto.tv/episodes/5f647ace5e6bed001a9d1b98/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20210322214201 +0000" stop="20210322220901 +0000" channel="5f1aa89d42a0500007363ea3">
+    <title lang="en">Go, Diego, Go!: Alicia salva al cocodrilo</title>
+    <desc lang="en">Kira la cocodrilo está atrapada en un estanque sucio en la ciudad. Alicia usa su equipo de rescate para llevarla de vuelta a casa.(n)</desc>
+    <category lang="en">Children &amp; Family</category>
+    <category lang="en">Family Animation</category>
+    <icon src="https://images.pluto.tv/episodes/5f647ad65e6bed001a9d1c5a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>TP</value>
     </rating>
