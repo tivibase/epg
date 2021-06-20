@@ -392,7 +392,6 @@
   </channel>
   <channel id="NICK JR">
     <display-name lang="es">NICK JR</display-name>
-    <icon src="https://www.movistarplus.es/recorte/m-NEO/externo/NICKJR" />
     <url>http://www.comunicacion.movistarplus.es</url>
   </channel>
   <channel id="Nickelodeon">
@@ -4112,42 +4111,134 @@
   <programme start="20210621063000 +0200" stop="20210621070000 +0200" channel="Telecinco">
     <title lang="es">¡Toma salami!</title>
     <desc lang="es">Programa de nostalgia televisiva en el que el humorista Javier Capitán, como voz en off, rememorará los grandes momentos televisivos de los canales del grupo.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Humor</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2430217.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E238</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210621070000 +0200" stop="20210621085500 +0200" channel="Telecinco">
     <title lang="es">Informativos Telecinco matinal</title>
     <desc lang="es">Primera edición de los informativos de Telecinco que nos ofrecen la actualidad nacional e internacional y las últimas noticias de deportes, cultura, sociedad y economía. Presenta Alba Lago y Leticia Iglesias.(n)</desc>
+    <credits>
+      <director>Pedro Piqueras</director>
+      <presenter>Roberto Fernández</presenter>
+      <presenter>Ramón Fuentes</presenter>
+      <presenter>Leticia Iglesias</presenter>
+      <presenter>Alba Lago</presenter>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2051781.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210621085500 +0200" stop="20210621133000 +0200" channel="Telecinco">
     <title lang="es">El programa de Ana Rosa</title>
     <desc lang="es">Isabel Díaz Ayuso, presidenta de la Comunidad de Madrid, acudirá como invitada al programa.(n)</desc>
+    <credits>
+      <producer>Cuarzo</producer>
+      <presenter>Ana Rosa Quintana</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Magazine</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3543581.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S17 E199</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210621133000 +0200" stop="20210621150000 +0200" channel="Telecinco">
     <title lang="es">Ya es mediodía</title>
     <desc lang="es">Sonsoles Ónega conduce este espacio que nos ofrece un análisis pormenorizado de los temas más destacados de la actualidad política, económica, social y cultural.(n)</desc>
+    <credits>
+      <presenter>Sonsoles Ónega</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Tertulia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2054612.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E763</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210621150000 +0200" stop="20210621154000 +0200" channel="Telecinco">
     <title lang="es">Informativos Telecinco mediodía</title>
     <desc lang="es">Edición mediodía de los servicios informativos de Telecinco que nos ofrecen cada día toda la actualidad de ámbito nacional e internacional y las últimas noticias de deportes, cultura, sociedad y economía.(n)</desc>
+    <credits>
+      <presenter>Isabel Jiménez</presenter>
+      <presenter>David Cantero</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2032780.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210621154000 +0200" stop="20210621155000 +0200" channel="Telecinco">
     <title lang="es">Deportes Telecinco 1</title>
     <desc lang="es">Primera edición de la información del mundo del deporte y sus protagonistas en Telecinco. Presenta José Antonio Luque.(n)</desc>
+    <category lang="es">Deportes</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2032716.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210621155000 +0200" stop="20210621160000 +0200" channel="Telecinco">
     <title lang="es">El Tiempo Telecinco 1</title>
     <desc lang="es">Información meteorológica y pronóstico del tiempo, 1ª edición.(n)</desc>
+    <category lang="es">Tiempo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2639543.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210621160000 +0200" stop="20210621170000 +0200" channel="Telecinco">
     <title lang="es">Sálvame limón</title>
     <desc lang="es">La edición más ácida de Sálvame, magacín vespertino que aborda la actualidad de la crónica rosa de la mano de Paz Padilla, Jorge Javier Vázquez y Carlota Corredera.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Crónica Rosa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1754329.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E1665</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210621170000 +0200" stop="20210621200000 +0200" channel="Telecinco">
     <title lang="es">Sálvame naranja</title>
     <desc lang="es">La edición más dulce y apta para todas las sensibilidades de Sálvame, magacín vespertino que aborda la actualidad de la crónica rosa de la mano de Paz Padilla, Jorge Javier Vázquez y Carlota Corredera.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Crónica Rosa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1754320.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E1665</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
   </programme>
   <programme start="20210621200000 +0200" stop="20210621202500 +0200" channel="Telecinco">
     <title lang="es">Sálvame tomate</title>
     <desc lang="es">Espacio de crónica rosa basado en el histórico formato de Telecinco 'Aquí hay tomate'. Incluye conexiones en directo con tres de sus míticos reporteros: Mar Torres, Miquel Serra y Alfonso Ferrandis.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Crónica Rosa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2651748.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E1665</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20210621202500 +0200" stop="20210621210000 +0200" channel="Telecinco">
     <title lang="es">La Eurocopa: juntos en Mediaset</title>
@@ -4163,6 +4254,14 @@
   <programme start="20210621210000 +0200" stop="20210621230000 +0200" channel="Telecinco">
     <title lang="es">Eurocopa de fútbol 2020</title>
     <desc lang="es">Fase de grupos. Desde el Saint Petersburg Stadium en San Petersburgo.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Fútbol</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2241551.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2020 E29</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210620023000 +0200" stop="20210620031500 +0200" channel="laSexta">
     <title lang="es">World Poker Tour</title>
@@ -10635,18 +10734,82 @@
   <programme start="20210620044024 +0200" stop="20210620050229 +0200" channel="TNT">
     <title lang="es">Rick y Morty</title>
     <desc lang="es">Rick y Morty son convocados por los Vindicadores para detener a Worldender pero terminan en un trampa mortal concebida por Drunk Rick.(n)</desc>
+    <credits>
+      <director>Bryan Newton</director>
+      <director>Wesley Archer</director>
+      <writer>Dan Harmon</writer>
+      <writer>Justin Roiland</writer>
+      <producer>Dan Harmon</producer>
+      <producer>Delna Bhesania</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/582733.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210620050229 +0200" stop="20210620052326 +0200" channel="TNT">
     <title lang="es">Rick y Morty</title>
     <desc lang="es">Rick y Jerry se van de aventura.(n)</desc>
+    <credits>
+      <director>Juan Jose Meza-Leon</director>
+      <director>Wesley Archer</director>
+      <writer>Dan Harmon</writer>
+      <writer>Justin Roiland</writer>
+      <producer>Dan Harmon</producer>
+      <producer>Delna Bhesania</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/582733.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210620052326 +0200" stop="20210620054434 +0200" channel="TNT">
     <title lang="es">Rick y Morty</title>
     <desc lang="es">Después de una aventura estresante, Rick y Morty se toman un descanso para ir a un spa y eliminar toxinas, pero estas a su vez toman forma propia.(n)</desc>
+    <credits>
+      <director>Anthony Chun</director>
+      <director>Wesley Archer</director>
+      <writer>Dan Harmon</writer>
+      <writer>Justin Roiland</writer>
+      <producer>Dan Harmon</producer>
+      <producer>Delna Bhesania</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/582733.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210620054434 +0200" stop="20210620060522 +0200" channel="TNT">
     <title lang="es">Rick y Morty</title>
     <desc lang="es">Mientras Rick y Morty se aventuran en Atlantis, echamos un vistazo a cómo la Ciudadela se ha reconstruido a sí misma desde la visita de los dos amigos.(n)</desc>
+    <credits>
+      <director>Dominic Polcino</director>
+      <director>Wesley Archer</director>
+      <writer>Dan Harmon</writer>
+      <writer>Justin Roiland</writer>
+      <producer>Dan Harmon</producer>
+      <producer>Delna Bhesania</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/582733.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210620060522 +0200" stop="20210620062604 +0200" channel="TNT">
     <title lang="es">Rick y Morty</title>
@@ -10689,6 +10852,22 @@
   <programme start="20210620064656 +0200" stop="20210620070820 +0200" channel="TNT">
     <title lang="es">Rick y Morty</title>
     <desc lang="es">Rick y Morty son llamados por el presidente para matar a un vicioso alienígena en los túneles secretos debajo de la Casa Blanca.(n)</desc>
+    <credits>
+      <director>Wesley Archer</director>
+      <director>Anthony Chun</director>
+      <writer>Dan Harmon</writer>
+      <writer>Justin Roiland</writer>
+      <producer>Dan Harmon</producer>
+      <producer>Delna Bhesania</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/582733.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S3 E10</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210620070820 +0200" stop="20210620071939 +0200" channel="TNT">
     <title lang="es">Robot Chicken</title>
@@ -21803,14 +21982,68 @@
   <programme start="20210621111500 +0200" stop="20210621113640 +0200" channel="Neox">
     <title lang="es">Big Bang</title>
     <desc lang="es">Big Bang es una comedia de situación en la que un par de amigos científicos comienzan a tener vida más allá del laboratorio cuando una nueva y preciosa vecina llega a su edificio; lo que también afecta a sus amigos geek.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Simon Helberg</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+      <producer>Chuck Lorre</producer>
+      <producer>Peter Chakos</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/413908.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Sheldon Cooper</value>
+    </rating>
   </programme>
   <programme start="20210621113640 +0200" stop="20210621115820 +0200" channel="Neox">
     <title lang="es">Big Bang</title>
     <desc lang="es">Big Bang es una comedia de situación en la que un par de amigos científicos comienzan a tener vida más allá del laboratorio cuando una nueva y preciosa vecina llega a su edificio; lo que también afecta a sus amigos geek.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Simon Helberg</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+      <producer>Chuck Lorre</producer>
+      <producer>Peter Chakos</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/413908.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Sheldon Cooper</value>
+    </rating>
   </programme>
   <programme start="20210621115820 +0200" stop="20210621122000 +0200" channel="Neox">
     <title lang="es">Big Bang</title>
     <desc lang="es">Big Bang es una comedia de situación en la que un par de amigos científicos comienzan a tener vida más allá del laboratorio cuando una nueva y preciosa vecina llega a su edificio; lo que también afecta a sus amigos geek.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Simon Helberg</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+      <producer>Chuck Lorre</producer>
+      <producer>Peter Chakos</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/413908.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Sheldon Cooper</value>
+    </rating>
   </programme>
   <programme start="20210621122000 +0200" stop="20210621131130 +0200" channel="Neox">
     <title lang="es">Los Simpson</title>
@@ -21899,14 +22132,74 @@
   <programme start="20210621152000 +0200" stop="20210621154820 +0200" channel="Neox">
     <title lang="es">Friends</title>
     <desc lang="es">Comedia que sigue las vidas de un grupo de seis amigos -Ross, Chandler, Joey, Rachel, Mónica y Phoebe- que viven en Manhattan (Nueva York).(n)</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+      <writer>David Crane</writer>
+      <writer>Marta Kauffman</writer>
+      <producer>Alexa Junge</producer>
+      <producer>Ira Ungerleider</producer>
+      <composer>Michael Skloff</composer>
+    </credits>
+    <date>1994</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/425368.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Nueva York</value>
+    </rating>
   </programme>
   <programme start="20210621154820 +0200" stop="20210621161710 +0200" channel="Neox">
     <title lang="es">Friends</title>
     <desc lang="es">Comedia que sigue las vidas de un grupo de seis amigos -Ross, Chandler, Joey, Rachel, Mónica y Phoebe- que viven en Manhattan (Nueva York).(n)</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+      <writer>David Crane</writer>
+      <writer>Marta Kauffman</writer>
+      <producer>Alexa Junge</producer>
+      <producer>Ira Ungerleider</producer>
+      <composer>Michael Skloff</composer>
+    </credits>
+    <date>1994</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/425368.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Nueva York</value>
+    </rating>
   </programme>
   <programme start="20210621161710 +0200" stop="20210621164500 +0200" channel="Neox">
     <title lang="es">Friends</title>
     <desc lang="es">Comedia que sigue las vidas de un grupo de seis amigos -Ross, Chandler, Joey, Rachel, Mónica y Phoebe- que viven en Manhattan (Nueva York).(n)</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+      <writer>David Crane</writer>
+      <writer>Marta Kauffman</writer>
+      <producer>Alexa Junge</producer>
+      <producer>Ira Ungerleider</producer>
+      <composer>Michael Skloff</composer>
+    </credits>
+    <date>1994</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/425368.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Nueva York</value>
+    </rating>
   </programme>
   <programme start="20210621164500 +0200" stop="20210621173730 +0200" channel="Neox">
     <title lang="es">Modern Family</title>
@@ -21989,30 +22282,357 @@
   <programme start="20210621183000 +0200" stop="20210621185230 +0200" channel="Neox">
     <title lang="es">Big Bang</title>
     <desc lang="es">Big Bang es una comedia de situación en la que un par de amigos científicos comienzan a tener vida más allá del laboratorio cuando una nueva y preciosa vecina llega a su edificio; lo que también afecta a sus amigos geek.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Simon Helberg</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+      <producer>Chuck Lorre</producer>
+      <producer>Peter Chakos</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/413908.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Sheldon Cooper</value>
+    </rating>
   </programme>
   <programme start="20210621185230 +0200" stop="20210621191500 +0200" channel="Neox">
     <title lang="es">Big Bang</title>
     <desc lang="es">Big Bang es una comedia de situación en la que un par de amigos científicos comienzan a tener vida más allá del laboratorio cuando una nueva y preciosa vecina llega a su edificio; lo que también afecta a sus amigos geek.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Simon Helberg</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+      <producer>Chuck Lorre</producer>
+      <producer>Peter Chakos</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/413908.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Sheldon Cooper</value>
+    </rating>
   </programme>
   <programme start="20210621191500 +0200" stop="20210621193730 +0200" channel="Neox">
     <title lang="es">Big Bang</title>
     <desc lang="es">Big Bang es una comedia de situación en la que un par de amigos científicos comienzan a tener vida más allá del laboratorio cuando una nueva y preciosa vecina llega a su edificio; lo que también afecta a sus amigos geek.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Simon Helberg</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+      <producer>Chuck Lorre</producer>
+      <producer>Peter Chakos</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/413908.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Sheldon Cooper</value>
+    </rating>
   </programme>
   <programme start="20210621193730 +0200" stop="20210621200000 +0200" channel="Neox">
     <title lang="es">Big Bang</title>
     <desc lang="es">Big Bang es una comedia de situación en la que un par de amigos científicos comienzan a tener vida más allá del laboratorio cuando una nueva y preciosa vecina llega a su edificio; lo que también afecta a sus amigos geek.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Simon Helberg</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+      <producer>Chuck Lorre</producer>
+      <producer>Peter Chakos</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/413908.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Sheldon Cooper</value>
+    </rating>
   </programme>
   <programme start="20210621200000 +0200" stop="20210621202520 +0200" channel="Neox">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Charlie Harper es un escritor, soltero, ligón y vividor, y su estilo de vida se tambalea cuando su hermano Alan aterriza en su casa con su hijo de diez años, Jake, para quedarse.(n)</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Lee Aronsohn</director>
+      <actor>Angus T. Jones</actor>
+      <actor>Charlie Sheen</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Marin Hinkle</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jaime Pressly</actor>
+      <actor>Maggie Lawson</actor>
+      <actor>Vernee Watson-Johnson</actor>
+      <actor>Rebecca Olejniczak</actor>
+      <actor>Lilah Richcreek</actor>
+      <actor>kelly Sry</actor>
+      <actor>Carl Reiner</actor>
+      <actor>Shanti Lowry</actor>
+      <actor>Jett Dunlap</actor>
+      <actor>Jennifer Chang</actor>
+      <actor>Kimberly Hebert Gregory</actor>
+      <actor>Jennifer Aspen</actor>
+      <actor>Molly Stanton</actor>
+      <actor>Nicole Travolta</actor>
+      <actor>Tara Perry</actor>
+      <actor>Federico Pedroni</actor>
+      <actor>Tom Schwartz</actor>
+      <actor>Guy Cusson</actor>
+      <actor>Camila Greenberg</actor>
+      <actor>Rachael Lee</actor>
+      <actor>Tiffany Panhilason</actor>
+      <actor>D.B. Sweeney</actor>
+      <actor>Lynda Carter</actor>
+      <actor>Carrie Ameen</actor>
+      <actor>Madison Dylan</actor>
+      <actor>Spencer Locke</actor>
+      <actor>Jeff Probst</actor>
+      <actor>Kim Shaw</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Elizabeth Tatus</actor>
+      <actor>Nick Wayne</actor>
+      <actor>Dan Gordon</actor>
+      <actor>Jennifer Kathreen Larson</actor>
+      <actor>Craig Gellis</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alyson Michalka</actor>
+      <actor>Diane Farr</actor>
+      <actor>Clark Duke</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Ken Davitian</actor>
+      <actor>Alex Kapp Horner</actor>
+      <actor>Jamie Luner</actor>
+      <actor>Calle Morgan</actor>
+      <actor>Amy Pietz</actor>
+      <actor>Sandra Purpuro</actor>
+      <actor>Tammy Tavares</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Lee Aronsohn</writer>
+      <writer>James Vallely</writer>
+      <writer>Warren Bell</writer>
+      <writer>Jon Cryer</writer>
+      <producer>Kim Tannenbaum</producer>
+      <producer>Eric Tannenbaum</producer>
+      <producer>James Vallely</producer>
+      <producer>Katie Jones</producer>
+      <producer>Susan McMartin</producer>
+      <producer>Saladin K. Patterson</producer>
+      <producer>Alissa Neubauer</producer>
+      <producer>Maria Espada</producer>
+      <producer>Warren Bell</producer>
+      <producer>Matt Ross</producer>
+      <producer>Max Searle</producer>
+      <producer>Mark Roberts</producer>
+      <producer>Tracey Ormandy</producer>
+      <composer>Dennis C. Brown</composer>
+      <composer>Grant Geissman</composer>
+    </credits>
+    <date>2003</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/416729.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Angus T. Jones</value>
+    </rating>
   </programme>
   <programme start="20210621202520 +0200" stop="20210621205040 +0200" channel="Neox">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Charlie Harper es un escritor, soltero, ligón y vividor, y su estilo de vida se tambalea cuando su hermano Alan aterriza en su casa con su hijo de diez años, Jake, para quedarse.(n)</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Lee Aronsohn</director>
+      <actor>Angus T. Jones</actor>
+      <actor>Charlie Sheen</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Marin Hinkle</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jaime Pressly</actor>
+      <actor>Maggie Lawson</actor>
+      <actor>Vernee Watson-Johnson</actor>
+      <actor>Rebecca Olejniczak</actor>
+      <actor>Lilah Richcreek</actor>
+      <actor>kelly Sry</actor>
+      <actor>Carl Reiner</actor>
+      <actor>Shanti Lowry</actor>
+      <actor>Jett Dunlap</actor>
+      <actor>Jennifer Chang</actor>
+      <actor>Kimberly Hebert Gregory</actor>
+      <actor>Jennifer Aspen</actor>
+      <actor>Molly Stanton</actor>
+      <actor>Nicole Travolta</actor>
+      <actor>Tara Perry</actor>
+      <actor>Federico Pedroni</actor>
+      <actor>Tom Schwartz</actor>
+      <actor>Guy Cusson</actor>
+      <actor>Camila Greenberg</actor>
+      <actor>Rachael Lee</actor>
+      <actor>Tiffany Panhilason</actor>
+      <actor>D.B. Sweeney</actor>
+      <actor>Lynda Carter</actor>
+      <actor>Carrie Ameen</actor>
+      <actor>Madison Dylan</actor>
+      <actor>Spencer Locke</actor>
+      <actor>Jeff Probst</actor>
+      <actor>Kim Shaw</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Elizabeth Tatus</actor>
+      <actor>Nick Wayne</actor>
+      <actor>Dan Gordon</actor>
+      <actor>Jennifer Kathreen Larson</actor>
+      <actor>Craig Gellis</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alyson Michalka</actor>
+      <actor>Diane Farr</actor>
+      <actor>Clark Duke</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Ken Davitian</actor>
+      <actor>Alex Kapp Horner</actor>
+      <actor>Jamie Luner</actor>
+      <actor>Calle Morgan</actor>
+      <actor>Amy Pietz</actor>
+      <actor>Sandra Purpuro</actor>
+      <actor>Tammy Tavares</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Lee Aronsohn</writer>
+      <writer>James Vallely</writer>
+      <writer>Warren Bell</writer>
+      <writer>Jon Cryer</writer>
+      <producer>Kim Tannenbaum</producer>
+      <producer>Eric Tannenbaum</producer>
+      <producer>James Vallely</producer>
+      <producer>Katie Jones</producer>
+      <producer>Susan McMartin</producer>
+      <producer>Saladin K. Patterson</producer>
+      <producer>Alissa Neubauer</producer>
+      <producer>Maria Espada</producer>
+      <producer>Warren Bell</producer>
+      <producer>Matt Ross</producer>
+      <producer>Max Searle</producer>
+      <producer>Mark Roberts</producer>
+      <producer>Tracey Ormandy</producer>
+      <composer>Dennis C. Brown</composer>
+      <composer>Grant Geissman</composer>
+    </credits>
+    <date>2003</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/416729.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Angus T. Jones</value>
+    </rating>
   </programme>
   <programme start="20210621205040 +0200" stop="20210621211500 +0200" channel="Neox">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Charlie Harper es un escritor, soltero, ligón y vividor, y su estilo de vida se tambalea cuando su hermano Alan aterriza en su casa con su hijo de diez años, Jake, para quedarse.(n)</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Lee Aronsohn</director>
+      <actor>Angus T. Jones</actor>
+      <actor>Charlie Sheen</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Marin Hinkle</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jaime Pressly</actor>
+      <actor>Maggie Lawson</actor>
+      <actor>Vernee Watson-Johnson</actor>
+      <actor>Rebecca Olejniczak</actor>
+      <actor>Lilah Richcreek</actor>
+      <actor>kelly Sry</actor>
+      <actor>Carl Reiner</actor>
+      <actor>Shanti Lowry</actor>
+      <actor>Jett Dunlap</actor>
+      <actor>Jennifer Chang</actor>
+      <actor>Kimberly Hebert Gregory</actor>
+      <actor>Jennifer Aspen</actor>
+      <actor>Molly Stanton</actor>
+      <actor>Nicole Travolta</actor>
+      <actor>Tara Perry</actor>
+      <actor>Federico Pedroni</actor>
+      <actor>Tom Schwartz</actor>
+      <actor>Guy Cusson</actor>
+      <actor>Camila Greenberg</actor>
+      <actor>Rachael Lee</actor>
+      <actor>Tiffany Panhilason</actor>
+      <actor>D.B. Sweeney</actor>
+      <actor>Lynda Carter</actor>
+      <actor>Carrie Ameen</actor>
+      <actor>Madison Dylan</actor>
+      <actor>Spencer Locke</actor>
+      <actor>Jeff Probst</actor>
+      <actor>Kim Shaw</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Elizabeth Tatus</actor>
+      <actor>Nick Wayne</actor>
+      <actor>Dan Gordon</actor>
+      <actor>Jennifer Kathreen Larson</actor>
+      <actor>Craig Gellis</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alyson Michalka</actor>
+      <actor>Diane Farr</actor>
+      <actor>Clark Duke</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Ken Davitian</actor>
+      <actor>Alex Kapp Horner</actor>
+      <actor>Jamie Luner</actor>
+      <actor>Calle Morgan</actor>
+      <actor>Amy Pietz</actor>
+      <actor>Sandra Purpuro</actor>
+      <actor>Tammy Tavares</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Lee Aronsohn</writer>
+      <writer>James Vallely</writer>
+      <writer>Warren Bell</writer>
+      <writer>Jon Cryer</writer>
+      <producer>Kim Tannenbaum</producer>
+      <producer>Eric Tannenbaum</producer>
+      <producer>James Vallely</producer>
+      <producer>Katie Jones</producer>
+      <producer>Susan McMartin</producer>
+      <producer>Saladin K. Patterson</producer>
+      <producer>Alissa Neubauer</producer>
+      <producer>Maria Espada</producer>
+      <producer>Warren Bell</producer>
+      <producer>Matt Ross</producer>
+      <producer>Max Searle</producer>
+      <producer>Mark Roberts</producer>
+      <producer>Tracey Ormandy</producer>
+      <composer>Dennis C. Brown</composer>
+      <composer>Grant Geissman</composer>
+    </credits>
+    <date>2003</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/416729.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Angus T. Jones</value>
+    </rating>
   </programme>
   <programme start="20210621211500 +0200" stop="20210621213600 +0200" channel="Neox">
     <title lang="es">Los Simpson</title>
@@ -31077,15 +31697,13 @@
     <episode-num system="onscreen">S20 E5</episode-num>
   </programme>
   <programme start="20210620101000 +0200" stop="20210620104000 +0200" channel="M. LaLiga">
-    <title lang="es">Magazine SmartBank</title>
-    <sub-title lang="es">Final playoff vuelta</sub-title>
+    <title lang="es">Final playoff vuelta</title>
     <desc lang="es">La Segunda División es una liga tremendamente igualada. Muchos son los candidatos al ascenso. Y sin olvidar las sorpresas que siempre surgen en la competición. Este espacio repasa la actualidad del torneo.(n)</desc>
     <date>2021</date>
     <category lang="es">Deportes</category>
     <category lang="es">Programa</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/F3894727" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">S20 E46</episode-num>
   </programme>
   <programme start="20210620104000 +0200" stop="20210620114000 +0200" channel="M. LaLiga">
     <title lang="es">Especiales LaLiga fin de temporada</title>
@@ -31099,15 +31717,13 @@
     <episode-num system="onscreen">S20 E3</episode-num>
   </programme>
   <programme start="20210620114000 +0200" stop="20210620121000 +0200" channel="M. LaLiga">
-    <title lang="es">Magazine SmartBank</title>
-    <sub-title lang="es">Final playoff vuelta</sub-title>
+    <title lang="es">Final playoff vuelta</title>
     <desc lang="es">La Segunda División es una liga tremendamente igualada. Muchos son los candidatos al ascenso. Y sin olvidar las sorpresas que siempre surgen en la competición. Este espacio repasa la actualidad del torneo.(n)</desc>
     <date>2021</date>
     <category lang="es">Deportes</category>
     <category lang="es">Programa</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/F3894727" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">S20 E46</episode-num>
   </programme>
   <programme start="20210620121000 +0200" stop="20210620140000 +0200" channel="M. LaLiga">
     <title lang="es">LaLiga Santander</title>
@@ -31121,15 +31737,13 @@
     <episode-num system="onscreen">S20 E4</episode-num>
   </programme>
   <programme start="20210620140000 +0200" stop="20210620143000 +0200" channel="M. LaLiga">
-    <title lang="es">Magazine SmartBank</title>
-    <sub-title lang="es">Final playoff vuelta</sub-title>
+    <title lang="es">Final playoff vuelta</title>
     <desc lang="es">La Segunda División es una liga tremendamente igualada. Muchos son los candidatos al ascenso. Y sin olvidar las sorpresas que siempre surgen en la competición. Este espacio repasa la actualidad del torneo.(n)</desc>
     <date>2021</date>
     <category lang="es">Deportes</category>
     <category lang="es">Programa</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/F3894727" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">S20 E46</episode-num>
   </programme>
   <programme start="20210620143000 +0200" stop="20210620145500 +0200" channel="M. LaLiga">
     <title lang="es">LaLiga ZAP</title>
@@ -31165,15 +31779,13 @@
     <episode-num system="onscreen">S20 E38</episode-num>
   </programme>
   <programme start="20210620171000 +0200" stop="20210620174000 +0200" channel="M. LaLiga">
-    <title lang="es">Magazine SmartBank</title>
-    <sub-title lang="es">Final playoff vuelta</sub-title>
+    <title lang="es">Final playoff vuelta</title>
     <desc lang="es">La Segunda División es una liga tremendamente igualada. Muchos son los candidatos al ascenso. Y sin olvidar las sorpresas que siempre surgen en la competición. Este espacio repasa la actualidad del torneo.(n)</desc>
     <date>2021</date>
     <category lang="es">Deportes</category>
     <category lang="es">Programa</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/F3894727" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">S20 E46</episode-num>
   </programme>
   <programme start="20210620174000 +0200" stop="20210620193000 +0200" channel="M. LaLiga">
     <title lang="es">LaLiga SmartBank</title>
@@ -31188,15 +31800,13 @@
     <episode-num system="onscreen">S20 E5</episode-num>
   </programme>
   <programme start="20210620193000 +0200" stop="20210620200000 +0200" channel="M. LaLiga">
-    <title lang="es">Magazine SmartBank</title>
-    <sub-title lang="es">Final playoff vuelta</sub-title>
+    <title lang="es">Final playoff vuelta</title>
     <desc lang="es">La Segunda División es una liga tremendamente igualada. Muchos son los candidatos al ascenso. Y sin olvidar las sorpresas que siempre surgen en la competición. Este espacio repasa la actualidad del torneo.(n)</desc>
     <date>2021</date>
     <category lang="es">Deportes</category>
     <category lang="es">Programa</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/F3894727" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">S20 E46</episode-num>
   </programme>
   <programme start="20210620200000 +0200" stop="20210620210000 +0200" channel="M. LaLiga">
     <title lang="es">La casa del fútbol</title>
@@ -35982,14 +36592,12 @@
     <country lang="es">España</country>
   </programme>
   <programme start="20210620151200 +0200" stop="20210620181500 +0200" channel="Toros">
-    <title lang="es">Toros desde Nimes</title>
-    <sub-title lang="es">Toros de Fuente Ymbro para. Finito de Córdoba, Diego Urdiales y Juan Leal (13/06/2021)</sub-title>
+    <title lang="es">Toros de Fuente Ymbro para. Finito de Córdoba, Diego Urdiales y Juan Leal (13/06/2021)</title>
     <desc lang="es">Última corrida de la Feria de Pentecostés con un cartel formado por Finito de Córdoba, el torero de Arnedo Diego Urdiales y el francés Juan Leal que vuelve a pisar la plaza de Nimes tras su éxito la pasada temporada. Se lidiará un encierro de la ganadería de Fuente Ymbro.(n)</desc>
     <date>2021</date>
     <category lang="es">Toros</category>
     <category lang="es">Corrida de Toros</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/F3925605" />
-    <episode-num system="onscreen">S2021 E4</episode-num>
   </programme>
   <programme start="20210620181500 +0200" stop="20210620190000 +0200" channel="Toros">
     <title lang="es">Toros desde Granada</title>
@@ -39961,57 +40569,49 @@
     </rating>
   </programme>
   <programme start="20210620113700 +0200" stop="20210620122400 +0200" channel="Nat Geo Wild">
-    <title lang="es">Escandinavia salvaje</title>
+    <title lang="es">Renacer</title>
     <title lang="en">Reborn</title>
-    <sub-title lang="es">Renacer</sub-title>
     <desc lang="es">El invierno, que ha mantenido Escandinavia cautiva durante meses, sepultada bajo el hielo empieza por fin a suavizarse.(n)</desc>
     <date>2011</date>
     <category lang="es">Documentales</category>
     <category lang="es">Naturaleza</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/MNATGWP1007115" />
-    <episode-num system="onscreen">S1 E1</episode-num>
     <rating>
       <value>12</value>
     </rating>
   </programme>
   <programme start="20210620122400 +0200" stop="20210620131100 +0200" channel="Nat Geo Wild">
-    <title lang="es">Escandinavia salvaje</title>
+    <title lang="es">Furia vital</title>
     <title lang="en">Furious Life</title>
-    <sub-title lang="es">Furia vital</sub-title>
     <desc lang="es">En el norte más recóndito de Escandinavia existe un vasto territorio salvaje y sin árboles, la tundra ártica.(n)</desc>
     <date>2011</date>
     <category lang="es">Documentales</category>
     <category lang="es">Naturaleza</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/MNATGWP1007114" />
-    <episode-num system="onscreen">S1 E2</episode-num>
     <rating>
       <value>12</value>
     </rating>
   </programme>
   <programme start="20210620131100 +0200" stop="20210620135600 +0200" channel="Nat Geo Wild">
-    <title lang="es">Escandinavia salvaje</title>
+    <title lang="es">El litoral</title>
     <title lang="en">At The Edge</title>
-    <sub-title lang="es">El litoral</sub-title>
     <desc lang="es">Escandinavia tiene miles de kilómetros de costa. El tiempo y las mareas han ido formando el paisaje y la vida de todos los animales que viven en ella.(n)</desc>
     <date>2011</date>
     <category lang="es">Documentales</category>
     <category lang="es">Naturaleza</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/MNATGWP1007113" />
-    <episode-num system="onscreen">S1 E3</episode-num>
     <rating>
       <value>12</value>
     </rating>
   </programme>
   <programme start="20210620135600 +0200" stop="20210620144300 +0200" channel="Nat Geo Wild">
-    <title lang="es">Escandinavia salvaje</title>
+    <title lang="es">Los grandes supervivientes</title>
     <title lang="en">Ultimate Survivors</title>
-    <sub-title lang="es">Los grandes supervivientes</sub-title>
     <desc lang="es">La vida en Escandinavia es un reto constante. En un lugar tan imprevisible, todas las criaturas tienen que estar preparadas para lo inesperado.(n)</desc>
     <date>2011</date>
     <category lang="es">Documentales</category>
     <category lang="es">Naturaleza</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/MNATGWP1007112" />
-    <episode-num system="onscreen">S1 E4</episode-num>
     <rating>
       <value>12</value>
     </rating>
@@ -48653,66 +49253,330 @@
   <programme start="20210621080000 +0200" stop="20210621090000 +0200" channel="Divinity">
     <title lang="es">La boutique de la tienda en casa</title>
     <desc lang="es">Espacio de televenta.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Televenta</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2053586.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20210621090000 +0200" stop="20210621095000 +0200" channel="Divinity">
     <title lang="es">Hospital Central</title>
     <desc lang="es">Primera temporada de este drama hospitalario que muestra día a día al equipo de urgencias de un gran hospital, sus relaciones personales y la vida de los pacientes que tratan.(n)</desc>
+    <credits>
+      <actor>María Casal</actor>
+      <actor>Sergi Mateu</actor>
+      <actor>Jordi Rebellón</actor>
+      <actor>Ángel Pardo</actor>
+      <actor>Fátima Baeza</actor>
+      <actor>Jesús Cabrero</actor>
+      <actor>Lola Casamayor</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Médicos</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2219920.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210621095000 +0200" stop="20210621110500 +0200" channel="Divinity">
     <title lang="es">Hospital Central</title>
     <desc lang="es">Primera temporada de este drama hospitalario que muestra día a día al equipo de urgencias de un gran hospital, sus relaciones personales y la vida de los pacientes que tratan.(n)</desc>
+    <credits>
+      <actor>María Casal</actor>
+      <actor>Sergi Mateu</actor>
+      <actor>Jordi Rebellón</actor>
+      <actor>Ángel Pardo</actor>
+      <actor>Fátima Baeza</actor>
+      <actor>Jesús Cabrero</actor>
+      <actor>Lola Casamayor</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Médicos</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2219920.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210621110500 +0200" stop="20210621120000 +0200" channel="Divinity">
     <title lang="es">Dolunay: Luna llena</title>
     <desc lang="es">Ferit Aslan y Nazli, un hombre de negocios y una estudiante de cocina, convierten su relación profesional en una apasionante historia de amor que tratará de superar algunos obstáculos y malentendidos.(n)</desc>
+    <credits>
+      <actor>Can Yaman</actor>
+      <actor>Özge Gürel</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Telenovela</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2498787.jpg" />
+    <country lang="es">Turquía</country>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
   </programme>
   <programme start="20210621120000 +0200" stop="20210621125000 +0200" channel="Divinity">
     <title lang="es">Dolunay: Luna llena</title>
     <desc lang="es">Ferit Aslan y Nazli, un hombre de negocios y una estudiante de cocina, convierten su relación profesional en una apasionante historia de amor que tratará de superar algunos obstáculos y malentendidos.(n)</desc>
+    <credits>
+      <actor>Can Yaman</actor>
+      <actor>Özge Gürel</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Telenovela</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2498787.jpg" />
+    <country lang="es">Turquía</country>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
   </programme>
   <programme start="20210621125000 +0200" stop="20210621135000 +0200" channel="Divinity">
     <title lang="es">Dolunay: Luna llena</title>
     <desc lang="es">Ferit Aslan y Nazli, un hombre de negocios y una estudiante de cocina, convierten su relación profesional en una apasionante historia de amor que tratará de superar algunos obstáculos y malentendidos.(n)</desc>
+    <credits>
+      <actor>Can Yaman</actor>
+      <actor>Özge Gürel</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Telenovela</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2498787.jpg" />
+    <country lang="es">Turquía</country>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
   </programme>
   <programme start="20210621135000 +0200" stop="20210621144500 +0200" channel="Divinity">
     <title lang="es">Pájaro Soñador</title>
     <desc lang="es">Comedia romántica que cuenta la historia de amor de un fotógrafo aventurero y una graduada universitaria.(n)</desc>
+    <credits>
+      <director>Cagri Bayrak</director>
+      <actor>Demet Özdemir</actor>
+      <actor>Can Yaman</actor>
+      <actor>Öznur Serçeler</actor>
+      <actor>Berat Yenilmez</actor>
+      <actor>Özlem Tokaslan</actor>
+      <actor>Birand Tunca</actor>
+      <actor>Cihan Ercan</actor>
+      <actor>Ali Yagci</actor>
+      <writer>Meriç Acemi</writer>
+      <producer>Faruk Turgut</producer>
+      <composer>Cem Öget</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Telenovela</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2343468.jpg" />
+    <country lang="es">Turquía</country>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
   </programme>
   <programme start="20210621144500 +0200" stop="20210621154000 +0200" channel="Divinity">
     <title lang="es">Pájaro Soñador</title>
     <desc lang="es">Comedia romántica que cuenta la historia de amor de un fotógrafo aventurero y una graduada universitaria.(n)</desc>
+    <credits>
+      <director>Cagri Bayrak</director>
+      <actor>Demet Özdemir</actor>
+      <actor>Can Yaman</actor>
+      <actor>Öznur Serçeler</actor>
+      <actor>Berat Yenilmez</actor>
+      <actor>Özlem Tokaslan</actor>
+      <actor>Birand Tunca</actor>
+      <actor>Cihan Ercan</actor>
+      <actor>Ali Yagci</actor>
+      <writer>Meriç Acemi</writer>
+      <producer>Faruk Turgut</producer>
+      <composer>Cem Öget</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Telenovela</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2343468.jpg" />
+    <country lang="es">Turquía</country>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
   </programme>
   <programme start="20210621154000 +0200" stop="20210621165500 +0200" channel="Divinity">
     <title lang="es">En todas partes, tú (Her Yerde Sen)</title>
     <desc lang="es">Selin y Demir descubren que cada uno de ellos posee la mitad de una casa, por lo que se ven forzados a convivir bajo el mismo techo. La situación se complica cuando ella se entera de que él es su nuevo jefe.(n)</desc>
+    <credits>
+      <director>Ender Mihlar</director>
+      <actor>Aybüke Pusat</actor>
+      <actor>Furkan Andic</actor>
+      <actor>Ali Yagci</actor>
+      <actor>Aslihan Malbora</actor>
+      <actor>Ali Gözüsirin</actor>
+      <actor>Deniz Isin</actor>
+      <actor>Cem Cücenoglu</actor>
+      <actor>Fatih Özkan</actor>
+      <writer>Deniz Yesilgun</writer>
+      <writer>Esra Çetek Yilmazer</writer>
+      <producer>Ümmü Burhan</producer>
+      <composer>Zeynep Alasya</composer>
+      <composer>Alpay Göltekin</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Telenovela</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3526730.jpg" />
+    <country lang="es">Turquía</country>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
   </programme>
   <programme start="20210621165500 +0200" stop="20210621174500 +0200" channel="Divinity">
     <title lang="es">Hayat, amor sin palabras</title>
     <desc lang="es">Las opuestas vidas de dos jóvenes se unirán por el indestructible vínculo del amor. Hayat, es una joven graduada que busca desesperadamente un trabajo en Estambul y Murat es el joven heredero de un gran imperio textil.(n)</desc>
+    <credits>
+      <director>Beste Sultan Kasapogullari</director>
+      <director>Muge Ugurlar</director>
+      <actor>Hande Erçel</actor>
+      <actor>Burak Deniz</actor>
+      <actor>Özcan Tekdemir</actor>
+      <actor>Merve Çagiran</actor>
+      <actor>Oguzhan Karbi</actor>
+      <actor>Demet Gül</actor>
+      <actor>Suleyman Felek</actor>
+      <actor>Betül Çobanoglu</actor>
+      <producer>Burak Sagyasar</producer>
+      <composer>Cem Tuncer</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Telenovela</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2576941.jpg" />
+    <country lang="es">Turquía</country>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210621174500 +0200" stop="20210621184500 +0200" channel="Divinity">
     <title lang="es">Te alquilo mi amor</title>
     <desc lang="es">Desesperada por saldar una deuda familiar, Defne acepta el reto de enamorar y casarse con un exitoso diseñador de zapatos adicto al trabajo.(n)</desc>
+    <credits>
+      <director>Senol Sönmez</director>
+      <actor>Elçin Sangu</actor>
+      <actor>Baris Arduç</actor>
+      <actor>Salih Bademci</actor>
+      <actor>Nergis Kumbasar</actor>
+      <actor>Levent Ülgen</actor>
+      <actor>Kerem Firtina</actor>
+      <actor>Sanem Yeles</actor>
+      <actor>Onur Büyüktopçu</actor>
+      <writer>Meriç Acemi</writer>
+      <producer>Salih Karaman</producer>
+      <composer>Aydilge Sarp</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Telenovela</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2519246.jpg" />
+    <country lang="es">Turquía</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20210621184500 +0200" stop="20210621191000 +0200" channel="Divinity">
     <title lang="es">Love is in the air</title>
     <desc lang="es">Eda es una joven vendedora de flores que se plantea terminar sus estudios como arquitecta en el extranjero cuando un joven empresario, y uno de los solteros más cotizados de Estambul, Serkan, se interpone en su camino.(n)</desc>
+    <credits>
+      <director>Altan Dönmez</director>
+      <actor>Hande Erçel</actor>
+      <actor>Kerem Bürsin</actor>
+      <actor>Evrim Dogan</actor>
+      <actor>Anil Ilter</actor>
+      <actor>Cagri Citanak</actor>
+      <actor>Elcin Afacan</actor>
+      <actor>Melisa Döngel</actor>
+      <actor>M. Sitare Akbas</actor>
+      <writer>Ayse Kutlu</writer>
+      <writer>Erdem Açikgöz</writer>
+      <producer>Asena Bülbüloglu</producer>
+      <composer>Aytekin Atas</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Telenovela</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3976553.jpg" />
+    <country lang="es">Turquía</country>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
   </programme>
   <programme start="20210621191000 +0200" stop="20210621200000 +0200" channel="Divinity">
     <title lang="es">Matrimonio por sorpresa</title>
     <desc lang="es">Tras culminar sus estudios universitarios y casarse en secreto a espaldas de sus padres, Tarik e Itir lucharán por su amor y por poner fin a una enemistad de más de tres décadas entre sus familias.(n)</desc>
+    <credits>
+      <director>Metin Balekoglu</director>
+      <actor>Can Yaman</actor>
+      <actor>Yeliz Kuvanci</actor>
+      <actor>Gül Onat</actor>
+      <actor>Altan Erkekli</actor>
+      <actor>Funda Bostanlik</actor>
+      <actor>Batuhan Uçar</actor>
+      <actor>Cengiz Bozkurt</actor>
+      <actor>Bülent Sakrak</actor>
+      <writer>Basak Angigün</writer>
+      <writer>Alphan Dikmen</writer>
+      <producer>Basak Bingüller</producer>
+      <producer>Çagri Bingüller</producer>
+      <composer>Günay Uysal</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Telenovela</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4212382.jpg" />
+    <country lang="es">Turquía</country>
+    <rating system="ES">
+      <value>Münir</value>
+    </rating>
   </programme>
   <programme start="20210621200000 +0200" stop="20210621214500 +0200" channel="Divinity">
     <title lang="es">Ömer: Sueños robados</title>
     <desc lang="es">El pequeño Ömer y su hermana adoptiva Meryem son dos huérfanos que se verán divividos entre dos mundos opuestos: las peligrosas calles del barrio en el que crecieron y el lujoso ambiente de la familia Metehanoğlu.(n)</desc>
+    <credits>
+      <director>Yasemin Erkul</director>
+      <director>Ece Tahtalioglu</director>
+      <actor>Gizem Arikan</actor>
+      <actor>Emre Mete Sönmez</actor>
+      <actor>Ali Yasin Özegemen</actor>
+      <actor>Aysen Inci</actor>
+      <actor>Özgür Özberk</actor>
+      <actor>Cemre Melis Çinar</actor>
+      <actor>Hasan Balliktas</actor>
+      <actor>Utku Corbaci</actor>
+      <writer>Yasemin Inal Avci</writer>
+      <writer>Sinem Sengunlu</writer>
+      <producer>Inci Gulen</producer>
+      <composer>Murat Evgin</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Telenovela</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4474850.jpg" />
+    <country lang="es">Turquía</country>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
   </programme>
   <programme start="20210621214500 +0200" stop="20210621224500 +0200" channel="Divinity">
     <title lang="es">Amor en blanco y negro</title>
     <desc lang="es">La compleja y apasionada historia de amor entre un asesino a sueldo y una cirujana inmersos en un mundo de corrupción, ambición y lucha de poder.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Telenovela</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2388725.jpg" />
+    <country lang="es">Turquía</country>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210621224500 +0200" stop="20210621231500 +0200" channel="Divinity">
     <title lang="es">Supervivientes Diario 2021</title>
     <desc lang="es">Resumen diario desde Honduras de las novedades que depare la supervivencia de los aventureros.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Reality Show</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4931014.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E51</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20210620000000 +0200" stop="20210620023000 +0200" channel="Nova">
     <title lang="es">Hercai</title>
@@ -55858,2157 +56722,5 @@
     <country lang="es">Canadá</country>
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S1 E39</episode-num>
-  </programme>
-  <programme start="20210620060000 +0200" stop="20210620060400 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">The New Car</title>
-    <sub-title lang="es">El coche nuevo</sub-title>
-    <desc lang="es">Peppa y su familia se van de excursión. De repente el coche se estropea y tienen que llevarlo al taller del Abuelo Dog. Mientras lo arreglan, le piden prestado al Abuelo Dog un brillante y azul coche nuevo. El nuevo coche tiene un montón de botones. Uno de ellos hace que el techo se levante, otro que las ventanillas se bajen y otro hasta lanza agua a la cara de Peppa!(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3754863" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S1 E23</episode-num>
-  </programme>
-  <programme start="20210620060400 +0200" stop="20210620060900 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Treasure Hunt</title>
-    <sub-title lang="es">En busca del tesoro</sub-title>
-    <desc lang="es">La Abuela y el Abuelo Pig organizan una búsqueda del tesoro con Peppa y George. El Abuelo se ocupa de esconder el tesoro en un lugar secreto del jardín y Peppa y George tienen que encontrarlo usando un mapa y siguiento las pistas. Se divierten un montón buscándolo y cuando lo encuentran, hay monedas de chocolate para todos!(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3754863" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S1 E24</episode-num>
-  </programme>
-  <programme start="20210620060900 +0200" stop="20210620061700 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Not Very Well</title>
-    <sub-title lang="es">No muy bien</sub-title>
-    <desc lang="es">Peppa tiene pequeñas manchitas rojas por toda la cara y no se encuentra bien. El doctor Brown Bear le hace una visita y le que hace una visita y dice que Peppa se pondrá bien pero debe estar en la cama unos días. Como Peppa no puede salir sus amigos la visitan y Peppa disfruta siendo el centro de atención.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3754863" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S1 E25</episode-num>
-  </programme>
-  <programme start="20210620061700 +0200" stop="20210620064100 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">Darington to the Moon!</title>
-    <sub-title lang="es">¡Darington a la luna!</sub-title>
-    <desc lang="es">Hoy Darington intentará la pirueta más grande de todas, ¡lanzarse a la luna! Pero la batería de su cohete se ha quedado sin energía. Para llegar a la luna, Blaze deberá ayudar a Darington a recargar la batería con toda la energía posible.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1299735" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S2 E9</episode-num>
-  </programme>
-  <programme start="20210620064100 +0200" stop="20210620070300 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">Spark Bug</title>
-    <sub-title lang="es">Bichito chisposo</sub-title>
-    <desc lang="es">Blaze, Stripes, y AJ están corriendo por la selva cuando Stripes descubre un escarabajo perdido que se llama Chisposo. Blaze y sus amigos emprenden un viaje por la selva para ayudar a Chisposo a volver a casa, en lo alto de un volcán activo.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1299737" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S2 E10</episode-num>
-  </programme>
-  <programme start="20210620070300 +0200" stop="20210620072800 +0200" channel="NICK JR">
-    <title lang="es">Santiago de los mares</title>
-    <title lang="en">Lorelai's Bracelet / Cecilia And The Ghost Ship</title>
-    <sub-title lang="es">El brazalete de Lorelai / Cecilia y el barco fantasma</sub-title>
-    <desc lang="es">¡Bonnie roba el brazalete de Lorelai, se convierte en sirena y atrapa a Lorelai en su forma humana! Santi y la tropa deben superar las jugarretas fantasma para salvar a Cecilia del temido barco fantasma.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1876968" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20210620072800 +0200" stop="20210620075000 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups on Ice / Pups and the Snow Monster</title>
-    <sub-title lang="es">La Patrulla en la nieve / La Patrulla y el monstruo de las nieves</sub-title>
-    <desc lang="es">Ryder y la patrulla canina tienen que rescartar a Alex de la montaña de Jake. / La patrulla encuentra unas extrañas huellas en la nieve. Todos creen que son de un monstruo de la nieve.(n)</desc>
-    <date>2013</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1126926" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20210620075000 +0200" stop="20210620081600 +0200" channel="NICK JR">
-    <title lang="es">Deer Squad</title>
-    <title lang="en">Save The Bees / Duck Dilemma</title>
-    <sub-title lang="es">Salvemos a las abejas / El dilema de los patos</sub-title>
-    <desc lang="es">Las abejas del Bosque Central son capturadas por el señor Acero, que quiere su miel, y el Deer Squad acude a su rescate. / Kai inventa un Robo-pato para cuidar a los patitos, pero se descontrola y destroza toda la tecnología de Ciudad Platino.(n)</desc>
-    <credits>
-      <writer>Allan Plenderleith</writer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1852542" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20210620081600 +0200" stop="20210620084000 +0200" channel="NICK JR">
-    <title lang="es">¡Las pistas de Blue y tú!</title>
-    <title lang="en">Sleepy Singalong with Blue</title>
-    <sub-title lang="es">La canción de la hora de dormir de Blue</sub-title>
-    <desc lang="es">¡Tenemos un juego nocturno de las pistas de Blue para descubrir la parte favorita de Blue a la hora de dormir! Mientras buscamos pistas, ayudamos a Blue y Manchitas a estar limpios, cómodos y listos para ir a la cama.(n)</desc>
-    <date>2020</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Educativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3921323" />
-    <episode-num system="onscreen">S2 E7</episode-num>
-  </programme>
-  <programme start="20210620084000 +0200" stop="20210620092600 +0200" channel="NICK JR">
-    <title lang="es">La patrulla al rescate</title>
-    <title lang="en">Paw Patrol: Jet To The Rescue</title>
-    <desc lang="es">El malvado Duque de Flappington se ha apoderado de la gema mágica de la Princesa y usa sus poderes mágicos para volar y elevar la ciudad de Barkinburg a los cielos. Los cachorros necesitarán que Skye supere sus mayores miedos y lidere al equipo.(n)</desc>
-    <date>2020</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1844643" />
-    <country lang="es">Canadá</country>
-  </programme>
-  <programme start="20210620092600 +0200" stop="20210620095000 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save the Bears / Pups Save a Farmerless Farm</title>
-    <sub-title lang="es">La patrulla salva a los osos / La patrulla salva una granja sin granjero</sub-title>
-    <desc lang="es">¡Hay osos dormidos en la ciudad! La Patrulla debe trabajar en silencio para salvar a los osos y devolverlos a su cueva. / Los granjeros se van de vacaciones y la alcaldesa Goodway llama a la Patrulla para que le ayuden a cuidar de los animales.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3910259" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S6 E17</episode-num>
-  </programme>
-  <programme start="20210620095000 +0200" stop="20210620100300 +0200" channel="NICK JR">
-    <title lang="es">Butterbean's Cafe Single Story</title>
-    <title lang="en">Kitty-sitting!</title>
-    <sub-title lang="es">Cuidando la gatita</sub-title>
-    <desc lang="es">Jasper piensa que cuidar de Cookie va a ser pan comido, hasta que se pierde.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3906035" />
-    <episode-num system="onscreen">S1 E50</episode-num>
-  </programme>
-  <programme start="20210620100300 +0200" stop="20210620102500 +0200" channel="NICK JR">
-    <title lang="es">Bubble Guppies</title>
-    <title lang="en">Super Guppies!</title>
-    <sub-title lang="es">¡Súper Guppies!</sub-title>
-    <desc lang="es">Todos los Guppies quieren convertirse en superhéroes cuando Molly y Gil llevan un cómic al cole. Molly y Gil se sumergen en la aventura como Guppy Girl y Bubble Boy. ¿Podrán nuestros héroes detener al malvado villano Sid Fishious.(n)</desc>
-    <date>2014</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1226848" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S3 E26</episode-num>
-  </programme>
-  <programme start="20210620102500 +0200" stop="20210620105000 +0200" channel="NICK JR">
-    <title lang="es">Bubble Guppies</title>
-    <title lang="en">The New Doghouse!</title>
-    <sub-title lang="es">La casa nueva</sub-title>
-    <desc lang="es">Cuando un accidente destruye la casa de los pequeños, los Guppies se unen al resto del vecindario para construir la casa de sus sueños, la casa más bonita del mundo.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1254245" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S4 E1</episode-num>
-  </programme>
-  <programme start="20210620105000 +0200" stop="20210620105500 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Windy Autumn Day</title>
-    <sub-title lang="es">Un día de viento otoñal</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565615" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E54</episode-num>
-  </programme>
-  <programme start="20210620105500 +0200" stop="20210620110000 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Mysteries</title>
-    <sub-title lang="es">Misterios</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565616" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E55</episode-num>
-  </programme>
-  <programme start="20210620110000 +0200" stop="20210620110500 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Bubbles</title>
-    <sub-title lang="es">Pompas</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565617" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E56</episode-num>
-  </programme>
-  <programme start="20210620110500 +0200" stop="20210620111000 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Bedtime</title>
-    <sub-title lang="es">Hora de irse a la cama</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565618" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E57</episode-num>
-  </programme>
-  <programme start="20210620111000 +0200" stop="20210620111500 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">The Traffic Jam</title>
-    <sub-title lang="es">El atasco</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565619" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E58</episode-num>
-  </programme>
-  <programme start="20210620111500 +0200" stop="20210620112200 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Rock Pools</title>
-    <sub-title lang="es">Entre las rocas</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565620" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E59</episode-num>
-  </programme>
-  <programme start="20210620112200 +0200" stop="20210620114700 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">Royal Rescue</title>
-    <sub-title lang="es">Rescate real</sub-title>
-    <desc lang="es">Una visita al castillo del rey se va al garete cuando el rey se catapulta sin querer a mucha distancia. Para llevarlo a casa, Blaze, AJ y la mascota del rey, el adorable dragón Zeek, deberán transformarse en caballeros.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1717414" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S4 E17</episode-num>
-  </programme>
-  <programme start="20210620114700 +0200" stop="20210620121200 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">Blaze and the Magic Genie</title>
-    <sub-title lang="es">Blaze y el genio mágico</sub-title>
-    <desc lang="es">Blaze y AJ conducen por el desierto y se encuentran un genio mágico a que le encanta conceder deseos. Pero cuando el genio pierde las joyas que le dan sus poderes, Blaze y AJ emprenderán una aventura para recuperarlas.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3793480" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S4 E18</episode-num>
-  </programme>
-  <programme start="20210620121200 +0200" stop="20210620123700 +0200" channel="NICK JR">
-    <title lang="es">Santiago de los mares</title>
-    <title lang="en">Lorelai's Bracelet / Cecilia And The Ghost Ship</title>
-    <sub-title lang="es">El brazalete de Lorelai / Cecilia y el barco fantasma</sub-title>
-    <desc lang="es">¡Bonnie roba el brazalete de Lorelai, se convierte en sirena y atrapa a Lorelai en su forma humana! Santi y la tropa deben superar las jugarretas fantasma para salvar a Cecilia del temido barco fantasma.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1876968" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20210620123700 +0200" stop="20210620130600 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save an Elephant Family / Pups and the mischievous kittens</title>
-    <sub-title lang="es">La Patrulla salva a una familia de elefantes / La Patrulla y los gatitos traviesos</sub-title>
-    <desc lang="es">Los cachorros hacen un viaje por carretera hasta la sabana, lo que se convierte en una misión para rescatar y reunir a una familia elefante / Para ganar un premio, la Patrulla Canina tiene que salvar Bahía Aventura de la catástrofe de Humdinger.(n)</desc>
-    <date>2014</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3310124" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S2 E14</episode-num>
-  </programme>
-  <programme start="20210620130600 +0200" stop="20210620132900 +0200" channel="NICK JR">
-    <title lang="es">Deer Squad</title>
-    <title lang="en">Gravity Calamity / Ball of Chaos</title>
-    <sub-title lang="es">La calamidad de la gravedad / Una pelota caótica</sub-title>
-    <desc lang="es">La profesora Scratch construye un rayo anti-gravedad, que causa estragos en manos de Ricardo. / La pelota de Muffin amenaza con arruinar el Festival de Invierno. Kai se sacrifica para salvarlos a todos.(n)</desc>
-    <credits>
-      <writer>Allan Plenderleith</writer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3900533" />
-    <episode-num system="onscreen">S1 E16</episode-num>
-  </programme>
-  <programme start="20210620132900 +0200" stop="20210620135400 +0200" channel="NICK JR">
-    <title lang="es">Deer Squad</title>
-    <title lang="en">Lola's Air Display / Down The Sewers</title>
-    <sub-title lang="es">La exhibición aérea de Lola / ¡A las alcantarillas!</sub-title>
-    <desc lang="es">A Lola le preocupa que su exhibición aérea no sea impresionante, pero el señor Acero hace que resulte espectacular. / La pelota de Muffin ha desaparecido y Bobbi debe superar su miedo a la oscuridad.(n)</desc>
-    <credits>
-      <writer>Allan Plenderleith</writer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3900533" />
-    <episode-num system="onscreen">S1 E17</episode-num>
-  </programme>
-  <programme start="20210620135400 +0200" stop="20210620141800 +0200" channel="NICK JR">
-    <title lang="es">¡Las pistas de Blue y tú!</title>
-    <title lang="en">Happy Birthday Blue</title>
-    <sub-title lang="es">Feliz cumpleaños, Blue</sub-title>
-    <desc lang="es">¡Es el cumple de Blue! Hoy jugaremos a las pistas de Blue para averiguar qué quiere que le regalemos por su cumpleaños. Además, visitaremos la tienda de regalos mientras organizamos la fiesta de cumpleaños de Blue.(n)</desc>
-    <credits>
-      <actor>Joshua Dela Cruz</actor>
-      <presenter>Joshua Dela Cruz</presenter>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Educativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MCLANTVP1764317" />
-    <country lang="es">Canadá</country>
-    <country lang="es">Irlanda</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20210620141800 +0200" stop="20210620144400 +0200" channel="NICK JR">
-    <title lang="es">Las aventuras de Paddington</title>
-    <title lang="en">Paddington And The Wardrobe / Paddington And Homework</title>
-    <sub-title lang="es">Paddington y el armario / Paddington y los deberes</sub-title>
-    <desc lang="es">Por accidente, llevan a Paddington metido en un armario a casa del señor Curry y tiene que salir antes de que lo descubran. / Paddington intenta ayudar a Judy con los deberes de geografía y acaba siendo el tema principal.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1797573" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20210620144400 +0200" stop="20210620150500 +0200" channel="NICK JR">
-    <title lang="es">Las aventuras de Paddington</title>
-    <title lang="en">Paddington and the Party / Paddington and the Violin</title>
-    <sub-title lang="es">Paddington y la fiesta / Paddington y el violín</sub-title>
-    <desc lang="es">El señor Brown se ha olvidado de comprar un regalo de cumpleaños para la señora Brown. Paddington decide preparar una fiesta sorpresa. / A Judy no le gustan las clases de violín, así que se esconde de la señora Potts. Paddington afronta el reto. ¡Cuidado con los oídos.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1797574" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme>
-  <programme start="20210620150500 +0200" stop="20210620152900 +0200" channel="NICK JR">
-    <title lang="es">Barbapapa - ¡Una gran familia!</title>
-    <title lang="en">The Barbapapa Tree / The Barbababies' birthday</title>
-    <sub-title lang="es">El árbol Barbapapá / El cumpleaños de los Barbabebés</sub-title>
-    <desc lang="es">Barbapapá y Barbamamá vuelven al árbol bajo el cuál nacieron. El árbol está en mal estado y deben rescatarlo rápidamente sin molestar a los animales. / Es el cumpleaños de los Barbabebés. Cada uno quiere hacer algo diferente con Barbapapá.(n)</desc>
-    <date>2020</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1816313" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20210620152900 +0200" stop="20210620155000 +0200" channel="NICK JR">
-    <title lang="es">Barbapapa - ¡Una gran familia!</title>
-    <title lang="en">Bada-Bam / The Barbamartians</title>
-    <sub-title lang="es">Catapum / Los Barbamarcianos</sub-title>
-    <desc lang="es">Barbabrillo capta una melodía procedente de Marte. Los Barbapapás construyen un cohete para ir al planeta rojo. / Mientras están en Marte, los Barbapapás conocen a una familia Barbamarciana.(n)</desc>
-    <date>2020</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1816314" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20210620155000 +0200" stop="20210620161500 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save a Pool Day / Circus Pup-Formers</title>
-    <sub-title lang="es">La Patrulla salva el día en la piscina / La Patrulla salva el circo</sub-title>
-    <desc lang="es">Hace calor y los cachorros van a la piscina, pero está vacía... Digger y Rocky entran y le ayudan a Ryder a llenar la piscina. / Cuando los animales no aparecen a tiempo cuando el Circo empieza,Ryder y la Patrulla Canina intervienen para ayudar.(n)</desc>
-    <date>2013</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1142795" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S1 E17</episode-num>
-  </programme>
-  <programme start="20210620161500 +0200" stop="20210620163900 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">The Great Animal Crown</title>
-    <sub-title lang="es">La gran corona animal</sub-title>
-    <desc lang="es">Cuando se pierde la gran corona animal en el fondo oceánico, Blaze se transforma en un tiburón superrápido para recuperarla para los amigos de la Isla de los Animales. Pero tendrá que nadar rápido, o Crusher llegará a ella primero.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3821004" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S3 E15</episode-num>
-  </programme>
-  <programme start="20210620163900 +0200" stop="20210620170300 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">Blaze and the Monster Machines</title>
-    <sub-title lang="es">Amigos rápidos</sub-title>
-    <desc lang="es">Blaze, AJ y Gabby conocen a un nuevo Monster Machine llamado Watts, un coche superrápido con ruedas eléctricas. Pero, cuando una de las ruedas especiales se va rodando por la selva, Blaze, AJ y Gabby prometen ayudarle a recuperarlo.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3821005" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S3 E16</episode-num>
-  </programme>
-  <programme start="20210620170300 +0200" stop="20210620172800 +0200" channel="NICK JR">
-    <title lang="es">Santiago de los mares</title>
-    <title lang="en">Cecilia and the Magic Rubies / Under the Pirate Moon</title>
-    <sub-title lang="es">Cecilia y los rubís mágicos. / Bajo la luna pirata</sub-title>
-    <desc lang="es">¡Santi y la tropa se sumergen para detener a Escarlata la Pirata antes de que robe los rubís mágicos del arrecife! // Una persecución nocturna por el mar, después de que Escarlata convierta la luna en un pez.(n)</desc>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1879738" />
-    <episode-num system="onscreen">S1 E20</episode-num>
-  </programme>
-  <programme start="20210620172800 +0200" stop="20210620175300 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save a City Kitty / Pups Save a Cloud Surfer</title>
-    <sub-title lang="es">La Patrulla Salva a una gatita de ciudad / La Patrulla salva a un surfero del cielo</sub-title>
-    <desc lang="es">Cali se pierde en el bosque. / A Dani,el Cañero X se le afloja el arnés mientras hace Kite-surf.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1483979" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S4 E18</episode-num>
-  </programme>
-  <programme start="20210620175300 +0200" stop="20210620181800 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save the Runaway Turtles / Pups Save the Shivering Sheep</title>
-    <sub-title lang="es">La Patrulla salva a las tortugas a la fuga / La Patrulla salva a las ovejas</sub-title>
-    <desc lang="es">Dani el cañero X se marcha sin querer con unos huevos de tortuga. / Las ovejas del granjero Al se escapan y los gatos del Alcalde Humdinger desaparecen.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3687700" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S4 E21</episode-num>
-  </programme>
-  <programme start="20210620181800 +0200" stop="20210620184300 +0200" channel="NICK JR">
-    <title lang="es">Deer Squad</title>
-    <title lang="en">Catfish Capers / Bubble Debacle</title>
-    <sub-title lang="es">La aventura del pez gato / La debacle de las burbujas</sub-title>
-    <desc lang="es">Lola intenta ser guarda del parque durante un día, ya que Ian está de vacaciones, pero las cosas no van como esperaba. / Los intentos del señor Acero por limpiar el Bosque Central con una máquina gigante siembran un caos de burbujas.(n)</desc>
-    <credits>
-      <writer>Allan Plenderleith</writer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1852543" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20210620184300 +0200" stop="20210620190400 +0200" channel="NICK JR">
-    <title lang="es">Barbapapa - ¡Una gran familia!</title>
-    <title lang="en">Where did it go Barbabravo? / The big bad hen</title>
-    <desc lang="es">La familia Barbapapa llega siempre dispuesta a ayudar a los demás para superar cualquier dificultad.(n)</desc>
-    <date>2020</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1876928" />
-    <episode-num system="onscreen">S1 E17</episode-num>
-  </programme>
-  <programme start="20210620190400 +0200" stop="20210620193000 +0200" channel="NICK JR">
-    <title lang="es">¡Las pistas de Blue y tú!</title>
-    <title lang="en">123's with Blue</title>
-    <sub-title lang="es">Uno, dos y tres con Blue</sub-title>
-    <desc lang="es">Hoy aprenderemos a contar con Josh y Blue, y tendremos que averiguar qué quiere comprar Blue en la tienda. Ayudaremos a Cubo y Pala a contar sus galletitas, y Josh tendrá que descubrir qué quiere comprar Blue con su dinero.(n)</desc>
-    <credits>
-      <actor>Joshua Dela Cruz</actor>
-      <presenter>Joshua Dela Cruz</presenter>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Educativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1772240" />
-    <country lang="es">Canadá</country>
-    <country lang="es">Irlanda</country>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20210620193000 +0200" stop="20210620195400 +0200" channel="NICK JR">
-    <title lang="es">Las aventuras de Paddington</title>
-    <title lang="en">Paddington And The Chinese New Year / Paddington And The Missing Tickets</title>
-    <sub-title lang="es">Paddington y el año nuevo chino / Paddington y las entradas perdidas</sub-title>
-    <desc lang="es">La señora Potts echa de menos su país, por eso Paddington decide prepararle una fiesta sorpresa del año nuevo chino. / El señor Brown llevará a los niños al circo esta noche, ¿pero dónde están las entradas? Paddington y los niños deben reconstruir sus pasos para encontrarlas.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1825109" />
-    <episode-num system="onscreen">S1 E15</episode-num>
-  </programme>
-  <programme start="20210620195400 +0200" stop="20210620195800 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">At the Beach</title>
-    <sub-title lang="es">En la playa</sub-title>
-    <desc lang="es">A Peppa y George les encanta ir a la playa en los días soleados. Nadan con sus aletas, juegan con su balón de playa, con el cubo y la pala. Peppa y George disfrutan enterrando a Papá Pig en la arena. Cuando es hora de volver a casa, casi se olvidan de lo más importante....de Papá Pig.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3754863" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S1 E46</episode-num>
-  </programme>
-  <programme start="20210620195800 +0200" stop="20210620200300 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Mr Skinny Legs</title>
-    <sub-title lang="es">La señora Patas Flacas</sub-title>
-    <desc lang="es">George se encuentra una amigable araña en el baño. A Peppa no le gustan las arañas y tiene mucho miedo. Peppa está muy asustada hasta que descubre que la pequeña araña no quiere hacerla daño. Su nombre es Señora Patas Largas. Papá Pig no parece tan valiente como Peppa y George.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3754863" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S1 E47</episode-num>
-  </programme>
-  <programme start="20210620200300 +0200" stop="20210620200800 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Grandpa Pig's Boat</title>
-    <sub-title lang="es">El barco del Abuelo Pig</sub-title>
-    <desc lang="es">La Abuela y el Abuelo Pig tienen un precioso barco y, hoy, Peppa y George pasando todo el día en el río con ellos. Danny Dog tambien está navegando en el río con el Abuelo Dog. El Abuelo Pig y el Abuelo Dog son los mejores amigos. Organizan una carrera para ver que barco es más rápido y la Abuela Pig cree que se están comportando como niños.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3754863" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S1 E48</episode-num>
-  </programme>
-  <programme start="20210620200800 +0200" stop="20210620201300 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Shopping</title>
-    <sub-title lang="es">Nos vamos a la compra</sub-title>
-    <desc lang="es">Mamá Pig, Papá Pig, Peppa y George van al supermercado. George se sienta en el carro mientras Peppa encuentra los productos de la lista de la compra de Mamá Pig. Pronto tienen todo lo que necesitas pero tambien cosas que no había en la lista... un delicioso pastel de chococolate ¿cómo ha llegado hasta el carro, Papá Pig?(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3754863" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S1 E49</episode-num>
-  </programme>
-  <programme start="20210620201300 +0200" stop="20210620201900 +0200" channel="NICK JR">
-    <title lang="es">Preparados, listos, a bailar</title>
-    <title lang="en">Under the Sea</title>
-    <sub-title lang="es">Bajo el mar</sub-title>
-    <desc lang="es">Nos sumergimos en una historia sobre exploradores submarinos con la que descubriremos las grandes maravillas que se pueden ver en una aventura bajo el mar.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1777443" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20210620201900 +0200" stop="20210620204300 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">Meatball Mayhem</title>
-    <sub-title lang="es">El caos de las albóndigas</sub-title>
-    <desc lang="es">Crusher tira sin querer una botella de especia del crecimiento a una albóndiga, que crece hasta hacerse enorme y se va rodando. Blaze y Pickle se tendrán que transformar en robots y evitar que la albóndiga destruya toda la ciudad.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1616653" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S4 E9</episode-num>
-  </programme>
-  <programme start="20210620204300 +0200" stop="20210620210600 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">Power Tires!</title>
-    <sub-title lang="es">Ruedas potentes</sub-title>
-    <desc lang="es">Cuando se le pincha una rueda, Blaze cree que está fuera de la carrera. Por suerte, Gabby está ahí con unas nuevas ruedas, las ruedas poderosas. Son unas ruedas de alta tecnología que se pueden transformar en todo lo que Blaze necesita para correr.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1655137" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S4 E11</episode-num>
-  </programme>
-  <programme start="20210620210600 +0200" stop="20210620213000 +0200" channel="NICK JR">
-    <title lang="es">Santiago de los mares</title>
-    <title lang="en">The Treasure of El Bravo</title>
-    <sub-title lang="es">El tesoro del Bravo</sub-title>
-    <desc lang="es">Después de que Enrique robe el corazón del Bravo, solo una persona podrá ayudar a Santi y la tropa a evitar la catástrofe: la hermana pequeña de Tomás, la prima Tina.(n)</desc>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1879736" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20210620213000 +0200" stop="20210620215300 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save Luke Stars / Pups Save Chicken Day</title>
-    <sub-title lang="es">La Patrulla salva a Luke Stars / La Patrulla salva el día de la gallina</sub-title>
-    <desc lang="es">¡Katie cantará su canción ganadora con Luke Stars! Pero Luke Stars queda atrapado de camino a Bahía Aventura. / ¡Chickaletta desaparece el Día de la Gallina! La Patrulla Canina tendrá que encontrarla para las celebraciones.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1514109" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S4 E23</episode-num>
-  </programme>
-  <programme start="20210620215300 +0200" stop="20210620221700 +0200" channel="NICK JR">
-    <title lang="es">Bubble Guppies</title>
-    <title lang="en">Fishketball</title>
-    <sub-title lang="es">Balompezcesto</sub-title>
-    <desc lang="es">Los Bubble Guppies exploran distintos juegos de pelota cuando se preparan para su primer gran partido de Fishketball. Únete al Equipo Guppies y ayúdales a practicar a botar, lanzar, parar y a jugar juntos en equipo.(n)</desc>
-    <credits>
-      <actor>Christopher Borger</actor>
-      <actor>Brianna Gentilella</actor>
-      <actor>Selena Gonzalez</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3720062" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20210620221700 +0200" stop="20210620224200 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">Sneezing Cold</title>
-    <sub-title lang="es">Frío de narices</sub-title>
-    <desc lang="es">Cuando los Monster Machines se contagian de un brote tonto de Catarrazo, Blaze,AJ y Gabby necesitarán tu ayuda para correr desde un territorio salvaje y frío a Axle City y llevar una cura.(n)</desc>
-    <date>2014</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1270245" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S1 E20</episode-num>
-  </programme>
-  <programme start="20210620224200 +0200" stop="20210620230600 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups' Adventures in Babysitting / Pups Save the Fireworks</title>
-    <sub-title lang="es">La Patrulla y sus aventuras como cuidadores / La Patrulla salva los fuegos artificiales</sub-title>
-    <desc lang="es">La alcaldesa Goodaway pide ayuda a la patrulla para bajar a su sobrino y a su sobrina de un árbol. Es el día de Bahía Aventura, y la alcaldesa recibe un paquete con cerditos.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3310124" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S2 E16</episode-num>
-  </programme>
-  <programme start="20210620230600 +0200" stop="20210620232900 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups save an adventure / Pups save a surprise</title>
-    <sub-title lang="es">La Patrulla salva una aventura / La Patrulla salva una sorpresa</sub-title>
-    <desc lang="es">Durante una acampada, Alex aprende a hacer una hoguera gracias a Marshall y la patrulla canina. Parece un día normal en Bahía Aventura,pero los cachorros se van a llevar una sorpresa: ¡es el día de la patrulla canina.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3310124" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S2 E18</episode-num>
-  </programme>
-  <programme start="20210620232900 +0200" stop="20210620235200 +0200" channel="NICK JR">
-    <title lang="es">Rusty Rivets</title>
-    <title lang="en">Rusty's Treasure Island / Rusty's Raptor Sitting</title>
-    <sub-title lang="es">Rusty y la isla del tesoro / Rusty y la cría de dinosaurio</sub-title>
-    <desc lang="es">Rusty y Ruby siguen un mapa del tesoro, a través de múltiples trampas, para encontrar la mítica Cueva de Cristal. / Una cría de velociraptor se queda flotando en el mar y Rusty y Ruby construyen un barco de rescate para salvarlo.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1772233" />
-    <episode-num system="onscreen">S3 E7</episode-num>
-  </programme>
-  <programme start="20210620235200 +0200" stop="20210621001500 +0200" channel="NICK JR">
-    <title lang="es">Rusty Rivets</title>
-    <title lang="en">Liam's Caterpillar Calamity / Rusty's Birthday Round-up</title>
-    <sub-title lang="es">Rusty y la oruga de Liam / Rusty y el robot poni</sub-title>
-    <desc lang="es">Rusty, Ruby y Liam prometen devolver una oruga a su hogar, en la copa del árbol más alto de la selva. / Frankie roba el nuevo robot poni de Liam y el vaquero Botasaurio ayuda a recuperarlo.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1755500" />
-    <episode-num system="onscreen">S3 E8</episode-num>
-  </programme>
-  <programme start="20210621001500 +0200" stop="20210621003800 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pup save the Mayor's race / Pup save an outlaw's loot</title>
-    <sub-title lang="es">La Patrulla salva la carrera de Alcalde / La Patrulla y el botín del forajido</sub-title>
-    <desc lang="es">Se celebra la carrera anual de alcaldes, y el alcalde Humdinger está planeando su plan más maquiavélico hasta la fecha. Ryder encuentra un mapa del tesoro,pero el alcalde Humdinger se lo roba para intentar quedarse con el botín.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3310124" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S2 E20</episode-num>
-  </programme>
-  <programme start="20210621003800 +0200" stop="20210621010100 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pup save Walinda / Pup save a big bone</title>
-    <sub-title lang="es">La Patrulla salva a Walinda / La Patrulla salva un hueso enorme</sub-title>
-    <desc lang="es">La Patrulla Canina está planeando una celebración especial para Wally. Cuando no aparece, se dan cuenta de que tienen una nueva amiga especial llamada Walinda. / Una roca rompe un hueso de dinosaurio, la Patrulla Canina tiene que ir al rescate.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3310124" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S2 E21</episode-num>
-  </programme>
-  <programme start="20210621010100 +0200" stop="20210621012400 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pup save a Floundering Francois / Pup save the pup-up penguins</title>
-    <sub-title lang="es">La Patrulla salva a Francois / La Patrulla salva a los pingüinos</sub-title>
-    <desc lang="es">El capitán Turbot y su primo van a observar ballenas,pero el Flounder choca con una roca y comienza a hundirse. Unos pingüinos polizones andan sueltos por Bahía Aventura. ¡Es hora de llamar a la patrulla canina.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3310124" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S2 E22</episode-num>
-  </programme>
-  <programme start="20210621012400 +0200" stop="20210621014800 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save a Snowboard Competition / Pups Save a Chicken of the Sea</title>
-    <sub-title lang="es">La Patrulla salva el concurso de snowboard / La Patrulla rescata a una gallina del mar</sub-title>
-    <desc lang="es">Jake y Everest están preparados para la competición de snowboard, pero el recorrido está enterrado bajo la nieve. Cuando la patrulla se dispone a recuperar la campana submarina del capitán Turbot se encuentran con una babosa de mar gigante.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3310124" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S2 E23</episode-num>
-  </programme>
-  <programme start="20210621014800 +0200" stop="20210621021100 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">Race to Eagle Rock</title>
-    <sub-title lang="es">Carrera hasta la roca del Águila</sub-title>
-    <desc lang="es">Blaze y su conductor AJ aterrizan en el mundo de las carreras de Monster Machines. Ambos tendrán harán lo posible para vencer al tramposo Crusher.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1336145" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S2 E18</episode-num>
-  </programme>
-  <programme start="20210621021100 +0200" stop="20210621023400 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">The Sky Track</title>
-    <sub-title lang="es">Pista al Cielo</sub-title>
-    <desc lang="es">Swoops el helicóptero pierde la hélice ¡y no puede volar sin ella! Es la hora de que Blaze y AJ recuperen la hélice escapada, aventurándose por la pista celeste, una ruta impresionante que atraviesa las nubes.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1336146" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S2 E19</episode-num>
-  </programme>
-  <programme start="20210621023400 +0200" stop="20210621025700 +0200" channel="NICK JR">
-    <title lang="es">Rusty Rivets</title>
-    <title lang="en">Rusty's Pet Project / Rusty Gets Stuck</title>
-    <sub-title lang="es">Rusty y la batería de Botasaurio / Un asunto pegajoso para Rusty</sub-title>
-    <desc lang="es">Rusty decide ponerle una nueva batería más potente a Botasaurio para que pueda jugar durante más tiempo, pero el robot se descontrola y empieza a sembrar el caos por la ciudad. Tras intentar detenerlo sin éxito, construye un nuevo robot de juegos para entretenga a Botasaurio hasta que se le gaste la batería y vuelva a la normalidad. Ruby inventa el pegamento más pegajoso del mundo y por accidente, lo rocía por todo el patio de reciclaje. Tanto los chicos, como todo el que acude a rescatarlos se quedan pegados. Así que, inspirado en la lupa de Liam,Rusty construye un despegador que libera a todos en un santiamén.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1474095" />
-    <country lang="es">Canadá</country>
-    <episode-num system="onscreen">S1 E21</episode-num>
-  </programme>
-  <programme start="20210621025700 +0200" stop="20210621030100 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <sub-title lang="es">Emily Elephant</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565622" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E61</episode-num>
-  </programme>
-  <programme start="20210621030100 +0200" stop="20210621030600 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">George's Friend</title>
-    <sub-title lang="es">El amigo de George</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565623" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E62</episode-num>
-  </programme>
-  <programme start="20210621030600 +0200" stop="20210621031100 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">The Boat Pond</title>
-    <sub-title lang="es">Barcos en el estanque</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565624" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E63</episode-num>
-  </programme>
-  <programme start="20210621031100 +0200" stop="20210621031600 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Mr Scarecrow</title>
-    <sub-title lang="es">El señor espantapájaros</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565625" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E64</episode-num>
-  </programme>
-  <programme start="20210621031600 +0200" stop="20210621032100 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">The Time Capsule</title>
-    <sub-title lang="es">La cápsula del tiempo</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565626" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E65</episode-num>
-  </programme>
-  <programme start="20210621032100 +0200" stop="20210621034400 +0200" channel="NICK JR">
-    <title lang="es">Rusty Rivets</title>
-    <title lang="en">Rusty's Mysterious Mystery / Rusty's Yard-Cade Game</title>
-    <sub-title lang="es">Rusty y el misterio misterioso / El videojuego de Rusty</sub-title>
-    <desc lang="es">El oficial Carl pierde su escultura de la suerte y cree que, debido a eso, ya no puede hacer bien su trabajo. / Para ayudar a Liam a ganar confianza en sus habilidades físicas, Rusty y Ruby convierten el patio en un videojuego a tamaño real.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1474081" />
-    <country lang="es">Canadá</country>
-    <episode-num system="onscreen">S1 E22</episode-num>
-  </programme>
-  <programme start="20210621034400 +0200" stop="20210621040700 +0200" channel="NICK JR">
-    <title lang="es">Rusty Rivets</title>
-    <title lang="en">Rusty's Plant Predicament / Rusty's Beach Day Delay</title>
-    <sub-title lang="es">Rusty y la planta maloliente / Rusty se va a la playa</sub-title>
-    <desc lang="es">Rusty y Ruby no pueden disfrutar de su picnic porque una planta apestosa ha empezado a crecer en el bosque. / Rusty convierte a Botasaurio en el robot perfecto para un día de playa. Pero no consigue llegar porque sus amigos no dejan de pedirle ayuda.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3793602" />
-    <country lang="es">Canadá</country>
-    <episode-num system="onscreen">S1 E24</episode-num>
-  </programme>
-  <programme start="20210621040700 +0200" stop="20210621043000 +0200" channel="NICK JR">
-    <title lang="es">Bubble Guppies</title>
-    <title lang="en">Bubble Scrubbies</title>
-    <sub-title lang="es">Jabonar y frotar</sub-title>
-    <desc lang="es">Parece que todo el mundo en Bubbletucky se está resfriando, ¡incluso el Sr. Mero! No hay que preocuparse; en su propia "lección de higiene", los Guppies utilizarán sus buenos hábitos para enseñarle al Sr. Mero cómo mejorarse.(n)</desc>
-    <date>2014</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3906002" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S3 E19</episode-num>
-  </programme>
-  <programme start="20210621043000 +0200" stop="20210621045300 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups save a pizza / Pups save Skye</title>
-    <sub-title lang="es">La Patrulla salva una pizza / La patrulla salva a Skye</sub-title>
-    <desc lang="es">Alex y el señor Porter reparten masa de pizza para una gran fiesta,pero la furgoneta tiene un pequeño accidente. ¡Patrulla al rescate! Skye se dirige a la montaña de Jake cuando su avión sufre una avería.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3310124" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S2 E24</episode-num>
-  </programme>
-  <programme start="20210621045300 +0200" stop="20210621051600 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pus save the Woof and Roll show / Pups save an eagle</title>
-    <sub-title lang="es">La Patrulla salva el concierto de rock&amp;roll / La Patrulla salva a un águila</sub-title>
-    <desc lang="es">Una estrella del pop llega a la ciudad, pero la tormenta ha causado un montón de destrozos en el escenario. ¿Podrá ayudar la patrulla canina? En el bosque, la patrulla salva a un águila que se ha quedado atrapada en su propio nido.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3310124" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S2 E25</episode-num>
-  </programme>
-  <programme start="20210621051600 +0200" stop="20210621053600 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Find a Genie / Pups Save a Tightrope Walker</title>
-    <sub-title lang="es">La Patrulla encuentra a un genio / La Patrulla salva a un equilibrista</sub-title>
-    <desc lang="es">Rubble encuentra una antigua caja sorpresa, con un genio dentro, que le concede tres deseos. / Francois Turbot camina sobre el alambre,pero las gaviotas amenazan con arruinar su espectáculo. ¡Es hora de llamar a la Patrulla Canina.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1284274" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S3 E1</episode-num>
-  </programme>
-  <programme start="20210621053600 +0200" stop="20210621060000 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save a Goldrush / Pups Save the Paw Patroller</title>
-    <sub-title lang="es">La Patrulla salva la fiebre del oro / La Patrulla salva el patrullabús</sub-title>
-    <desc lang="es">Un anciano buscador de oro encuentra oro en Bahía Aventura, ¡desatando una auténtica fiebre del oro!. / El Alcalde Humdinguer y sus Gatitos Catastróficos intentan robar el Patrullabús, ¡recuperarlo se convertirá en un rescate.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1284275" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S3 E2</episode-num>
-  </programme>
-  <programme start="20210621060000 +0200" stop="20210621060400 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Windy Castle</title>
-    <sub-title lang="es">El castillo del viento</sub-title>
-    <desc lang="es">Peppa y su familia se van de excursión a Castillo Ventoso. Mamá Pig conduce y Papá Pig lleva el mapa. Durante el viaje, Peppa juega a su videojuego de espías y Papá Pig se enfada cuando se pierde en la ruta. Cuando consiguen llegar a Castillo Ventoso todo el esfuerzo ha merecido la pena por la vista tan maravillosa que hay desde lo alto. Peppa y George miran por el telescopio y pueden ver a lo lejos la casa del Abuelo y la Abuela Pig!(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3754863" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S1 E27</episode-num>
-  </programme>
-  <programme start="20210621060400 +0200" stop="20210621060900 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">My Cousin Chloé</title>
-    <sub-title lang="es">Mi prima Chloé</sub-title>
-    <desc lang="es">Chloé, la prima de Peppa, viene de visita. Chloé es un poco más mayor que Peppa y George. Peppa y George han estado jugando en el jardín y Peppa ha estado burlándose de George inventandose las reglas a medida que jugaban. Pero Chloé está aquí y ahora Peppa tiene que jugar con las reglas del resto.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3754863" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S1 E28</episode-num>
-  </programme>
-  <programme start="20210621060900 +0200" stop="20210621061700 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Pancakes</title>
-    <sub-title lang="es">Tortitas</sub-title>
-    <desc lang="es">Mamá Pig está haciendo tortitas. George y Peppa se las comen haciendo mucho ruido. Papá Pig cree que él es el más experto en lanzar tortitas pero la lanza tan alto que se queda pegada en el techo de la cocina. Papá Pig no puede rescatar su tortita pero Mamá Pig, Peppa y George encuentrar la mejor manera de conseguirlo.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3754863" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S1 E29</episode-num>
-  </programme>
-  <programme start="20210621061700 +0200" stop="20210621064100 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">Fire Alarm Blaze</title>
-    <sub-title lang="es">Blaze en alerta roja</sub-title>
-    <desc lang="es">Hay un incendio en el puente y es demasiado grande para el bombero jefe y su equipo. Necesitan que los ayude el bombero Blaze. El tiempo se agota, y Blaze corre por la ciudad, pero, ¿podrá llegar al puente a tiempo.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1299734" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S2 E11</episode-num>
-  </programme>
-  <programme start="20210621064100 +0200" stop="20210621070300 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">Axle City Grand Prix</title>
-    <sub-title lang="es">El Gran Premio de Axle City</sub-title>
-    <desc lang="es">Gabby tiene la herramienta perfecta para preparar a Blaze para la carrera: un mando especial que puede controlar cualquier máquina. Pero, cuando Crusher le roba el mando, activa las máquinas de toda la ciudad para ralentizar a Blaze.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1315828" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S2 E12</episode-num>
-  </programme>
-  <programme start="20210621070300 +0200" stop="20210621072800 +0200" channel="NICK JR">
-    <title lang="es">Santiago de los mares</title>
-    <title lang="en">The Treasure of El Bravo</title>
-    <sub-title lang="es">El tesoro del Bravo</sub-title>
-    <desc lang="es">Después de que Enrique robe el corazón del Bravo, solo una persona podrá ayudar a Santi y la tropa a evitar la catástrofe: la hermana pequeña de Tomás, la prima Tina.(n)</desc>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1879736" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20210621072800 +0200" stop="20210621075000 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Pit Crew / Pups Fire Fight</title>
-    <sub-title lang="es">El triciclo de Alex / El mejor cachorro bombero</sub-title>
-    <desc lang="es">Ryder y la patrulla canina deberán rescatar a Alex y a su nuevo supertriciclo. / Marshall demuestra ser un auténtico héroe cuando consigue apagar un incendio en la playa.(n)</desc>
-    <date>2013</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1127351" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme>
-  <programme start="20210621075000 +0200" stop="20210621081600 +0200" channel="NICK JR">
-    <title lang="es">Deer Squad</title>
-    <title lang="en">Catfish Capers / Bubble Debacle</title>
-    <sub-title lang="es">La aventura del pez gato / La debacle de las burbujas</sub-title>
-    <desc lang="es">Lola intenta ser guarda del parque durante un día, ya que Ian está de vacaciones, pero las cosas no van como esperaba. / Los intentos del señor Acero por limpiar el Bosque Central con una máquina gigante siembran un caos de burbujas.(n)</desc>
-    <credits>
-      <writer>Allan Plenderleith</writer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1852543" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20210621081600 +0200" stop="20210621084100 +0200" channel="NICK JR">
-    <title lang="es">¡Las pistas de Blue y tú!</title>
-    <title lang="en">Blue's Big Imagination</title>
-    <sub-title lang="es">La gran imaginación de Blue</sub-title>
-    <desc lang="es">Imaginad junto con Josh y Blue en este juego de las pistas de Blue, para averiguar qué formas misteriosas ve Blue. Escuchamos una historia creada por Jabonoso, Magenta y Tickity y ayudamos al Sr. Sal a descubrir su propia imaginación.(n)</desc>
-    <date>2020</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Educativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3921300" />
-    <episode-num system="onscreen">S2 E9</episode-num>
-  </programme>
-  <programme start="20210621084100 +0200" stop="20210621090300 +0200" channel="NICK JR">
-    <title lang="es">¡Las pistas de Blue y tú!</title>
-    <title lang="en">Meet Josh!</title>
-    <sub-title lang="es">¡Os presentamos a Josh!</sub-title>
-    <desc lang="es">Hay que jugar a las pistas de Blue para averiguar qué quiere merendar Blue, y lo haremos con nuestro nuevo amigo Josh y nuestros viejos conocidos Steve y Joe.(n)</desc>
-    <credits>
-      <actor>Joshua Dela Cruz</actor>
-      <presenter>Joshua Dela Cruz</presenter>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Educativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MCLANTVP1764316" />
-    <country lang="es">Canadá</country>
-    <country lang="es">Irlanda</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20210621090300 +0200" stop="20210621090800 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">The Traffic Jam</title>
-    <sub-title lang="es">El atasco</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565619" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E58</episode-num>
-  </programme>
-  <programme start="20210621090800 +0200" stop="20210621091400 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Rock Pools</title>
-    <sub-title lang="es">Entre las rocas</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565620" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E59</episode-num>
-  </programme>
-  <programme start="20210621091400 +0200" stop="20210621091900 +0200" channel="NICK JR">
-    <title lang="es">Calvin y Kaison's Play Power</title>
-    <title lang="en">Indoor Score</title>
-    <sub-title lang="es">Entrenamiento interior</sub-title>
-    <desc lang="es">Una tormenta eléctrica obliga a Calvin a practicar dentro. Con la ayuda de ROBO G, construye un muro de entrenamiento. Pero, ¿podrá resistir el estruendo de la tormenta o tendrá que usar su PLAY POWER para hacerlo súper fuerte.(n)</desc>
-    <date>2020</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1825141" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20210621091900 +0200" stop="20210621092600 +0200" channel="NICK JR">
-    <title lang="es">Calvin y Kaison's Play Power</title>
-    <title lang="en">Bad Hair Day</title>
-    <sub-title lang="es">Día de malos pelos</sub-title>
-    <desc lang="es">El laboratorio de Calvin crea accidentalmente una bola de pelo monstruosa que causa estragos en la Kid Cave. ¿Podrá Calvin utilizar su PLAY POWER para salir de esta situación tan peliaguda.(n)</desc>
-    <date>2020</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1825142" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme>
-  <programme start="20210621092600 +0200" stop="20210621095000 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save the White Wolf / Pups Save a Wrong-Way Explorer</title>
-    <sub-title lang="es">La patrulla salva a un lobo blanco / La patrulla salva a un explorador despistado</sub-title>
-    <desc lang="es">Tras una tormenta de nieve, Everest cuida de un cachorro de lobo. / El famoso explorador Travis el viajero se lleva a Chickaletta al Polo Norte por error.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3910259" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S6 E19</episode-num>
-  </programme>
-  <programme start="20210621095000 +0200" stop="20210621100300 +0200" channel="NICK JR">
-    <title lang="es">Butterbean's Cafe Single Story</title>
-    <title lang="en">The Takeout Window!</title>
-    <sub-title lang="es">¡La ventanilla de entregas!</sub-title>
-    <desc lang="es">¡Spork y Spatch encierran accidentalmente a las hadas dentro del café! ¿Cómo conseguirán entregar sus pedidos.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3906035" />
-    <episode-num system="onscreen">S1 E51</episode-num>
-  </programme>
-  <programme start="20210621100300 +0200" stop="20210621102500 +0200" channel="NICK JR">
-    <title lang="es">Bubble Guppies</title>
-    <title lang="en">The Glitter Games</title>
-    <sub-title lang="es">Los juegos relucientes</sub-title>
-    <desc lang="es">¡Aprende buenos modales con los Guppies, ya que Molly ayuda a la aspirante a princesa, Demanda, a ser educada a tiempo para los Juegos Relucientes! ¿Se convertirán juntas en verdaderas princesas.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1266003" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S4 E2</episode-num>
-  </programme>
-  <programme start="20210621102500 +0200" stop="20210621105000 +0200" channel="NICK JR">
-    <title lang="es">Abby Hatcher</title>
-    <title lang="en">Fuzzly Camping Trip</title>
-    <sub-title lang="es">La Fuzzly-Acampada</sub-title>
-    <desc lang="es">Durante una acampada, Abby y los Fuzzlies conocen a un nuevo Fuzzly: ¡Grumbles.(n)</desc>
-    <credits>
-      <director>Kyran Kelly</director>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1717434" />
-    <episode-num system="onscreen">S1 E18</episode-num>
-  </programme>
-  <programme start="20210621105000 +0200" stop="20210621105500 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Teddy's Day Out</title>
-    <sub-title lang="es">La excursión de Teddy</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565621" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E60</episode-num>
-  </programme>
-  <programme start="20210621105500 +0200" stop="20210621110000 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <sub-title lang="es">Emily Elephant</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565622" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E61</episode-num>
-  </programme>
-  <programme start="20210621110000 +0200" stop="20210621110500 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">George's Friend</title>
-    <sub-title lang="es">El amigo de George</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565623" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E62</episode-num>
-  </programme>
-  <programme start="20210621110500 +0200" stop="20210621111000 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">The Boat Pond</title>
-    <sub-title lang="es">Barcos en el estanque</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565624" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E63</episode-num>
-  </programme>
-  <programme start="20210621111000 +0200" stop="20210621111500 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Mr Scarecrow</title>
-    <sub-title lang="es">El señor espantapájaros</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565625" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E64</episode-num>
-  </programme>
-  <programme start="20210621111500 +0200" stop="20210621112200 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">The Time Capsule</title>
-    <sub-title lang="es">La cápsula del tiempo</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565626" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E65</episode-num>
-  </programme>
-  <programme start="20210621112200 +0200" stop="20210621114700 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">The 100 Egg Challenge</title>
-    <sub-title lang="es">El reto de los 100 huevos</sub-title>
-    <desc lang="es">La gran búsqueda de huevos ha comenzado y Blaze y Crusher competirán por toda la ciudad para ver quién encuentra más huevos. Solo el primer coche en recoger 100 huevos ganará el delicioso trofeo de chocolate. ¡Mola un huevo.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1717416" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S4 E19</episode-num>
-  </programme>
-  <programme start="20210621114700 +0200" stop="20210621121200 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">Midnight Mile</title>
-    <sub-title lang="es">La milla nocturna</sub-title>
-    <desc lang="es">Puede que sea de noche en Axle City, pero todos los coches se quedan hasta supertarde para la carrera nocturna definitiva: La Milla Nocturna. El primer coche que llegue a la línea de meta, ganará el trofeo que brilla en la oscuridad.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1717417" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S4 E20</episode-num>
-  </programme>
-  <programme start="20210621121200 +0200" stop="20210621123700 +0200" channel="NICK JR">
-    <title lang="es">Santiago de los mares</title>
-    <title lang="en">The Treasure of El Bravo</title>
-    <sub-title lang="es">El tesoro del Bravo</sub-title>
-    <desc lang="es">Después de que Enrique robe el corazón del Bravo, solo una persona podrá ayudar a Santi y la tropa a evitar la catástrofe: la hermana pequeña de Tomás, la prima Tina.(n)</desc>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1879736" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20210621123700 +0200" stop="20210621130600 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups save an adventure / Pups save a surprise</title>
-    <sub-title lang="es">La Patrulla salva una aventura / La Patrulla salva una sorpresa</sub-title>
-    <desc lang="es">Durante una acampada, Alex aprende a hacer una hoguera gracias a Marshall y la patrulla canina. Parece un día normal en Bahía Aventura,pero los cachorros se van a llevar una sorpresa: ¡es el día de la patrulla canina.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3310124" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S2 E18</episode-num>
-  </programme>
-  <programme start="20210621130600 +0200" stop="20210621132900 +0200" channel="NICK JR">
-    <title lang="es">Deer Squad</title>
-    <title lang="en">Small Is Smashing / Pine Cone Power Up</title>
-    <sub-title lang="es">Lo pequeño mola / Súper-potencia de piñas</sub-title>
-    <desc lang="es">El señor Acero quiere encoger el Bosque Central y el Deer Squad debe pensar en pequeño para impedírselo./ Lola despierta a los habitantes del Bosque Central con el rudigo del motor de su Rocket Rabbit.(n)</desc>
-    <credits>
-      <writer>Allan Plenderleith</writer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3900533" />
-    <episode-num system="onscreen">S1 E18</episode-num>
-  </programme>
-  <programme start="20210621132900 +0200" stop="20210621135400 +0200" channel="NICK JR">
-    <title lang="es">Deer Squad</title>
-    <title lang="en">Steel Antlers / Berry Bad</title>
-    <sub-title lang="es">Cuernos de Acero / El problema de las bayas</sub-title>
-    <desc lang="es">El señor Acero se pone unos cuernos falsos para ayudar al Deer Squad a organizar la fiesta de cumpleaños de Tina. / El señor Acero se enfada cuando unas bayas manchan su abrigo y el Deer Dquad debe impedir que destroce los arbustos.(n)</desc>
-    <credits>
-      <writer>Allan Plenderleith</writer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3900533" />
-    <episode-num system="onscreen">S1 E19</episode-num>
-  </programme>
-  <programme start="20210621135400 +0200" stop="20210621141800 +0200" channel="NICK JR">
-    <title lang="es">¡Las pistas de Blue y tú!</title>
-    <title lang="en">Playdate with Magenta</title>
-    <sub-title lang="es">Día de juegos con Magenta</sub-title>
-    <desc lang="es">Hoy viene Magenta a jugar a casa, y jugaremos a las pistas de Blue para averiguar qué quieren hacer. Aprenderemos a identificar contrarios, y buscaremos huellas con nuestros amigos Cubo y Pala.(n)</desc>
-    <credits>
-      <actor>Joshua Dela Cruz</actor>
-      <presenter>Joshua Dela Cruz</presenter>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Educativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MCLANTVP1772237" />
-    <country lang="es">Canadá</country>
-    <country lang="es">Irlanda</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20210621141800 +0200" stop="20210621144400 +0200" channel="NICK JR">
-    <title lang="es">Las aventuras de Paddington</title>
-    <title lang="en">Paddington And The Scrapbook / Paddington Digs a Tunnel to Peru</title>
-    <sub-title lang="es">Paddington y el álbum de recortes / Paddington cava un túnel hacia Perú</sub-title>
-    <desc lang="es">Paddington decide hacer un álbum de recortes e intenta incluir a todos sus amigos para enseñárselo a la tía Lucy. / Paddington decide cavar un túnel para atravesar el centro de la Tierra y llegar hasta Perú, pero acaba en el invernadero del señor Curry.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1797575" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-  </programme>
-  <programme start="20210621144400 +0200" stop="20210621150500 +0200" channel="NICK JR">
-    <title lang="es">Las aventuras de Paddington</title>
-    <title lang="en">Paddington And The Meteor Shower / Paddington And The Talent Show</title>
-    <sub-title lang="es">Paddington y la lluvia de meteoritos / Paddington y el concurso de talentos</sub-title>
-    <desc lang="es">Paddington tiene tres oportunidades para sacar una foto de una lluvia de meteoritos usando la cámara antigua del señor Gruber. // Paddington inscribe al señor Brown en el concurso de talentos del ayuntamiento. Sin embargo, el señor Brown tiene pánico escénico y Paddington debe acudir al rescate.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1797576" />
-    <episode-num system="onscreen">S1 E10</episode-num>
-  </programme>
-  <programme start="20210621150500 +0200" stop="20210621152900 +0200" channel="NICK JR">
-    <title lang="es">Barbapapa - ¡Una gran familia!</title>
-    <title lang="en">Boris / Born To Be Wild</title>
-    <sub-title lang="es">Boris / Nacido para ser libre</sub-title>
-    <desc lang="es">Los barbabebés encuentran a un bebé elefante perdido y cuidan de él en secreto. ¿Cómo reaccionarán Barbapapá y Barbamamá ante Boris? / El elefante Boris echa de menos su casa. Los Barbapapás deciden llevarlo de vuelta a África.(n)</desc>
-    <date>2020</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1816315" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20210621152900 +0200" stop="20210621155100 +0200" channel="NICK JR">
-    <title lang="es">Barbapapa - ¡Una gran familia!</title>
-    <title lang="en">Making Bread / From One Pit to Another</title>
-    <sub-title lang="es">Haciendo pan / Los aguacates</sub-title>
-    <desc lang="es">Barbapapá quiere enseñar a sus hijos a hacer pan, pero las cosas no salen como planeaba. / Los barbabebés plantan un árbol de aguacates. Pero tarda años en dar la primera cosecha. Barbabrillo tiene una idea para ahorrar tiempo.(n)</desc>
-    <date>2020</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1816316" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20210621155100 +0200" stop="20210621161500 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save A Super Pup / Pups Save Ryder's Robot</title>
-    <sub-title lang="es">La Patrulla salva a un super perro / La Patrulla salva a un super robot de Ryder</sub-title>
-    <desc lang="es">Rubble pretende ser una super mascota pero se mete en problemas. Ryder y la Patrulla Canina tienen que salvarlo / Cuando el robot de Ryder se rompe y empieza a hacer locuras por Bahía Aventura,toda la Patrulla Canina le ayuda a Ryder a encontrarlo.(n)</desc>
-    <date>2013</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1142797" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S1 E19</episode-num>
-  </programme>
-  <programme start="20210621161500 +0200" stop="20210621164000 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">Race for the Golden Treasure</title>
-    <sub-title lang="es">Carrera hacia el tesoro dorado</sub-title>
-    <desc lang="es">Blaze y el pirata Rueda de Palo se han unido en la búsqueda del tesoro definitiva. Juntos, deberían encontrar tres llaves para abrir un cofre especial. Pero Crusher también está navegando y hará lo que sea por encontrar el tesoro antes.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1499687" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S3 E17</episode-num>
-  </programme>
-  <programme start="20210621164000 +0200" stop="20210621170300 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">Need for Blazing Speed</title>
-    <sub-title lang="es">Se necesita ir a toda velocidad</sub-title>
-    <desc lang="es">Cuando Crusher intenta conseguir ir a toda velocidad, lanza sin querer el motor de Blaze. Ahora, habrá una carrera entre Blaze y Crusher para conseguir ir a toda velocidad. Pero, sin motor, Blaze tendrá que encontrar nuevas formas de propulsarse.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1524727" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S3 E18</episode-num>
-  </programme>
-  <programme start="20210621170300 +0200" stop="20210621172800 +0200" channel="NICK JR">
-    <title lang="es">Santiago de los mares</title>
-    <title lang="en">Lorelai's Bracelet / Cecilia And The Ghost Ship</title>
-    <sub-title lang="es">El brazalete de Lorelai / Cecilia y el barco fantasma</sub-title>
-    <desc lang="es">¡Bonnie roba el brazalete de Lorelai, se convierte en sirena y atrapa a Lorelai en su forma humana! Santi y la tropa deben superar las jugarretas fantasma para salvar a Cecilia del temido barco fantasma.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1876968" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20210621172800 +0200" stop="20210621175300 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save Luke Stars / Pups Save Chicken Day</title>
-    <sub-title lang="es">La Patrulla salva a Luke Stars / La Patrulla salva el día de la gallina</sub-title>
-    <desc lang="es">¡Katie cantará su canción ganadora con Luke Stars! Pero Luke Stars queda atrapado de camino a Bahía Aventura. / ¡Chickaletta desaparece el Día de la Gallina! La Patrulla Canina tendrá que encontrarla para las celebraciones.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1514109" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S4 E23</episode-num>
-  </programme>
-  <programme start="20210621175300 +0200" stop="20210621181800 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save an Extreme Lunch / Pups Save a Cat Burglar</title>
-    <sub-title lang="es">La Patrulla salva una comida cañera / La Patrulla salva un gato ladrón</sub-title>
-    <desc lang="es">¡Danny X el cañero está realizando un nuevo truco! Está atravesando un acantilado haciendo equilibrismo, mientras come un almuerzo cañero, pero entonces se levanta viento y le pone cabeza abajo.! / ¡Es el Día de la Pastelada! Humdinger envía al Gatito Rocky a llevarse uno de los deliciosos pasteles del Señor Porter, para así poder participar en el concurso.(n)</desc>
-    <date>2018</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565607" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S5 E5</episode-num>
-  </programme>
-  <programme start="20210621181800 +0200" stop="20210621184300 +0200" channel="NICK JR">
-    <title lang="es">Deer Squad</title>
-    <title lang="en">Kai Express / Ducknado</title>
-    <sub-title lang="es">El expreso Kai / Patornado</sub-title>
-    <desc lang="es">Kai une todos los vehículos del Deer Squad y acaban formando un tren que recorre todo el Bosque Central. / El potente secador del señor Acero crea un tornado gigante que aspira a Ian y a los patitos, entre otras cosas.(n)</desc>
-    <credits>
-      <writer>Allan Plenderleith</writer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1852544" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20210621184300 +0200" stop="20210621190400 +0200" channel="NICK JR">
-    <title lang="es">Barbapapa - ¡Una gran familia!</title>
-    <title lang="en">Clock and dance / Barbapileup</title>
-    <desc lang="es">La familia Barbapapa llega siempre dispuesta a ayudar a los demás para superar cualquier dificultad.(n)</desc>
-    <date>2020</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1876936" />
-    <episode-num system="onscreen">S1 E18</episode-num>
-  </programme>
-  <programme start="20210621190400 +0200" stop="20210621193000 +0200" channel="NICK JR">
-    <title lang="es">¡Las pistas de Blue y tú!</title>
-    <title lang="en">Sad Day with Blue</title>
-    <sub-title lang="es">Un día triste con Blue</sub-title>
-    <desc lang="es">Hoy jugaremos a las pistas de Blue para descubrir por qué se siente triste. Además, ayudaremos a sus amigos de fieltro a identificar sus sentimientos y sus emociones en situaciones diversas.(n)</desc>
-    <credits>
-      <actor>Joshua Dela Cruz</actor>
-      <presenter>Joshua Dela Cruz</presenter>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Educativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1772241" />
-    <country lang="es">Canadá</country>
-    <country lang="es">Irlanda</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20210621193000 +0200" stop="20210621195400 +0200" channel="NICK JR">
-    <title lang="es">Las aventuras de Paddington</title>
-    <title lang="en">Paddington And The Summer Games / Paddington Goes Camping</title>
-    <sub-title lang="es">Paddington y los juegos de verano / Paddington va de acampada</sub-title>
-    <desc lang="es">Los Brown van a celebrar los juegos de verano. ¿A Paddington se le dará bien alguno? / La señora Brown ha comprado una caravana vieja y decide llevarse a la familia de acampada.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1825110" />
-    <episode-num system="onscreen">S1 E16</episode-num>
-  </programme>
-  <programme start="20210621195400 +0200" stop="20210621195800 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">My Birthday Party</title>
-    <sub-title lang="es">Mi fiesta de cumpleaños</sub-title>
-    <desc lang="es">Es el cumpleaños de Peppa Pig. Peppa se despierta antes de tiempo y no quiere que su día especial se acabe. Primero, Peppa abre el regalo de Mamá, Papá y George. Después es el momento de su fiesta. Papá Pig hace trucos de magia y una deliciosa tarta de cumpleaños con 4 velas para que Peppa las sople. ¡Feliz cumpleaños, Peppa!(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3754863" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S1 E50</episode-num>
-  </programme>
-  <programme start="20210621195800 +0200" stop="20210621200300 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Daddy's Movie Camera</title>
-    <sub-title lang="es">La cámara de vídeo de Papá</sub-title>
-    <desc lang="es">Papá Pig tiene una nueva cámara de video. Peppa le enseña como funciona y después Papá Pig graba a Peppa diciendo "¡Hola!". Todo el mundo se ríe cuando ven a Peppa en la televisión. Peppa, George y Mamá Pig hacen una película para Papá Pig. George imita el rugido del dinosaurio y Peppa hace de Papá Pig.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3754863" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S1 E51</episode-num>
-  </programme>
-  <programme start="20210621200300 +0200" stop="20210621200800 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">School Play</title>
-    <sub-title lang="es">Teatro en la guardería</sub-title>
-    <desc lang="es">La guardería de Peppa está organizando una obra de teatro. Peppa va a interpretar a Caperucita Roja. Mamá Pig y Papá Pig ayudan a Peppa a repasar su papel. Los amigos de Peppa practican sus personajes tambien en casa. La noche del estreno, Peppa y sus amigos interpretan una maravillosa historia. Los familiares y Madame Gazalle están muy orgullosos de sus pequeños.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3754863" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S1 E52</episode-num>
-  </programme>
-  <programme start="20210621200800 +0200" stop="20210621201300 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Polly's Holiday</title>
-    <sub-title lang="es">Las vacaciones de Polly</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565614" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E53</episode-num>
-  </programme>
-  <programme start="20210621201300 +0200" stop="20210621201900 +0200" channel="NICK JR">
-    <title lang="es">Preparados, listos, a bailar</title>
-    <title lang="en">Space</title>
-    <sub-title lang="es">El espacio</sub-title>
-    <desc lang="es">Una historia que desafía a la gravedad, sobre una misión en el espacio exterior y la superficie blandita del planeta Malvavisco.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1777444" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20210621201900 +0200" stop="20210621204300 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">Construction Crew to the Rescue</title>
-    <sub-title lang="es">Equipo de construcción al rescate</sub-title>
-    <desc lang="es">Cuando Crusher y Pickle se quedan atrapados en lo alto de una torre elevada y destartalada, Blaze, Stripes y Starla se transforman en vehículos de construcción impresionantes para construir una vía de escape.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1655139" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S4 E13</episode-num>
-  </programme>
-  <programme start="20210621204300 +0200" stop="20210621210600 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">The Flying Lion</title>
-    <sub-title lang="es">El león volador</sub-title>
-    <desc lang="es">Blaze y AJ están impacientes por jugar con su nuevo amigo Rugelio, el león volador, pero cuando Rugelio pierde su piedra solar mágica, se convierte en estatua. Ahora Blaze y AJ deberán encontrar la piedra solar y restaurar sus poderes.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3793475" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S4 E15</episode-num>
-  </programme>
-  <programme start="20210621210600 +0200" stop="20210621212900 +0200" channel="NICK JR">
-    <title lang="es">Santiago de los mares</title>
-    <title lang="en">The Legend of Capitán Calavera</title>
-    <sub-title lang="es">La leyenda del capitán Calavera</sub-title>
-    <desc lang="es">Cuando Santiago descubre el tesoro perdido del capitán Calavera, él y sus amigos se convierten en los nuevos piratas protectores de la isla Encanto.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3906068" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20210621212900 +0200" stop="20210621215300 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save Francois the Penguin / Pups Save Daring Danny's Hippo</title>
-    <sub-title lang="es">La Patrulla salva al pingüino François / La Patrulla salva al hipopótamo de Dani, el Cañero</sub-title>
-    <desc lang="es">Francois y un bebé pringüino quedan atrapados al otro lado de una grieta en el hielo. / Dani, el Cañero, busca una mascota guay y tiene la suerte de encontrarse con un bebé hipopótamo perdido.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3687701" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S4 E24</episode-num>
-  </programme>
-  <programme start="20210621215300 +0200" stop="20210621221700 +0200" channel="NICK JR">
-    <title lang="es">Bubble Guppies</title>
-    <title lang="en">The Legend of Pinkfoot</title>
-    <sub-title lang="es">La Leyenda de Pie Rosa</sub-title>
-    <desc lang="es">Los Bubble Guppies van de acampada. Agarra la linterna y siéntate con ellos alrededor del fuego para asar nubecillas y escuchar la espeluznante leyenda de Pie Rosa.(n)</desc>
-    <credits>
-      <actor>Christopher Borger</actor>
-      <actor>Brianna Gentilella</actor>
-      <actor>Selena Gonzalez</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1054544" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20210621221700 +0200" stop="20210621224200 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">Dino Dash</title>
-    <sub-title lang="es">Dinochorro</sub-title>
-    <desc lang="es">Blaze y AJ están jugando con su amigo Zeg, cuando, por accidente, un géiser lo lanza muy lejos, a un hoyo de lodo. Blaze y Aj tendrán que salvarlo, usando un diseño de ingeniería inspirado en sus nuevos amigos dinocoches.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1270243" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S2 E4</episode-num>
-  </programme>
-  <programme start="20210621224200 +0200" stop="20210621230600 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save the Soccer Game / Pups Save a Lucky Collar</title>
-    <sub-title lang="es">La Patrulla salva el partido de fútbol / La Patrulla salva el collar de la suerte</sub-title>
-    <desc lang="es">El Alcalde Humdinger desafía al equipo de Bahía Aventura a un partido de fútbol y la Patrulla jugará unida para conseguir la victoria. / Marshall encuentra un collar que cree que le trae suerte y correrá grandes riesgos para salvar a Hootie.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1284276" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S3 E3</episode-num>
-  </programme>
-  <programme start="20210621230600 +0200" stop="20210621232900 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save Alex's Mini-Patrol / Pups Save a Lost Tooth</title>
-    <sub-title lang="es">La Patrulla salva la minipatrulla de Alex / La Patrulla salva el diente perdido</sub-title>
-    <desc lang="es">Fascinado por los rescates de la Patrulla Canina, Alex crea su propia mini-Patrulla con Chickaletta, Cali,Tortuga y Conejo. / A Alex se le cae su primer diente y lo pierde. ¡Tendrá que recuperarlo antes de que llegue el Ratoncito Pérez.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1284277" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S3 E4</episode-num>
-  </programme>
-  <programme start="20210621232900 +0200" stop="20210621235200 +0200" channel="NICK JR">
-    <title lang="es">Rusty Rivets</title>
-    <title lang="en">Rusty's Meteor Madness / Rusty's Dino for a Day</title>
-    <sub-title lang="es">Rusty y la locura de los meteoritos / Rusty, dinosaurio por un día</sub-title>
-    <desc lang="es">Rusty y Ruby necesitan la ayuda de Botasaurio para detener los meteoritos que amenazan con destruir la Dino Isla. / Frankie corre descontroladamente con un traje de dinosaurio y causa problemas en la Dino Isla.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1755501" />
-    <episode-num system="onscreen">S3 E9</episode-num>
-  </programme>
-  <programme start="20210621235200 +0200" stop="20210622001500 +0200" channel="NICK JR">
-    <title lang="es">Rusty Rivets</title>
-    <title lang="en">Liam's Large Adventure / Rusty's Hike Hijinks</title>
-    <sub-title lang="es">La gran aventura de Liam / Rusty se va de excursión</sub-title>
-    <desc lang="es">Liamse vuelve gigantesco y juega por todo Sparkton Hills. Rusty y Ruby tienen que detenerlo antes de que cause algún daño. / Por conseguir su última insignia de exploradora científica, la madre de Rusty acaba en una situación complicada.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1772234" />
-    <episode-num system="onscreen">S3 E10</episode-num>
-  </programme>
-  <programme start="20210622001500 +0200" stop="20210622003800 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save the Hippos</title>
-    <sub-title lang="es">La Patrulla salva a Apolo / La patrulla salva a los hipopótamos</sub-title>
-    <desc lang="es">Apolo, el Supercachorro, va a Bahía Aventura en un sueño de Rubble. ¡La Patrulla tendrá que rescatar a su superhéroe! / Los hipopótamos bailarines de Raimundo tiran abajo la carpa del circo. La Patrulla tendrá que montarla para la función.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1321884" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S3 E7</episode-num>
-  </programme>
-  <programme start="20210622003800 +0200" stop="20210622010100 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save Daring Danny X / Pups in a Fix</title>
-    <sub-title lang="es">La Patrulla salva a Dani, el Cañero X / Los Arreglos de la Patrulla</sub-title>
-    <desc lang="es">Dani,el Cañero X lleva sus aspiraciones demasiado lejos al intentar saltar sobre el Cañón Rattlesnake. La Patrulla sorprenderá con un rescate en el aire. / A Perrobot se le cruzan los cables y se lanza a arreglar todo en Bahía Aventura.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1342211" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S3 E8</episode-num>
-  </programme>
-  <programme start="20210622010100 +0200" stop="20210622012400 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save a Dragon / Pups Save The Three Little Pigs</title>
-    <sub-title lang="es">La Patrulla salva a un dragón / Los tres cerditos</sub-title>
-    <desc lang="es">Un dragón de leyenda vuelve a la vida y no deja entrar a Ryder y la Patrulla al centro de mando y usarán el Patrullavión. / La Patrulla ayuda a los tres cerditos a construir sus nuevas casas tras la misteriosa desaparición de las anteriores.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1342212" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S3 E9</episode-num>
-  </programme>
-  <programme start="20210622012400 +0200" stop="20210622014800 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save a Monkey-Naut / Pups Save a Stinky Flower</title>
-    <sub-title lang="es">La Patrulla salva una flor maloliente / La Patrulla salva a un "astrónomo"</sub-title>
-    <desc lang="es">El Alcalde Humdinguer regala a la Alcaldesa Goodway una planta con unas flores que apestan. Intenta devolvérsela pero la Patrulla tendrá que rescatarla. / Un OVNI cae en medio de la bahía y la patrulla descubre dentro a un mono astronauta.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1315834" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S3 E10</episode-num>
-  </programme>
-  <programme start="20210622014800 +0200" stop="20210622021100 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">The Wishing Wheel</title>
-    <sub-title lang="es">La rueda de los deseos</sub-title>
-    <desc lang="es">Blaze, AJ y Stripes están buscando la rueda de los deseos, un tesoro mágico que concede un deseo a coches de carreras con suerte. Con peligros que muerden, pisotean y resbalan a la vuelta de la esquina, ¿podrán aguantar Blaze y sus amigos.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1336147" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S2 E20</episode-num>
-  </programme>
-  <programme start="20210622021100 +0200" stop="20210622023400 +0200" channel="NICK JR">
-    <title lang="es">Blaze y los Monster Machines</title>
-    <title lang="en">The Hundred Mile Race</title>
-    <sub-title lang="es">La carrera de los cien kilómetros</sub-title>
-    <desc lang="es">Blaze visita Velociudad para competir con sus nuevos compañeros, los coches de carreras Danica Patrick, Jimmie Johnson y Kasey Kahne, en la carrera más larga de la historia. Pero Crusher también corre, y hará todo lo posible por ganar.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1366377" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S3 E1</episode-num>
-  </programme>
-  <programme start="20210622023400 +0200" stop="20210622025700 +0200" channel="NICK JR">
-    <title lang="es">Rusty Rivets</title>
-    <title lang="en">Rusty's Dancing Suit / Rusty Bee Good</title>
-    <sub-title lang="es">Rusty y el traje de baile / Rusty y las Abejas</sub-title>
-    <desc lang="es">El Sr. Higgins no quiere ir a la fiesta del pueblo porque cree que baila mal. Rusty y Ruby le construyen un traje de baile y acaba convirtiéndose en el rey de la pista. / Rusty ayuda a unas abejas a encontrar un nuevo hogar.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/F3793604" />
-    <country lang="es">Canadá</country>
-    <episode-num system="onscreen">S1 E25</episode-num>
-  </programme>
-  <programme start="20210622025700 +0200" stop="20210622030100 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Recycling</title>
-    <sub-title lang="es">Reciclaje</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565627" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E66</episode-num>
-  </programme>
-  <programme start="20210622030100 +0200" stop="20210622030600 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Daddy Pig's Office</title>
-    <sub-title lang="es">En la oficina de Papá Pig</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565628" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E67</episode-num>
-  </programme>
-  <programme start="20210622030600 +0200" stop="20210622031100 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Pirate Island</title>
-    <sub-title lang="es">La isla de los piratas</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565629" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E68</episode-num>
-  </programme>
-  <programme start="20210622031100 +0200" stop="20210622031600 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Jumble Sale</title>
-    <sub-title lang="es">El mercadillo</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565630" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E69</episode-num>
-  </programme>
-  <programme start="20210622031600 +0200" stop="20210622032100 +0200" channel="NICK JR">
-    <title lang="es">Peppa Pig</title>
-    <title lang="en">Swimming</title>
-    <sub-title lang="es">En la piscina</sub-title>
-    <desc lang="es">Una pequeña familia de cerditos. Con ellos, los más pequeños de la casa conocerán el mundo que les rodea.(n)</desc>
-    <credits>
-      <director>Neville Astley</director>
-      <director>Mark Baker</director>
-      <writer>Alison Snowden</writer>
-      <writer>Mark Baker</writer>
-      <writer>Sarah Ann Kennedy</writer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1565631" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2 E70</episode-num>
-  </programme>
-  <programme start="20210622032100 +0200" stop="20210622034300 +0200" channel="NICK JR">
-    <title lang="es">Rusty Rivets</title>
-    <title lang="en">Robo Rusty / Ruby's Kittybot</title>
-    <sub-title lang="es">Robo-Rusty / Rusty y la Gatita Robótica Gigante</sub-title>
-    <desc lang="es">Para evitar la promesa que hizo Rudy de ayudar a Ruby, le envía un robot defectuoso en su lugar...con resultados desastrosos. / Rusty y Ruby construyen una gatita robótica para que juegue con Botasaurio, pero es muy asustadiza y huye al verlo.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1474085" />
-    <country lang="es">Canadá</country>
-    <episode-num system="onscreen">S1 E26</episode-num>
-  </programme>
-  <programme start="20210622034300 +0200" stop="20210622040700 +0200" channel="NICK JR">
-    <title lang="es">Rusty Rivets</title>
-    <title lang="en">Ruby's Comet Adventure / Rusty's Messy Mishap</title>
-    <sub-title lang="es">Ruby y la aventura del cometa / Rusty y el desastre del lago</sub-title>
-    <desc lang="es">Ruby quiere ver pasar un cometa y Rusty hace todo lo que está en su mano para asegurarse de que el deseo de su amiga se hace realidad. / Rusty y Ruby deben reparar las fugas de un oleoducto submarino antes que contamine el lago y lo vuelva inhabitable.(n)</desc>
-    <date>2018</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1539757" />
-    <episode-num system="onscreen">S2 E1</episode-num>
-  </programme>
-  <programme start="20210622040700 +0200" stop="20210622043000 +0200" channel="NICK JR">
-    <title lang="es">Bubble Guppies</title>
-    <title lang="en">Fruit Camp</title>
-    <sub-title lang="es">¡Campamento Fruta!</sub-title>
-    <desc lang="es">Los Guppies aman las frutas y verduras, ¡pero Deema no quiere probar el brócoli! Enfrentados a las pruebas de iniciación como exploradores, Deema tendrá que cambiar de actitud si quiere conseguir su insignia del brócoli.(n)</desc>
-    <date>2014</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1226846" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S3 E21</episode-num>
-  </programme>
-  <programme start="20210622043000 +0200" stop="20210622045300 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save the Polar Bears / A Pup in Sheep's Clothing</title>
-    <sub-title lang="es">La Patrulla salva a los osos polares / Un cachorro con piel de cordero</sub-title>
-    <desc lang="es">Ryder y los cachorros tienen que volar al Ártico para rescatar a unos oseznos perdidos. / Los corderitos se escapan del redil del granjero Al y la Patrulla Canina tiene que encontrarlos.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1342213" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S3 E11</episode-num>
-  </programme>
-  <programme start="20210622045300 +0200" stop="20210622051600 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save a School Bus / Pups Save Old Trusty</title>
-    <sub-title lang="es">La Patrulla salva un autobús escolar / La Patrulla salva a los pájaros cantarines</sub-title>
-    <desc lang="es">Al autobús escolar de Bahía Aventura se le pinchan las ruedas y Ryder ofrece utilizar el Patrullabús en su lugar. / Los famosos pájaros cantarines de Bahía Aventura desaparecen y la Patrulla Canina va al rescate.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1315835" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S3 E12</episode-num>
-  </programme>
-  <programme start="20210622051600 +0200" stop="20210622053600 +0200" channel="NICK JR">
-    <title lang="es">La Patrulla Canina</title>
-    <title lang="en">Pups Save Old Trusty / Pups Save a Pony</title>
-    <sub-title lang="es">La Patrulla salva al viejo Trusty / La Patrulla salva a un poni</sub-title>
-    <desc lang="es">Ryder y los cachorros tienen que desatascar al viejo Trusty para evitar que se inunde la ciudad. / Tras sacarla del cañon, la pony Priscilla ayuda a la Patrulla Canina a recuperar el Patrullabús.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MNICKJRP1342214" />
-    <country lang="es">Canadá</country>
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S3 E13</episode-num>
   </programme>
 </tv>
