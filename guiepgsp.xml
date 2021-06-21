@@ -3510,42 +3510,186 @@
   <programme start="20210622054500 +0200" stop="20210622070500 +0200" channel="Cuatro">
     <title lang="es">El zapping de Surferos</title>
     <desc lang="es">Espacio que recopila las imágenes más destacadas y los momentos más curiosos emitidos en televisión.(n)</desc>
+    <category lang="es">Zapping</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2029285.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E27</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210622070500 +0200" stop="20210622073500 +0200" channel="Cuatro">
     <title lang="es">Mejor llama a Kiko</title>
     <desc lang="es">Programa de televenta presentado por Kiko Hernández en el que se promocionan los productos oficiales de los programas de Mediaset España.(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2287245.jpg" />
+    <country lang="es">Otros</country>
+    <episode-num system="onscreen">S1 E52</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210622073500 +0200" stop="20210622081500 +0200" channel="Cuatro">
     <title lang="es">¡Toma salami!</title>
     <desc lang="es">Programa de nostalgia televisiva en el que el humorista Javier Capitán, como voz en off, rememorará los grandes momentos televisivos de los canales del grupo.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Humor</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2430217.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E119</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210622081500 +0200" stop="20210622091500 +0200" channel="Cuatro">
     <title lang="es">El bribón</title>
     <desc lang="es">Pablo Chiapella presenta este quiz show en el que los conocimientos sobre personajes y acontecimientos significativos, la intuición y la complicidad entre las parejas participantes son clave para conseguir un premio de hasta 70.000 euros.(n)</desc>
+    <credits>
+      <presenter>Pablo Chiapella</presenter>
+      <presenter>Lorena Berdún</presenter>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Concurso</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2564866.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E41</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210622091500 +0200" stop="20210622101000 +0200" channel="Cuatro">
     <title lang="es">Alerta Cobra</title>
     <desc lang="es">Susanne se encuentra entre su ex novio, Tommy Gerghardt, y la niñera de su hijo, Jana Burbach. La secretaria de policía debe hacer lo necesario para proteger a su hijo.(n)</desc>
+    <credits>
+      <actor>Charlotte Schwab</actor>
+      <actor>Dietmar Huhn</actor>
+      <actor>Erdogan Atalay</actor>
+      <actor>Gottfried Vollmer</actor>
+      <actor>Carina Wiese</actor>
+      <actor>Tom Beck</actor>
+      <actor>Gedeon Burkhard</actor>
+      <actor>René Steinke</actor>
+      <writer>Matthias Herbert</writer>
+      <writer>Ralf Ruland</writer>
+      <producer>Stefan Retzbach</producer>
+      <producer>Simon Grohe</producer>
+      <composer>Klaus Garternicht</composer>
+      <composer>Kay Skerra</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2029119.jpg" />
+    <country lang="es">Alemania</country>
+    <episode-num system="onscreen">S25 E6</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210622101000 +0200" stop="20210622110000 +0200" channel="Cuatro">
     <title lang="es">Alerta Cobra</title>
     <desc lang="es">Un suicida salta de un puente, provocando un accidente en cadena en la autovía. Más tarde parecerá claro que se trata de asesinato.(n)</desc>
+    <credits>
+      <director>Heinz Dietz</director>
+      <actor>Erdogan Atalay</actor>
+      <actor>Tom Beck</actor>
+      <actor>Eralp Uzun</actor>
+      <actor>Tim Seyfi</actor>
+      <actor>Charlotte Schwab</actor>
+      <actor>Carina Wiese</actor>
+      <writer>Matthias Herbert</writer>
+      <writer>Ralf Ruland</writer>
+      <producer>Stefan Retzbach</producer>
+      <producer>Simon Grohe</producer>
+      <composer>Kay Skerra</composer>
+      <composer>Klaus Garternicht</composer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2029119.jpg" />
+    <country lang="es">Alemania</country>
+    <episode-num system="onscreen">S13 E3</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210622110000 +0200" stop="20210622120500 +0200" channel="Cuatro">
     <title lang="es">Alerta Cobra</title>
     <desc lang="es">Katrin Petersen está cumpliendo sentencia en la cárcel y sólo puede visitar a su hija Sarah algunos días en el centro de acogida.(n)</desc>
+    <credits>
+      <director>Sebastian Vigg</director>
+      <actor>Erdogan Atalay</actor>
+      <actor>Tom Beck</actor>
+      <actor>Anja Nejarri</actor>
+      <actor>Sina Tkotsch</actor>
+      <actor>Charlotte Schwab</actor>
+      <actor>Carina Wiese</actor>
+      <writer>Matthias Herbert</writer>
+      <writer>Ralf Ruland</writer>
+      <producer>Stefan Retzbach</producer>
+      <producer>Simon Grohe</producer>
+      <composer>Kay Skerra</composer>
+      <composer>Klaus Garternicht</composer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2029119.jpg" />
+    <country lang="es">Alemania</country>
+    <episode-num system="onscreen">S13 E4</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210622120500 +0200" stop="20210622131000 +0200" channel="Cuatro">
     <title lang="es">Alerta Cobra</title>
     <desc lang="es">El secuestro de la joven Larissa llama la atención de Vicky Reisinger y Max Tauber al descubrir que se llevó a un niño llamado Flavio. Max tiene problemas con un periodista y es degradado, así que Semir se une a la búsqueda.(n)</desc>
+    <credits>
+      <actor>Charlotte Schwab</actor>
+      <actor>Dietmar Huhn</actor>
+      <actor>Erdogan Atalay</actor>
+      <actor>Gottfried Vollmer</actor>
+      <actor>Carina Wiese</actor>
+      <actor>Tom Beck</actor>
+      <actor>Gedeon Burkhard</actor>
+      <actor>René Steinke</actor>
+      <writer>Matthias Herbert</writer>
+      <writer>Ralf Ruland</writer>
+      <producer>Stefan Retzbach</producer>
+      <producer>Simon Grohe</producer>
+      <composer>Klaus Garternicht</composer>
+      <composer>Kay Skerra</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2029119.jpg" />
+    <country lang="es">Alemania</country>
+    <episode-num system="onscreen">S26 E1</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210622131000 +0200" stop="20210622141000 +0200" channel="Cuatro">
     <title lang="es">El precio justo: Diario</title>
     <desc lang="es">Carlos Sobera presenta la versión diaria del concurso en el que los participantes deberán aproximarse lo máximo posible al precio de artículos para ir acumulando premios y superar etapas para conseguir el premio final.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Concurso</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/5060070.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210622141000 +0200" stop="20210622151000 +0200" channel="Cuatro">
     <title lang="es">El precio justo: Diario</title>
     <desc lang="es">Carlos Sobera presenta la versión diaria del concurso en el que los participantes deberán aproximarse lo máximo posible al precio de artículos para ir acumulando premios y superar etapas para conseguir el premio final.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Concurso</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/5060070.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210622151000 +0200" stop="20210622152500 +0200" channel="Cuatro">
     <title lang="es">Noticias Cuatro Deportes</title>
@@ -3590,18 +3734,56 @@
   <programme start="20210622154500 +0200" stop="20210622170000 +0200" channel="Cuatro">
     <title lang="es">Todo es mentira</title>
     <desc lang="es">Programa de humor presentado por Risto Mejide que ofrece, de lunes a viernes, en directo, un repaso por la actualidad política, social y cultural de cada jornada convirtiendo las 'fake news' en risas.(n)</desc>
+    <credits>
+      <presenter>Risto Mejide</presenter>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Humor</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2268253.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E613</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
   </programme>
   <programme start="20210622170000 +0200" stop="20210622173500 +0200" channel="Cuatro">
     <title lang="es">Todo es mentira bis</title>
     <desc lang="es">Programa de humor presentado por Risto Mejide que ofrece, de lunes a viernes, en directo, un repaso por la actualidad política, social y cultural de cada jornada convirtiendo las 'fake news' en risas.(n)</desc>
+    <credits>
+      <presenter>Risto Mejide</presenter>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Humor</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2270443.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E613</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
   </programme>
   <programme start="20210622173500 +0200" stop="20210622200000 +0200" channel="Cuatro">
     <title lang="es">Cuatro al día</title>
     <desc lang="es">Joaquín Prat conduce este magazine de actualidad en las tardes de Cuatro. El programa ofrece toda la actualidad, información nacional e internacional, sucesos y política.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Magazine</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2565587.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E577</episode-num>
+    <rating system="ES">
+      <value>Cataluña</value>
+    </rating>
   </programme>
   <programme start="20210622200000 +0200" stop="20210622205500 +0200" channel="Cuatro">
     <title lang="es">Cuatro al día</title>
     <desc lang="es">Joaquín Prat conduce este magazine de actualidad en las tardes de Cuatro. El programa ofrece toda la actualidad, información nacional e internacional, sucesos y política.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Magazine</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2565587.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E577</episode-num>
+    <rating system="ES">
+      <value>Cataluña</value>
+    </rating>
   </programme>
   <programme start="20210622205500 +0200" stop="20210622210500 +0200" channel="Cuatro">
     <title lang="es">El Tiempo Cuatro 2</title>
@@ -3616,6 +3798,17 @@
   <programme start="20210622210500 +0200" stop="20210622214000 +0200" channel="Cuatro">
     <title lang="es">First Dates</title>
     <desc lang="es">El restaurante del amor recibirá a las parejas formadas por: Lidia y César; Jenifer e Iván; y Noelia y David.(n)</desc>
+    <credits>
+      <presenter>Carlos Sobera</presenter>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Reality Show</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1137675.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E848</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210621015000 +0200" stop="20210621020500 +0200" channel="Telecinco">
     <title lang="es">Supervivientes Diario 2021</title>
@@ -28738,7 +28931,6 @@
     </credits>
     <date>2020</date>
     <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1696357.jpg" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>Actor</value>
@@ -33584,16 +33776,13 @@
     <episode-num system="onscreen">S20 E118</episode-num>
   </programme>
   <programme start="20210621163000 +0200" stop="20210621164500 +0200" channel="#Vamos">
-    <title lang="es">Ahora #Vamos Lunes</title>
-    <sub-title lang="es">Primera Parte</sub-title>
+    <title lang="es">Primera Parte</title>
     <category lang="es">Deportes</category>
     <category lang="es">Programa</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/F3885670" />
-    <episode-num system="onscreen">S0 E1</episode-num>
   </programme>
   <programme start="20210621164500 +0200" stop="20210621175500 +0200" channel="#Vamos">
-    <title lang="es">Informe Robinson</title>
-    <sub-title lang="es">La Quinta del Buitre</sub-title>
+    <title lang="es">La Quinta del Buitre</title>
     <desc lang="es">La historia de una generación de jugadores en el Real Madrid surgida de la cantera del club y que ganó 6 ligas (5 de ellas consecutivas), 3 Copas del Rey, 4 Supercopas y una Copa de la Liga, revolucionando el fútbol español.(n)</desc>
     <credits>
       <director>Michael Robinson</director>
@@ -33605,15 +33794,12 @@
     <category lang="es">Programa</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/F3799368" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">S19 E4</episode-num>
   </programme>
   <programme start="20210621175500 +0200" stop="20210621181500 +0200" channel="#Vamos">
-    <title lang="es">Ahora #Vamos Lunes</title>
-    <sub-title lang="es">Segunda Parte</sub-title>
+    <title lang="es">Segunda Parte</title>
     <category lang="es">Deportes</category>
     <category lang="es">Programa</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/F3885670" />
-    <episode-num system="onscreen">S0 E2</episode-num>
   </programme>
   <programme start="20210621181500 +0200" stop="20210621200000 +0200" channel="#Vamos">
     <title lang="es">NBA</title>
@@ -38539,24 +38725,20 @@
     <episode-num system="onscreen">S2020 E6</episode-num>
   </programme>
   <programme start="20210621133000 +0200" stop="20210621141500 +0200" channel="Toros">
-    <title lang="es">Toros desde Granada</title>
-    <sub-title lang="es">Previa (20/06/2021)</sub-title>
+    <title lang="es">Previa (20/06/2021)</title>
     <desc lang="es">Desde la plaza de toros de Granada: Toros de García Jiménez para Morante de la Puebla, un torero de gran personalidad y sello artístico, que está presente en todas las grandes citas taurinas. José María Manzanares, matador de toros alicantino y figura del toreo, que viene reforzado por todos sus grandes éxitos en este inicio de temporada. Remata la terna el joven Pablo Aguado, quien reaparece tras sufrir una seria cornada en la pasada Feria de San Isidro de Vistalegre.(n)</desc>
     <date>2021</date>
     <category lang="es">Toros</category>
     <category lang="es">Corrida de Toros</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/F3926960" />
-    <episode-num system="onscreen">S2021 E1</episode-num>
   </programme>
   <programme start="20210621141500 +0200" stop="20210621170000 +0200" channel="Toros">
-    <title lang="es">Toros desde Granada</title>
-    <sub-title lang="es">Toros de García Jiménezs para  Morante de la Puebla, José María Manzanares, Pablo Aguado(20/06/2021)</sub-title>
+    <title lang="es">Toros de García Jiménezs para  Morante de la Puebla, José María Manzanares, Pablo Aguado(20/06/2021)</title>
     <desc lang="es">Desde la plaza de toros de Granada: Toros de García Jiménez para Morante de la Puebla, un torero de gran personalidad y sello artístico, que está presente en todas las grandes citas taurinas. José María Manzanares, matador de toros alicantino y figura del toreo, que viene reforzado por todos sus grandes éxitos en este inicio de temporada. Remata la terna el joven Pablo Aguado, quien reaparece tras sufrir una seria cornada en la pasada Feria de San Isidro de Vistalegre.(n)</desc>
     <date>2021</date>
     <category lang="es">Toros</category>
     <category lang="es">Corrida de Toros</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/F3926962" />
-    <episode-num system="onscreen">S2021 E2</episode-num>
   </programme>
   <programme start="20210621170000 +0200" stop="20210621194200 +0200" channel="Toros">
     <title lang="es">Toros desde Plasencia</title>
@@ -51553,6 +51735,13 @@
   <programme start="20210622073000 +0200" stop="20210622080000 +0200" channel="Divinity">
     <title lang="es">Mejor llama a Kiko</title>
     <desc lang="es">Programa de televenta presentado por Kiko Hernández en el que se promocionan los productos oficiales de los programas de Mediaset España.(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2287245.jpg" />
+    <country lang="es">Otros</country>
+    <episode-num system="onscreen">S1 E49</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210622080000 +0200" stop="20210622090000 +0200" channel="Divinity">
     <title lang="es">La tienda en casa</title>
@@ -51567,6 +51756,23 @@
   <programme start="20210622090000 +0200" stop="20210622110000 +0200" channel="Divinity">
     <title lang="es">Hospital Central</title>
     <desc lang="es">Primera temporada de este drama hospitalario que muestra día a día al equipo de urgencias de un gran hospital, sus relaciones personales y la vida de los pacientes que tratan.(n)</desc>
+    <credits>
+      <actor>María Casal</actor>
+      <actor>Sergi Mateu</actor>
+      <actor>Jordi Rebellón</actor>
+      <actor>Ángel Pardo</actor>
+      <actor>Fátima Baeza</actor>
+      <actor>Jesús Cabrero</actor>
+      <actor>Lola Casamayor</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Médicos</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2219920.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210622110000 +0200" stop="20210622120000 +0200" channel="Divinity">
     <title lang="es">Dolunay: Luna llena</title>
