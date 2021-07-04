@@ -4118,54 +4118,169 @@
   <programme start="20210705063000 +0200" stop="20210705070000 +0200" channel="Telecinco">
     <title lang="es">¡Toma salami!</title>
     <desc lang="es">Programa de nostalgia televisiva en el que el humorista Javier Capitán, como voz en off, rememorará los grandes momentos televisivos de los canales del grupo.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Humor</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2430217.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E248</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210705070000 +0200" stop="20210705085500 +0200" channel="Telecinco">
     <title lang="es">Informativos Telecinco matinal</title>
     <desc lang="es">Primera edición de los informativos de Telecinco que nos ofrecen la actualidad nacional e internacional y las últimas noticias de deportes, cultura, sociedad y economía. Presenta Alba Lago y Leticia Iglesias.(n)</desc>
+    <credits>
+      <director>Pedro Piqueras</director>
+      <presenter>Roberto Fernández</presenter>
+      <presenter>Ramón Fuentes</presenter>
+      <presenter>Leticia Iglesias</presenter>
+      <presenter>Alba Lago</presenter>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2051781.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210705085500 +0200" stop="20210705133000 +0200" channel="Telecinco">
     <title lang="es">El Programa del verano</title>
     <desc lang="es">Magacine matutino en el que Ana Terradillos, Patricia Pardo y Joaquín Prat nos acercan toda la actualidad del corazón, política, sociedad y cualquier tema de candente actualidad durante la época estival.(n)</desc>
+    <credits>
+      <presenter>Joaquín Prat</presenter>
+      <presenter>Sandra Barneda</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Magazine</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/444555.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S17 E6</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210705133000 +0200" stop="20210705150000 +0200" channel="Telecinco">
     <title lang="es">Ya es mediodía</title>
     <desc lang="es">Sonsoles Ónega conduce este espacio que nos ofrece un análisis pormenorizado de los temas más destacados de la actualidad política, económica, social y cultural.(n)</desc>
+    <credits>
+      <presenter>Sonsoles Ónega</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Tertulia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2054612.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E773</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210705150000 +0200" stop="20210705154000 +0200" channel="Telecinco">
     <title lang="es">Informativos Telecinco mediodía</title>
     <desc lang="es">Edición mediodía de los servicios informativos de Telecinco que nos ofrecen cada día toda la actualidad de ámbito nacional e internacional y las últimas noticias de deportes, cultura, sociedad y economía.(n)</desc>
+    <credits>
+      <presenter>Isabel Jiménez</presenter>
+      <presenter>David Cantero</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2032780.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210705154000 +0200" stop="20210705155000 +0200" channel="Telecinco">
     <title lang="es">Deportes Telecinco 1</title>
     <desc lang="es">Primera edición de la información del mundo del deporte y sus protagonistas en Telecinco. Presenta José Antonio Luque.(n)</desc>
+    <category lang="es">Deportes</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2032716.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210705155000 +0200" stop="20210705160000 +0200" channel="Telecinco">
     <title lang="es">El Tiempo Telecinco 1</title>
     <desc lang="es">Información meteorológica y pronóstico del tiempo, 1ª edición.(n)</desc>
+    <category lang="es">Tiempo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2639543.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210705160000 +0200" stop="20210705170000 +0200" channel="Telecinco">
     <title lang="es">Sálvame limón</title>
     <desc lang="es">La edición más ácida de Sálvame, magacín vespertino que aborda la actualidad de la crónica rosa de la mano de Paz Padilla, Jorge Javier Vázquez y Carlota Corredera.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Crónica Rosa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1754329.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E1673</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210705170000 +0200" stop="20210705200000 +0200" channel="Telecinco">
     <title lang="es">Sálvame naranja</title>
     <desc lang="es">La edición más dulce y apta para todas las sensibilidades de Sálvame, magacín vespertino que aborda la actualidad de la crónica rosa de la mano de Paz Padilla, Jorge Javier Vázquez y Carlota Corredera.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Crónica Rosa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1754320.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E1673</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
   </programme>
   <programme start="20210705200000 +0200" stop="20210705210000 +0200" channel="Telecinco">
     <title lang="es">Sálvame tomate</title>
     <desc lang="es">Espacio de crónica rosa basado en el histórico formato de Telecinco 'Aquí hay tomate'. Incluye conexiones en directo con tres de sus míticos reporteros: Mar Torres, Miquel Serra y Alfonso Ferrandis.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Crónica Rosa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2651748.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E1673</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20210705210000 +0200" stop="20210705214000 +0200" channel="Telecinco">
     <title lang="es">Informativos Telecinco noche</title>
     <desc lang="es">Edición noche de los informativos de Telecinco que nos ofrecen cada día toda la actualidad nacional e internacional y las últimas noticias de deportes, cultura, sociedad y economía. Presenta Pedro Piqueras.(n)</desc>
+    <credits>
+      <presenter>Pedro Piqueras</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2032789.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210705214000 +0200" stop="20210705214500 +0200" channel="Telecinco">
     <title lang="es">El Tiempo Telecinco 2</title>
     <desc lang="es">Información meteorológica y pronóstico del tiempo, 2ª edición.(n)</desc>
+    <category lang="es">Tiempo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2639606.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210705214500 +0200" stop="20210705220000 +0200" channel="Telecinco">
     <title lang="es">Deportes Telecinco 2</title>
     <desc lang="es">Segunda edición de la información del mundo del deporte y sus protagonistas en Telecinco. Presenta J.J. Santos.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2032716.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210704023000 +0200" stop="20210704031500 +0200" channel="laSexta">
     <title lang="es">World Poker Tour</title>
@@ -12909,10 +13024,40 @@
   <programme start="20210705065810 +0200" stop="20210705070930 +0200" channel="TNT">
     <title lang="es">Robot Chicken</title>
     <desc lang="es">Optimus Prime intentando librarse de ser jurado. Las Tortugas Ninja aprenden sobre los pájaros y las alcantarillas.(n)</desc>
+    <date>2015</date>
+    <category lang="es">Animación</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2625448.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S8 E11</episode-num>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20210705070930 +0200" stop="20210705072917 +0200" channel="TNT">
     <title lang="es">Mom</title>
     <desc lang="es">Las damas hacen un viaje por carretera a un sobrio retiro de fin de semana.(n)</desc>
+    <credits>
+      <actor>Matt Jones</actor>
+      <actor>Anna Faris</actor>
+      <actor>Allison Janney</actor>
+      <actor>Sadie Calvano</actor>
+      <actor>Nate Corddry</actor>
+      <actor>Spencer Daniels</actor>
+      <actor>Blake Garrett Rosenthal</actor>
+      <actor>French Stewart</actor>
+      <writer>Gemma Baker</writer>
+      <writer>Eddie Gorodetsky</writer>
+      <producer>Gemma Baker</producer>
+      <producer>Michael Collier</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2585847.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S7 E20</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210705072917 +0200" stop="20210705081026 +0200" channel="TNT">
     <title lang="es">Lucifer</title>
@@ -22054,38 +22199,224 @@
   <programme start="20210705084000 +0200" stop="20210705102000 +0200" channel="FDF Telecinco">
     <title lang="es">Los Serrano</title>
     <desc lang="es">Choni ayuda a Santiago a comprar un regalo para Lourditas que no tendrá mucho éxito. Diego acoge en su casa a Fernando mientras este encuentra un piso para mudarse. Fiti ayudará a África a aprender a conducir.\r\n\r\n\r\n.(n)</desc>
+    <credits>
+      <actor>Antonio Resines</actor>
+      <actor>Jesús Bonilla</actor>
+      <actor>Antonio Molero</actor>
+      <actor>Belén Rueda</actor>
+      <actor>Natalia Sánchez</actor>
+      <actor>Víctor Elías</actor>
+      <actor>Alexandra Jiménez</actor>
+      <actor>Alejo Sauras</actor>
+      <writer>Natalia García Prieto</writer>
+      <writer>Alberto Manzano</writer>
+      <producer>José María González Miguel</producer>
+      <producer>Rocío López</producer>
+      <composer>Mikel Erentxun</composer>
+      <composer>Manel Santisteban</composer>
+    </credits>
+    <date>2003</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1750004.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S6 E17</episode-num>
+    <rating system="ES">
+      <value>Antonio Molero</value>
+    </rating>
   </programme>
   <programme start="20210705102000 +0200" stop="20210705113000 +0200" channel="FDF Telecinco">
     <title lang="es">Aída</title>
     <desc lang="es">El pasado delictivo de Jonathan y Luisma les trae, a cada uno por su parte, problemas con la justicia.\r\nMauricio quiere darle un cambio a su imagen para acudir a una cita.\r\n.(n)</desc>
+    <credits>
+      <director>Ricardo A. Solla</director>
+      <actor>Carmen Machi</actor>
+      <actor>Paco León</actor>
+      <actor>Pepe Viyuela</actor>
+      <actor>Melanie Olivares</actor>
+      <actor>Marisol Ayuso</actor>
+      <actor>David Castillo</actor>
+      <actor>Mariano Peña</actor>
+      <actor>Ana María  Polvorosa</actor>
+      <writer>Jorge Agnes</writer>
+      <writer>Oriol Capel</writer>
+      <producer>Daniel Écija</producer>
+      <producer>Jesús Rodrigo</producer>
+      <composer>Guillermo Maestro</composer>
+      <composer>Miguel Ruiz de Elvira</composer>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/425335.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="ES">
+      <value>Eduardo Casanova</value>
+    </rating>
   </programme>
   <programme start="20210705113000 +0200" stop="20210705124500 +0200" channel="FDF Telecinco">
     <title lang="es">Aída</title>
     <desc lang="es">Mauricio tiene que ocuparse de los desperfectos del hogar de Luisma y Paz.\r\nSoraya tiene noticias de la familia de su difunto ex marido.\r\nFidel y Germán enseñan a Jonathan y a Mecos a jugar al ajedrez.\r\n.(n)</desc>
+    <credits>
+      <director>Carla Revuelta</director>
+      <actor>Paco León</actor>
+      <actor>Pepe Viyuela</actor>
+      <actor>Melanie Olivares</actor>
+      <actor>Mariano Peña</actor>
+      <actor>Marisol Ayuso</actor>
+      <actor>David Castillo</actor>
+      <actor>Ana María  Polvorosa</actor>
+      <actor>Eduardo Casanova</actor>
+      <writer>Daniel Govantes</writer>
+      <writer>Aurora Pérez</writer>
+      <producer>Daniel Écija</producer>
+      <producer>Jesús Rodrigo</producer>
+      <composer>Guillermo Maestro</composer>
+      <composer>Miguel Ruiz de Elvira</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/425335.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S7 E12</episode-num>
+    <rating system="ES">
+      <value>Adrián Gordillo</value>
+    </rating>
   </programme>
   <programme start="20210705124500 +0200" stop="20210705145500 +0200" channel="FDF Telecinco">
     <title lang="es">La que se avecina</title>
     <desc lang="es">Amador acude a un grupo de terapia, dirigido por una reputada psicóloga, para tratar su adicción al sexo. Además, llega a la urbanización Chusa, la ex de Coque, que alquila el Bajo A tras ganar el Gordo de la Lotería de Navidad.(n)</desc>
+    <credits>
+      <actor>Ricardo Arroyo</actor>
+      <actor>Mariví Bilbao</actor>
+      <actor>Pablo Chiapella</actor>
+      <actor>Eduardo García</actor>
+      <actor>José Luis Gil</actor>
+      <actor>Eduardo Gómez</actor>
+      <actor>Cristina Castaño</actor>
+      <actor>Macarena Gómez</actor>
+      <writer>Alberto Caballero</writer>
+      <writer>Laura Caballero</writer>
+      <composer>Big Bang Boka</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/449001.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S8 E13</episode-num>
+    <rating system="ES">
+      <value>Paz Padilla</value>
+    </rating>
   </programme>
   <programme start="20210705145500 +0200" stop="20210705170000 +0200" channel="FDF Telecinco">
     <title lang="es">La que se avecina</title>
     <desc lang="es">Presionado por Maite para que encauce su vida, Amador tratará de hacer fortuna en el bingo junto a Fermín, que desea ganar dinero fácil para poder comprar un karaoke.(n)</desc>
+    <credits>
+      <actor>Ricardo Arroyo</actor>
+      <actor>Mariví Bilbao</actor>
+      <actor>Pablo Chiapella</actor>
+      <actor>Eduardo García</actor>
+      <actor>José Luis Gil</actor>
+      <actor>Eduardo Gómez</actor>
+      <actor>Cristina Castaño</actor>
+      <actor>Macarena Gómez</actor>
+      <writer>Alberto Caballero</writer>
+      <writer>Laura Caballero</writer>
+      <composer>Big Bang Boka</composer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/449001.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S8 E14</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210705170000 +0200" stop="20210705183000 +0200" channel="FDF Telecinco">
     <title lang="es">La que se avecina XS</title>
     <desc lang="es">Brillante parodia de la vida cotidiana de cualquier comunidad de vecinos a través de unos personajes que se relacionan con malicia y alimentan, con su maldad intrínseca, unas tramas surrealistas.(n)</desc>
+    <credits>
+      <actor>Ricardo Arroyo</actor>
+      <actor>Mariví Bilbao</actor>
+      <actor>Pablo Chiapella</actor>
+      <actor>Eduardo García</actor>
+      <actor>José Luis Gil</actor>
+      <actor>Eduardo Gómez</actor>
+      <actor>Cristina Castaño</actor>
+      <actor>Macarena Gómez</actor>
+      <writer>Alberto Caballero</writer>
+      <writer>Laura Caballero</writer>
+      <composer>Big Bang Boka</composer>
+    </credits>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/449001.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E89</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210705183000 +0200" stop="20210705195500 +0200" channel="FDF Telecinco">
     <title lang="es">La que se avecina XS</title>
     <desc lang="es">Brillante parodia de la vida cotidiana de cualquier comunidad de vecinos a través de unos personajes que se relacionan con malicia y alimentan, con su maldad intrínseca, unas tramas surrealistas.(n)</desc>
+    <credits>
+      <actor>Ricardo Arroyo</actor>
+      <actor>Mariví Bilbao</actor>
+      <actor>Pablo Chiapella</actor>
+      <actor>Eduardo García</actor>
+      <actor>José Luis Gil</actor>
+      <actor>Eduardo Gómez</actor>
+      <actor>Cristina Castaño</actor>
+      <actor>Macarena Gómez</actor>
+      <writer>Alberto Caballero</writer>
+      <writer>Laura Caballero</writer>
+      <composer>Big Bang Boka</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/449001.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E56</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210705195500 +0200" stop="20210705201500 +0200" channel="FDF Telecinco">
     <title lang="es">¡Toma salami!</title>
     <desc lang="es">Programa de nostalgia televisiva en el que el humorista Javier Capitán, como voz en off, rememorará los grandes momentos televisivos de los canales del grupo.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Humor</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2430217.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E207</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210705201500 +0200" stop="20210705223500 +0200" channel="FDF Telecinco">
     <title lang="es">La que se avecina</title>
     <desc lang="es">Tras la llegada al 2ºC de Doña Fina, la convivencia en el inmueble se verá amenazada. Por otro lado, Maite cumple el tercer grado penitenciario con una pulsera telemática y Amador decide regresar a la civilización.(n)</desc>
+    <credits>
+      <actor>Ricardo Arroyo</actor>
+      <actor>Mariví Bilbao</actor>
+      <actor>Pablo Chiapella</actor>
+      <actor>Eduardo García</actor>
+      <actor>José Luis Gil</actor>
+      <actor>Eduardo Gómez</actor>
+      <actor>Cristina Castaño</actor>
+      <actor>Macarena Gómez</actor>
+      <writer>Alberto Caballero</writer>
+      <writer>Laura Caballero</writer>
+      <composer>Big Bang Boka</composer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/449001.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210704003000 +0200" stop="20210704021500 +0200" channel="Neox">
     <title lang="es">Karate Kid III</title>
@@ -22920,14 +23251,68 @@
   <programme start="20210705111500 +0200" stop="20210705113640 +0200" channel="Neox">
     <title lang="es">Big Bang</title>
     <desc lang="es">Big Bang es una comedia de situación en la que un par de amigos científicos comienzan a tener vida más allá del laboratorio cuando una nueva y preciosa vecina llega a su edificio; lo que también afecta a sus amigos geek.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Simon Helberg</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+      <producer>Chuck Lorre</producer>
+      <producer>Peter Chakos</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/413908.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Sheldon Cooper</value>
+    </rating>
   </programme>
   <programme start="20210705113640 +0200" stop="20210705115820 +0200" channel="Neox">
     <title lang="es">Big Bang</title>
     <desc lang="es">Big Bang es una comedia de situación en la que un par de amigos científicos comienzan a tener vida más allá del laboratorio cuando una nueva y preciosa vecina llega a su edificio; lo que también afecta a sus amigos geek.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Simon Helberg</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+      <producer>Chuck Lorre</producer>
+      <producer>Peter Chakos</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/413908.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Sheldon Cooper</value>
+    </rating>
   </programme>
   <programme start="20210705115820 +0200" stop="20210705122000 +0200" channel="Neox">
     <title lang="es">Big Bang</title>
     <desc lang="es">Big Bang es una comedia de situación en la que un par de amigos científicos comienzan a tener vida más allá del laboratorio cuando una nueva y preciosa vecina llega a su edificio; lo que también afecta a sus amigos geek.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Simon Helberg</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+      <producer>Chuck Lorre</producer>
+      <producer>Peter Chakos</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/413908.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Sheldon Cooper</value>
+    </rating>
   </programme>
   <programme start="20210705122000 +0200" stop="20210705131130 +0200" channel="Neox">
     <title lang="es">Los Simpson</title>
@@ -23016,14 +23401,74 @@
   <programme start="20210705152000 +0200" stop="20210705154840 +0200" channel="Neox">
     <title lang="es">Friends</title>
     <desc lang="es">Comedia que sigue las vidas de un grupo de seis amigos -Ross, Chandler, Joey, Rachel, Mónica y Phoebe- que viven en Manhattan (Nueva York).(n)</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+      <writer>David Crane</writer>
+      <writer>Marta Kauffman</writer>
+      <producer>Alexa Junge</producer>
+      <producer>Ira Ungerleider</producer>
+      <composer>Michael Skloff</composer>
+    </credits>
+    <date>1994</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/425368.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Nueva York</value>
+    </rating>
   </programme>
   <programme start="20210705154840 +0200" stop="20210705161720 +0200" channel="Neox">
     <title lang="es">Friends</title>
     <desc lang="es">Comedia que sigue las vidas de un grupo de seis amigos -Ross, Chandler, Joey, Rachel, Mónica y Phoebe- que viven en Manhattan (Nueva York).(n)</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+      <writer>David Crane</writer>
+      <writer>Marta Kauffman</writer>
+      <producer>Alexa Junge</producer>
+      <producer>Ira Ungerleider</producer>
+      <composer>Michael Skloff</composer>
+    </credits>
+    <date>1994</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/425368.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Nueva York</value>
+    </rating>
   </programme>
   <programme start="20210705161720 +0200" stop="20210705164500 +0200" channel="Neox">
     <title lang="es">Friends</title>
     <desc lang="es">Comedia que sigue las vidas de un grupo de seis amigos -Ross, Chandler, Joey, Rachel, Mónica y Phoebe- que viven en Manhattan (Nueva York).(n)</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+      <writer>David Crane</writer>
+      <writer>Marta Kauffman</writer>
+      <producer>Alexa Junge</producer>
+      <producer>Ira Ungerleider</producer>
+      <composer>Michael Skloff</composer>
+    </credits>
+    <date>1994</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/425368.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Nueva York</value>
+    </rating>
   </programme>
   <programme start="20210705164500 +0200" stop="20210705173730 +0200" channel="Neox">
     <title lang="es">Modern Family</title>
@@ -23106,30 +23551,357 @@
   <programme start="20210705183000 +0200" stop="20210705185230 +0200" channel="Neox">
     <title lang="es">Big Bang</title>
     <desc lang="es">Big Bang es una comedia de situación en la que un par de amigos científicos comienzan a tener vida más allá del laboratorio cuando una nueva y preciosa vecina llega a su edificio; lo que también afecta a sus amigos geek.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Simon Helberg</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+      <producer>Chuck Lorre</producer>
+      <producer>Peter Chakos</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/413908.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Sheldon Cooper</value>
+    </rating>
   </programme>
   <programme start="20210705185230 +0200" stop="20210705191500 +0200" channel="Neox">
     <title lang="es">Big Bang</title>
     <desc lang="es">Big Bang es una comedia de situación en la que un par de amigos científicos comienzan a tener vida más allá del laboratorio cuando una nueva y preciosa vecina llega a su edificio; lo que también afecta a sus amigos geek.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Simon Helberg</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+      <producer>Chuck Lorre</producer>
+      <producer>Peter Chakos</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/413908.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Sheldon Cooper</value>
+    </rating>
   </programme>
   <programme start="20210705191500 +0200" stop="20210705193730 +0200" channel="Neox">
     <title lang="es">Big Bang</title>
     <desc lang="es">Big Bang es una comedia de situación en la que un par de amigos científicos comienzan a tener vida más allá del laboratorio cuando una nueva y preciosa vecina llega a su edificio; lo que también afecta a sus amigos geek.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Simon Helberg</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+      <producer>Chuck Lorre</producer>
+      <producer>Peter Chakos</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/413908.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Sheldon Cooper</value>
+    </rating>
   </programme>
   <programme start="20210705193730 +0200" stop="20210705200000 +0200" channel="Neox">
     <title lang="es">Big Bang</title>
     <desc lang="es">Big Bang es una comedia de situación en la que un par de amigos científicos comienzan a tener vida más allá del laboratorio cuando una nueva y preciosa vecina llega a su edificio; lo que también afecta a sus amigos geek.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Simon Helberg</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+      <producer>Chuck Lorre</producer>
+      <producer>Peter Chakos</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/413908.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Sheldon Cooper</value>
+    </rating>
   </programme>
   <programme start="20210705200000 +0200" stop="20210705202530 +0200" channel="Neox">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Charlie Harper es un escritor, soltero, ligón y vividor, y su estilo de vida se tambalea cuando su hermano Alan aterriza en su casa con su hijo de diez años, Jake, para quedarse.(n)</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Lee Aronsohn</director>
+      <actor>Angus T. Jones</actor>
+      <actor>Charlie Sheen</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Marin Hinkle</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jaime Pressly</actor>
+      <actor>Maggie Lawson</actor>
+      <actor>Vernee Watson-Johnson</actor>
+      <actor>Rebecca Olejniczak</actor>
+      <actor>Lilah Richcreek</actor>
+      <actor>kelly Sry</actor>
+      <actor>Carl Reiner</actor>
+      <actor>Shanti Lowry</actor>
+      <actor>Jett Dunlap</actor>
+      <actor>Jennifer Chang</actor>
+      <actor>Kimberly Hebert Gregory</actor>
+      <actor>Jennifer Aspen</actor>
+      <actor>Molly Stanton</actor>
+      <actor>Nicole Travolta</actor>
+      <actor>Tara Perry</actor>
+      <actor>Federico Pedroni</actor>
+      <actor>Tom Schwartz</actor>
+      <actor>Guy Cusson</actor>
+      <actor>Camila Greenberg</actor>
+      <actor>Rachael Lee</actor>
+      <actor>Tiffany Panhilason</actor>
+      <actor>D.B. Sweeney</actor>
+      <actor>Lynda Carter</actor>
+      <actor>Carrie Ameen</actor>
+      <actor>Madison Dylan</actor>
+      <actor>Spencer Locke</actor>
+      <actor>Jeff Probst</actor>
+      <actor>Kim Shaw</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Elizabeth Tatus</actor>
+      <actor>Nick Wayne</actor>
+      <actor>Dan Gordon</actor>
+      <actor>Jennifer Kathreen Larson</actor>
+      <actor>Craig Gellis</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alyson Michalka</actor>
+      <actor>Diane Farr</actor>
+      <actor>Clark Duke</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Ken Davitian</actor>
+      <actor>Alex Kapp Horner</actor>
+      <actor>Jamie Luner</actor>
+      <actor>Calle Morgan</actor>
+      <actor>Amy Pietz</actor>
+      <actor>Sandra Purpuro</actor>
+      <actor>Tammy Tavares</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Lee Aronsohn</writer>
+      <writer>James Vallely</writer>
+      <writer>Warren Bell</writer>
+      <writer>Jon Cryer</writer>
+      <producer>Kim Tannenbaum</producer>
+      <producer>Eric Tannenbaum</producer>
+      <producer>James Vallely</producer>
+      <producer>Katie Jones</producer>
+      <producer>Susan McMartin</producer>
+      <producer>Saladin K. Patterson</producer>
+      <producer>Alissa Neubauer</producer>
+      <producer>Maria Espada</producer>
+      <producer>Warren Bell</producer>
+      <producer>Matt Ross</producer>
+      <producer>Max Searle</producer>
+      <producer>Mark Roberts</producer>
+      <producer>Tracey Ormandy</producer>
+      <composer>Dennis C. Brown</composer>
+      <composer>Grant Geissman</composer>
+    </credits>
+    <date>2003</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/416729.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Angus T. Jones</value>
+    </rating>
   </programme>
   <programme start="20210705202530 +0200" stop="20210705205000 +0200" channel="Neox">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Charlie Harper es un escritor, soltero, ligón y vividor, y su estilo de vida se tambalea cuando su hermano Alan aterriza en su casa con su hijo de diez años, Jake, para quedarse.(n)</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Lee Aronsohn</director>
+      <actor>Angus T. Jones</actor>
+      <actor>Charlie Sheen</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Marin Hinkle</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jaime Pressly</actor>
+      <actor>Maggie Lawson</actor>
+      <actor>Vernee Watson-Johnson</actor>
+      <actor>Rebecca Olejniczak</actor>
+      <actor>Lilah Richcreek</actor>
+      <actor>kelly Sry</actor>
+      <actor>Carl Reiner</actor>
+      <actor>Shanti Lowry</actor>
+      <actor>Jett Dunlap</actor>
+      <actor>Jennifer Chang</actor>
+      <actor>Kimberly Hebert Gregory</actor>
+      <actor>Jennifer Aspen</actor>
+      <actor>Molly Stanton</actor>
+      <actor>Nicole Travolta</actor>
+      <actor>Tara Perry</actor>
+      <actor>Federico Pedroni</actor>
+      <actor>Tom Schwartz</actor>
+      <actor>Guy Cusson</actor>
+      <actor>Camila Greenberg</actor>
+      <actor>Rachael Lee</actor>
+      <actor>Tiffany Panhilason</actor>
+      <actor>D.B. Sweeney</actor>
+      <actor>Lynda Carter</actor>
+      <actor>Carrie Ameen</actor>
+      <actor>Madison Dylan</actor>
+      <actor>Spencer Locke</actor>
+      <actor>Jeff Probst</actor>
+      <actor>Kim Shaw</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Elizabeth Tatus</actor>
+      <actor>Nick Wayne</actor>
+      <actor>Dan Gordon</actor>
+      <actor>Jennifer Kathreen Larson</actor>
+      <actor>Craig Gellis</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alyson Michalka</actor>
+      <actor>Diane Farr</actor>
+      <actor>Clark Duke</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Ken Davitian</actor>
+      <actor>Alex Kapp Horner</actor>
+      <actor>Jamie Luner</actor>
+      <actor>Calle Morgan</actor>
+      <actor>Amy Pietz</actor>
+      <actor>Sandra Purpuro</actor>
+      <actor>Tammy Tavares</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Lee Aronsohn</writer>
+      <writer>James Vallely</writer>
+      <writer>Warren Bell</writer>
+      <writer>Jon Cryer</writer>
+      <producer>Kim Tannenbaum</producer>
+      <producer>Eric Tannenbaum</producer>
+      <producer>James Vallely</producer>
+      <producer>Katie Jones</producer>
+      <producer>Susan McMartin</producer>
+      <producer>Saladin K. Patterson</producer>
+      <producer>Alissa Neubauer</producer>
+      <producer>Maria Espada</producer>
+      <producer>Warren Bell</producer>
+      <producer>Matt Ross</producer>
+      <producer>Max Searle</producer>
+      <producer>Mark Roberts</producer>
+      <producer>Tracey Ormandy</producer>
+      <composer>Dennis C. Brown</composer>
+      <composer>Grant Geissman</composer>
+    </credits>
+    <date>2003</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/416729.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Angus T. Jones</value>
+    </rating>
   </programme>
   <programme start="20210705205000 +0200" stop="20210705211500 +0200" channel="Neox">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Charlie Harper es un escritor, soltero, ligón y vividor, y su estilo de vida se tambalea cuando su hermano Alan aterriza en su casa con su hijo de diez años, Jake, para quedarse.(n)</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Lee Aronsohn</director>
+      <actor>Angus T. Jones</actor>
+      <actor>Charlie Sheen</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Marin Hinkle</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jaime Pressly</actor>
+      <actor>Maggie Lawson</actor>
+      <actor>Vernee Watson-Johnson</actor>
+      <actor>Rebecca Olejniczak</actor>
+      <actor>Lilah Richcreek</actor>
+      <actor>kelly Sry</actor>
+      <actor>Carl Reiner</actor>
+      <actor>Shanti Lowry</actor>
+      <actor>Jett Dunlap</actor>
+      <actor>Jennifer Chang</actor>
+      <actor>Kimberly Hebert Gregory</actor>
+      <actor>Jennifer Aspen</actor>
+      <actor>Molly Stanton</actor>
+      <actor>Nicole Travolta</actor>
+      <actor>Tara Perry</actor>
+      <actor>Federico Pedroni</actor>
+      <actor>Tom Schwartz</actor>
+      <actor>Guy Cusson</actor>
+      <actor>Camila Greenberg</actor>
+      <actor>Rachael Lee</actor>
+      <actor>Tiffany Panhilason</actor>
+      <actor>D.B. Sweeney</actor>
+      <actor>Lynda Carter</actor>
+      <actor>Carrie Ameen</actor>
+      <actor>Madison Dylan</actor>
+      <actor>Spencer Locke</actor>
+      <actor>Jeff Probst</actor>
+      <actor>Kim Shaw</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Elizabeth Tatus</actor>
+      <actor>Nick Wayne</actor>
+      <actor>Dan Gordon</actor>
+      <actor>Jennifer Kathreen Larson</actor>
+      <actor>Craig Gellis</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alyson Michalka</actor>
+      <actor>Diane Farr</actor>
+      <actor>Clark Duke</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Ken Davitian</actor>
+      <actor>Alex Kapp Horner</actor>
+      <actor>Jamie Luner</actor>
+      <actor>Calle Morgan</actor>
+      <actor>Amy Pietz</actor>
+      <actor>Sandra Purpuro</actor>
+      <actor>Tammy Tavares</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Lee Aronsohn</writer>
+      <writer>James Vallely</writer>
+      <writer>Warren Bell</writer>
+      <writer>Jon Cryer</writer>
+      <producer>Kim Tannenbaum</producer>
+      <producer>Eric Tannenbaum</producer>
+      <producer>James Vallely</producer>
+      <producer>Katie Jones</producer>
+      <producer>Susan McMartin</producer>
+      <producer>Saladin K. Patterson</producer>
+      <producer>Alissa Neubauer</producer>
+      <producer>Maria Espada</producer>
+      <producer>Warren Bell</producer>
+      <producer>Matt Ross</producer>
+      <producer>Max Searle</producer>
+      <producer>Mark Roberts</producer>
+      <producer>Tracey Ormandy</producer>
+      <composer>Dennis C. Brown</composer>
+      <composer>Grant Geissman</composer>
+    </credits>
+    <date>2003</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/416729.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>Angus T. Jones</value>
+    </rating>
   </programme>
   <programme start="20210705211500 +0200" stop="20210705215700 +0200" channel="Neox">
     <title lang="es">Los Simpson</title>
@@ -24184,74 +24956,430 @@
   <programme start="20210705071500 +0200" stop="20210705074000 +0200" channel="Energy">
     <title lang="es">El zapping de Surferos</title>
     <desc lang="es">Espacio que recopila las imágenes más destacadas y los momentos más curiosos emitidos en televisión.(n)</desc>
+    <category lang="es">Zapping</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2029285.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E333</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210705074000 +0200" stop="20210705081500 +0200" channel="Energy">
     <title lang="es">Los simuladores</title>
     <desc lang="es">El doctor Dumas está siendo extorsionado por el dueño de una empresa de instrumental médico. Los Simuladores intentarán conseguir que la deuda quede anulada.(n)</desc>
+    <credits>
+      <director>Juan Pablo Lacroze</director>
+      <actor>Federico D'Elía</actor>
+      <actor>Bruno Lastra</actor>
+      <actor>César Vea</actor>
+      <actor>Antonio Garrido</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1069454.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210705081500 +0200" stop="20210705091500 +0200" channel="Energy">
     <title lang="es">Los simuladores</title>
     <desc lang="es">Un  equipo de socios busca solución a los problemas que les plantean sus clientes y emplean para ello una herramienta hábil y sofisticada:  la simulación.(n)</desc>
+    <credits>
+      <director>José Antonio Caro</director>
+      <actor>Federico D'Elía</actor>
+      <actor>Bruno Lastra</actor>
+      <actor>César Vea</actor>
+      <actor>Antonio Garrido</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1069454.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210705091500 +0200" stop="20210705105000 +0200" channel="Energy">
     <title lang="es">El comisario</title>
     <desc lang="es">Pope encontrará una vía de escape a sus problemas ayudando a una mujer que necesita dar con su marido, un delincuente requerido como donante para el trasplante de médula que necesita su hijo.(n)</desc>
+    <credits>
+      <director>Mateo Meléndrez</director>
+      <actor>Fernando Valverde</actor>
+      <actor>Marcial Álvarez</actor>
+      <actor>Joaquín Climent</actor>
+      <actor>Fernando Andina</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1028693.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S11 E14</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210705105000 +0200" stop="20210705121500 +0200" channel="Energy">
     <title lang="es">El Comisario</title>
     <desc lang="es">El agente Lucas se dirige a la prisión en la que ha de infiltrarse para seguir de cerca los movimientos de Quiroga.(n)</desc>
+    <credits>
+      <director>Alfonso Arandia</director>
+      <actor>Fernando Valverde</actor>
+      <actor>Marcial Álvarez</actor>
+      <actor>Elena Irureta</actor>
+      <actor>Joaquín Climent</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1028693.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S11 E15</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210705121500 +0200" stop="20210705131500 +0200" channel="Energy">
     <title lang="es">C.S.I.: Miami</title>
     <desc lang="es">El testimonio de Calleigh puede perjudicar el futuro de Delko, mientras tres jugadores de volleyball mueren y el CSI lo investiga.(n)</desc>
+    <credits>
+      <director>Gina Lamar</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Eva La Rue</actor>
+      <actor>Rex Linn</actor>
+      <writer>Ann Donahue</writer>
+      <writer>Carol Mendelsohn</writer>
+      <producer>Joe Chappelle</producer>
+      <producer>Sam Hill</producer>
+      <composer>Graeme Revell</composer>
+      <composer>Jeff Cardoni</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/425415.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S8 E3</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210705131500 +0200" stop="20210705140000 +0200" channel="Energy">
     <title lang="es">C.S.I.: Miami</title>
     <desc lang="es">Los forenses llegan al lugar donde acaba de tener lugar un accidente automovilístico. En uno de los coches, encuentran el cadáver de una mujer, Karen, y a sus dos hijos vivos, mientras que en el otro no hay ni rastro del conductor.(n)</desc>
+    <credits>
+      <director>Eric Mirich</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Pau Gasol</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Eva La Rue</actor>
+      <actor>Rex Linn</actor>
+      <writer>Ann Donahue</writer>
+      <writer>Carol Mendelsohn</writer>
+      <producer>Joe Chappelle</producer>
+      <producer>Sam Hill</producer>
+      <composer>Graeme Revell</composer>
+      <composer>Jeff Cardoni</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/425415.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S8 E8</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210705140000 +0200" stop="20210705145500 +0200" channel="Energy">
     <title lang="es">C.S.I.: Miami</title>
     <desc lang="es">Durante una fiesta en la que Ryan trabaja como parte del personal de seguridad, un hombre cae dentro de un enorme acuario en el que recibe una picadura de medusa mortal.(n)</desc>
+    <credits>
+      <director>Scott Lautanen</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva La Rue</actor>
+      <writer>Ann Donahue</writer>
+      <writer>Carol Mendelsohn</writer>
+      <producer>Joe Chappelle</producer>
+      <producer>Sam Hill</producer>
+      <composer>Graeme Revell</composer>
+      <composer>Jeff Cardoni</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/425415.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S8 E9</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210705145500 +0200" stop="20210705155000 +0200" channel="Energy">
     <title lang="es">C.S.I.: Miami</title>
     <desc lang="es">Una persecución automovilística termina con el hallazgo del cadáver de un encuestador del censo en el maletero de un coche. El conductor del vehículo, Kevin Hensley, es capturado, pero el copiloto logra escapar.(n)</desc>
+    <credits>
+      <director>Marco Black</director>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Emily Procter</actor>
+      <actor>David Caruso</actor>
+      <actor>Eva La Rue</actor>
+      <writer>Ann Donahue</writer>
+      <writer>Carol Mendelsohn</writer>
+      <producer>Joe Chappelle</producer>
+      <producer>Sam Hill</producer>
+      <composer>Graeme Revell</composer>
+      <composer>Jeff Cardoni</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/425415.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S8 E10</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210705155000 +0200" stop="20210705164500 +0200" channel="Energy">
     <title lang="es">Hawai 5.0</title>
     <desc lang="es">Steve McGarrett y Danny Williams pasan el día de San Valentín con sus novias, mientras que el resto del equipo investiga el asesinato de un hombre que había estado asistiendo a clases para aprender a ligar con mujeres.(n)</desc>
+    <credits>
+      <director>Jerry Levine</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+      <actor>Grace Park</actor>
+      <actor>Chi McBride</actor>
+      <actor>Jorge Garcia</actor>
+      <actor>Sarah Carter</actor>
+      <actor>Lili Simmons</actor>
+      <writer>David Wolkove</writer>
+      <writer>Matt Wheeler</writer>
+      <producer>Craig Cannold</producer>
+      <composer>Keith Power</composer>
+      <composer>Brian Tyler</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2683827.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S7 E16</episode-num>
+    <rating system="ES">
+      <value>Loco de amor</value>
+    </rating>
   </programme>
   <programme start="20210705164500 +0200" stop="20210705173500 +0200" channel="Energy">
     <title lang="es">Hawai 5.0</title>
     <desc lang="es">Steve McGarrett y el equipo de Hawai 5.0 vuelven a verse las caras con la asesina en serie Madison Gray, quien regresa a Hawai presentándose ante la policía, alegando ser una persona diferente llamada Lauren Parker, de Wisconsin.(n)</desc>
+    <credits>
+      <director>Roderick Davis</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+      <actor>Grace Park</actor>
+      <actor>Taylor Wily</actor>
+      <actor>Shawn Mokuahi Garnett</actor>
+      <actor>Jorge Garcia</actor>
+      <actor>Chi McBride</actor>
+      <writer>Rob Hanning</writer>
+      <producer>Alex Kurtzman</producer>
+      <producer>Peter M. Lenkov</producer>
+      <composer>Keith Power</composer>
+      <composer>Brian Tyler</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2683827.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S7 E17</episode-num>
+    <rating system="ES">
+      <value>Claire Forlani</value>
+    </rating>
   </programme>
   <programme start="20210705173500 +0200" stop="20210705181500 +0200" channel="Energy">
     <title lang="es">Hawai 5.0</title>
     <desc lang="es">En la víspera de las elecciones, el Gobernador pide al equipo que investigue el asesinato de una prostituta que había mantenido una relación con un congresista.(n)</desc>
+    <credits>
+      <actor>Scott Caan</actor>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Daniel Dae Kim</actor>
+      <actor>Grace Park</actor>
+      <actor>Masi Oka</actor>
+      <actor>William Baldwin</actor>
+      <writer>Alex Kurtzman</writer>
+      <writer>Roberto Orci</writer>
+      <producer>Alex Kurtzman</producer>
+      <producer>Roberto Orci</producer>
+      <composer>Brian Tyler</composer>
+      <composer>Keith Power</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2683827.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S3 E14</episode-num>
+    <rating system="ES">
+      <value>Escándalo</value>
+    </rating>
   </programme>
   <programme start="20210705181500 +0200" stop="20210705191000 +0200" channel="Energy">
     <title lang="es">NCIS: Los Ángeles</title>
     <desc lang="es">En la búsqueda del misterioso libro negro del vendedor de armas, el NCIS se encuentra con nuevas víctimas.(n)</desc>
+    <credits>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Linda Hunt</actor>
+      <actor>Eric Christian Olsen</actor>
+      <writer>Shane Brennan</writer>
+      <producer>Shane Brennan</producer>
+      <producer>Chad W. Murray</producer>
+      <composer>Jay Ferguson</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2606051.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210705191000 +0200" stop="20210705200500 +0200" channel="Energy">
     <title lang="es">NCIS: Los Ángeles</title>
     <desc lang="es">La Navidad llega a Los Ángeles y un grupo de personas canta villancicos en la puerta de una casa. Tras el sonido de unos disparos, un hombre empapado en sangre abre la puerta y, tras él, aparecen dos personas asesinadas.(n)</desc>
+    <credits>
+      <director>Jonathan Frakes</director>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Linda Hunt</actor>
+      <actor>Eric Christian Olsen</actor>
+      <writer>Shane Brennan</writer>
+      <producer>Shane Brennan</producer>
+      <producer>Chad W. Murray</producer>
+      <composer>Jay Ferguson</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2606051.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210705200500 +0200" stop="20210705210000 +0200" channel="Energy">
     <title lang="es">NCIS: Los Ángeles</title>
     <desc lang="es">Dos hombres armados irrumpen en el tanatorio y roban el cadáver de Yusef Afzal, un hombre árabe que apareció ese mismo día asesinado en su casa.(n)</desc>
+    <credits>
+      <director>Karen Gaviola</director>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Linda Hunt</actor>
+      <actor>Eric Christian Olsen</actor>
+      <writer>Shane Brennan</writer>
+      <producer>Shane Brennan</producer>
+      <producer>Chad W. Murray</producer>
+      <composer>Jay Ferguson</composer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2606051.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210705210000 +0200" stop="20210705215500 +0200" channel="Energy">
     <title lang="es">NCIS: Los Ángeles</title>
     <desc lang="es">El equipo de NCIS acude a la cárcel de Los Ángeles después de enterarse de que Moe, el contacto de Sam en la prisión, ha sido atacado.(n)</desc>
+    <credits>
+      <director>Jan Eliasberg</director>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Linda Hunt</actor>
+      <actor>Eric Christian Olsen</actor>
+      <writer>Shane Brennan</writer>
+      <producer>Shane Brennan</producer>
+      <producer>Chad W. Murray</producer>
+      <composer>Jay Ferguson</composer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2606051.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210705215500 +0200" stop="20210705225000 +0200" channel="Energy">
     <title lang="es">C.S.I.: Las Vegas</title>
     <desc lang="es">El equipo se enfrenta a una escabrosa investigación relacionada con un reality de cocina.\r\n.(n)</desc>
+    <credits>
+      <director>Frank Waldeck</director>
+      <actor>Ted Danson</actor>
+      <actor>Elisabeth Shue</actor>
+      <actor>George Eads</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Wallace Langham</actor>
+      <actor>Elisabeth Harnois</actor>
+      <writer>Treena Hancock</writer>
+      <writer>Melissa R Byer</writer>
+      <producer>Carol Mendelsohn</producer>
+      <producer>Anthony E. Zuiker</producer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/658716.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S14 E4</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210705225000 +0200" stop="20210705233500 +0200" channel="Energy">
     <title lang="es">C.S.I.: Las Vegas</title>
     <desc lang="es">El equipo investiga un caso que lleva abierto desde hace 14, para ello cuentan con la ayuda de Catherine Willows. Volver la vista atrás les hace reflexionar sobre cómo eran y qué errores cometieron en el pasado.(n)</desc>
+    <credits>
+      <director>Alec Smight</director>
+      <actor>Ted Danson</actor>
+      <actor>Elisabeth Shue</actor>
+      <actor>George Eads</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Wallace Langham</actor>
+      <actor>Elisabeth Harnois</actor>
+      <writer>Anthony E. Zuiker</writer>
+      <writer>Gavin Harris</writer>
+      <producer>Carol Mendelsohn</producer>
+      <producer>Anthony E. Zuiker</producer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/658716.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S14 E5</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210704013000 +0200" stop="20210704032000 +0200" channel="Movistar Estrenos">
     <title lang="es">La gran mentira</title>
@@ -31964,8 +33092,7 @@
     <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
   <programme start="20210704143000 +0200" stop="20210704150500 +0200" channel="#Vamos">
-    <title lang="es">Informe Robinson</title>
-    <sub-title lang="es">Año Petrovic. De enemigo a ídolo</sub-title>
+    <title lang="es">Año Petrovic. De enemigo a ídolo</title>
     <desc lang="es">Año Petrovic. De enemigo a ídolo. Hubo un tiempo en el que para cualquier aficionado al Real Madrid nombrar a Drazen Petrovic era mentar al enemigo. Ocurrió a mediados de los 80, cuando la Cibona de Zagreb dominaba el baloncesto europeo y su estrella desquiciaba en cada partido al equipo español. Años después, Drazen fichó por el Madrid y el enemigo se convirtió en ídolo. En el 25 aniversario de la muerte de Petrovic, Informe Robinson reconstruye una rivalidad histórica, un fichaje insólito y una convivencia que, aunque sólo duró una temporada, se convirtió en inolvidable. Año Petrovic: un viaje que arrancó en odio y que acabó en admiración.(n)</desc>
     <credits>
       <presenter>Michael Robinson</presenter>
@@ -31975,7 +33102,6 @@
     <category lang="es">Programa</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/F3836612" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">S17 E8</episode-num>
   </programme>
   <programme start="20210704150500 +0200" stop="20210704160000 +0200" channel="#Vamos">
     <title lang="es">LGTBI. Deporte invisible</title>
@@ -34182,25 +35308,21 @@
     <episode-num system="onscreen">S0 E2</episode-num>
   </programme>
   <programme start="20210704200500 +0200" stop="20210704212500 +0200" channel="DAZN 1">
-    <title lang="es">Balonmano: Liga de Campeones</title>
+    <title lang="es">Barcelona-Aalborg</title>
     <title lang="en">Barcelona-Aalborg. Final</title>
-    <sub-title lang="es">Barcelona-Aalborg</sub-title>
     <desc lang="es">Revivimos la final de la EHF de la presente temporada donde el FC Barcelona buscaba hacer historia.(n)</desc>
     <date>2021</date>
     <category lang="es">Deportes</category>
     <category lang="es">Balonmano</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/MBARNAP1899206" />
-    <episode-num system="onscreen">S20 E4</episode-num>
   </programme>
   <programme start="20210704212500 +0200" stop="20210704231000 +0200" channel="DAZN 1">
-    <title lang="es">Euroliga de baloncesto</title>
-    <sub-title lang="es">Barcelona-Olimpia Milán</sub-title>
+    <title lang="es">Barcelona-Olimpia Milán</title>
     <desc lang="es">El Barcelona de Jasikevicius busca una nueva Euroliga. Deberá eliminar en las semifinales al Olimpia Milano.(n)</desc>
     <date>2021</date>
     <category lang="es">Deportes</category>
     <category lang="es">Baloncesto</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/F3920910" />
-    <episode-num system="onscreen">S20 E2</episode-num>
   </programme>
   <programme start="20210704231000 +0200" stop="20210705002000 +0200" channel="DAZN 1">
     <title lang="es">Sandor Martin vs Prosper</title>
