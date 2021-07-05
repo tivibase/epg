@@ -412,7 +412,6 @@
   </channel>
   <channel id="Dreamworks">
     <display-name lang="es">Dreamworks</display-name>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_tvapp_d08ea8ba24460741792758132.png" />
     <url>http://www.orange.es.EK</url>
   </channel>
   <channel id="Disney Channel">
@@ -3703,42 +3702,187 @@
   <programme start="20210706054500 +0200" stop="20210706070500 +0200" channel="Cuatro">
     <title lang="es">El zapping de Surferos</title>
     <desc lang="es">Espacio que recopila las imágenes más destacadas y los momentos más curiosos emitidos en televisión.(n)</desc>
+    <category lang="es">Zapping</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2029285.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E41</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210706070500 +0200" stop="20210706073000 +0200" channel="Cuatro">
     <title lang="es">Mejor llama a Kiko</title>
     <desc lang="es">Programa de televenta presentado por Kiko Hernández en el que se promocionan los productos oficiales de los programas de Mediaset España.(n)</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2287245.jpg" />
+    <country lang="es">Otros</country>
+    <episode-num system="onscreen">S1 E47</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210706073000 +0200" stop="20210706081500 +0200" channel="Cuatro">
     <title lang="es">¡Toma salami!</title>
     <desc lang="es">Programa de nostalgia televisiva en el que el humorista Javier Capitán, como voz en off, rememorará los grandes momentos televisivos de los canales del grupo.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Humor</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2430217.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E133</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210706081500 +0200" stop="20210706091500 +0200" channel="Cuatro">
     <title lang="es">El bribón</title>
     <desc lang="es">Pablo Chiapella presenta este quiz show en el que los conocimientos sobre personajes y acontecimientos significativos, la intuición y la complicidad entre las parejas participantes son clave para conseguir un premio de hasta 70.000 euros.(n)</desc>
+    <credits>
+      <presenter>Pablo Chiapella</presenter>
+      <presenter>Lorena Berdún</presenter>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Concurso</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2564866.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E51</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210706091500 +0200" stop="20210706101000 +0200" channel="Cuatro">
     <title lang="es">Alerta Cobra</title>
     <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.(n)</desc>
+    <credits>
+      <actor>Charlotte Schwab</actor>
+      <actor>Dietmar Huhn</actor>
+      <actor>Erdogan Atalay</actor>
+      <actor>Gottfried Vollmer</actor>
+      <actor>Carina Wiese</actor>
+      <actor>Tom Beck</actor>
+      <actor>Gedeon Burkhard</actor>
+      <actor>René Steinke</actor>
+      <writer>Matthias Herbert</writer>
+      <writer>Ralf Ruland</writer>
+      <producer>Stefan Retzbach</producer>
+      <producer>Simon Grohe</producer>
+      <composer>Klaus Garternicht</composer>
+      <composer>Kay Skerra</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2029119.jpg" />
+    <country lang="es">Alemania</country>
+    <episode-num system="onscreen">S20 E8</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210706101000 +0200" stop="20210706110000 +0200" channel="Cuatro">
     <title lang="es">Alerta Cobra</title>
     <desc lang="es">El traficante de drogas Thomas Reinhardt es asesinado por Kim Krüger. El padre del asesinado y jefe de la mafia  pone de inmediato precio a la cabeza del asesino de su hijo.(n)</desc>
+    <credits>
+      <director>Heinz Dietz</director>
+      <actor>Erdogan Atalay</actor>
+      <actor>Vinzenz Kiefer</actor>
+      <actor>Carina N. Wiese</actor>
+      <actor>Tom Beck</actor>
+      <actor>Charlotte Schwab</actor>
+      <actor>Carina Wiese</actor>
+      <writer>Matthias Herbert</writer>
+      <writer>Ralf Ruland</writer>
+      <producer>Stefan Retzbach</producer>
+      <producer>Simon Grohe</producer>
+      <composer>Kay Skerra</composer>
+      <composer>Klaus Garternicht</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2029119.jpg" />
+    <country lang="es">Alemania</country>
+    <episode-num system="onscreen">S15 E3</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210706110000 +0200" stop="20210706120500 +0200" channel="Cuatro">
     <title lang="es">Alerta Cobra</title>
     <desc lang="es">Un cargamento de cocaína sufre un accidente y entre los destrozos se encuentran el cuerpo de una joven policía, Clauia Wolters.(n)</desc>
+    <credits>
+      <actor>Erdogan Atalay</actor>
+      <actor>Charlotte Schwab</actor>
+      <actor>Gottfried Vollmer</actor>
+      <actor>Dietmar Huhn</actor>
+      <actor>Carina Wiese</actor>
+      <actor>Tom Beck</actor>
+      <writer>Matthias Herbert</writer>
+      <writer>Ralf Ruland</writer>
+      <producer>Stefan Retzbach</producer>
+      <producer>Simon Grohe</producer>
+      <composer>Kay Skerra</composer>
+      <composer>Klaus Garternicht</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2029119.jpg" />
+    <country lang="es">Alemania</country>
+    <episode-num system="onscreen">S15 E7</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210706120500 +0200" stop="20210706131000 +0200" channel="Cuatro">
     <title lang="es">Alerta Cobra</title>
     <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.(n)</desc>
+    <credits>
+      <director>Ralph Polinski</director>
+      <director>Polinski Ralph</director>
+      <actor>Charlotte Schwab</actor>
+      <actor>Dietmar Huhn</actor>
+      <actor>Erdogan Atalay</actor>
+      <actor>Gottfried Vollmer</actor>
+      <actor>Carina Wiese</actor>
+      <actor>Tom Beck</actor>
+      <actor>Gedeon Burkhard</actor>
+      <actor>René Steinke</actor>
+      <writer>Matthias Herbert</writer>
+      <writer>Ralf Ruland</writer>
+      <producer>Stefan Retzbach</producer>
+      <producer>Simon Grohe</producer>
+      <composer>Klaus Garternicht</composer>
+      <composer>Kay Skerra</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2029119.jpg" />
+    <country lang="es">Alemania</country>
+    <episode-num system="onscreen">S20 E12</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210706131000 +0200" stop="20210706141000 +0200" channel="Cuatro">
     <title lang="es">El precio justo: Diario</title>
     <desc lang="es">Carlos Sobera presenta la versión diaria del concurso en el que los participantes deberán aproximarse lo máximo posible al precio de artículos para ir acumulando premios y superar etapas para conseguir el premio final.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Concurso</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/5060070.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210706141000 +0200" stop="20210706151000 +0200" channel="Cuatro">
     <title lang="es">El precio justo: Diario</title>
     <desc lang="es">Carlos Sobera presenta la versión diaria del concurso en el que los participantes deberán aproximarse lo máximo posible al precio de artículos para ir acumulando premios y superar etapas para conseguir el premio final.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Concurso</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/5060070.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210706151000 +0200" stop="20210706152500 +0200" channel="Cuatro">
     <title lang="es">Noticias Cuatro Deportes</title>
@@ -3783,18 +3927,56 @@
   <programme start="20210706154500 +0200" stop="20210706170000 +0200" channel="Cuatro">
     <title lang="es">Todo es mentira</title>
     <desc lang="es">Programa de humor presentado por Risto Mejide que ofrece, de lunes a viernes, en directo, un repaso por la actualidad política, social y cultural de cada jornada convirtiendo las 'fake news' en risas.(n)</desc>
+    <credits>
+      <presenter>Risto Mejide</presenter>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Humor</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2268253.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E623</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
   </programme>
   <programme start="20210706170000 +0200" stop="20210706181500 +0200" channel="Cuatro">
     <title lang="es">Todo es mentira bis</title>
     <desc lang="es">Programa de humor presentado por Risto Mejide que ofrece, de lunes a viernes, en directo, un repaso por la actualidad política, social y cultural de cada jornada convirtiendo las 'fake news' en risas.(n)</desc>
+    <credits>
+      <presenter>Risto Mejide</presenter>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Humor</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2270443.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E623</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
   </programme>
   <programme start="20210706181500 +0200" stop="20210706200000 +0200" channel="Cuatro">
     <title lang="es">Cuatro al día</title>
     <desc lang="es">Joaquín Prat conduce este magazine de actualidad en las tardes de Cuatro. El programa ofrece toda la actualidad, información nacional e internacional, sucesos y política.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Magazine</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2565587.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E586</episode-num>
+    <rating system="ES">
+      <value>Cataluña</value>
+    </rating>
   </programme>
   <programme start="20210706200000 +0200" stop="20210706204500 +0200" channel="Cuatro">
     <title lang="es">Cuatro al día</title>
     <desc lang="es">Joaquín Prat conduce este magazine de actualidad en las tardes de Cuatro. El programa ofrece toda la actualidad, información nacional e internacional, sucesos y política.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Magazine</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2565587.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E586</episode-num>
+    <rating system="ES">
+      <value>Cataluña</value>
+    </rating>
   </programme>
   <programme start="20210706204500 +0200" stop="20210706205500 +0200" channel="Cuatro">
     <title lang="es">El Tiempo Cuatro 2</title>
@@ -3809,10 +3991,32 @@
   <programme start="20210706205500 +0200" stop="20210706213000 +0200" channel="Cuatro">
     <title lang="es">First Dates</title>
     <desc lang="es">El restaurante abrirá sus puertas para recibir a las parejas formadas por: Almudena y Carlos; José y Olivia; y Rosa del Rocío y Leire.(n)</desc>
+    <credits>
+      <presenter>Carlos Sobera</presenter>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Reality Show</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1137675.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E911</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210706213000 +0200" stop="20210706225000 +0200" channel="Cuatro">
     <title lang="es">First Dates</title>
     <desc lang="es">Aída y Manu; Cristina y Ángel; Alejandro y Estrella; Ángel y Ane; María Jesús y Rafael; y Andrés y Tania se citan por segunda vez en el programa de hoy.(n)</desc>
+    <credits>
+      <presenter>Carlos Sobera</presenter>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Reality Show</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1137675.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E912</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210705015000 +0200" stop="20210705021000 +0200" channel="Telecinco">
     <title lang="es">Supervivientes Diario 2021</title>
@@ -4970,15 +5174,15 @@
     <desc lang="es">En 1909, Celie es apenas una chiquilla de color que vive con su familia en los campos sureños de Estados Unidos. Con catorce años y embarazada tras la violación de su propio padre, la muchacha es obligada a casarse con un brutal aparcero llamado Albert que no duda en maltratarla sin compasión. Tan sólo encuentra consuelo en su hermana, que se ha quedado a vivir con ellos, y es la que enseña a Celie a leer a escondidas. Pero Celie se vuelve a quedar sola cuando Albert echa de casa a su hermana por negarse a mantener relaciones sexuales con él. Ambas siguen manteniendo contacto por correspondencia hasta que el despótico Albert lo descubre y retiene las cartas, haciendo creer a Celie que su hermana está muerta. Con esta incertidumbre, Celie va dejando pasar los años hasta que por fin conoce a dos extraordinarias mujeres que la ayudarán a adquirir la autoestima y fuerza suficiente como para romper con una vida que no la hace feliz. Steven Spielberg ("Indiana Jones y el reino de la calavera de cristal", "La guerra de los mundos") dirige este melodrama que cuenta la triste historia de una muchacha negra a través de temas tan delicados como la violencia doméstica, el adulterio o el machismo. La cinta es una adaptación de la novela homónima de Alice Walker. La cinta fue nominada al Oscar en 11 categorías, incluyendo la de mejor película y mejor actriz protagonista. Whoopi Goldberg ("Homie Spumoni", "Ratas a la carrera") protagoniza esta película con la que obtuvo un gran reconocimiento de crítica y público. La secundan otros populares intérpretes de color de la talla de Danny Glover ("Rebobine, por favor", "Dreamgirls") y Margaret Avery.(n)</desc>
     <credits>
       <director>Steven Spielberg</director>
-      <actor>Desreta Jackson</actor>
-      <actor>Adolph Caesar</actor>
-      <actor>Rae Dawn Chong</actor>
-      <actor>Dana Ivey</actor>
       <actor>Daphaine Oliver</actor>
       <actor>Aniijia Schockley</actor>
       <actor>Paulinho Dacosta</actor>
       <actor>Jadili Johnson</actor>
       <actor>Bennet Guillory</actor>
+      <actor>Desreta Jackson</actor>
+      <actor>Adolph Caesar</actor>
+      <actor>Rae Dawn Chong</actor>
+      <actor>Dana Ivey</actor>
       <actor>Danny Glover</actor>
       <actor>Whoopi Goldberg</actor>
       <actor>Margaret Avery</actor>
@@ -5829,10 +6033,10 @@
     <sub-title lang="es">Anya Taylor-Joy / Lil Nas X</sub-title>
     <desc lang="es">Final de temporada. La actriz de "Gambito de dama", ganadora del Globo de Oro y de un SAG a mejor actriz por su papel, debuta como presentadora de "SNL". Lo acompaña como artista musical invitado el rapero Lil Nas X, que presenta su 'hit' "Montero (Call Me By Your Name)". "Saturday Night Live" es el programa de humor más importante de la historia de la televisión estadounidense, con la mayor cantera de actores y actrices de comedia de EE UU. Ha lanzado a la fama a cómicos de la talla de Eddie Murphy, Steve Martin, Tina Fey, Bill Murray, Amy Poehler, Billy Crystal, Ben Stiller, Chris Rock o Will Ferrell, y ha ganado 73 Emmys desde 1975, año en el que empezaron sus emisiones. Esta temporada hace especial hincapié en la campaña electoral Trump Vs. Biden y la crisis sanitaria del Coronavirus. El programa se basa en tres pilares: sketches humorísticos, un presentador famoso (desde actores hasta cantantes, pasando por políticos de renombre) y un grupo musical invitado. Todo ello grabado y emitido originalmente en directo desde Nueva York.(n)</desc>
     <credits>
-      <actor>Cecily Strong</actor>
       <actor>Kenan Thompson</actor>
-      <actor>Kate McKinnon</actor>
       <actor>Aidy Bryant</actor>
+      <actor>Kate McKinnon</actor>
+      <actor>Cecily Strong</actor>
     </credits>
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
@@ -5948,10 +6152,10 @@
     <sub-title lang="es">Anya Taylor-Joy / Lil Nas X</sub-title>
     <desc lang="es">Final de temporada. La actriz de "Gambito de dama", ganadora del Globo de Oro y de un SAG a mejor actriz por su papel, debuta como presentadora de "SNL". Lo acompaña como artista musical invitado el rapero Lil Nas X, que presenta su 'hit' "Montero (Call Me By Your Name)". "Saturday Night Live" es el programa de humor más importante de la historia de la televisión estadounidense, con la mayor cantera de actores y actrices de comedia de EE UU. Ha lanzado a la fama a cómicos de la talla de Eddie Murphy, Steve Martin, Tina Fey, Bill Murray, Amy Poehler, Billy Crystal, Ben Stiller, Chris Rock o Will Ferrell, y ha ganado 73 Emmys desde 1975, año en el que empezaron sus emisiones. Esta temporada hace especial hincapié en la campaña electoral Trump Vs. Biden y la crisis sanitaria del Coronavirus. El programa se basa en tres pilares: sketches humorísticos, un presentador famoso (desde actores hasta cantantes, pasando por políticos de renombre) y un grupo musical invitado. Todo ello grabado y emitido originalmente en directo desde Nueva York.(n)</desc>
     <credits>
-      <actor>Cecily Strong</actor>
       <actor>Kenan Thompson</actor>
-      <actor>Kate McKinnon</actor>
       <actor>Aidy Bryant</actor>
+      <actor>Kate McKinnon</actor>
+      <actor>Cecily Strong</actor>
     </credits>
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
@@ -25777,10 +25981,10 @@
     <sub-title lang="es">Adele / H.E.R</sub-title>
     <desc lang="es">Adele vuelve a decir "Hello, it's me" en el plató de Lorne Michaels cinco años después de su última visita y doce desde la primera vez, lo hace debutando como presentadora, aunque no dejará pasar la oportunidad de presumir de voz en algún 'sketch'. En su monólogo bromea con su pérdida de peso y sus años alejada del mundo de la música. H.E.R. es la artista musical invitada, quien presenta su último sencillo, "Hold On". "Saturday Night Live" es el programa de humor más importante de la historia de la televisión estadounidense, con la mayor cantera de actores y actrices de comedia de EE UU. Ha lanzado a la fama a cómicos de la talla de Eddie Murphy, Steve Martin, Tina Fey, Bill Murray, Amy Poehler, Billy Crystal, Ben Stiller, Chris Rock o Will Ferrell, y ha ganado 73 Emmys desde 1975, año en el que empezaron sus emisiones. Esta temporada hace especial hincapié en la campaña electoral Trump Vs. Biden y la crisis sanitaria del Coronavirus. El programa se basa en tres pilares: sketches humorísticos, un presentador famoso (desde actores hasta cantantes, pasando por políticos de renombre) y un grupo musical invitado. Todo ello grabado y emitido originalmente en directo desde Nueva York.(n)</desc>
     <credits>
-      <actor>Cecily Strong</actor>
       <actor>Kenan Thompson</actor>
-      <actor>Kate McKinnon</actor>
       <actor>Aidy Bryant</actor>
+      <actor>Kate McKinnon</actor>
+      <actor>Cecily Strong</actor>
     </credits>
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
@@ -26039,10 +26243,10 @@
     <sub-title lang="es">Adele / H.E.R</sub-title>
     <desc lang="es">Adele vuelve a decir "Hello, it's me" en el plató de Lorne Michaels cinco años después de su última visita y doce desde la primera vez, lo hace debutando como presentadora, aunque no dejará pasar la oportunidad de presumir de voz en algún 'sketch'. En su monólogo bromea con su pérdida de peso y sus años alejada del mundo de la música. H.E.R. es la artista musical invitada, quien presenta su último sencillo, "Hold On". "Saturday Night Live" es el programa de humor más importante de la historia de la televisión estadounidense, con la mayor cantera de actores y actrices de comedia de EE UU. Ha lanzado a la fama a cómicos de la talla de Eddie Murphy, Steve Martin, Tina Fey, Bill Murray, Amy Poehler, Billy Crystal, Ben Stiller, Chris Rock o Will Ferrell, y ha ganado 73 Emmys desde 1975, año en el que empezaron sus emisiones. Esta temporada hace especial hincapié en la campaña electoral Trump Vs. Biden y la crisis sanitaria del Coronavirus. El programa se basa en tres pilares: sketches humorísticos, un presentador famoso (desde actores hasta cantantes, pasando por políticos de renombre) y un grupo musical invitado. Todo ello grabado y emitido originalmente en directo desde Nueva York.(n)</desc>
     <credits>
-      <actor>Cecily Strong</actor>
       <actor>Kenan Thompson</actor>
-      <actor>Kate McKinnon</actor>
       <actor>Aidy Bryant</actor>
+      <actor>Kate McKinnon</actor>
+      <actor>Cecily Strong</actor>
     </credits>
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
@@ -26299,10 +26503,10 @@
     <sub-title lang="es">Adele / H.E.R</sub-title>
     <desc lang="es">Adele vuelve a decir "Hello, it's me" en el plató de Lorne Michaels cinco años después de su última visita y doce desde la primera vez, lo hace debutando como presentadora, aunque no dejará pasar la oportunidad de presumir de voz en algún 'sketch'. En su monólogo bromea con su pérdida de peso y sus años alejada del mundo de la música. H.E.R. es la artista musical invitada, quien presenta su último sencillo, "Hold On". "Saturday Night Live" es el programa de humor más importante de la historia de la televisión estadounidense, con la mayor cantera de actores y actrices de comedia de EE UU. Ha lanzado a la fama a cómicos de la talla de Eddie Murphy, Steve Martin, Tina Fey, Bill Murray, Amy Poehler, Billy Crystal, Ben Stiller, Chris Rock o Will Ferrell, y ha ganado 73 Emmys desde 1975, año en el que empezaron sus emisiones. Esta temporada hace especial hincapié en la campaña electoral Trump Vs. Biden y la crisis sanitaria del Coronavirus. El programa se basa en tres pilares: sketches humorísticos, un presentador famoso (desde actores hasta cantantes, pasando por políticos de renombre) y un grupo musical invitado. Todo ello grabado y emitido originalmente en directo desde Nueva York.(n)</desc>
     <credits>
-      <actor>Cecily Strong</actor>
       <actor>Kenan Thompson</actor>
-      <actor>Kate McKinnon</actor>
       <actor>Aidy Bryant</actor>
+      <actor>Kate McKinnon</actor>
+      <actor>Cecily Strong</actor>
     </credits>
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
@@ -28010,10 +28214,8 @@
     <desc lang="es">En la década de 1970, Billy Hayes, un joven turista estadounidense, es detenido en el aeropuerto de Estambul cuando se dispone a subir a un avión. En su cuerpo lleva varios paquetes que esconden una pequeña cantidad de hachís. Por este motivo, Billy es condenado a cuatro años y enviado a una cárcel de máxima seguridad. Dentro de la cárcel, Billy vive un verdadero infierno y conoce a otros presos de distintos países occidentales, todos ellos víctimas de un racismo y xenofobia feroz. La escasa higiene, el hacinamiento, las vejaciones a las que es sometido y la dureza de los guardias de seguridad harán que Billy intente tomar el llamado 'expreso de medianoche', nombre con el que los presos denominan al intento de fuga. Primer gran éxito internacional del británico Alan Parker. El hoy reconocido realizador Oliver Stone es el firmante de un habilidoso guion -basado en el libro autobiográfico del mismo título escrito por Billy Hayes junto a William Hoffer-, que permite a Parker recrear en impactantes imágenes el trato vejatorio dispensado al protagonista por los policías turcos. Obtuvo el Oscar al mejor guion adaptado. La sugerente banda sonora techno de Giorgio Moroder -que también recibió un Oscar- y las notables interpretaciones del prematuramente desaparecido Brad Davis, el genial John Hurt, Bo Hopkins, Irene Miracle y Randy Quaid, contribuyeron de manera decisiva al resonante éxito de taquilla de este filme. La película también fue galardonada con otros relevantes premios, como seis Globos de oro (película, guion, música, actor secundario (John Hurt) y actor y actriz debutante (Brad Davis e Irene Miracle)) o tres BAFTA (dirección, montaje y actor secundario (John Hurt)).(n)</desc>
     <credits>
       <director>Alan Parker</director>
-      <actor>Yashar Adem</actor>
       <actor>Peter Jeffrey</actor>
       <actor>Paolo Bonacelli</actor>
-      <actor>Mike Kellin</actor>
       <actor>Paul L. Smith</actor>
       <actor>Norbert Weisser</actor>
       <actor>Franco Diogene</actor>
@@ -28021,6 +28223,8 @@
       <actor>Gigi Ballista</actor>
       <actor>Kevork Malikyan</actor>
       <actor>Joe Zammit Cordina</actor>
+      <actor>Mike Kellin</actor>
+      <actor>Yashar Adem</actor>
       <actor>Brad Davis</actor>
       <actor>Randy Quaid</actor>
       <actor>John Hurt</actor>
@@ -28269,6 +28473,7 @@
     <desc lang="es">Oliver vive en un orfanato desde su infancia. Tras pedir un día más comida, es vendido al dueño de una funeraria, pero poco después huye a Londres y se une a una banda de carteristas dirigidos por Bill, un hombre cruel y despiadado que se queda con todas las ganancias a cambio de un miserable techo y unos mendrugos de pan. Su suerte cambiará cuando una familia acomodada lo acoge en su casa, pero Bill no está dispuesto a perder una de sus principales fuentes de ingresos. Lujosa adaptación del famoso musical de Broadway de Lionel Bart, de igual título, inspirado a su vez en la famosa novela "Oliver Twist", de Charles Dickens, llevada al cine en numerosas ocasiones. El director Carol Reed ("El tercer hombre") pone el acento en unas deslumbrantes coreografías, apoyadas en las pegadizas canciones de la obra teatral, con una brillante reconstrucción del Londres victoriano y sus diferencias de clase. La película, que logró cinco Oscar, consagró además al joven Mark Lester.(n)</desc>
     <credits>
       <director>Carol Reed</director>
+      <actor>Clive Moss</actor>
       <actor>Harry Secombe</actor>
       <actor>Hugh Griffith</actor>
       <actor>Leonard Rossiter</actor>
@@ -28276,7 +28481,6 @@
       <actor>Peggy Mount</actor>
       <actor>Kenneth Cranham</actor>
       <actor>Megs Jenkins</actor>
-      <actor>Clive Moss</actor>
       <actor>Ron Moody</actor>
       <actor>Mark Lester</actor>
       <actor>Jack Wild</actor>
@@ -28440,14 +28644,14 @@
       <actor>Thomas Kretschmann</actor>
       <actor>Jochen Nickel</actor>
       <actor>Sebastian Rudolph</actor>
-      <writer>Jürgen Büscher</writer>
       <writer>Johannes Heide</writer>
       <writer>Jürgen Büsche</writer>
       <writer>Joseph Vilsmaier</writer>
+      <writer>Jürgen Büscher</writer>
       <producer>Hanno Huth</producer>
       <producer>Günter Rohrbach</producer>
-      <composer>Norbert Jürgen Schneider</composer>
       <composer>Norbert J. Schneider</composer>
+      <composer>Norbert Jürgen Schneider</composer>
     </credits>
     <date>1993</date>
     <category lang="es">Cine</category>
@@ -29324,7 +29528,6 @@
     <desc lang="es">El día que un publicitario consigue la mejor cuenta de la agencia, su mujer le comunica que lo abandona, a él y a su hijo de siete años. Comienza así una dura etapa en la que tendrá que ejercer de padre soltero de un niño que echa de menos a su madre y, al mismo tiempo, dedicar toda su energía al trabajo. Cuando parece que la relación con su hijo va mejorando, la madre regresa para pedir la custodia del pequeño. Las excelentes interpretaciones de Dustin Hoffman y Meryl Streep avalan este inolvidable drama que arrasó en las taquillas de medio mundo a finales de los setenta y que obtuvo cinco Oscar, incluido el de mejor película. Recogieron premio tanto sus dos protagonistas como su responsable, Robert Benton, que se hizo con los de mejor director y guión adaptado, a partir de la novela de Avery Corman. Los conflictos de pareja y los problemas de paternidad son el eje de la acción, con dos actores en estado de gracia y la sobresaliente fotografía de interiores de Néstor Almendros. En el momento del estreno de "Kramer contra Kramer", Dustin Hoffman y Meryl Streep eran ya dos actores de gran éxito. Él había sido candidato a los premios de la Academia con "El graduado", "Cowboy de medianoche" y "Lenny", y ella con "El cazador". El Oscar que finalmente lograron con su trabajo en este filme consolidó su popularidad, hasta el punto de convertirse en dos de los actores contemporáneos más respetados del cine norteamericano.(n)</desc>
     <credits>
       <director>Robert Benton</director>
-      <actor>JoBeth Williams</actor>
       <actor>Jess Osuna</actor>
       <actor>Bill Moor</actor>
       <actor>Howland Chamberlain</actor>
@@ -29332,6 +29535,7 @@
       <actor>Nicholas Hormann</actor>
       <actor>Ellen Parker</actor>
       <actor>George Coe</actor>
+      <actor>JoBeth Williams</actor>
       <actor>Dustin Hoffman</actor>
       <actor>Meryl Streep</actor>
       <actor>Jane Alexander</actor>
@@ -29390,7 +29594,6 @@
     <credits>
       <director>Krzysztof Kieslowski</director>
       <director>Richard Bohringer</director>
-      <actor>Julie Delpy</actor>
       <actor>Hélène Vincent</actor>
       <actor>Florence Pernel</actor>
       <actor>Juliette Binoche</actor>
@@ -29400,6 +29603,7 @@
       <actor>Alan Howard</actor>
       <actor>Charlotte Véry</actor>
       <actor>Yann Trégouët</actor>
+      <actor>Julie Delpy</actor>
       <writer>Krzysztof Kieslowski</writer>
       <writer>Krzysztof Piesiewicz</writer>
       <producer>Marin Karmitz</producer>
@@ -29421,14 +29625,14 @@
     <desc lang="es">En el año 1943, un campamento japonés de prisioneros recibe un nuevo contingente de presos encabezado por el coronel inglés Nicholson, que desde el primer momento se enfrenta dialécticamente al coronel nipón Saito. Atraídos por su mutuo respeto al modo de vida militar, y tras una dura etapa de tensión entre ambos -que repercute directamente en la crueldad con se trata a los prisioneros-, ambos terminan colaborando en el levantamiento del estratégico "Ferrocarril de la muerte". La construcción del puente sobre el río se convertirá en una cuestión de honor para Nicholson y sus hombres, aunque, mientras tanto, el Estado Mayor británico ha encargado a un comando especial la demolición de la obra, que facilita al enemigo el suministro de materiales esenciales. "El puente del río Kwai" es una de las cimas del cine británico, resultado de la colaboración entre el productor Sam Spiegel y el cineasta David Lean, que repetirían experiencia en "Lawrence de Arabia". Ganadora de siete Oscar de Hollywood y basada en la novela de Pierre Boulle, es todo un clásico de cine bélico, que refleja con rigor diferentes aspectos de la vida militar y del honor castrense en tiempos de guerra. El enfrentamiento psicológico entre los altos cargos de sendos bandos es una de las grandes bazas de la película. Este filme monumental cuenta con un reparto de primera, encabezado por William Holden ("El coloso en llamas", "El crepúsculo de los dioses") y Alec Guinness ("La guerra de las galaxias", "Un cadáver a los postres"), respaldados por Jack Hawkins ("Ben-Hur"), Sessue Haykawa ("Robinsones de los mares del sur"), James Donald ("El loco del pelo rojo") y Geoffrey Horne ("Buenos días tristeza").(n)</desc>
     <credits>
       <director>David Lean</director>
-      <actor>Ann Sears</actor>
-      <actor>Ngamta Suphaphongs</actor>
-      <actor>Javanart Punynchoti</actor>
       <actor>James Donald</actor>
-      <actor>Vilaiwan Seeboonreaung</actor>
       <actor>André Morell</actor>
       <actor>Peter Williams</actor>
       <actor>Geoffrey Horne</actor>
+      <actor>Ann Sears</actor>
+      <actor>Ngamta Suphaphongs</actor>
+      <actor>Javanart Punynchoti</actor>
+      <actor>Vilaiwan Seeboonreaung</actor>
       <actor>William Holden</actor>
       <actor>Alec Guinness</actor>
       <actor>Jack Hawkins</actor>
@@ -29452,10 +29656,10 @@
     <desc lang="es">En un poblado minero de California, varias familias de buscadores de oro trabajan con tesón con métodos rudimentarios para obtener apenas el mineral justo que les dará de comer. Desde hace algún tiempo, están siendo hostigados por los violentos hombres de LaHood, propietario de una poderosa compañía minera, que ha venido al pueblo junto a su hijo Josh con la intención de echarlos de sus tierras y sacarles más rendimiento. Megan, una chiquilla adolescente cuyo perro ha sido víctima de los violentos, reza con fe a Dios pidiéndole a alguien que los defienda. Mientras la joven reza, aparece en el horizonte un misterioso hombre, que a lomos de un caballo, se acerca al lugar. Pronto lo conocerán como 'El predicador', porque utiliza alzacuellos y comienza a ejercer como tal, aunque es algo más que eso. Clint Eastwood dirige, interpreta y produce este filme que recuerda al clásico y famoso 'western' "Raíces profundas", dirigido en 1953 por George Stevens. "El jinete pálido" es, además, un formidable anticipo de la soberbia y oscarizada "Sin perdón" (1992) que exprime los códigos del salvaje Oeste mitificado. Cuando en 1985 se anunció que el siguiente proyecto de Clint Eastwood iba a ser un 'western', toda la industria cinematográfica quedó sorprendida, ya que lo consideraban un género totalmente pasado de moda. Sin embargo, obtuvo un gran éxito de recaudación y los críticos coincidieron en que era magnífico ver a Eastwood cabalgando de nuevo. De hecho, la película estuvo nominada a la Palma de oro del Festival de Cannes.(n)</desc>
     <credits>
       <director>Clint Eastwood</director>
-      <actor>John Russell</actor>
-      <actor>Doug McGrath</actor>
       <actor>Chris Penn</actor>
+      <actor>John Russell</actor>
       <actor>Richard Dysart</actor>
+      <actor>Doug McGrath</actor>
       <actor>Clint Eastwood</actor>
       <actor>Michael Moriarty</actor>
       <actor>Carrie Snodgress</actor>
@@ -29638,18 +29842,18 @@
     <desc lang="es">En los años 60, durante casi 12 años, entre 1962 y 1974, tres amigos, Matt, Jack y Leroy, viven su juventud plenamente, apasionados del Surf y las playas. Su tiempo lo ocupan en sus dos actividades favoritas: el Surf y salir con chicas. Recorren las playas buscando la gran ola y saben que tienen que estar preparados para no perderse la extraordinaria ola de más de 7 metros que puede aparecer en cualquier momento en cualquier playa de la Costa Californiana. Viven la vida intensamente como si cada segundo fuera el último, pero llega un día que es diferente a todos... y nada de lo que suceda después será igual que antes. El país está tocado por la guerra de Vietnam y los tres son llamados a filas. El deporte del Surf es vivido aquí como una gran epopeya no exenta de riesgos. Para ello el director John Milius se apoya en una banda sonora muy brillante firmada por Basil Poledouris y en una espectacular fotografía que llega a filmar el interior de las gigantescas olas. El director John Milius (guionista de "Apocalypse Now" y director de títulos como "El viento y el león" o "Conan, el bárbaro") sabe mezclar con habilidad la aventura y el riesgo de un deporte tan espectacular como el Surf, con los conflictos generacionales de un grupo de jóvenes cuyo estilo de vida poco a poco se iba enfrentando a la madurez, en las que las diversiónes se iban tornando en responsabilidades.(n)</desc>
     <credits>
       <director>John Milius</director>
-      <actor>Jan-Michael Vincent</actor>
-      <actor>Patti D'Arbanville</actor>
-      <actor>Arthur Rosenberg</actor>
-      <actor>Keola Beamer</actor>
-      <actor>Cindy Daly</actor>
-      <actor>Sherry Lee Marks</actor>
-      <actor>Herbert Voland</actor>
-      <actor>Mike Raden</actor>
       <actor>Stacy Keach</actor>
       <actor>William Katt</actor>
       <actor>Gary Busey</actor>
       <actor>Jan-Michel Vincent</actor>
+      <actor>Arthur Rosenberg</actor>
+      <actor>Keola Beamer</actor>
+      <actor>Jan-Michael Vincent</actor>
+      <actor>Patti D'Arbanville</actor>
+      <actor>Cindy Daly</actor>
+      <actor>Sherry Lee Marks</actor>
+      <actor>Herbert Voland</actor>
+      <actor>Mike Raden</actor>
     </credits>
     <date>1978</date>
     <category lang="es">Cine</category>
@@ -29666,14 +29870,14 @@
     <desc lang="es">En el año 1943, un campamento japonés de prisioneros recibe un nuevo contingente de presos encabezado por el coronel inglés Nicholson, que desde el primer momento se enfrenta dialécticamente al coronel nipón Saito. Atraídos por su mutuo respeto al modo de vida militar, y tras una dura etapa de tensión entre ambos -que repercute directamente en la crueldad con se trata a los prisioneros-, ambos terminan colaborando en el levantamiento del estratégico "Ferrocarril de la muerte". La construcción del puente sobre el río se convertirá en una cuestión de honor para Nicholson y sus hombres, aunque, mientras tanto, el Estado Mayor británico ha encargado a un comando especial la demolición de la obra, que facilita al enemigo el suministro de materiales esenciales. "El puente del río Kwai" es una de las cimas del cine británico, resultado de la colaboración entre el productor Sam Spiegel y el cineasta David Lean, que repetirían experiencia en "Lawrence de Arabia". Ganadora de siete Oscar de Hollywood y basada en la novela de Pierre Boulle, es todo un clásico de cine bélico, que refleja con rigor diferentes aspectos de la vida militar y del honor castrense en tiempos de guerra. El enfrentamiento psicológico entre los altos cargos de sendos bandos es una de las grandes bazas de la película. Este filme monumental cuenta con un reparto de primera, encabezado por William Holden ("El coloso en llamas", "El crepúsculo de los dioses") y Alec Guinness ("La guerra de las galaxias", "Un cadáver a los postres"), respaldados por Jack Hawkins ("Ben-Hur"), Sessue Haykawa ("Robinsones de los mares del sur"), James Donald ("El loco del pelo rojo") y Geoffrey Horne ("Buenos días tristeza").(n)</desc>
     <credits>
       <director>David Lean</director>
-      <actor>Ann Sears</actor>
-      <actor>Ngamta Suphaphongs</actor>
-      <actor>Javanart Punynchoti</actor>
       <actor>James Donald</actor>
-      <actor>Vilaiwan Seeboonreaung</actor>
       <actor>André Morell</actor>
       <actor>Peter Williams</actor>
       <actor>Geoffrey Horne</actor>
+      <actor>Ann Sears</actor>
+      <actor>Ngamta Suphaphongs</actor>
+      <actor>Javanart Punynchoti</actor>
+      <actor>Vilaiwan Seeboonreaung</actor>
       <actor>William Holden</actor>
       <actor>Alec Guinness</actor>
       <actor>Jack Hawkins</actor>
@@ -29715,10 +29919,10 @@
     <title lang="en">Twilight Zone. The Movie</title>
     <desc lang="es">Cuatro historias homenajean la famosa serie televisiva "Los límites de la realidad": en la primera, un hombre de negocios es transportado a otra realidad para experimentar la vida de tres víctimas diferentes de los prejuicios y la intolerancia; en la segunda, un grupo de ancianos ve cómo un recién llegado a la residencia hace que sus deseos se hagan realidad; en la tercera, una mujer recoge en su coche a un tímido muchacho con extraños poderes; y en la cuarta, un hombre con un miedo insoportable a volar pasa un momento terrible cuando entra en pánico y observa a una extraña criatura en el ala del avión junto al asiento de ventanilla que él ocupa. Cuatro magníficas historias de ciencia ficción dirigidas por conocidos realizadores de Hollywood conforman este filme que obtuvo un gran éxito en la década de los 80. John Landis ("El príncipe de Zamunda"), Steven Spielberg ("El color púrpura", "Encuentros en la tercera fase"), Joe Dante (creador de "Gremlins") y George Miller ("El aviador") fueron los encargados de dirigir cada una de las partes de la película, basándose en la serie de televisión de culto de principios de los 60: "Los límites de la realidad (The Twilight Zone)".(n)</desc>
     <credits>
-      <director>Joe Dante</director>
       <director>George Miller</director>
       <director>John Landis</director>
       <director>Steven Spielberg</director>
+      <director>Joe Dante</director>
       <actor>Albert Brooks</actor>
       <actor>John Lithgow</actor>
       <actor>Dan Aykroyd</actor>
@@ -29809,14 +30013,14 @@
     <desc lang="es">El detective Philip Marlowe se ve implicado en la investigación de un cadáver sacado de las aguas del muelle Lido. Sin embargo, la atracción que siente por una de las hijas de la adinerada familia que le ha contratado pone en peligro la resolución del caso. El guion corre a cargo de William Faulkner, amigo del realizador. El resultado es una película admirable, con diálogos duros, en la mejor tradición de las aventuras del detective Marlowe.(n)</desc>
     <credits>
       <director>Howard Hawks</director>
-      <actor>Peggy Knudsen</actor>
-      <actor>Charles D Brown</actor>
-      <actor>Bob Steele</actor>
       <actor>Dorothy Malone</actor>
       <actor>Trevor Bardette</actor>
       <actor>Joy Barlow</actor>
       <actor>Elisha Cook Jr</actor>
+      <actor>Charles D Brown</actor>
+      <actor>Bob Steele</actor>
       <actor>Jack Perry</actor>
+      <actor>Peggy Knudsen</actor>
       <actor>Lauren Bacall</actor>
       <actor>Humphrey Bogart</actor>
       <actor>John Ridgely</actor>
@@ -29842,13 +30046,13 @@
     <desc lang="es">Sydney es un autor teatral que ha cosechado su cuarto fracaso consecutivo con su último y ambicioso proyecto y, por ello, parece condenado a vivir el resto de sus días a costa del dinero de Myra, su esposa. Pero, todo cambia cuando recibe por correo la copia de una comedia policíaca: "La trampa de la muerte", toda una obra maestra que podría convertirse en un gran éxito en Broadway a pesar de estar escrita por Clifford, un aficionado y antiguo estudiante al que Sydney dio clases tiempo atrás. Si fuera capaz de asesinarlo podría apoderarse de lo que parece ser el mayor éxito de los últimos tiempos. Así que, Sidney invita a Clifford a su casa y planea una trama criminal junto a su esposa Myra para asesinar al estudiante y quedarse con la obra. Pero esto será sólo el comienzo de una trama que se complica a cada minuto, con no uno, sino varios giros inesperados. Adaptación de una obra teatral de Ira Levin, que batió récords de taquilla en Broadway, con un excelente guión de Jay Presson Allen. Es un duelo entre dos personajes, muy semejante al de "La huella", de Joseph L. Mankiewicz, donde cazador y cazado no siempre son quienes parecen. Un excelente trabajo de Sidney Lumet ("Doce hombres sin piedad", "Serpico", "Asesinato en el Orient Express", "Un mundo implacable", "El príncipe de la ciudad", "La noche cae sobre Manhattan", "Gloria"), director especializado en adaptaciones de obras de suspense y policíacas, que potencia y aumenta el efecto sorpresa y la intriga del relato. A la vez, Michael Caine y Christopher Reeve (la película es prácticamente una obra de dos) sacan un brillante partido a sus personajes, así como también Dyan Cannon, un elemento sorpresa que se integra perfectamente. La película tiene humor y está llena de giros sorpresas. Se nota que director y actores debieron pasárselo muy bien mientras la rodaban. Es una intriga sin el clásico detective. La propuesta de los autores es que sea el espectador el propio detective mientras disfruta de esta excelente película.(n)</desc>
     <credits>
       <director>Sidney Lumet</director>
+      <actor>Michael Caine</actor>
+      <actor>Christopher Reeve</actor>
+      <actor>Joe Silver</actor>
       <actor>Jayne Heller</actor>
       <actor>Joel Siegel</actor>
       <actor>Jeffrey N Lyons</actor>
       <actor>Tony Dibenedetto</actor>
-      <actor>Michael Caine</actor>
-      <actor>Christopher Reeve</actor>
-      <actor>Joe Silver</actor>
       <actor>Henry Jones</actor>
       <actor>Irene Worth</actor>
       <actor>Dyan Cannon</actor>
@@ -29936,7 +30140,17 @@
     <desc lang="es">Una descarnada mirada a lo más decadente de la vida en Roma, a principios de los 60, a través de los ojos de un periodista. Fellini retrata magistralmente lo más insondable de una sociedad en crisis.(n)</desc>
     <credits>
       <director>Federico Fellini</director>
+      <actor>Oscar Ghiglia</actor>
+      <actor>Aurelio Nardi</actor>
+      <actor>Henry Thody</actor>
+      <actor>Tito Buzzo</actor>
+      <actor>Julia Vasilico</actor>
+      <actor>Alain Dijon</actor>
+      <actor>Umberto Felici</actor>
       <actor>Tiziano Cortini</actor>
+      <actor>Vando Tres</actor>
+      <actor>Franca Pasutt</actor>
+      <actor>Adriana Moneta</actor>
       <actor>Gio Staiano</actor>
       <actor>Gondrano Trucchi</actor>
       <actor>Alfredo Rizzi</actor>
@@ -29949,33 +30163,39 @@
       <actor>Mario Conoccchia</actor>
       <actor>Gloria Jones</actor>
       <actor>Giacomo Gabriello</actor>
+      <actor>Renee Longarini</actor>
       <actor>Nani Colombo</actor>
       <actor>Sandra Tesi</actor>
+      <actor>Donato Castellaneta</actor>
       <actor>Massimo Busetti</actor>
       <actor>Maria Wolodimeroff</actor>
       <actor>Christine Denise</actor>
-      <actor>Renee Longarini</actor>
       <actor>Carlo Musto</actor>
       <actor>Nadia Balabine</actor>
+      <actor>Patricia Paolozzi</actor>
       <actor>Elizabeth Cini</actor>
-      <actor>Loretta Ramaciotti</actor>
-      <actor>Donato Castellaneta</actor>
       <actor>Nello Meniconi</actor>
       <actor>Paolo Fadda</actor>
       <actor>Maurizio Guelfi</actor>
       <actor>Daniela Calvino</actor>
       <actor>Vittorio Manfrino</actor>
-      <actor>Nico Otzak</actor>
-      <actor>Patricia Paolozzi</actor>
       <actor>Prince Ruspoli Dipogio Suasa</actor>
       <actor>Frederika Andre</actor>
-      <actor>Rosemary Rodd</actor>
       <actor>Alex Messoyedoff</actor>
-      <actor>Archie Savage Dancers</actor>
       <actor>Ivenda Dobrzensky</actor>
-      <actor>Donatella Esparmer</actor>
       <actor>Letizia Spadini</actor>
       <actor>Maite Morand</actor>
+      <actor>Loretta Ramaciotti</actor>
+      <actor>Maria Serafini</actor>
+      <actor>Thomas Torres</actor>
+      <actor>Carlo Mariotti</actor>
+      <actor>Nico Otzak</actor>
+      <actor>Lilli Granado</actor>
+      <actor>Anna Salvatore</actor>
+      <actor>Rosemary Rodd</actor>
+      <actor>Audrey McDonald</actor>
+      <actor>Archie Savage Dancers</actor>
+      <actor>Donatella Esparmer</actor>
       <actor>Ferdinando Brofferio</actor>
       <actor>Carlo Dimaggio</actor>
       <actor>Ginacarlo Romani</actor>
@@ -29984,15 +30204,9 @@
       <actor>Mario Degrenet</actor>
       <actor>Desmond O'Grady</actor>
       <actor>Paolo Labia</actor>
-      <actor>Maria Serafini</actor>
       <actor>Gino Marturano</actor>
-      <actor>Thomas Torres</actor>
       <actor>Leontine Von Strein</actor>
-      <actor>Carlo Mariotti</actor>
-      <actor>Lilli Granado</actor>
-      <actor>Anna Salvatore</actor>
       <actor>Margherita Russo</actor>
-      <actor>Audrey McDonald</actor>
       <actor>Maria Marigliano</actor>
       <actor>Bruno Alighieri</actor>
       <actor>Leonida Repaci</actor>
@@ -30000,28 +30214,18 @@
       <actor>Enrico Glori</actor>
       <actor>Leonardo Botta</actor>
       <actor>Fransesco Luzi</actor>
+      <actor>Biao Yuen</actor>
       <actor>Prince Wolkonsky</actor>
       <actor>Marianna Liebl</actor>
       <actor>Anna Salerno</actor>
       <actor>John Lane</actor>
       <actor>Cesare Picardi</actor>
-      <actor>Iris Tree</actor>
       <actor>Sandy Von Norman</actor>
+      <actor>Iris Tree</actor>
       <actor>Concetta Ragusa</actor>
       <actor>Antonio Jacono</actor>
       <actor>Rina Franchetti</actor>
       <actor>Giulio Girola</actor>
-      <actor>Aurelio Nardi</actor>
-      <actor>Julia Vasilico</actor>
-      <actor>Henry Thody</actor>
-      <actor>Alain Dijon</actor>
-      <actor>Vando Tres</actor>
-      <actor>Franca Pasutt</actor>
-      <actor>Adriana Moneta</actor>
-      <actor>Biao Yuen</actor>
-      <actor>Oscar Ghiglia</actor>
-      <actor>Tito Buzzo</actor>
-      <actor>Umberto Felici</actor>
       <actor>Marcello Mastroianni</actor>
       <actor>Anita Ekberg</actor>
       <actor>Magali Noël</actor>
@@ -30061,12 +30265,12 @@
       <actor>William Hickey</actor>
       <actor>John Dennis Johnston</actor>
       <actor>Bill Moseley</actor>
+      <actor>Julie Hoopman</actor>
       <actor>Michael Champion</actor>
+      <actor>Linda Hoy</actor>
       <actor>Jimmie F Skaggs</actor>
       <actor>Tiffany Gail Robinson</actor>
       <actor>Angela Louise Robinson</actor>
-      <actor>Julie Hoopman</actor>
-      <actor>Linda Hoy</actor>
       <writer>John Eskow</writer>
       <producer>David Valdes</producer>
       <composer>Steve Dorff</composer>
@@ -30086,17 +30290,17 @@
     <desc lang="es">Hace millones de años, antes de la aparición del "homo sapiens", unos primates descubren un monolito que los conduce a un estadio de inteligencia superior. Millones de años después, otro monolito, enterrado en una luna, despierta el interés de los científicos. Por último, durante una misión de la NASA, HAL 9000, una máquina dotada de inteligencia artificial, se encarga de controlar todos los sistemas de una nave espacial tripulada. La mejor y más famosa película de ciencia ficción de la historia, en la que Stanley Kubrick, en plena carrera espacial, quiso poner de manifiesto la relación del hombre con el universo. Preparada durante cuatro años por un Kubrick extremadamente minucioso junto a Arthur C. Clarke, se buscó hasta el último conocimiento científico para crear una tecnología futurista lo más próxima a lo que pudiera ser un futuro inmediato. Se trata de una película en la que por primera vez los hombres son tan importantes como las máquinas, los silencios tan importantes como los diálogos y lo desconocido tan determinante como lo que se conoce. Obtuvo el Oscar a los Mejores efectos visuales, además de la nominación al Mejor director, guion y dirección artística. También consiguió el Premio David di Donatello a la Mejor producción extranjera.(n)</desc>
     <credits>
       <director>Stanley Kubrick</director>
-      <actor>Frank Miller</actor>
       <actor>Gary Lockwood</actor>
       <actor>Keir Dullea</actor>
       <actor>Leonard Rossiter</actor>
-      <actor>Robert Beatty</actor>
-      <actor>Douglas Rain</actor>
+      <actor>Frank Miller</actor>
       <actor>Danny Grover</actor>
       <actor>Margaret Tyzack</actor>
       <actor>Simon Davis</actor>
       <actor>Daniel Richter</actor>
+      <actor>Robert Beatty</actor>
       <actor>William Sylvester</actor>
+      <actor>Douglas Rain</actor>
       <writer>Stanley Kubrick</writer>
       <writer>Arthur C. Clarke</writer>
       <producer>Stanley Kubrick</producer>
@@ -30708,12 +30912,12 @@
     <desc lang="es">Un asesino múltiple muere en un tiroteo con la policía dentro de una fábrica de muñecas y su espíritu se introduce en un muñeco llamado Chucky. Éste es adquirido por una madre para regalárselo a su hijo Andy. Poco después comienza a producirse una serie de asesinatos, y el pequeño empieza a sospechar que el criminal es Chucky. El agente Norris, el policía que acabó con la vida del asesino, no cree en la historia de Andy, pero decide investigar el caso.(n)</desc>
     <credits>
       <director>Tom Holland</director>
+      <actor>Neil Giuntoli</actor>
       <actor>Tommy Swerdlow</actor>
       <actor>Jack Colvin</actor>
       <actor>Juan Ramírez</actor>
-      <actor>Dinah Manoff</actor>
       <actor>Brad Dourif</actor>
-      <actor>Neil Giuntoli</actor>
+      <actor>Dinah Manoff</actor>
       <actor>Catherine Hicks</actor>
       <actor>Chris Sarandon</actor>
       <actor>Alex Vincent</actor>
@@ -30759,11 +30963,11 @@
     <desc lang="es">El detective Lincoln Rhyme sufrió un terrible accidente en el proceso de una investigación que le dejó tetrapléjico. Sin embargo sigue siendo uno de los mejores policías de Nueva York, capaz de seguir el rastro de sus pesquisas desde la cama en la que está postrado. Sólo necesita un poco de ayuda, la de una agente que sea capaz de conectar con su intuición y llevar a la acción sus conclusiones. Junto a la oficial novata Amelia, Rhyme hará todo lo posible por encontrar al brutal asesino que está llenando de cadáveres la ciudad y que está jugando al gato y al ratón con las fuerzas de seguridad. "El coleccionista de huesos" es un thriller de factura moderna e impactante que cumple todos los requisitos del género, perteneciente a la nueva generación de cintas de intriga. El realizador australiano Phillip Noyce tiene experiencia en las historias de misterio. En esta ocasión cuenta de nuevo con una pareja estelar de lujo al frente del reparto. Por un lado el actor afroamericano mejor considerado del momento, Denzel Washington, toda una garantía para las taquillas. A su lado, en el papel de Amelia, aparece una actriz casi desconocida por entonces, Angelina Jolie, que poco después saltaría a la fama internacional gracias al Oscar conseguido por "Inocencia interrumpida".(n)</desc>
     <credits>
       <director>Phillip Noyce</director>
+      <actor>Ed O'Neill</actor>
       <actor>Leland Orser</actor>
       <actor>Bobby Cannavale</actor>
       <actor>John Benjamin Hickey</actor>
       <actor>Malcolm Goodwin</actor>
-      <actor>Ed O'Neill</actor>
       <actor>Denzel Washington</actor>
       <actor>Angelina Jolie</actor>
       <actor>Queen Latifah</actor>
@@ -30901,12 +31105,12 @@
     <desc lang="es">Sara es una chica blanca de clase media que arma un revuelo tanto étnico como cultural cuando a la muerte de su madre se matricula en un instituto de Chicago con alumnado mayoritariamente negro. Sara se ha criado en un pequeño pueblo de Illinois, adora el ballet y sueña con ir a la prestigiosa escuela Juilliard. Cuando su madre muere en un accidente de coche, olvida sus sueños y se reúne con su padre Roy, del que hacía mucho tiempo que estaba separada y que ahora trabaja como músico en Chicago. Ella empieza a ir a clase en un campus urbano que es muy diferente, tanto racial como culturalmente, de los centros escolares que ha conocido hasta entonces. Allí conoce a Chenille, una madre soltera negra que tiene un hermano menor, Derek, atractivo, lleno de talento y muy popular en el instituto, con un club de hip-hop con el que quiere introducir a Sara en la cultura rapera. La pasión por el baile que les une pronto les conduce al amor, aunque cuanto más estrechan sus lazos más se marcarán las diferencias sociales y raciales que les separan. Thomas Carter, ganador de varios premios Emmy por su trabajo en televisión y realizador de los largometrajes Los rebeldes del swing y El negociador, quería rendir homenaje con esta cinta al espíritu de las películas musicales de los 70 y 80. Esta comedia romántica musical fue un gran éxito de taquilla entre el público adolescente y tiene como protagonistas a Julia Stiles (10 razones para odiarte, Laberinto envenenado), Sean Patrick Thomas (Crueles intenciones, Drácula 2001), Terry Kinney (El último mohicano, La tapadera), Kerry Washington (9 días), Fredro Starr (Sunset Park) y Bianca Lawson (Bones).(n)</desc>
     <credits>
       <director>Thomas Carter</director>
-      <actor>Kerry Washington</actor>
       <actor>Julia Stiles</actor>
       <actor>Sean Patrick Thomas</actor>
+      <actor>Vince Green</actor>
+      <actor>Kerry Washington</actor>
       <actor>Fredro Starr</actor>
       <actor>Garland Whitt</actor>
-      <actor>Vince Green</actor>
       <actor>Terry Kinney</actor>
       <actor>Bianca Lawson</actor>
       <writer>Duane Adler</writer>
@@ -30952,12 +31156,12 @@
     <desc lang="es">Los habitantes de un pueblecito mejicano sufren frecuentes crueldades por parte de un bandido llamado Calvera. Cuando aceptan que ellos no son capaces de hacerle frente deciden recurrir a siete aventureros. Es un clásico del Western por las inmejorables interpretaciones de los actores y por su banda sonora. Se trata de una adaptación de una producción japonesa de Kurosawa.(n)</desc>
     <credits>
       <director>John Sturges</director>
+      <actor>Horst Buchholz</actor>
+      <actor>Brad Dexter</actor>
       <actor>Bing Russell</actor>
       <actor>Robert Wilke</actor>
       <actor>Vladimir Sokoloff</actor>
       <actor>Jorge Martínez de Hoyos</actor>
-      <actor>Horst Buchholz</actor>
-      <actor>Brad Dexter</actor>
       <actor>Yul Brynner</actor>
       <actor>Eli Wallach</actor>
       <actor>Steve McQueen</actor>
@@ -31378,11 +31582,11 @@
     <title lang="en">Tout pour plaire</title>
     <desc lang="es">Juliette, Florence y Marie son amigas desde la infancia. Marie es médica y ejerce su profesión en un hospital público. Lleva ocho años casada con Pierre, un artista sincero, cariñoso y divertido, cuyo mayor defecto es no llevar ni un euro a casa. Marie se esfuerza en ser la mujer perfecta (madre, profesional y amiga ejemplar), pero un día empieza a hartarse de cargar siempre con todo... Florence está casada con Julien (Thierry Neuvic), un empresario voluntarioso y tajante con el que tiene un hijo, Ludovic. Apocada y temerosa, hace años que trabaja de redactora en una agencia de publicidad cuando por fin su jefe, un tipo muy especial al que todos llaman "Calígula" (Pascal Elso), le confía una cuenta. Todo parece ir sobre ruedas... Juliette es abogada, pero nunca tiene dinero. Ni consigue que sus clientes le paguen ni encuentra un hombre que la quiera. Al menos, eso cree... Las tres, atrapadas en una vida urbana, sin un respiro entre el trabajo y su vida privada, consiguen robar unos momentos para verse y hablar sin tapujos. Algo está claro: a los 35 años, los ideales se han difuminado, empujados por la realidad. Pero más vale reír que lamentarse..(n)</desc>
     <credits>
-      <actor>Judith Godrèche</actor>
-      <actor>Mathilde Seigner</actor>
-      <actor>Anne Parillaud</actor>
       <actor>Pascal Elbé</actor>
       <actor>Thierry Neuvic</actor>
+      <actor>Anne Parillaud</actor>
+      <actor>Judith Godrèche</actor>
+      <actor>Mathilde Seigner</actor>
     </credits>
     <date>2005</date>
     <category lang="es">Cine</category>
@@ -31659,7 +31863,7 @@
     <date>2011</date>
     <category lang="es">Cine</category>
     <category lang="es">Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/MREALMP1605561" />
+    <icon src="https://www.movistarplus.es/recorte/n/externov/F3799851" />
     <country lang="es">EE.UU</country>
     <rating>
       <value>16</value>
@@ -31763,15 +31967,15 @@
     <desc lang="es">Delphine, una secretaria parisina, todavía no se ha repuesto de una historia de amor que terminó dos años antes. No parece tener interés por nada y una semana antes de empezar las vacaciones, la amiga con la que se iba cambia de idea y la deja plantada, incrementando en ella los sentimientos tristes que la invaden por una falta continuada del cariño que ella tanto necesita. Así, sumida en una depresión, Delphine se ve metida en un callejón sin salida: no quiere viajar sola, pero no tiene pareja ni posibilidad de conocer a nadie. De esta forma, iniciará una especie de peregrinación por diferentes lugares, intentando encontrar un buen sitio donde pasar sus vacaciones. Otra amiga la invita a pasar unos días en la costa normanda con su familia pero, tras algunos días de aburrimiento y tristeza, Delphine se vuelve a París. Un amigo la lleva a Cherbourg, luego de unos cuantos días, se compadece de sí misma y regresa a París. A continuación lo intenta con los Alpes, pero regresa el mismo día. Finalmente, se encuentra con una antigua amiga que le presta su apartamento en Biarritz. En la playa, se hará amiga de una desinhibida joven sueca, que toma el sol desnuda y tiene amantes de una noche. En Biarritz oye una conversación sobre el rayo verde, el último rayo del sol cuando se pone en el horizonte, que da título a un libro de Julio Verne. Delphine decide, repentinamente, decide regresar a casa. Mientras ella espera en la estación del tren, un hombre joven llama su atención; quizás la puesta del sol y el rayo verde (la leyenda dice que dos personas que lo vean, quedan automáticamente enamoradas) la esperan. El joven la invita a pasar unos días con él en la costa y, cuando están sentados en la playa, frente al mar, Delphine se queda con la vista fija en el horizonte, esperando el rayo verde... El director y crítico de cine francés Eric Rohmer, uno de los fundadores de la nouvelle vague que rompió los moldes del cine clásico a finales de los años cincuenta, cuyo verdadero nombre es Jean-Marie Maurice Scherer, continúa con "El rayo verde" su serie Comedias y proverbios. Su obra cinematográfica está dividida, conceptualmente, en tres grandes partes: Cuentos morales (1962-1978), Comedias y proverbios (1980-1986) y Los cuentos de las cuatro estaciones (1989-1999). "El rayo verde", quinta y penúltima entrega de la serie Comedias y proverbios, es una honesta mirada a la soledad en la sociedad contemporánea con la que Rohmer, que realiza una introspección en el estado anímico de la protagonista que sufre una gran melancolía debido a sus problemas para encontrar el amor, cambió su estilo visual creando los personajes en colaboración con sus actores y dejándoles un amplísimo margen para la improvisación. El resultado fue una comedia romántica que rebosa de las virtudes habituales de Rohmer: ritmo fácil, gentil naturalismo y genuino cariño del director por sus personajes. La película vuelve a ser una crónica sencilla y lúcida de los anhelos y frustraciones de la juventud a través de las experiencias en el terreno sentimental. Sustentada, como es habitual en el cine de Rohmer, en la proliferación de diálogos, el filme, rodado originalmente en 16 mm., y con un presupuesto reducido, se sustenta en unas naturalistas interpretaciones por parte de la protagonista Marie Riviere y el resto del elenco artístico.(n)</desc>
     <credits>
       <director>Eric Rohmer</director>
+      <actor>Lisa Heredia</actor>
+      <actor>Amira Chemakhi</actor>
+      <actor>Claude Jullien</actor>
       <actor>Vincent Gauthier</actor>
       <actor>Sylvie Richez</actor>
       <actor>Basile Gervaise</actor>
       <actor>Virginie Gervaise</actor>
       <actor>Dominique Rivière</actor>
       <actor>Claude Julien</actor>
-      <actor>Lisa Heredia</actor>
-      <actor>Amira Chemakhi</actor>
-      <actor>Claude Jullien</actor>
       <actor>Marie Rivière</actor>
       <actor>Béatrice Romand</actor>
       <actor>René Hernandez</actor>
@@ -31863,12 +32067,12 @@
     <desc lang="es">Gerri, terapeuta, y Tom, geólogo, llevan muchos años felizmente casados, aunque les preocupa que su hijo Joe, que es abogado, permanezca soltero. Esta preocupación les impide darse cuenta de hasta qué punto María, una frágil compañera de trabajo de Gerri, depende completamente de su amistad. Dirigida por el británico Mike Leigh, "Another Year" habla sobre la vida y las relaciones humanas a través de cuatro capítulos que muestran a los amigos y la familia de Gerri y Tom en cada estación de un mismo año. La película estuvo nominada al Oscar al mejor guión original y a los premios BAFTA a la mejor película británica y a la mejor actriz de reparto.(n)</desc>
     <credits>
       <director>Mike Leigh</director>
+      <actor>Brian Philip Davis</actor>
       <actor>Karina Fernandez</actor>
       <actor>Martin Savage</actor>
       <actor>Imelda Staunton</actor>
       <actor>Stuart McQuarrie</actor>
       <actor>Michele Austin</actor>
-      <actor>Brian Philip Davis</actor>
       <actor>Jim Broadbent</actor>
       <actor>Lesley Manville</actor>
       <actor>Ruth Sheen</actor>
@@ -31961,12 +32165,12 @@
     <desc lang="es">París, años setenta. Gilles y sus amigos tienen que tomar decisiones cruciales para poder encontrarse a sí mismos en un tiempo de tumulto.(n)</desc>
     <credits>
       <director>Olivier Assayas</director>
+      <actor>Johnny Flynn</actor>
+      <actor>Lola Créton</actor>
       <actor>Nathanjohn Carter</actor>
       <actor>India Menuez</actor>
       <actor>Dolores Chaplin</actor>
       <actor>Victoria Ley</actor>
-      <actor>Johnny Flynn</actor>
-      <actor>Lola Créton</actor>
       <writer>Olivier Assayas</writer>
     </credits>
     <date>2012</date>
@@ -32045,15 +32249,13 @@
     </rating>
   </programme>
   <programme start="20210705062800 +0200" stop="20210705070800 +0200" channel="Paramount Channel">
-    <title lang="es">Alaska y Mario</title>
-    <sub-title lang="es">Huracán nunca visto</sub-title>
+    <title lang="es">Huracán nunca visto</title>
     <desc lang="es">Alaska y Mario vuelven a MTV rodeados de sus amigos y familiares en el reality más divertido de la televisión.(n)</desc>
     <date>2018</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tele Realidad</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/M1187338V1534508" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">S5 E8</episode-num>
     <rating>
       <value>12</value>
     </rating>
@@ -32067,8 +32269,8 @@
     <credits>
       <director>Sergio Oksman</director>
       <writer>Sergio Oksman</writer>
-      <producer>Elvira Morales Sales</producer>
       <producer>Jesus Ulled Nadal</producer>
+      <producer>Elvira Morales Sales</producer>
       <composer>Lisandro Rodríguez</composer>
     </credits>
     <date>2018</date>
@@ -32084,9 +32286,8 @@
     <title lang="es">Cinexpress (piezas)</title>
   </programme>
   <programme start="20210705110200 +0200" stop="20210705115700 +0200" channel="Paramount Channel">
-    <title lang="es">Embrujadas</title>
+    <title lang="es">Al despertar</title>
     <title lang="en">Awakened</title>
-    <sub-title lang="es">Al despertar</sub-title>
     <desc lang="es">Piper se contagia de un virus que la deja al borde de la muerte. En un intento desesperado para salvarla, Prue y Phoebe hacen un hechizo para despertarla, desobedeciendo la regla de no hacer magia en beneficio personal.(n)</desc>
     <credits>
       <director>Emile Ardolino</director>
@@ -32096,12 +32297,10 @@
     <category lang="es">Fantástico</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/MPARCHP478278" />
     <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S2 E12</episode-num>
   </programme>
   <programme start="20210705115700 +0200" stop="20210705125100 +0200" channel="Paramount Channel">
-    <title lang="es">Embrujadas</title>
+    <title lang="es">Pragmatismo animal</title>
     <title lang="en">Animal Pragmatism</title>
-    <sub-title lang="es">Pragmatismo animal</sub-title>
     <desc lang="es">Tres chicas sin pareja para San Valentín recurren a la magia para solucionarlo, y transforman a tres animales en hombres. Los animales quieren estar para siempre en forma humana, por lo que piden ayuda a Phoebe.(n)</desc>
     <credits>
       <director>Emile Ardolino</director>
@@ -32111,12 +32310,10 @@
     <category lang="es">Fantástico</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/MPARCHP478276" />
     <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S2 E13</episode-num>
   </programme>
   <programme start="20210705125100 +0200" stop="20210705134600 +0200" channel="Paramount Channel">
-    <title lang="es">Embrujadas</title>
+    <title lang="es">Perdonad mi pasado</title>
     <title lang="en">Pardon My Past</title>
-    <sub-title lang="es">Perdonad mi pasado</sub-title>
     <desc lang="es">Una de sus vidas pasadas ataca a Phoebe, para enseñarle que en 1924 ella era una bruja malvada y fue seducida por un brujo llamado Anton, que quería robar los poderes de sus primas.(n)</desc>
     <credits>
       <director>Emile Ardolino</director>
@@ -32126,7 +32323,6 @@
     <category lang="es">Fantástico</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/MPARCHP478273" />
     <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S2 E14</episode-num>
   </programme>
   <programme start="20210705134600 +0200" stop="20210705152500 +0200" channel="Paramount Channel">
     <title lang="es">Colombo</title>
@@ -32245,9 +32441,9 @@
       <actor>Tommy Lee Jones</actor>
       <actor>Benicio Del Toro</actor>
       <actor>Connie Nielsen</actor>
+      <writer>Art Monterastelli</writer>
       <writer>David Griffiths</writer>
       <writer>Peter Griffiths</writer>
-      <writer>Art Monterastelli</writer>
       <producer>Richard Hawley</producer>
       <producer>Ricardo Mestres</producer>
       <producer>James Jacks</producer>
@@ -32265,19 +32461,19 @@
     <desc lang="es">Cada miércoles por la tarde, Jay recibe en su casa a Claire solo para tener sexo. No se conocen más allá de esos encuentros y apenas hablan, el sexo es la única forma de comunicación entre ellos. Pero un día, Jay, que acaba de separarse de su esposa, empieza a sentir interés por saber más sobre Claire. Siguiendo un esquema parecido a ''El último tango en París'' o ''Una relación pornográfica'', ''Intimidad'' es un estudio psicológico de unos personajes, emocionalmente a la deriva, a través del sexo. Aunque el sexo no es el eje central del filme, sus explícitas escenas levantaron mucha polvareda y estuvo a punto de ser calificado como una película X. El director de la cinta es el francés Patrice Chéreau (''La Reina Margot''), como francés es el resto del equipo técnico. En cambio, los protagonistas son, ambos, de habla inglesa: Mark Rylance (''Los libros de Próspero''), británico, y Kerry Fox (''Fanny &amp; Elvis''), neozelandesa. Ésta última ganó el premio a Mejor Actriz en el Festival de Berlín, certamen en el que el filme salió triunfante.(n)</desc>
     <credits>
       <director>Patrice Chéreau</director>
+      <actor>Alastair Galbraith</actor>
+      <actor>Philippe Calvario</actor>
       <actor>Kerry Fox</actor>
       <actor>Mark Rylance</actor>
       <actor>Susannah Harker</actor>
       <actor>Timothy Spall</actor>
-      <actor>Alastair Galbraith</actor>
-      <actor>Philippe Calvario</actor>
       <writer>Anne-Louise Trividic</writer>
       <writer>Hanik Kureishi</writer>
       <writer>Patrice Chéreau</writer>
+      <producer>Jacques Hinstin</producer>
       <producer>Patrick Cassavetti</producer>
       <producer>Charles Gassot</producer>
       <producer>Jacques Hinsti</producer>
-      <producer>Jacques Hinstin</producer>
       <composer>Éric Neveux</composer>
     </credits>
     <date>2001</date>
@@ -32425,14 +32621,14 @@
     <credits>
       <director>Simon West</director>
       <actor>Sylvester Stallone</actor>
+      <actor>Ving Rhames</actor>
       <actor>María Barranco</actor>
+      <actor>Colm Meaney</actor>
       <actor>Laura Caballero</actor>
       <actor>Rachel Ticotin</actor>
       <actor>Mykelti Williamson</actor>
       <actor>Danny Trejo</actor>
       <actor>Monica Potter</actor>
-      <actor>Ving Rhames</actor>
-      <actor>Colm Meaney</actor>
       <actor>Nicolas Cage</actor>
       <actor>John Cusack</actor>
       <actor>John Malkovich</actor>
@@ -37969,7 +38165,7 @@
     <date>2016</date>
     <category lang="es">Toros</category>
     <category lang="es">Otros</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/M1126368V1264742" />
+    <icon src="https://www.movistarplus.es/recorte/n/externov/F3306196" />
     <country lang="es">España</country>
   </programme>
   <programme start="20210706004000 +0200" stop="20210706013000 +0200" channel="Toros">
@@ -38034,7 +38230,7 @@
     <date>2016</date>
     <category lang="es">Toros</category>
     <category lang="es">Otros</category>
-    <icon src="https://www.movistarplus.es/recorte/n/externov/M1126368V1264742" />
+    <icon src="https://www.movistarplus.es/recorte/n/externov/F3306196" />
     <country lang="es">España</country>
   </programme>
   <programme start="20210706075500 +0200" stop="20210706090000 +0200" channel="Toros">
@@ -47277,53 +47473,49 @@
     </rating>
   </programme>
   <programme start="20210705061200 +0200" stop="20210705065600 +0200" channel="Crimen + Investigación">
-    <title lang="es">Ted Bundy: asesino en serie</title>
+    <title lang="es">Episodio 1</title>
     <title lang="en">Episode 1</title>
     <desc lang="es">Los impulsos depravados de Ted Bundy provocaron un frenesí asesino por los estados de Washington y Oregón que acabó con la vida de diez mujeres.(n)</desc>
     <date>2018</date>
     <category lang="es">Documentales</category>
     <category lang="es">Sociedad</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/F3783052" />
-    <episode-num system="onscreen">S1 E1</episode-num>
     <rating>
       <value>16</value>
     </rating>
   </programme>
   <programme start="20210705065600 +0200" stop="20210705074200 +0200" channel="Crimen + Investigación">
-    <title lang="es">Ted Bundy: asesino en serie</title>
+    <title lang="es">Episodio 2</title>
     <title lang="en">Episode 2</title>
     <desc lang="es">Tras ser admitido en la Facultad de Derecho de la Universidad de Utah, Bundy se muda a Salt Lake City y comienza una nueva serie de asesinatos. En Idaho, Utah y Colorado mata a once mujeres más.(n)</desc>
     <date>2018</date>
     <category lang="es">Documentales</category>
     <category lang="es">Sociedad</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/F3783052" />
-    <episode-num system="onscreen">S1 E2</episode-num>
     <rating>
       <value>16</value>
     </rating>
   </programme>
   <programme start="20210705074200 +0200" stop="20210705082700 +0200" channel="Crimen + Investigación">
-    <title lang="es">Ted Bundy: asesino en serie</title>
+    <title lang="es">Episodio 3</title>
     <title lang="en">Episode 3</title>
     <desc lang="es">Tras cometer más de veinte asesinatos, un agente de la Patrulla de Carreteras de Utah detiene a Bundy, pero se escapa durante un descanso del juicio.(n)</desc>
     <date>2018</date>
     <category lang="es">Documentales</category>
     <category lang="es">Sociedad</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/F3783052" />
-    <episode-num system="onscreen">S1 E3</episode-num>
     <rating>
       <value>16</value>
     </rating>
   </programme>
   <programme start="20210705082700 +0200" stop="20210705091200 +0200" channel="Crimen + Investigación">
-    <title lang="es">Ted Bundy: asesino en serie</title>
+    <title lang="es">Episodio 4</title>
     <title lang="en">Episode 4</title>
     <desc lang="es">En la Universidad de Florida, Ted Bundy asesina brutalmente a cuatro mujeres en pocos minutos. Finalmente, es detenido, juzgado y condenado a muerte.(n)</desc>
     <date>2018</date>
     <category lang="es">Documentales</category>
     <category lang="es">Sociedad</category>
     <icon src="https://www.movistarplus.es/recorte/n/externov/F3783052" />
-    <episode-num system="onscreen">S1 E4</episode-num>
     <rating>
       <value>16</value>
     </rating>
@@ -51156,13 +51348,6 @@
   <programme start="20210706071500 +0200" stop="20210706074500 +0200" channel="Divinity">
     <title lang="es">Mejor llama a Kiko</title>
     <desc lang="es">Programa de televenta presentado por Kiko Hernández en el que se promocionan los productos oficiales de los programas de Mediaset España.(n)</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2287245.jpg" />
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">S1 E51</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
   </programme>
   <programme start="20210706074500 +0200" stop="20210706084500 +0200" channel="Divinity">
     <title lang="es">La tienda en casa</title>
@@ -63390,2163 +63575,6 @@
     <episode-num system="onscreen">S1 E6</episode-num>
     <rating system="ES">
       <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20210705003000 +0000" stop="20210705010000 +0000" channel="Dreamworks">
-    <title lang="es">George de la jungla</title>
-    <sub-title lang="es">Falta de Platanium / Tengo que ser Yo/Castor</sub-title>
-    <desc lang="es">George y Magnolia se vuelven locos por los plátanos. No es que se vayan a acabar, ¿verdad? / El descubrimiento de castores en la jungla lleva a George a una búsqueda de introspección para descubrir lo qué significa ser humano.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_707617.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705010000 +0000" stop="20210705011500 +0000" channel="Dreamworks">
-    <title lang="es">Pat, el cartero</title>
-    <sub-title lang="es">Pat el cartero y la aventura en el peñón</sub-title>
-    <desc lang="es">Alf traslada las ovejas a pastos más elevados, incluida la oveja de Bill, Bessie.(n)</desc>
-    <date>2006</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722071.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S7 E11</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705011500 +0000" stop="20210705013000 +0000" channel="Dreamworks">
-    <title lang="es">Pat, el cartero</title>
-    <sub-title lang="es">Pat el cartero y los objetos perdidos</sub-title>
-    <desc lang="es">Meera y Julian deciden montar una oficina de objetos perdidos y encuentran toda clase de objetos perdidos junto a las casas de la gente. Pat reparte el correo, pero se pierde un paquete con una medicina importante para un paciente de Amy.(n)</desc>
-    <date>2006</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722071.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S7 E12</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705013000 +0000" stop="20210705014500 +0000" channel="Dreamworks">
-    <title lang="es">Pat, el cartero</title>
-    <sub-title lang="es">Pat el cartero y el gato parlante</sub-title>
-    <desc lang="es">Julian y Charlie necesitan una buena idea para la presentación del colegio.(n)</desc>
-    <date>2006</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722071.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S7 E13</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705014500 +0000" stop="20210705020000 +0000" channel="Dreamworks">
-    <title lang="es">Pat, el cartero</title>
-    <sub-title lang="es">Pat el cartero y la casita del erizo</sub-title>
-    <desc lang="es">Sara pasa la noche fuera y Pat y Julian tienen que apañárselas solos.(n)</desc>
-    <date>2006</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722071.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S7 E14</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705020000 +0000" stop="20210705021500 +0000" channel="Dreamworks">
-    <title lang="es">Adivina con Jess</title>
-    <sub-title lang="es">¿Por qué no vuela mi cometa?</sub-title>
-    <desc lang="es">Mimi le da a Jess su primera cometa. De hecho, es muy especial. ¡Está deseando hacerla volar! ¡Pero primero tiene que averiguar CÓMO!(n)</desc>
-    <credits>
-      <actor>Jo Wyatt</actor>
-      <actor>Charlie George</actor>
-      <actor>Daniel Anthony</actor>
-      <actor>Bailei Pepper</actor>
-      <actor>Maria Darling</actor>
-      <actor>Miranda Montague</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722097.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E23</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705021500 +0000" stop="20210705023000 +0000" channel="Dreamworks">
-    <title lang="es">Adivina con Jess</title>
-    <sub-title lang="es">¿Cómo ha llegado una semilla de diente de león hasta el jard..</sub-title>
-    <desc lang="es">Mimi se sorprende al encontrar un amargón en su hermoso jardín rosa y morado. Ella no lo plantó allí, entonces, ¿cómo diablos ha llegado allí el amargón? Jess está decidida a averiguarlo.(n)</desc>
-    <credits>
-      <actor>Jo Wyatt</actor>
-      <actor>Charlie George</actor>
-      <actor>Daniel Anthony</actor>
-      <actor>Bailei Pepper</actor>
-      <actor>Maria Darling</actor>
-      <actor>Miranda Montague</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722097.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E24</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705023000 +0000" stop="20210705024500 +0000" channel="Dreamworks">
-    <title lang="es">Adivina con Jess</title>
-    <sub-title lang="es">¿Qué es ese ruido que parece un gruñido o un rugido?</sub-title>
-    <desc lang="es">Jess se propone tranquilizar a sus asustados amigos averiguando qué es el ruido tan fuerte que se oye en el cielo.(n)</desc>
-    <credits>
-      <actor>Jo Wyatt</actor>
-      <actor>Charlie George</actor>
-      <actor>Daniel Anthony</actor>
-      <actor>Bailei Pepper</actor>
-      <actor>Maria Darling</actor>
-      <actor>Miranda Montague</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722097.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E25</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705024500 +0000" stop="20210705030000 +0000" channel="Dreamworks">
-    <title lang="es">Adivina con Jess</title>
-    <sub-title lang="es">¿Cuándo llegará la nieve?</sub-title>
-    <desc lang="es">Jess espera que nieve pronto para poder hacer gatitos de nieve y jugar en la nieve como lo hicieron el año pasado. Sin embargo, antes tiene que averiguar que tiempo deben tener para que llegue la nieve.(n)</desc>
-    <credits>
-      <actor>Jo Wyatt</actor>
-      <actor>Charlie George</actor>
-      <actor>Daniel Anthony</actor>
-      <actor>Bailei Pepper</actor>
-      <actor>Maria Darling</actor>
-      <actor>Miranda Montague</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722097.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E26</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705030000 +0000" stop="20210705031500 +0000" channel="Dreamworks">
-    <title lang="es">Raa Raa y sus amigos</title>
-    <sub-title lang="es">El cuento de siesta de Raa Raa</sub-title>
-    <desc lang="es">Topsy va a leerle a Zebby un cuento de siesta. Raa Raa quiere hacer los ruidos que acompañan el cuento, pero son demasiado fuertes y la pobre Zebby no puede dormirse. ¿Encontrará Raa Raa ruidos tranquilos para dormir en la selva selvática?(n)</desc>
-    <credits>
-      <producer>Curtis Jobling</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722093.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E23</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705031500 +0000" stop="20210705033000 +0000" channel="Dreamworks">
-    <title lang="es">Raa Raa y sus amigos</title>
-    <sub-title lang="es">Plátanos van</sub-title>
-    <desc lang="es">Ooo Ooo celebra la fiesta del plátano. Raa Raa y los demás han cogido un montón de plátanos, pero ¿cómo los llevarán a casa de Ooo Ooo a tiempo para la fiesta?(n)</desc>
-    <credits>
-      <producer>Curtis Jobling</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722093.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E24</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705033000 +0000" stop="20210705034500 +0000" channel="Dreamworks">
-    <title lang="es">Raa Raa y sus amigos</title>
-    <sub-title lang="es">Crocky el metálico</sub-title>
-    <desc lang="es">A Crocky se le queda atascado el pie en un cubo que hace ruido cada vez que anda.(n)</desc>
-    <credits>
-      <producer>Curtis Jobling</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722093.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E25</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705034500 +0000" stop="20210705040000 +0000" channel="Dreamworks">
-    <title lang="es">Raa Raa y sus amigos</title>
-    <sub-title lang="es">El nuevo ruido de Raa Raa</sub-title>
-    <desc lang="es">Raa Raa quiere encontrar el ruido perfecto para tocar con su amigo Huffty. Oye un ruido nuevo genial, pero no sabe qué lo ha hecho. Se embarca en un descubrimiento ruidoso para averiguar cómo volver a hacer ese sonido nuevo maravilloso.(n)</desc>
-    <credits>
-      <producer>Curtis Jobling</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722093.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E26</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705040000 +0000" stop="20210705041500 +0000" channel="Dreamworks">
-    <title lang="es">Raa Raa y sus amigos</title>
-    <sub-title lang="es">El regalo perfecto</sub-title>
-    <desc lang="es">Raa Raa está seguro de haber encontrado el regalo perfecto para cada uno de sus amigos, pero ¿qué pasa si los paquetes se mezclan?(n)</desc>
-    <credits>
-      <producer>Curtis Jobling</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722093.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E35</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705041500 +0000" stop="20210705043000 +0000" channel="Dreamworks">
-    <title lang="es">Raa Raa y sus amigos</title>
-    <sub-title lang="es">Raa Raa el imitador</sub-title>
-    <desc lang="es">Raa Raa está jugando a copiar a todo el mundo. Distrae a sus amigos, pero ¿podrá darle un buen uso al juego?(n)</desc>
-    <credits>
-      <producer>Curtis Jobling</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722093.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E36</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705043000 +0000" stop="20210705044500 +0000" channel="Dreamworks">
-    <title lang="es">Pat, el cartero</title>
-    <sub-title lang="es">Pat el cartero y el rescate de mascotas</sub-title>
-    <desc lang="es">Julian se encuentra mal y Pat se toma el día libre para poder cuidar de él.(n)</desc>
-    <date>2006</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722071.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S7 E9</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705044500 +0000" stop="20210705050000 +0000" channel="Dreamworks">
-    <title lang="es">Pat, el cartero</title>
-    <sub-title lang="es">Pat el cartero y el pony express</sub-title>
-    <desc lang="es">Julian, Meera y Sarah van a una lección de equitación con Calabaza. Sarah es muy mandona y finge que lo sabe todo sobre caballos. Pat confiesa que los caballos le dan miedo. Amy sale a atender a una oveja herida y los niños meten a Calabaza en el establo.(n)</desc>
-    <date>2006</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722071.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S7 E10</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705050000 +0000" stop="20210705053000 +0000" channel="Dreamworks">
-    <title lang="es">Trolls</title>
-    <sub-title lang="es">No es diversión todo lo que reluce/Pique de hermanas</sub-title>
-    <desc lang="es">Mientras la reina Poppy celebra la nueva época de paz con fiestas, eventos deportivos y celebraciones, Branch se esfuerza por ser un poco más juerguista.(n)</desc>
-    <credits>
-      <actor>Amanda Leighton</actor>
-      <actor>Ron Funches</actor>
-      <actor>David Kaye</actor>
-      <producer>Matthew Ireland Beans</producer>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_108968.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E25</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705053000 +0000" stop="20210705060000 +0000" channel="Dreamworks">
-    <title lang="es">Trolls</title>
-    <sub-title lang="es">Tronos Musicales/Hora de zanganear</sub-title>
-    <desc lang="es">Mientras la reina Poppy celebra la nueva época de paz con fiestas, eventos deportivos y celebraciones, Branch se esfuerza por ser un poco más juerguista.(n)</desc>
-    <credits>
-      <actor>Amanda Leighton</actor>
-      <actor>Ron Funches</actor>
-      <actor>David Kaye</actor>
-      <producer>Matthew Ireland Beans</producer>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_108968.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E26</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705060000 +0000" stop="20210705063000 +0000" channel="Dreamworks">
-    <title lang="es">Viva el Rey Julien</title>
-    <sub-title lang="es">Coronadme</sub-title>
-    <desc lang="es">En esta serie ganadora del Emmy al mejor programa infantil de animación, el rey Julien, bailongo soberano de Madagascar, vive aventuras de lo más locas en la selva.(n)</desc>
-    <credits>
-      <actor>Andy Richter</actor>
-      <actor>Danny Jacobs</actor>
-      <actor>India de Beaufort</actor>
-      <actor>Kevin Michael Richardson</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_204679.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705063000 +0000" stop="20210705070000 +0000" channel="Dreamworks">
-    <title lang="es">Spirit</title>
-    <sub-title lang="es">Fortu y el misterio de la tarta</sub-title>
-    <desc lang="es">Cuando la deliciosa tarta de cerezas de Abigaíl desaparece, Fortu se inspira en su libro favorito y juega a los detectives con sus amigas para encontrarla.(n)</desc>
-    <credits>
-      <producer>Aury Wallington</producer>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_885225.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210705070000 +0000" stop="20210705071500 +0000" channel="Dreamworks">
-    <title lang="es">Raa Raa y sus amigos</title>
-    <sub-title lang="es">Doctor Raa Raa</sub-title>
-    <desc lang="es">Raa Raa está ocupado conduciendo por la selva con el cubby-buggy de emergencia para ir al rescate de cualquiera que se haya chocado y hecho daño. Pero ¿de verdad necesitan atención médica todos sus amigos?(n)</desc>
-    <credits>
-      <producer>Curtis Jobling</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722093.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E40</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705071500 +0000" stop="20210705073000 +0000" channel="Dreamworks">
-    <title lang="es">Raa Raa y sus amigos</title>
-    <sub-title lang="es">El reto ruidoso de Raa Raa</sub-title>
-    <desc lang="es">Crocky reta a Raa Raa a hacer ruido con todo lo que hay en la selva selvática. ¿Ganará Raa Raa?(n)</desc>
-    <credits>
-      <producer>Curtis Jobling</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722093.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E41</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705073000 +0000" stop="20210705074500 +0000" channel="Dreamworks">
-    <title lang="es">Pat, el cartero</title>
-    <sub-title lang="es">Pat el cartero y el rescate de mascotas</sub-title>
-    <desc lang="es">Julian se encuentra mal y Pat se toma el día libre para poder cuidar de él.(n)</desc>
-    <date>2006</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722071.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S7 E9</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705074500 +0000" stop="20210705080000 +0000" channel="Dreamworks">
-    <title lang="es">Pat, el cartero</title>
-    <sub-title lang="es">Pat el cartero y el pony express</sub-title>
-    <desc lang="es">Julian, Meera y Sarah van a una lección de equitación con Calabaza. Sarah es muy mandona y finge que lo sabe todo sobre caballos. Pat confiesa que los caballos le dan miedo. Amy sale a atender a una oveja herida y los niños meten a Calabaza en el establo.(n)</desc>
-    <date>2006</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722071.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S7 E10</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705080000 +0000" stop="20210705081500 +0000" channel="Dreamworks">
-    <title lang="es">Adivina con Jess</title>
-    <sub-title lang="es">¿Cómo hacemos un barco?</sub-title>
-    <desc lang="es">Jess y Horace quieren jugar a las carreras de barcos en el estanque, ¡pero primero deben descubrir cómo hacer un barco! Algunas cosas son demasiado pesadas, otras demasiado ligeras.(n)</desc>
-    <credits>
-      <actor>Jo Wyatt</actor>
-      <actor>Charlie George</actor>
-      <actor>Daniel Anthony</actor>
-      <actor>Bailei Pepper</actor>
-      <actor>Maria Darling</actor>
-      <actor>Miranda Montague</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722097.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705081500 +0000" stop="20210705083000 +0000" channel="Dreamworks">
-    <title lang="es">Adivina con Jess</title>
-    <sub-title lang="es">¿Cómo podemos estar calentitos?</sub-title>
-    <desc lang="es">Hoy es la fiesta de recolección de manzanas de Willow, pero algunos de los amigos simplemente tienen demasiado frío para ir. Jess trata de averiguar cómo mantenerlos a todos abrigados, ¿deberían cubrirse con barro como lo hacen las ranas?(n)</desc>
-    <credits>
-      <actor>Jo Wyatt</actor>
-      <actor>Charlie George</actor>
-      <actor>Daniel Anthony</actor>
-      <actor>Bailei Pepper</actor>
-      <actor>Maria Darling</actor>
-      <actor>Miranda Montague</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722097.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705083000 +0000" stop="20210705084000 +0000" channel="Dreamworks">
-    <title lang="es">El osito Charley</title>
-    <sub-title lang="es">Osito al espacio</sub-title>
-    <desc lang="es">Charley no se quiere ir aún a la cama, ¡antes quiere visitar la Luna! Así que despega en su cohete y aterriza en la Luna, donde conoce un simpático alienígena que quiere jugar a la pelota lunar.(n)</desc>
-    <credits>
-      <producer>Daniel Pickering</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_119643.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705084000 +0000" stop="20210705085000 +0000" channel="Dreamworks">
-    <title lang="es">El osito Charley</title>
-    <sub-title lang="es">Baloncesto para micos</sub-title>
-    <desc lang="es">Charley se rinde, no consigue encestar la pelota, es muy difícil. Pero, si fuera fácil, no tendría gracia, ¿verdad? Charley va a una cancha de baloncesto y puede parar de encestar la pelota haga lo que haga. ¡Ahora desearía tener que esforzarse!(n)</desc>
-    <credits>
-      <producer>Daniel Pickering</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_130065.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705085000 +0000" stop="20210705090000 +0000" channel="Dreamworks">
-    <title lang="es">El osito Charley</title>
-    <sub-title lang="es">Charley de safari</sub-title>
-    <desc lang="es">Charley está jugando a imitar a diferentes animales salvajes, pero no tiene ni idea de qué sonidos hacen estos animales. Para descubrirlo, Charley se va de emocionante safari por la selva con sus amigos Mico y Mordisquitos para encontrar esos animales.(n)</desc>
-    <credits>
-      <producer>Daniel Pickering</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_119643.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705090000 +0000" stop="20210705091500 +0000" channel="Dreamworks">
-    <title lang="es">Raa Raa y sus amigos</title>
-    <sub-title lang="es">Atrapa la página</sub-title>
-    <desc lang="es">Topsy intenta leer, pero Raa Raa y los demás animales corretean alrededor y hacen mucho ruido. Topsy se molesta tanto que, sin querer, arranca la última página del libro. ¿Saldrán sus amigos en una persecución escandalosa por la selva para encontrarla?(n)</desc>
-    <credits>
-      <producer>Curtis Jobling</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722093.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E42</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705091500 +0000" stop="20210705093000 +0000" channel="Dreamworks">
-    <title lang="es">Raa Raa y sus amigos</title>
-    <sub-title lang="es">La rueda chirriante</sub-title>
-    <desc lang="es">Raa Raa se siente con ganas de ayudar y se ofrece para llevar las provisiones al picnic en Villa Rocosa para sus amigos, pero no llega a tiempo y todos irán a ver qué le ha pasado al pequeño león ruidoso.(n)</desc>
-    <credits>
-      <producer>Curtis Jobling</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722093.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E43</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705093000 +0000" stop="20210705094500 +0000" channel="Dreamworks">
-    <title lang="es">Pat, el cartero</title>
-    <sub-title lang="es">Pat el cartero y la aventura en el peñón</sub-title>
-    <desc lang="es">Alf traslada las ovejas a pastos más elevados, incluida la oveja de Bill, Bessie.(n)</desc>
-    <date>2006</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722071.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S7 E11</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705094500 +0000" stop="20210705100000 +0000" channel="Dreamworks">
-    <title lang="es">Pat, el cartero</title>
-    <sub-title lang="es">Pat el cartero y los objetos perdidos</sub-title>
-    <desc lang="es">Meera y Julian deciden montar una oficina de objetos perdidos y encuentran toda clase de objetos perdidos junto a las casas de la gente. Pat reparte el correo, pero se pierde un paquete con una medicina importante para un paciente de Amy.(n)</desc>
-    <date>2006</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722071.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S7 E12</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705100000 +0000" stop="20210705101500 +0000" channel="Dreamworks">
-    <title lang="es">Adivina con Jess</title>
-    <sub-title lang="es">¿Qué le ha pasado a la oruga Chloe?</sub-title>
-    <desc lang="es">Jess quiere presentarle a Willow a su nueva amiga, Chloe, la oruga. Pero, ¿a dónde se ha ido Chloe? La busca en todos los lugares en los que podría estar, donde la ha visitado antes, donde puede haber hojas jugosas que le gustaría comer.(n)</desc>
-    <credits>
-      <actor>Jo Wyatt</actor>
-      <actor>Charlie George</actor>
-      <actor>Daniel Anthony</actor>
-      <actor>Bailei Pepper</actor>
-      <actor>Maria Darling</actor>
-      <actor>Miranda Montague</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722097.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705101500 +0000" stop="20210705103000 +0000" channel="Dreamworks">
-    <title lang="es">Adivina con Jess</title>
-    <sub-title lang="es">¿Cuándo volverán mis rayas de colores?</sub-title>
-    <desc lang="es">Jess está jugando a saltar charcos, esquivando la lluvia para divertirse en un día sombrío cuando, de repente, justo cuando está dejando de llover, sale el sol y, al mismo tiempo, ve un hermoso arco iris en el cielo.(n)</desc>
-    <credits>
-      <actor>Jo Wyatt</actor>
-      <actor>Charlie George</actor>
-      <actor>Daniel Anthony</actor>
-      <actor>Bailei Pepper</actor>
-      <actor>Maria Darling</actor>
-      <actor>Miranda Montague</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722097.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705103000 +0000" stop="20210705104000 +0000" channel="Dreamworks">
-    <title lang="es">El osito Charley</title>
-    <sub-title lang="es">El enorme Osito Charley</sub-title>
-    <desc lang="es">Charley quiere ser más alto y más grande, pero, cuando se convierte en gigante, se da cuenta de que es tan grande que hay un montón de cosas divertidas que ya no puede hacer, como ir a una fiesta en una casa de tamaño normal.(n)</desc>
-    <credits>
-      <producer>Daniel Pickering</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_130065.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705104000 +0000" stop="20210705105000 +0000" channel="Dreamworks">
-    <title lang="es">El osito Charley</title>
-    <sub-title lang="es">Charley, la estrella del Pop</sub-title>
-    <desc lang="es">Charley quiere convertirse en estrella del Pop. La fama, los fans, la diversión.(n)</desc>
-    <credits>
-      <producer>Daniel Pickering</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_130068.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705105000 +0000" stop="20210705110000 +0000" channel="Dreamworks">
-    <title lang="es">El osito Charley</title>
-    <sub-title lang="es">El gran partido de Charley</sub-title>
-    <desc lang="es">Charley finge que Mordisquitos y Bellarina están discutiendo.(n)</desc>
-    <credits>
-      <producer>Daniel Pickering</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_130068.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705110000 +0000" stop="20210705113000 +0000" channel="Dreamworks">
-    <title lang="es">Las aventuras de la calle Harvey</title>
-    <sub-title lang="es">Campamento de fin de semana/Las chicas solo quieren seguir divirtiéndose</sub-title>
-    <desc lang="es">Tras un cambio de planes, las chicas tienen una idea: montar su propio campamento en plena calle Harvey. Un flashback revela cómo se hicieron amigas Audrey, Dot y Lotta.(n)</desc>
-    <credits>
-      <producer>Emily Brundige</producer>
-      <producer>Aliki Theofilopoulos Grafft</producer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722112.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705113000 +0000" stop="20210705120000 +0000" channel="Dreamworks">
-    <title lang="es">Las aventuras de Rocky y Bullwinkle</title>
-    <sub-title lang="es">La leyenda de las gemas del poder, capítulo 3</sub-title>
-    <desc lang="es">Rocky y Bullwinkle se enfrentan a otro guardián para encontrar la última gema: la gema del viento.(n)</desc>
-    <credits>
-      <producer>Jay Ward</producer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722128.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E20</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705120000 +0000" stop="20210705123000 +0000" channel="Dreamworks">
-    <title lang="es">El amanecer de los Croods</title>
-    <sub-title lang="es">Una Noche Fuera De Casa/Estilo Thunk</sub-title>
-    <desc lang="es">Vuelve la primera familia moderna del mundo, más divertida que nunca y dejando la Prehistoria patas arriba en esta comedia de situación para toda la familia.(n)</desc>
-    <credits>
-      <actor>Chris Parnell</actor>
-      <actor>Cree Summer</actor>
-      <actor>Stephanie Lemelin</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_211337.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705123000 +0000" stop="20210705130000 +0000" channel="Dreamworks">
-    <title lang="es">Cleopatra en el espacio</title>
-    <sub-title lang="es">La Faraona aprendiz</sub-title>
-    <desc lang="es">Cleo se hace pasar por la reina Yosira para convencer a otros líderes de la galaxia para que se unan a la lucha contra Octavio mientras que a la vez intenta desenmascarar a un desertor que planea matar a Yosira.(n)</desc>
-    <credits>
-      <actor>Jorge Diaz</actor>
-      <actor>Katie Crown</actor>
-      <actor>Lilimar Hernandez</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722116.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705130000 +0000" stop="20210705133000 +0000" channel="Dreamworks">
-    <title lang="es">She-Ra y las princesas del poder</title>
-    <sub-title lang="es">La reunión</sub-title>
-    <desc lang="es">Gatia busca a Tejesombras. Adora y Destello siguen a Arco hasta su hogar y descubren que le ha estado mintiendo a su familia.(n)</desc>
-    <credits>
-      <producer>Noelle Stevenson</producer>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722120.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E20</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210705133000 +0000" stop="20210705140000 +0000" channel="Dreamworks">
-    <title lang="es">Dragones</title>
-    <sub-title lang="es">La Noche y La Furia</sub-title>
-    <desc lang="es">Los chicos van a Isla Dragón para entrenar a sus dragones. Allí se encuentran a Dagur, el jefe de los berseker, que está obsesionado con cazar a Furia Nocturna.(n)</desc>
-    <date>2014</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_883554.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210705140000 +0000" stop="20210705143000 +0000" channel="Dreamworks">
-    <title lang="es">Viva el Rey Julien</title>
-    <sub-title lang="es">Coronadme</sub-title>
-    <desc lang="es">En esta serie ganadora del Emmy al mejor programa infantil de animación, el rey Julien, bailongo soberano de Madagascar, vive aventuras de lo más locas en la selva.(n)</desc>
-    <credits>
-      <actor>Andy Richter</actor>
-      <actor>Danny Jacobs</actor>
-      <actor>India de Beaufort</actor>
-      <actor>Kevin Michael Richardson</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_204679.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705143000 +0000" stop="20210705150000 +0000" channel="Dreamworks">
-    <title lang="es">Las aventuras del Gato con Botas</title>
-    <sub-title lang="es">Cerdos</sub-title>
-    <desc lang="es">Brandt, el hermano de Toby, cree que un malvado brujo obligó a sus hermanos ninjas a echarle de la banda, y le suplica al gato con botas que les ayude a reconciliarse.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_116423.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705150000 +0000" stop="20210705153000 +0000" channel="Dreamworks">
-    <title lang="es">Trolls</title>
-    <sub-title lang="es">El impostor/El eneamigo</sub-title>
-    <desc lang="es">Mientras la reina Poppy celebra la nueva época de paz con fiestas, eventos deportivos y celebraciones, Branch se esfuerza por ser un poco más juerguista.(n)</desc>
-    <credits>
-      <actor>Amanda Leighton</actor>
-      <actor>Ron Funches</actor>
-      <actor>David Kaye</actor>
-      <producer>Matthew Ireland Beans</producer>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_108968.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705153000 +0000" stop="20210705160000 +0000" channel="Dreamworks">
-    <title lang="es">Home</title>
-    <sub-title lang="es">La materia gris/Ataque de fiebre</sub-title>
-    <desc lang="es">El extraterrestre Oh deja su planeta y se muda con su mejor amiga y su madre, Tip y Lucy. Para él, descubrir el mundo de la familia será toda una novedad.(n)</desc>
-    <credits>
-      <actor>Matt Jones</actor>
-      <actor>Rachel Crow</actor>
-      <actor>Mark Whitten</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_137125.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210705160000 +0000" stop="20210705163000 +0000" channel="Dreamworks">
-    <title lang="es">El amanecer de los Croods</title>
-    <sub-title lang="es">Una Noche Fuera De Casa/Estilo Thunk</sub-title>
-    <desc lang="es">Vuelve la primera familia moderna del mundo, más divertida que nunca y dejando la Prehistoria patas arriba en esta comedia de situación para toda la familia.(n)</desc>
-    <credits>
-      <actor>Chris Parnell</actor>
-      <actor>Cree Summer</actor>
-      <actor>Stephanie Lemelin</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_211337.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705163000 +0000" stop="20210705170000 +0000" channel="Dreamworks">
-    <title lang="es">Cleopatra en el espacio</title>
-    <sub-title lang="es">La Faraona aprendiz</sub-title>
-    <desc lang="es">Cleo se hace pasar por la reina Yosira para convencer a otros líderes de la galaxia para que se unan a la lucha contra Octavio mientras que a la vez intenta desenmascarar a un desertor que planea matar a Yosira.(n)</desc>
-    <credits>
-      <actor>Jorge Diaz</actor>
-      <actor>Katie Crown</actor>
-      <actor>Lilimar Hernandez</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722116.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705170000 +0000" stop="20210705173000 +0000" channel="Dreamworks">
-    <title lang="es">She-Ra y las princesas del poder</title>
-    <sub-title lang="es">La reunión</sub-title>
-    <desc lang="es">Gatia busca a Tejesombras. Adora y Destello siguen a Arco hasta su hogar y descubren que le ha estado mintiendo a su familia.(n)</desc>
-    <credits>
-      <producer>Noelle Stevenson</producer>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722120.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E20</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210705173000 +0000" stop="20210705180000 +0000" channel="Dreamworks">
-    <title lang="es">Dragones</title>
-    <sub-title lang="es">La Noche y La Furia</sub-title>
-    <desc lang="es">Los chicos van a Isla Dragón para entrenar a sus dragones. Allí se encuentran a Dagur, el jefe de los berseker, que está obsesionado con cazar a Furia Nocturna.(n)</desc>
-    <date>2014</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_883554.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210705180000 +0000" stop="20210705183000 +0000" channel="Dreamworks">
-    <title lang="es">Viva el Rey Julien</title>
-    <sub-title lang="es">Coronadme</sub-title>
-    <desc lang="es">En esta serie ganadora del Emmy al mejor programa infantil de animación, el rey Julien, bailongo soberano de Madagascar, vive aventuras de lo más locas en la selva.(n)</desc>
-    <credits>
-      <actor>Andy Richter</actor>
-      <actor>Danny Jacobs</actor>
-      <actor>India de Beaufort</actor>
-      <actor>Kevin Michael Richardson</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_204679.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705183000 +0000" stop="20210705190000 +0000" channel="Dreamworks">
-    <title lang="es">Las aventuras del Gato con Botas</title>
-    <sub-title lang="es">Cerdos</sub-title>
-    <desc lang="es">Brandt, el hermano de Toby, cree que un malvado brujo obligó a sus hermanos ninjas a echarle de la banda, y le suplica al gato con botas que les ayude a reconciliarse.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_116423.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705190000 +0000" stop="20210705193000 +0000" channel="Dreamworks">
-    <title lang="es">Trolls</title>
-    <sub-title lang="es">El impostor/El eneamigo</sub-title>
-    <desc lang="es">Mientras la reina Poppy celebra la nueva época de paz con fiestas, eventos deportivos y celebraciones, Branch se esfuerza por ser un poco más juerguista.(n)</desc>
-    <credits>
-      <actor>Amanda Leighton</actor>
-      <actor>Ron Funches</actor>
-      <actor>David Kaye</actor>
-      <producer>Matthew Ireland Beans</producer>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_108968.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705193000 +0000" stop="20210705200000 +0000" channel="Dreamworks">
-    <title lang="es">Home</title>
-    <sub-title lang="es">La materia gris/Ataque de fiebre</sub-title>
-    <desc lang="es">El extraterrestre Oh deja su planeta y se muda con su mejor amiga y su madre, Tip y Lucy. Para él, descubrir el mundo de la familia será toda una novedad.(n)</desc>
-    <credits>
-      <actor>Matt Jones</actor>
-      <actor>Rachel Crow</actor>
-      <actor>Mark Whitten</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_137125.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210705200000 +0000" stop="20210705203000 +0000" channel="Dreamworks">
-    <title lang="es">Voltron, kondairetako defendatzailea</title>
-    <sub-title lang="es">La Nueva Alianza</sub-title>
-    <desc lang="es">Un explorador espacial al que se daba por perdido en el espacio vuelve a la Tierra y se une a cuatro adolescentes para buscar un león robótico alienígena gigantesco.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_905643.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210705203000 +0000" stop="20210705210000 +0000" channel="Dreamworks">
-    <title lang="es">Las aventuras de Rocky y Bullwinkle</title>
-    <sub-title lang="es">La leyenda de las gemas del poder, capítulo 3</sub-title>
-    <desc lang="es">Rocky y Bullwinkle se enfrentan a otro guardián para encontrar la última gema: la gema del viento.(n)</desc>
-    <credits>
-      <producer>Jay Ward</producer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722128.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E20</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705210000 +0000" stop="20210705213000 +0000" channel="Dreamworks">
-    <title lang="es">George de la jungla</title>
-    <sub-title lang="es">La llamada de la Naturaleza/ Mucho que hacer sobre peluches</sub-title>
-    <desc lang="es">Cuando Ursula es apartada, George descubre que a veces la ayuda puede ser demasiada.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_707617.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705213000 +0000" stop="20210705220000 +0000" channel="Dreamworks">
-    <title lang="es">Casper. Escuela de sustos</title>
-    <sub-title lang="es">Fantasma Impide Mudanza / Mi Bella Arpía</sub-title>
-    <desc lang="es">El padre de Jimmy quiere mudarse con la familia a otra ciudad y Casper intenta detenerle. El baile de invierno está a la vuelta de la esquina y Ra quiere ser el rey.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722075.jpg" />
-    <country lang="es">FRA</country>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705220000 +0000" stop="20210705221500 +0000" channel="Dreamworks">
-    <title lang="es">Mi vida y yo</title>
-    <sub-title lang="es">Engaños mal concebidos</sub-title>
-    <desc lang="es">Birch logra convencer a Liam de que el mal humor de Sandra, que pone en peligro sus notas, se debe a problemas con los chicos. En un esfuerzo por librarla de su angustia y que vuelva a estudiar, los primos se inventan un admirador secreto para Sandra.(n)</desc>
-    <credits>
-      <producer>Cindy Filipenko</producer>
-      <producer>J.C. Little</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722067.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210705221500 +0000" stop="20210705223000 +0000" channel="Dreamworks">
-    <title lang="es">Mi vida y yo</title>
-    <sub-title lang="es">Recurre al grupo</sub-title>
-    <desc lang="es">Cuando Sandra inscribe al Grupo 4 para ir a un programa de preguntas académicas, los chicos no tardan en descubrir cómo aprovechar mejor el tiempo que salen en la televisión.(n)</desc>
-    <credits>
-      <producer>Cindy Filipenko</producer>
-      <producer>J.C. Little</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722067.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210705223000 +0000" stop="20210705224500 +0000" channel="Dreamworks">
-    <title lang="es">Mi vida y yo</title>
-    <sub-title lang="es">Grandullón en Lienzo</sub-title>
-    <desc lang="es">La victoria de Raffi en la exhibición de arte del distrito lanza a Birch.(n)</desc>
-    <credits>
-      <producer>Cindy Filipenko</producer>
-      <producer>J.C. Little</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722067.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210705224500 +0000" stop="20210705230000 +0000" channel="Dreamworks">
-    <title lang="es">Mi vida y yo</title>
-    <sub-title lang="es">El Lápiz Asesino</sub-title>
-    <desc lang="es">Al principio, Birch se horroriza cuando Jason publica su ''muestra'' de Manga en el periódico escolar, pero pronto sucumbe al encanto de la popularidad. A la vez que sube el estatus social de Birch, sus compañeros de grupo se convierten en el hazmerreír.(n)</desc>
-    <credits>
-      <producer>Cindy Filipenko</producer>
-      <producer>J.C. Little</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722067.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210705230000 +0000" stop="20210705233000 +0000" channel="Dreamworks">
-    <title lang="es">Casper. Escuela de sustos</title>
-    <sub-title lang="es">Deterioro de Colmillos / Día de Terror</sub-title>
-    <desc lang="es">¿Por qué el comportamiento de Thatch es más extraño que nunca? Le duelen los colmillos. Mantha intenta convertirse en la primera zombi que gana un campeonato de miedo.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722075.jpg" />
-    <country lang="es">FRA</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210705233000 +0000" stop="20210706000000 +0000" channel="Dreamworks">
-    <title lang="es">Casper. Escuela de sustos</title>
-    <sub-title lang="es">Desarmado y peligroso / Frankensobras</sub-title>
-    <desc lang="es">A Mantha se le cae el brazo y decide sustituirlo de forma temporal por un monstruoso tentáculo. Casper recibe unos deberes de clase casi imposibles: crear vida.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722075.jpg" />
-    <country lang="es">FRA</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706000000 +0000" stop="20210706003000 +0000" channel="Dreamworks">
-    <title lang="es">George de la jungla</title>
-    <sub-title lang="es">Steve de la Jungla / Adivina lo que viene a cenar</sub-title>
-    <desc lang="es">George se horroriza al saber que, en un principio, Steve estaba destinado a ser rey.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_707617.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S2 E9</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706003000 +0000" stop="20210706010000 +0000" channel="Dreamworks">
-    <title lang="es">George de la jungla</title>
-    <sub-title lang="es">Os presento a Carne / Política Corporal</sub-title>
-    <desc lang="es">George realiza una sesión de espiritismo para contactar con los espíritus de los almuerzos pasados / Cuando el cuerpo de George es destrozado una vez más, se declara en huelga, dejando a George como una cabeza nada más.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_707617.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S2 E10</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706010000 +0000" stop="20210706011500 +0000" channel="Dreamworks">
-    <title lang="es">Pat, el cartero</title>
-    <sub-title lang="es">Pat el cartero y el baile de Bollywood</sub-title>
-    <desc lang="es">Meera y Sarah ensayan un baile tradicional indio para el festival escolar. Les está costando, pero Meera no quiere pedirle ayuda a Nisha, porque quiere ser mayor y hacerlo sola. Pat le entrega una red a Dorothy, cuyas lechugas sufren una plaga de bichos.(n)</desc>
-    <date>2006</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722071.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S7 E1</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706011500 +0000" stop="20210706013000 +0000" channel="Dreamworks">
-    <title lang="es">Pat, el cartero</title>
-    <sub-title lang="es">Pat el cartero y las fresas robadas</sub-title>
-    <desc lang="es">El oficial Selby ha descubierto que a la doctora Gilbertson le encanta el banjo e intenta ensayar una canción en secreto. Pat visita a Dorothy y esta le dice que le están desapareciendo las fresas.(n)</desc>
-    <date>2006</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722071.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S7 E2</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706013000 +0000" stop="20210706014500 +0000" channel="Dreamworks">
-    <title lang="es">Pat, el cartero</title>
-    <sub-title lang="es">Pat el cartero y el caldero de oro</sub-title>
-    <desc lang="es">Pat y los otros padres deciden alegrar el colegio pintando un arcoíris en el patio.(n)</desc>
-    <date>2006</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722071.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S7 E3</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706014500 +0000" stop="20210706020000 +0000" channel="Dreamworks">
-    <title lang="es">Pat, el cartero</title>
-    <sub-title lang="es">Pat el cartero y los caballeros de Greendale</sub-title>
-    <desc lang="es">Pat embellece el jardín mientras Sara, Dorothy y Nisha pasan el día fuera. Se queda de canguro de todos los niños, que se divierten jugando a caballeros medievales. Bill le dice a Lucy que por ser niña no sabe jugar a los caballeros medievales.(n)</desc>
-    <date>2006</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722071.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S7 E4</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706020000 +0000" stop="20210706021500 +0000" channel="Dreamworks">
-    <title lang="es">Adivina con Jess</title>
-    <sub-title lang="es">¿Cómo hacemos un barco?</sub-title>
-    <desc lang="es">Jess y Horace quieren jugar a las carreras de barcos en el estanque, ¡pero primero deben descubrir cómo hacer un barco! Algunas cosas son demasiado pesadas, otras demasiado ligeras.(n)</desc>
-    <credits>
-      <actor>Jo Wyatt</actor>
-      <actor>Charlie George</actor>
-      <actor>Daniel Anthony</actor>
-      <actor>Bailei Pepper</actor>
-      <actor>Maria Darling</actor>
-      <actor>Miranda Montague</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722097.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706021500 +0000" stop="20210706023000 +0000" channel="Dreamworks">
-    <title lang="es">Adivina con Jess</title>
-    <sub-title lang="es">¿Cómo podemos estar calentitos?</sub-title>
-    <desc lang="es">Hoy es la fiesta de recolección de manzanas de Willow, pero algunos de los amigos simplemente tienen demasiado frío para ir. Jess trata de averiguar cómo mantenerlos a todos abrigados, ¿deberían cubrirse con barro como lo hacen las ranas?(n)</desc>
-    <credits>
-      <actor>Jo Wyatt</actor>
-      <actor>Charlie George</actor>
-      <actor>Daniel Anthony</actor>
-      <actor>Bailei Pepper</actor>
-      <actor>Maria Darling</actor>
-      <actor>Miranda Montague</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722097.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706023000 +0000" stop="20210706024500 +0000" channel="Dreamworks">
-    <title lang="es">Adivina con Jess</title>
-    <sub-title lang="es">¿Qué le ha pasado a la oruga Chloe?</sub-title>
-    <desc lang="es">Jess quiere presentarle a Willow a su nueva amiga, Chloe, la oruga. Pero, ¿a dónde se ha ido Chloe? La busca en todos los lugares en los que podría estar, donde la ha visitado antes, donde puede haber hojas jugosas que le gustaría comer.(n)</desc>
-    <credits>
-      <actor>Jo Wyatt</actor>
-      <actor>Charlie George</actor>
-      <actor>Daniel Anthony</actor>
-      <actor>Bailei Pepper</actor>
-      <actor>Maria Darling</actor>
-      <actor>Miranda Montague</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722097.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706024500 +0000" stop="20210706030000 +0000" channel="Dreamworks">
-    <title lang="es">Adivina con Jess</title>
-    <sub-title lang="es">¿Cuándo volverán mis rayas de colores?</sub-title>
-    <desc lang="es">Jess está jugando a saltar charcos, esquivando la lluvia para divertirse en un día sombrío cuando, de repente, justo cuando está dejando de llover, sale el sol y, al mismo tiempo, ve un hermoso arco iris en el cielo.(n)</desc>
-    <credits>
-      <actor>Jo Wyatt</actor>
-      <actor>Charlie George</actor>
-      <actor>Daniel Anthony</actor>
-      <actor>Bailei Pepper</actor>
-      <actor>Maria Darling</actor>
-      <actor>Miranda Montague</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722097.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706030000 +0000" stop="20210706031500 +0000" channel="Dreamworks">
-    <title lang="es">Raa Raa y sus amigos</title>
-    <sub-title lang="es">A Crocky se le mueve un diente</sub-title>
-    <desc lang="es">A Crocky se le mueve un diente y quiere que se le caiga. Él y sus amigos intentan de todo para ayudar a que el diente se caiga... ¿lo conseguirán?(n)</desc>
-    <credits>
-      <producer>Curtis Jobling</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722093.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E27</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706031500 +0000" stop="20210706033000 +0000" channel="Dreamworks">
-    <title lang="es">Raa Raa y sus amigos</title>
-    <sub-title lang="es">La risa más pequeña</sub-title>
-    <desc lang="es">Raa Raa y Ooo Ooo intentan averiguar cuál es el animal más divertido de la selva selvática, pero pronto se dan cuenta de que son mucho más divertidos cuando están juntos.(n)</desc>
-    <credits>
-      <producer>Curtis Jobling</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722093.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E28</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706033000 +0000" stop="20210706034500 +0000" channel="Dreamworks">
-    <title lang="es">Raa Raa y sus amigos</title>
-    <sub-title lang="es">El escondite</sub-title>
-    <desc lang="es">Los animales están jugando al escondite. Huffty se enfada porque su trompa siempre lo delata. ¿Lograrán Raa Raa y sus amigos demostrarle al pequeño elefante que su trompa es maravillosa?(n)</desc>
-    <credits>
-      <producer>Curtis Jobling</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722093.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E29</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706034500 +0000" stop="20210706040000 +0000" channel="Dreamworks">
-    <title lang="es">Raa Raa y sus amigos</title>
-    <sub-title lang="es">Boing-boing</sub-title>
-    <desc lang="es">Raa Raa tiene un nuevo saltador. Se lo pasa genial saltando por ahí, pero sus amigos no están tan seguros... Parece que está causando muchos daños. ¿Hay alguna forma de que Raa Raa pueda practicar sin destruir la selva?(n)</desc>
-    <credits>
-      <producer>Curtis Jobling</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722093.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E30</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706040000 +0000" stop="20210706043000 +0000" channel="Dreamworks">
-    <title lang="es">Las aventuras de Rocky y Bullwinkle</title>
-    <sub-title lang="es">La leyenda de las gemas del poder, capítulo 3</sub-title>
-    <desc lang="es">Rocky y Bullwinkle se enfrentan a otro guardián para encontrar la última gema: la gema del viento.(n)</desc>
-    <credits>
-      <producer>Jay Ward</producer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722128.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E20</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706043000 +0000" stop="20210706050000 +0000" channel="Dreamworks">
-    <title lang="es">Trolls</title>
-    <sub-title lang="es">Ojo con lo que haces/Lo siento, no lo siento</sub-title>
-    <desc lang="es">Mientras la reina Poppy celebra la nueva época de paz con fiestas, eventos deportivos y celebraciones, Branch se esfuerza por ser un poco más juerguista.(n)</desc>
-    <credits>
-      <actor>Amanda Leighton</actor>
-      <actor>Ron Funches</actor>
-      <producer>Matthew Ireland Beans</producer>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_108968.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706050000 +0000" stop="20210706053000 +0000" channel="Dreamworks">
-    <title lang="es">Dragones</title>
-    <sub-title lang="es">La Noche y La Furia</sub-title>
-    <desc lang="es">Los chicos van a Isla Dragón para entrenar a sus dragones. Allí se encuentran a Dagur, el jefe de los berseker, que está obsesionado con cazar a Furia Nocturna.(n)</desc>
-    <date>2014</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_883554.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210706053000 +0000" stop="20210706060000 +0000" channel="Dreamworks">
-    <title lang="es">Las aventuras del Gato con Botas</title>
-    <sub-title lang="es">Cerdos</sub-title>
-    <desc lang="es">Brandt, el hermano de Toby, cree que un malvado brujo obligó a sus hermanos ninjas a echarle de la banda, y le suplica al gato con botas que les ayude a reconciliarse.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_116423.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706060000 +0000" stop="20210706063000 +0000" channel="Dreamworks">
-    <title lang="es">Viva el Rey Julien</title>
-    <sub-title lang="es">Popularidad</sub-title>
-    <desc lang="es">En esta serie ganadora del Emmy al mejor programa infantil de animación, el rey Julien, bailongo soberano de Madagascar, vive aventuras de lo más locas en la selva.(n)</desc>
-    <credits>
-      <actor>Andy Richter</actor>
-      <actor>Danny Jacobs</actor>
-      <actor>India de Beaufort</actor>
-      <actor>Kevin Michael Richardson</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_204679.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706063000 +0000" stop="20210706070000 +0000" channel="Dreamworks">
-    <title lang="es">Spirit</title>
-    <sub-title lang="es">Fortu y su superdivertido y total primo Julián</sub-title>
-    <desc lang="es">Julian, el primo de Fortu, viene de visita y fascina al grupo con sus brillantes ideas, pero Fortu desconfía.(n)</desc>
-    <credits>
-      <producer>Aury Wallington</producer>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_886562.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210706070000 +0000" stop="20210706071500 +0000" channel="Dreamworks">
-    <title lang="es">Raa Raa y sus amigos</title>
-    <sub-title lang="es">Despierta, Huffty</sub-title>
-    <desc lang="es">Los animales están deseando levantarse temprano para ver el canto de los pájaros al amanecer, pero Huffty no se despierta cuando suena el despertador. ¿Podrán Raa Raa y los demás despertar al elefante dormilón a tiempo?(n)</desc>
-    <credits>
-      <producer>Curtis Jobling</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722093.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E44</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706071500 +0000" stop="20210706073000 +0000" channel="Dreamworks">
-    <title lang="es">Raa Raa y sus amigos</title>
-    <sub-title lang="es">Vamos de pesca</sub-title>
-    <desc lang="es">A Raa Raa le apetece intentar pescar con Crocky, pero no para de espantar a los peces cada vez que hace un ruido. A Crocky y a los demás se les ocurre una excursión de pesca muy especial para Raa Raa.(n)</desc>
-    <credits>
-      <producer>Curtis Jobling</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722093.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E45</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706073000 +0000" stop="20210706074500 +0000" channel="Dreamworks">
-    <title lang="es">Pat, el cartero</title>
-    <sub-title lang="es">Pat el cartero y el gato parlante</sub-title>
-    <desc lang="es">Julian y Charlie necesitan una buena idea para la presentación del colegio.(n)</desc>
-    <date>2006</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722071.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S7 E13</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706074500 +0000" stop="20210706080000 +0000" channel="Dreamworks">
-    <title lang="es">Pat, el cartero</title>
-    <sub-title lang="es">Pat el cartero y la casita del erizo</sub-title>
-    <desc lang="es">Sara pasa la noche fuera y Pat y Julian tienen que apañárselas solos.(n)</desc>
-    <date>2006</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722071.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S7 E14</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706080000 +0000" stop="20210706081500 +0000" channel="Dreamworks">
-    <title lang="es">Adivina con Jess</title>
-    <sub-title lang="es">¿A quién he oído en el gran tronco hueco?</sub-title>
-    <desc lang="es">Jess está buscando a Horace junto al estanque, pero no lo encuentra en ningún sitio. Cuando lo llama en un tronco hueco y su voz resuena, Jess piensa que es la voz de un nuevo amigo y se dispone a averiguar dónde está su amigo.(n)</desc>
-    <credits>
-      <actor>Jo Wyatt</actor>
-      <actor>Charlie George</actor>
-      <actor>Daniel Anthony</actor>
-      <actor>Bailei Pepper</actor>
-      <actor>Maria Darling</actor>
-      <actor>Miranda Montague</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722097.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706081500 +0000" stop="20210706083000 +0000" channel="Dreamworks">
-    <title lang="es">Adivina con Jess</title>
-    <sub-title lang="es">¿Qué podemos hacer con la basura de Mimi?</sub-title>
-    <desc lang="es">Jess se va a jugar a pintar y pegar con su amiga Mimi, la coneja rosa. Está entusiasmado. Pero cuando llega, la caseta de Mimi está llena de basura y no hay espacio para su proyecto de arte.(n)</desc>
-    <credits>
-      <actor>Jo Wyatt</actor>
-      <actor>Charlie George</actor>
-      <actor>Daniel Anthony</actor>
-      <actor>Bailei Pepper</actor>
-      <actor>Maria Darling</actor>
-      <actor>Miranda Montague</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722097.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706083000 +0000" stop="20210706084000 +0000" channel="Dreamworks">
-    <title lang="es">El osito Charley</title>
-    <sub-title lang="es">¡Luces, zapatillas, Mordisquitos!</sub-title>
-    <desc lang="es">Charley está superemocionado, ¡tiene unas zapatillas nuevas con lucecitas en la suela!(n)</desc>
-    <credits>
-      <producer>Daniel Pickering</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_130068.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706084000 +0000" stop="20210706085000 +0000" channel="Dreamworks">
-    <title lang="es">El osito Charley</title>
-    <sub-title lang="es">Bellarina en el circo</sub-title>
-    <desc lang="es">Charley quiere dominar un truco de circo, pero no se le da bien hacer malabares ni, al parecer, ninguna otra cosa. Decidido a no rendirse, Charley va al circo, pero a todos los artistas se les dan mejor los trucos que a él.(n)</desc>
-    <credits>
-      <producer>Daniel Pickering</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_130068.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706085000 +0000" stop="20210706090000 +0000" channel="Dreamworks">
-    <title lang="es">El osito Charley</title>
-    <sub-title lang="es">Charley se va de pesca</sub-title>
-    <desc lang="es">A Charley le encanta pescar juguetes y bobadas en su baúl de juguetes, pero lo que quiere en realidad es pescar peces de verdad. Aunque ni siquiera en una barca en el mar tiene suerte a la hora de pescar. Eso cambia cuando pesca un tiburón enorme.(n)</desc>
-    <credits>
-      <producer>Daniel Pickering</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_778962.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706090000 +0000" stop="20210706091500 +0000" channel="Dreamworks">
-    <title lang="es">Raa Raa y sus amigos</title>
-    <sub-title lang="es">El león comparte</sub-title>
-    <desc lang="es">Raa raa ha hecho un juguete nuevo y pide a sus amigos que adivinen lo que es. los animales se divierten un montón intentando averiguar lo que hace el juguete.(n)</desc>
-    <credits>
-      <producer>Curtis Jobling</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722093.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E46</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706091500 +0000" stop="20210706093000 +0000" channel="Dreamworks">
-    <title lang="es">Raa Raa y sus amigos</title>
-    <sub-title lang="es">Los nuevos juegos de Raa Raa</sub-title>
-    <desc lang="es">Raa Raa tiene ganas de jugar y va en busca de sus amigos. Juntos, fusionan los juegos de todos para crear uno nuevo, divertido y ruidoso.(n)</desc>
-    <credits>
-      <producer>Curtis Jobling</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722093.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E47</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706093000 +0000" stop="20210706094500 +0000" channel="Dreamworks">
-    <title lang="es">Pat, el cartero</title>
-    <sub-title lang="es">Pat el cartero y el baile de Bollywood</sub-title>
-    <desc lang="es">Meera y Sarah ensayan un baile tradicional indio para el festival escolar. Les está costando, pero Meera no quiere pedirle ayuda a Nisha, porque quiere ser mayor y hacerlo sola. Pat le entrega una red a Dorothy, cuyas lechugas sufren una plaga de bichos.(n)</desc>
-    <date>2006</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722071.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S7 E1</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706094500 +0000" stop="20210706100000 +0000" channel="Dreamworks">
-    <title lang="es">Pat, el cartero</title>
-    <sub-title lang="es">Pat el cartero y las fresas robadas</sub-title>
-    <desc lang="es">El oficial Selby ha descubierto que a la doctora Gilbertson le encanta el banjo e intenta ensayar una canción en secreto. Pat visita a Dorothy y esta le dice que le están desapareciendo las fresas.(n)</desc>
-    <date>2006</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722071.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S7 E2</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706100000 +0000" stop="20210706101500 +0000" channel="Dreamworks">
-    <title lang="es">Adivina con Jess</title>
-    <sub-title lang="es">¿Quién quiere vivir en el prado con Baa?</sub-title>
-    <desc lang="es">Baa se siente solo porque su colega, Billie la ratona, estará fuera todo el día. Jess va en busca de alguien que se vaya al prado a vivir con Baa. Encuentra a un pez para vivir en el abrevadero, pero no hay plantas ni algas para que pueda vivir.(n)</desc>
-    <credits>
-      <actor>Jo Wyatt</actor>
-      <actor>Charlie George</actor>
-      <actor>Daniel Anthony</actor>
-      <actor>Bailei Pepper</actor>
-      <actor>Maria Darling</actor>
-      <actor>Miranda Montague</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722097.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706101500 +0000" stop="20210706103000 +0000" channel="Dreamworks">
-    <title lang="es">Adivina con Jess</title>
-    <sub-title lang="es">¿Por qué las hormigas visitan a Mimi?</sub-title>
-    <desc lang="es">Mimi está pintando un hermoso cuadro en su conejera, a donde Jess ha ido de visita.(n)</desc>
-    <credits>
-      <actor>Jo Wyatt</actor>
-      <actor>Charlie George</actor>
-      <actor>Daniel Anthony</actor>
-      <actor>Bailei Pepper</actor>
-      <actor>Maria Darling</actor>
-      <actor>Miranda Montague</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722097.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706103000 +0000" stop="20210706104000 +0000" channel="Dreamworks">
-    <title lang="es">El osito Charley</title>
-    <sub-title lang="es">Osito marioneta</sub-title>
-    <desc lang="es">Charley le pone cuerdas a Mico y lo convierte en una marioneta, pero, cuando Charley también se convierte en marioneta actuando en un escenario, descubre que no es tan agradable que alguien controle todo lo que haces. De hecho, ¡es superfrustrante!(n)</desc>
-    <credits>
-      <producer>Daniel Pickering</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_119643.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706104000 +0000" stop="20210706105000 +0000" channel="Dreamworks">
-    <title lang="es">El osito Charley</title>
-    <sub-title lang="es">¡Preparados, osito, ya!</sub-title>
-    <desc lang="es">Charley se ha hecho un trofeo, pero, para tener un trofeo, necesitas ganar algo antes, así que, para conseguirlo, ¡Charley se convierte en piloto de carreras y corre contra Mordisquitos y Caramelo en la Supercarrera de coches del Osito Charley!(n)</desc>
-    <credits>
-      <producer>Daniel Pickering</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_130068.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706105000 +0000" stop="20210706110000 +0000" channel="Dreamworks">
-    <title lang="es">El osito Charley</title>
-    <sub-title lang="es">Osito granjero</sub-title>
-    <desc lang="es">Charley cree que en las granjas solo se juega con animales.(n)</desc>
-    <credits>
-      <producer>Daniel Pickering</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_119643.jpg" />
-    <country lang="es">GBR</country>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706110000 +0000" stop="20210706113000 +0000" channel="Dreamworks">
-    <title lang="es">Las aventuras de la calle Harvey</title>
-    <sub-title lang="es">Cuestión de vida o amistad/Regalo inminente</sub-title>
-    <desc lang="es">Tras romper por accidente sus pulseras de la amistad, Lotta no se separará de sus dos amigas. Las chicas inventan un festivo para celebrar la amistad.(n)</desc>
-    <credits>
-      <producer>Emily Brundige</producer>
-      <producer>Aliki Theofilopoulos Grafft</producer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722112.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706113000 +0000" stop="20210706120000 +0000" channel="Dreamworks">
-    <title lang="es">Las aventuras de Rocky y Bullwinkle</title>
-    <sub-title lang="es">La leyenda de las gemas del poder, capítulo 4</sub-title>
-    <desc lang="es">Ahora que tiene las tres gemas del poder, el Líder Temerario intentará conquistar el mundo, pero Rocky y Bullwinkle se unen a tres guardianes para intentar detenerlo.(n)</desc>
-    <credits>
-      <producer>Jay Ward</producer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722128.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E21</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706120000 +0000" stop="20210706123000 +0000" channel="Dreamworks">
-    <title lang="es">El amanecer de los Croods</title>
-    <sub-title lang="es">Los Genes De Mamá</sub-title>
-    <desc lang="es">Vuelve la primera familia moderna del mundo, más divertida que nunca y dejando la Prehistoria patas arriba en esta comedia de situación para toda la familia.(n)</desc>
-    <credits>
-      <actor>Chris Parnell</actor>
-      <actor>Cree Summer</actor>
-      <actor>Stephanie Lemelin</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_211337.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706123000 +0000" stop="20210706130000 +0000" channel="Dreamworks">
-    <title lang="es">Cleopatra en el espacio</title>
-    <sub-title lang="es">EL Doble</sub-title>
-    <desc lang="es">Mientras Cleo y sus amigos intentan averiguar quién es el espía de Octavio, un robot se hace pasar por varias personas de la Academia.(n)</desc>
-    <credits>
-      <actor>Jorge Diaz</actor>
-      <actor>Katie Crown</actor>
-      <actor>Lilimar Hernandez</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722116.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706130000 +0000" stop="20210706133000 +0000" channel="Dreamworks">
-    <title lang="es">She-Ra y las princesas del poder</title>
-    <sub-title lang="es">El bosque helado</sub-title>
-    <desc lang="es">Los robots de la Horda atacan el bosque, pero las princesas no logran capturarlos intactos. A Destello le cuesta liderar, pero Gatia no tiene ese problema.(n)</desc>
-    <credits>
-      <producer>Noelle Stevenson</producer>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722120.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210706133000 +0000" stop="20210706140000 +0000" channel="Dreamworks">
-    <title lang="es">Dragones</title>
-    <sub-title lang="es">Túneles susurrantes</sub-title>
-    <desc lang="es">Cuando el pozo de la aldea se seca, Hipo y Desdentao descubren un grupo de crías de dragón Muerte Susurrante que viven en los túneles subterráneos desde que Alvin los dejó ahí.(n)</desc>
-    <date>2012</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_883554.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210706140000 +0000" stop="20210706143000 +0000" channel="Dreamworks">
-    <title lang="es">Viva el Rey Julien</title>
-    <sub-title lang="es">Popularidad</sub-title>
-    <desc lang="es">En esta serie ganadora del Emmy al mejor programa infantil de animación, el rey Julien, bailongo soberano de Madagascar, vive aventuras de lo más locas en la selva.(n)</desc>
-    <credits>
-      <actor>Andy Richter</actor>
-      <actor>Danny Jacobs</actor>
-      <actor>India de Beaufort</actor>
-      <actor>Kevin Michael Richardson</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_204679.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706143000 +0000" stop="20210706150000 +0000" channel="Dreamworks">
-    <title lang="es">Las aventuras del Gato con Botas</title>
-    <sub-title lang="es">Suerte</sub-title>
-    <desc lang="es">Una maldición convierte al gato con botas en un gato negro, y le echan de San Lorenzo. Una banda de malvados gatos ladrones tratará de reclutarle.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_116423.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706150000 +0000" stop="20210706153000 +0000" channel="Dreamworks">
-    <title lang="es">Trolls</title>
-    <sub-title lang="es">Una llave espelocular/Amor trolocuelo</sub-title>
-    <desc lang="es">Mientras la reina Poppy celebra la nueva época de paz con fiestas, eventos deportivos y celebraciones, Branch se esfuerza por ser un poco más juerguista.(n)</desc>
-    <credits>
-      <actor>Amanda Leighton</actor>
-      <actor>Ron Funches</actor>
-      <actor>David Kaye</actor>
-      <producer>Matthew Ireland Beans</producer>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_108968.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706153000 +0000" stop="20210706160000 +0000" channel="Dreamworks">
-    <title lang="es">Home</title>
-    <sub-title lang="es">Personas humanas arrugadas/Piggy Piggy</sub-title>
-    <desc lang="es">El extraterrestre Oh deja su planeta y se muda con su mejor amiga y su madre, Tip y Lucy. Para él, descubrir el mundo de la familia será toda una novedad.(n)</desc>
-    <credits>
-      <actor>Matt Jones</actor>
-      <actor>Rachel Crow</actor>
-      <actor>Mark Whitten</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_137125.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210706160000 +0000" stop="20210706163000 +0000" channel="Dreamworks">
-    <title lang="es">El amanecer de los Croods</title>
-    <sub-title lang="es">Los Genes De Mamá</sub-title>
-    <desc lang="es">Vuelve la primera familia moderna del mundo, más divertida que nunca y dejando la Prehistoria patas arriba en esta comedia de situación para toda la familia.(n)</desc>
-    <credits>
-      <actor>Chris Parnell</actor>
-      <actor>Cree Summer</actor>
-      <actor>Stephanie Lemelin</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_211337.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706163000 +0000" stop="20210706170000 +0000" channel="Dreamworks">
-    <title lang="es">Cleopatra en el espacio</title>
-    <sub-title lang="es">EL Doble</sub-title>
-    <desc lang="es">Mientras Cleo y sus amigos intentan averiguar quién es el espía de Octavio, un robot se hace pasar por varias personas de la Academia.(n)</desc>
-    <credits>
-      <actor>Jorge Diaz</actor>
-      <actor>Katie Crown</actor>
-      <actor>Lilimar Hernandez</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722116.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706170000 +0000" stop="20210706173000 +0000" channel="Dreamworks">
-    <title lang="es">She-Ra y las princesas del poder</title>
-    <sub-title lang="es">El bosque helado</sub-title>
-    <desc lang="es">Los robots de la Horda atacan el bosque, pero las princesas no logran capturarlos intactos. A Destello le cuesta liderar, pero Gatia no tiene ese problema.(n)</desc>
-    <credits>
-      <producer>Noelle Stevenson</producer>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722120.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210706173000 +0000" stop="20210706180000 +0000" channel="Dreamworks">
-    <title lang="es">Dragones</title>
-    <sub-title lang="es">Túneles susurrantes</sub-title>
-    <desc lang="es">Cuando el pozo de la aldea se seca, Hipo y Desdentao descubren un grupo de crías de dragón Muerte Susurrante que viven en los túneles subterráneos desde que Alvin los dejó ahí.(n)</desc>
-    <date>2012</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_883554.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210706180000 +0000" stop="20210706183000 +0000" channel="Dreamworks">
-    <title lang="es">Viva el Rey Julien</title>
-    <sub-title lang="es">Popularidad</sub-title>
-    <desc lang="es">En esta serie ganadora del Emmy al mejor programa infantil de animación, el rey Julien, bailongo soberano de Madagascar, vive aventuras de lo más locas en la selva.(n)</desc>
-    <credits>
-      <actor>Andy Richter</actor>
-      <actor>Danny Jacobs</actor>
-      <actor>India de Beaufort</actor>
-      <actor>Kevin Michael Richardson</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_204679.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706183000 +0000" stop="20210706190000 +0000" channel="Dreamworks">
-    <title lang="es">Las aventuras del Gato con Botas</title>
-    <sub-title lang="es">Suerte</sub-title>
-    <desc lang="es">Una maldición convierte al gato con botas en un gato negro, y le echan de San Lorenzo. Una banda de malvados gatos ladrones tratará de reclutarle.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_116423.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706190000 +0000" stop="20210706193000 +0000" channel="Dreamworks">
-    <title lang="es">Trolls</title>
-    <sub-title lang="es">Una llave espelocular/Amor trolocuelo</sub-title>
-    <desc lang="es">Mientras la reina Poppy celebra la nueva época de paz con fiestas, eventos deportivos y celebraciones, Branch se esfuerza por ser un poco más juerguista.(n)</desc>
-    <credits>
-      <actor>Amanda Leighton</actor>
-      <actor>Ron Funches</actor>
-      <actor>David Kaye</actor>
-      <producer>Matthew Ireland Beans</producer>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_108968.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706193000 +0000" stop="20210706200000 +0000" channel="Dreamworks">
-    <title lang="es">Home</title>
-    <sub-title lang="es">Personas humanas arrugadas/Piggy Piggy</sub-title>
-    <desc lang="es">El extraterrestre Oh deja su planeta y se muda con su mejor amiga y su madre, Tip y Lucy. Para él, descubrir el mundo de la familia será toda una novedad.(n)</desc>
-    <credits>
-      <actor>Matt Jones</actor>
-      <actor>Rachel Crow</actor>
-      <actor>Mark Whitten</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_137125.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210706200000 +0000" stop="20210706203000 +0000" channel="Dreamworks">
-    <title lang="es">Voltron, kondairetako defendatzailea</title>
-    <sub-title lang="es">Desde un pasado remoto</sub-title>
-    <desc lang="es">El León Azul lleva al equipo a un planeta alienígena, donde descubren un castillo misterioso. En su interior despiertan a una princesa extraterrestre, quien les encomienda la misión de hallar a los leones restantes.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_905643.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210706203000 +0000" stop="20210706210000 +0000" channel="Dreamworks">
-    <title lang="es">Las aventuras de Rocky y Bullwinkle</title>
-    <sub-title lang="es">La leyenda de las gemas del poder, capítulo 4</sub-title>
-    <desc lang="es">Ahora que tiene las tres gemas del poder, el Líder Temerario intentará conquistar el mundo, pero Rocky y Bullwinkle se unen a tres guardianes para intentar detenerlo.(n)</desc>
-    <credits>
-      <producer>Jay Ward</producer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722128.jpg" />
-    <country lang="es">USA</country>
-    <episode-num system="onscreen">S1 E21</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706210000 +0000" stop="20210706213000 +0000" channel="Dreamworks">
-    <title lang="es">George de la jungla</title>
-    <sub-title lang="es">Leche Cortada / El Valle de las Magnolias</sub-title>
-    <desc lang="es">George descubre la cura para todos los problemas de la jungla en una jarra de leche de hace seis meses / Cansada de ser la parte inferior de la cadena alimentaria, Magnolia se clasifica a sí misma como una especie en peligro de extinción.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_707617.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S2 E11</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706213000 +0000" stop="20210706220000 +0000" channel="Dreamworks">
-    <title lang="es">Casper. Escuela de sustos</title>
-    <sub-title lang="es">Desarrollado / Negocio sucio en la mansión</sub-title>
-    <desc lang="es">Lobito se levanta una mañana y ve que se ha convertido en un humano. Casper descubre que Musguito es el peor invitado del mundo.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722075.jpg" />
-    <country lang="es">FRA</country>
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706220000 +0000" stop="20210706221500 +0000" channel="Dreamworks">
-    <title lang="es">Mi vida y yo</title>
-    <sub-title lang="es">El Cambio de Imgen</sub-title>
-    <desc lang="es">Liam comienza a actuar de un modo aún más extraño cuando se enamora de una mujer mayor: Cynthia, de 15 años de edad. Birch, Sandra y Raffi conspiran para darle a Liam un cambio de imagen completo para hacerlo más atractivo.(n)</desc>
-    <credits>
-      <producer>Cindy Filipenko</producer>
-      <producer>J.C. Little</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722067.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210706221500 +0000" stop="20210706223000 +0000" channel="Dreamworks">
-    <title lang="es">Mi vida y yo</title>
-    <sub-title lang="es">La Chica de los Pompones</sub-title>
-    <desc lang="es">Sandra acepta el desafío de convertirse en animadora, un acto que aturde y mortifica a sus compañeros de grupo. Mientras Sandra sucumbe a los ridículos rituales de novatadas de Amelia, el Grupo 4 se siente cada vez más incómodo.(n)</desc>
-    <credits>
-      <producer>Cindy Filipenko</producer>
-      <producer>J.C. Little</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722067.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210706223000 +0000" stop="20210706224500 +0000" channel="Dreamworks">
-    <title lang="es">Mi vida y yo</title>
-    <sub-title lang="es">Facsímiles inaceptables (irrazonables)</sub-title>
-    <desc lang="es">Al escuchar el plan del Sr. Towes de hacer un examen sorpresa, Raffi usa la información para beneficiarse - estudiando. Sin embargo, la obsesión actual de Raffi con los mensajes de texto lo lleva a incluir sus propias siglas en sus respuestas.(n)</desc>
-    <credits>
-      <producer>Cindy Filipenko</producer>
-      <producer>J.C. Little</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722067.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210706224500 +0000" stop="20210706230000 +0000" channel="Dreamworks">
-    <title lang="es">Mi vida y yo</title>
-    <sub-title lang="es">Planetas Malévolos</sub-title>
-    <desc lang="es">Después de un día menos que estelar, Birch encuentra consuelo en las páginas de El Planificador Diario de Géminis que encuentra mientras limpia su habitación.(n)</desc>
-    <credits>
-      <producer>Cindy Filipenko</producer>
-      <producer>J.C. Little</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722067.jpg" />
-    <country lang="es">CAN</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20210706230000 +0000" stop="20210706233000 +0000" channel="Dreamworks">
-    <title lang="es">Casper. Escuela de sustos</title>
-    <sub-title lang="es">Para que no abuses / Ra el Animador</sub-title>
-    <desc lang="es">Casper forma una brigada secreta para acabar con el acoso escolar. Casper ofrece ayuda para transformar al nada deportista Ra en un héroe del atletismo.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722075.jpg" />
-    <country lang="es">FRA</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
-    </rating>
-  </programme>
-  <programme start="20210706233000 +0000" stop="20210707000000 +0000" channel="Dreamworks">
-    <title lang="es">Casper. Escuela de sustos</title>
-    <sub-title lang="es">Fin de semana en Casa de Bunny / Día Sombrío</sub-title>
-    <desc lang="es">Alder y Dash hacen sonar la alarma cuando una temible criatura amenaza la escuela de sustos. Es el día del trofeo Grimly: ¡el día más lúgubre del año!(n)</desc>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_722075.jpg" />
-    <country lang="es">FRA</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="ES">
-      <value>ALL</value>
     </rating>
   </programme>
 </tv>
